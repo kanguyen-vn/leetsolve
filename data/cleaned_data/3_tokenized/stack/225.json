@@ -1,0 +1,53 @@
+{
+    "id": 225,
+    "title": "Implement Stack using Queues",
+    "title_slug": "implement-stack-using-queues",
+    "backend_id": 225,
+    "content": [
+        [
+            "implement",
+            "last",
+            "first",
+            "lifo",
+            "stack",
+            "use",
+            "two",
+            "queue"
+        ],
+        [
+            "implement",
+            "stack",
+            "support",
+            "function",
+            "normal",
+            "queue"
+        ],
+        [
+            "implement",
+            "class",
+            "push",
+            "element",
+            "top",
+            "stack"
+        ],
+        [
+            "remove",
+            "element",
+            "top",
+            "stack",
+            "return"
+        ],
+        [
+            "return",
+            "element",
+            "top",
+            "stack"
+        ],
+        [
+            "return",
+            "stack",
+            "empty",
+            "otherwise"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 982,
+    "title": "Triples with Bitwise AND Equal To Zero",
+    "title_slug": "triples-with-bitwise-and-equal-to-zero",
+    "backend_id": 1024,
+    "content": "Given an array of integers , find the number of\u00a0triples of indices (i, j, k)\u00a0such that:\n\n\n\n\n, where \u00a0represents the bitwise-AND operator.\n\n\u00a0\n\n\n\u00a0\n"
+}

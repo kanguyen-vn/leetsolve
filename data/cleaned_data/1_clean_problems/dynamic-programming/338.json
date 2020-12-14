@@ -1,0 +1,7 @@
+{
+    "id": 338,
+    "title": "Counting Bits",
+    "title_slug": "counting-bits",
+    "backend_id": 338,
+    "content": "Given a non negative integer number num. For every numbers i in the range 0 \u2264 i \u2264 num calculate the number of 1's in their binary representation and return them as an array.\n\n\n\n\n"
+}

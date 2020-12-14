@@ -1,0 +1,7 @@
+{
+    "id": 400,
+    "title": "Nth Digit",
+    "title_slug": "nth-digit",
+    "backend_id": 400,
+    "content": "<div><p>Find the <i>n</i><sup>th</sup> digit of the infinite integer sequence 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ... </p>\n\n<p><b>Note:</b><br>\n<i>n</i> is positive and will fit within the range of a 32-bit signed integer (<i>n</i> &lt; 2<sup>31</sup>).\n</p>\n\n<p><b>Example 1:</b>\n</p><pre><b>Input:</b>\n3\n\n<b>Output:</b>\n3\n</pre>\n<p></p>\n\n<p><b>Example 2:</b>\n</p><pre><b>Input:</b>\n11\n\n<b>Output:</b>\n0\n\n<b>Explanation:</b>\nThe 11th digit of the sequence 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ... is a 0, which is part of the number 10.\n</pre>\n<p></p></div>"
+}

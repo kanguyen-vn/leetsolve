@@ -1,0 +1,38 @@
+{
+    "id": 200,
+    "title": "Number of Islands",
+    "title_slug": "number-of-islands",
+    "backend_id": 200,
+    "content": [
+        [
+            "give",
+            "2d",
+            "map",
+            "land",
+            "water",
+            "return",
+            "number",
+            "island"
+        ],
+        [
+            "island",
+            "surround",
+            "water",
+            "form",
+            "connect",
+            "adjacent",
+            "land",
+            "horizontally",
+            "vertically"
+        ],
+        [
+            "may",
+            "assume",
+            "four",
+            "edge",
+            "grid",
+            "surrounded",
+            "water"
+        ]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 523,
+    "title": "Continuous Subarray Sum",
+    "title_slug": "continuous-subarray-sum",
+    "backend_id": 523,
+    "content": [
+        [
+            "give",
+            "list",
+            "non",
+            "negative",
+            "number",
+            "target",
+            "integer",
+            "write",
+            "function",
+            "check",
+            "array",
+            "continuous",
+            "subarray",
+            "size",
+            "least",
+            "sums",
+            "multiple",
+            "sum",
+            "also",
+            "integer"
+        ],
+        [
+            "length",
+            "array",
+            "wo",
+            "n't",
+            "exceed"
+        ],
+        [
+            "may",
+            "assume",
+            "sum",
+            "number",
+            "range",
+            "sign",
+            "bit",
+            "integer"
+        ]
+    ]
+}

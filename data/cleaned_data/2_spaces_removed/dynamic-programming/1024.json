@@ -1,0 +1,7 @@
+{
+    "id": 1024,
+    "title": "Video Stitching",
+    "title_slug": "video-stitching",
+    "backend_id": 1081,
+    "content": "You are given a series of video clips from a sporting event that lasted seconds. These video clips can be overlapping with each other and have varied lengths. Each video clip is an interval: it starts at time and ends at time . We can cut these clips into segments freely: for example, a clip can be cut into segments . Return the minimum number of clips needed so that we can cut the clips into segments that cover the entire sporting event (). If the task is impossible, return ."
+}

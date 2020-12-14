@@ -1,0 +1,57 @@
+{
+    "id": 153,
+    "title": "Find Minimum in Rotated Sorted Array",
+    "title_slug": "find-minimum-in-rotated-sorted-array",
+    "backend_id": 153,
+    "content": [
+        [
+            "suppose",
+            "array",
+            "length",
+            "sort",
+            "ascend",
+            "order",
+            "rotate",
+            "time"
+        ],
+        [
+            "example",
+            "array",
+            "might",
+            "become",
+            "rotated",
+            "time"
+        ],
+        [
+            "rotate",
+            "time"
+        ],
+        [
+            "notice",
+            "rotate",
+            "array",
+            "time",
+            "result",
+            "array"
+        ],
+        [
+            "give",
+            "sort",
+            "rotated",
+            "array",
+            "return",
+            "minimum",
+            "element",
+            "array"
+        ],
+        [
+            "integer",
+            "unique"
+        ],
+        [
+            "sort",
+            "rotate",
+            "time"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 668,
+    "title": "Kth Smallest Number in Multiplication Table",
+    "title_slug": "kth-smallest-number-in-multiplication-table",
+    "backend_id": 668,
+    "content": "\nNearly every one have used the Multiplication Table. But could you find out the  smallest number quickly from the multiplication table?\n\n\nGiven the height  and the length  of a  Multiplication Table, and a positive integer , you need to return the  smallest number in this table.\n\n\n\n\n\n"
+}

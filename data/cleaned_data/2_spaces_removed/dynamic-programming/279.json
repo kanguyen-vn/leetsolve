@@ -1,0 +1,7 @@
+{
+    "id": 279,
+    "title": "Perfect Squares",
+    "title_slug": "perfect-squares",
+    "backend_id": 279,
+    "content": "Given a positive integer n, find the least number of perfect square numbers (for example, ) which sum to n."
+}

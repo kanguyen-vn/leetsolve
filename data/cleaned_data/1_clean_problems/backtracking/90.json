@@ -1,0 +1,7 @@
+{
+    "id": 90,
+    "title": "Subsets II",
+    "title_slug": "subsets-ii",
+    "backend_id": 90,
+    "content": "Given a collection of integers that might contain duplicates, nums, return all possible subsets (the power set).\n"
+}

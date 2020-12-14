@@ -1,0 +1,44 @@
+{
+    "id": 1312,
+    "title": "Minimum Insertion Steps to Make a String Palindrome",
+    "title_slug": "minimum-insertion-steps-to-make-a-string-palindrome",
+    "backend_id": 1437,
+    "content": [
+        [
+            "give",
+            "string"
+        ],
+        [
+            "one",
+            "step",
+            "insert",
+            "character",
+            "index",
+            "string"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "step",
+            "make",
+            "palindrome"
+        ],
+        [
+            "palindrome",
+            "string",
+            "one",
+            "read",
+            "backward",
+            "well",
+            "forward"
+        ],
+        [
+            "character",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ]
+    ]
+}

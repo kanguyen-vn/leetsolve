@@ -1,0 +1,25 @@
+{
+    "id": 984,
+    "title": "String Without AAA or BBB",
+    "title_slug": "string-without-aaa-or-bbb",
+    "backend_id": 1026,
+    "content": [
+        [
+            "give",
+            "two",
+            "integer",
+            "return",
+            "string",
+            "length",
+            "contain",
+            "exactly",
+            "letter",
+            "exactly",
+            "letter",
+            "substring",
+            "occur",
+            "substring",
+            "occur"
+        ]
+    ]
+}

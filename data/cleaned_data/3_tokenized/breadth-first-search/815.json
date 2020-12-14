@@ -1,0 +1,58 @@
+{
+    "id": 815,
+    "title": "Bus Routes",
+    "title_slug": "bus-routes",
+    "backend_id": 833,
+    "content": [
+        [
+            "list",
+            "bus",
+            "route"
+        ],
+        [
+            "bus",
+            "route",
+            "th",
+            "bus",
+            "repeat",
+            "forever"
+        ],
+        [
+            "example",
+            "mean",
+            "first",
+            "bus",
+            "th",
+            "indexed",
+            "travel",
+            "sequence",
+            "forever"
+        ],
+        [
+            "start",
+            "bus",
+            "stop",
+            "initially",
+            "bus",
+            "want",
+            "go",
+            "bus",
+            "stop"
+        ],
+        [
+            "travel",
+            "bus",
+            "least",
+            "number",
+            "bus",
+            "must",
+            "take",
+            "reach",
+            "destination"
+        ],
+        [
+            "return",
+            "possible"
+        ]
+    ]
+}

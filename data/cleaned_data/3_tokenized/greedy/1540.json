@@ -1,0 +1,74 @@
+{
+    "id": 1540,
+    "title": "Can Convert String in K Moves",
+    "title_slug": "can-convert-string-in-k-moves",
+    "backend_id": 1647,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "goal",
+            "convert",
+            "move",
+            "less"
+        ],
+        [
+            "move",
+            "choose",
+            "index",
+            "index",
+            "choose",
+            "previous",
+            "move",
+            "shift",
+            "character",
+            "index",
+            "time"
+        ],
+        [
+            "nothing"
+        ],
+        [
+            "shift",
+            "character",
+            "mean",
+            "replace",
+            "next",
+            "letter",
+            "alphabet",
+            "wrap",
+            "around",
+            "become"
+        ],
+        [
+            "shift",
+            "character",
+            "mean",
+            "apply",
+            "shift",
+            "operation",
+            "time"
+        ],
+        [
+            "remember",
+            "index",
+            "pick"
+        ],
+        [
+            "return",
+            "'s",
+            "possible",
+            "convert",
+            "move",
+            "otherwise",
+            "return"
+        ],
+        [
+            "contain",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

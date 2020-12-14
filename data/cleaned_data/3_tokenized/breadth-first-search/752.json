@@ -1,0 +1,86 @@
+{
+    "id": 752,
+    "title": "Open the Lock",
+    "title_slug": "open-the-lock",
+    "backend_id": 753,
+    "content": [
+        [
+            "lock",
+            "front",
+            "circular",
+            "wheel"
+        ],
+        [
+            "wheel",
+            "slot"
+        ],
+        [
+            "wheel",
+            "rotate",
+            "freely",
+            "wrap",
+            "around",
+            "example",
+            "turn"
+        ],
+        [
+            "move",
+            "consist",
+            "turn",
+            "one",
+            "wheel",
+            "one",
+            "slot"
+        ],
+        [
+            "lock",
+            "initially",
+            "start",
+            "string",
+            "represent",
+            "state",
+            "wheel"
+        ],
+        [
+            "give",
+            "list",
+            "dead",
+            "end",
+            "mean",
+            "lock",
+            "display",
+            "cod",
+            "wheel",
+            "lock",
+            "stop",
+            "turn",
+            "unable",
+            "open"
+        ],
+        [
+            "give",
+            "represent",
+            "value",
+            "wheel",
+            "unlock",
+            "lock",
+            "return",
+            "minimum",
+            "total",
+            "number",
+            "turn",
+            "require",
+            "open",
+            "lock",
+            "impossible"
+        ],
+        [
+            "target",
+            "list"
+        ],
+        [
+            "consist",
+            "digit"
+        ]
+    ]
+}

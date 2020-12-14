@@ -1,0 +1,32 @@
+{
+    "id": 647,
+    "title": "Palindromic Substrings",
+    "title_slug": "palindromic-substrings",
+    "backend_id": 647,
+    "content": [
+        [
+            "give",
+            "string",
+            "task",
+            "count",
+            "many",
+            "palindromic",
+            "substring",
+            "string"
+        ],
+        [
+            "substring",
+            "different",
+            "start",
+            "index",
+            "end",
+            "index",
+            "count",
+            "different",
+            "substring",
+            "even",
+            "consist",
+            "character"
+        ]
+    ]
+}

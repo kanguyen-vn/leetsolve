@@ -1,0 +1,18 @@
+{
+    "id": 105,
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "title_slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "backend_id": 105,
+    "content": [
+        [
+            "give",
+            "preorder",
+            "inorder",
+            "traversal",
+            "tree",
+            "construct",
+            "binary",
+            "tree"
+        ]
+    ]
+}

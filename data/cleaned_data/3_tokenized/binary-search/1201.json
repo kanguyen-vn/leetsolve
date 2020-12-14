@@ -1,0 +1,29 @@
+{
+    "id": 1201,
+    "title": "Ugly Number III",
+    "title_slug": "ugly-number-iii",
+    "backend_id": 1307,
+    "content": [
+        [
+            "write",
+            "program",
+            "find",
+            "th",
+            "ugly",
+            "number"
+        ],
+        [
+            "ugly",
+            "number",
+            "positive",
+            "integer",
+            "divisible"
+        ],
+        [
+            "'s",
+            "guarantee",
+            "result",
+            "range"
+        ]
+    ]
+}

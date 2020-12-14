@@ -1,0 +1,31 @@
+{
+    "id": 834,
+    "title": "Sum of Distances in Tree",
+    "title_slug": "sum-of-distances-in-tree",
+    "backend_id": 863,
+    "content": [
+        [
+            "undirected",
+            "connect",
+            "tree",
+            "node",
+            "label",
+            "give"
+        ],
+        [
+            "th",
+            "edge",
+            "connect",
+            "node",
+            "together"
+        ],
+        [
+            "return",
+            "list",
+            "sum",
+            "distance",
+            "node",
+            "node"
+        ]
+    ]
+}

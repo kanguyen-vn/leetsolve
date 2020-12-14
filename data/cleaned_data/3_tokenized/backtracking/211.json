@@ -1,0 +1,70 @@
+{
+    "id": 211,
+    "title": "Design Add and Search Words Data Structure",
+    "title_slug": "design-add-and-search-words-data-structure",
+    "backend_id": 211,
+    "content": [
+        [
+            "design",
+            "data",
+            "structure",
+            "support",
+            "add",
+            "new",
+            "word",
+            "find",
+            "string",
+            "match",
+            "previously",
+            "add",
+            "string"
+        ],
+        [
+            "implement",
+            "class",
+            "initialize",
+            "object"
+        ],
+        [
+            "add",
+            "data",
+            "structure",
+            "match",
+            "later"
+        ],
+        [
+            "return",
+            "string",
+            "data",
+            "structure",
+            "match",
+            "otherwise"
+        ],
+        [
+            "may",
+            "contain",
+            "dot",
+            "dot",
+            "match",
+            "letter"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ],
+        [
+            "call",
+            "make"
+        ]
+    ]
+}

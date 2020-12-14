@@ -1,0 +1,7 @@
+{
+    "id": 222,
+    "title": "Count Complete Tree Nodes",
+    "title_slug": "count-complete-tree-nodes",
+    "backend_id": 222,
+    "content": "Given a complete binary tree, count the number of nodes."
+}

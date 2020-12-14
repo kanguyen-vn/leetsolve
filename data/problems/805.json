@@ -1,0 +1,7 @@
+{
+    "id": 805,
+    "title": "Split Array With Same Average",
+    "title_slug": "split-array-with-same-average",
+    "backend_id": 823,
+    "content": "<div><p>In a given integer array A, we must move every element of A to either list B or list C. (B and C initially start empty.)</p>\n\n<p>Return true if and only if after such a move, it is possible that the average value of B is equal to the average value of C, and B and C are both non-empty.</p>\n\n<pre><strong>Example :</strong>\n<strong>Input:</strong> \n[1,2,3,4,5,6,7,8]\n<strong>Output:</strong> true\n<strong>Explanation: </strong>We can split the array into [1,4,5,8] and [2,3,6,7], and both of them have the average of 4.5.\n</pre>\n\n<p><strong>Note:</strong></p>\n\n<ul>\n\t<li>The length of <code>A</code> will be in the range&nbsp;[1, 30].</li>\n\t<li><code>A[i]</code> will be in the range of <code>[0, 10000]</code>.</li>\n</ul>\n\n<p>&nbsp;</p>\n</div>"
+}

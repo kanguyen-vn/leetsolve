@@ -1,0 +1,83 @@
+{
+    "id": 1298,
+    "title": "Maximum Candies You Can Get from Boxes",
+    "title_slug": "maximum-candies-you-can-get-from-boxes",
+    "backend_id": 1424,
+    "content": [
+        [
+            "give",
+            "box",
+            "box",
+            "give",
+            "format",
+            "integer",
+            "open",
+            "close"
+        ],
+        [
+            "integer",
+            "represent",
+            "number",
+            "candy"
+        ],
+        [
+            "array",
+            "contain",
+            "index",
+            "box",
+            "open",
+            "key"
+        ],
+        [
+            "array",
+            "contain",
+            "index",
+            "box",
+            "find"
+        ],
+        [
+            "start",
+            "box",
+            "give",
+            "array"
+        ],
+        [
+            "take",
+            "candy",
+            "open",
+            "box",
+            "use",
+            "key",
+            "open",
+            "new",
+            "box",
+            "also",
+            "use",
+            "box",
+            "find"
+        ],
+        [
+            "return",
+            "maximum",
+            "number",
+            "candy",
+            "get",
+            "follow",
+            "rule"
+        ],
+        [
+            "value",
+            "unique"
+        ],
+        [
+            "value",
+            "unique"
+        ],
+        [
+            "box",
+            "contain",
+            "one",
+            "box"
+        ]
+    ]
+}

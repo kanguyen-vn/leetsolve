@@ -1,0 +1,7 @@
+{
+    "id": 971,
+    "title": "Flip Binary Tree To Match Preorder Traversal",
+    "title_slug": "flip-binary-tree-to-match-preorder-traversal",
+    "backend_id": 1011,
+    "content": "Given a binary tree with  nodes, each node has a different value from\u00a0.\nA node in this binary tree can be flipped\u00a0by swapping the left child and the right child of that node.\nConsider the sequence of\u00a0 values reported by a preorder traversal starting from the root.\u00a0 Call such a sequence of  values the\u00a0voyage\u00a0of the tree.\n(Recall that a preorder traversal\u00a0of a node means we report the current node's value, then preorder-traverse the left child, then preorder-traverse the right child.)\nOur goal is to flip the least number of nodes in the tree so that the voyage of the tree matches the  we are given.\nIf we can do so, then return a\u00a0list\u00a0of the values of all nodes flipped.\u00a0 You may return the answer in any order.\nIf we cannot do so, then return the list .\n\u00a0\n\n"
+}

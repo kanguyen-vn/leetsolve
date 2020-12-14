@@ -1,0 +1,36 @@
+{
+    "id": 692,
+    "title": "Top K Frequent Words",
+    "title_slug": "top-k-frequent-words",
+    "backend_id": 692,
+    "content": [
+        [
+            "give",
+            "non",
+            "empty",
+            "list",
+            "word",
+            "return",
+            "frequent",
+            "element"
+        ],
+        [
+            "answer",
+            "sort",
+            "frequency",
+            "high",
+            "lowest"
+        ],
+        [
+            "two",
+            "word",
+            "frequency",
+            "word",
+            "lower",
+            "alphabetical",
+            "order",
+            "come",
+            "first"
+        ]
+    ]
+}

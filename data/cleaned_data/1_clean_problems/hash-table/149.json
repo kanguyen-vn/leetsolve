@@ -1,0 +1,7 @@
+{
+    "id": 149,
+    "title": "Max Points on a Line",
+    "title_slug": "max-points-on-a-line",
+    "backend_id": 149,
+    "content": "Given n points on a 2D plane, find the maximum number of points that lie on the same straight line.\n\n\n\n\nNOTE:\u00a0input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.\n"
+}

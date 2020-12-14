@@ -1,0 +1,7 @@
+{
+    "id": 1163,
+    "title": "Last Substring in Lexicographical Order",
+    "title_slug": "last-substring-in-lexicographical-order",
+    "backend_id": 1133,
+    "content": "<div><p>Given a string <code>s</code>, return the last substring of <code>s</code> in lexicographical order.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-1-1\">\"abab\"</span>\n<strong>Output: </strong><span id=\"example-output-1\">\"bab\"</span>\n<strong>Explanation: </strong>The substrings are [\"a\", \"ab\", \"aba\", \"abab\", \"b\", \"ba\", \"bab\"]. The lexicographically maximum substring is \"bab\".\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-2-1\">\"leetcode\"</span>\n<strong>Output: </strong><span id=\"example-output-2\">\"tcode\"</span>\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Note:</strong></p>\n\n<ol>\n\t<li><code>1 &lt;= s.length &lt;= 4&nbsp;* 10^5</code></li>\n\t<li><font face=\"monospace\">s</font> contains only lowercase English letters.</li>\n</ol>\n</div>"
+}

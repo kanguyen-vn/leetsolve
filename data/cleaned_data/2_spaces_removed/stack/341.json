@@ -1,0 +1,7 @@
+{
+    "id": 341,
+    "title": "Flatten Nested List Iterator",
+    "title_slug": "flatten-nested-list-iterator",
+    "backend_id": 341,
+    "content": "Given a nested list of integers, implement an iterator to flatten it. Each element is either an integer, or a list -- whose elements may also be integers or other lists."
+}

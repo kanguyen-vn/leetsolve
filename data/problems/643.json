@@ -1,0 +1,7 @@
+{
+    "id": 643,
+    "title": "Maximum Average Subarray I",
+    "title_slug": "maximum-average-subarray-i",
+    "backend_id": 643,
+    "content": "<div><p>Given an array consisting of <code>n</code> integers, find the contiguous subarray of given length <code>k</code> that has the maximum average value. And you need to output the maximum average value.</p>\n\n<p><b>Example 1:</b></p>\n\n<pre><b>Input:</b> [1,12,-5,-6,50,3], k = 4\n<b>Output:</b> 12.75\n<b>Explanation:</b> Maximum average is (12-5-6+50)/4 = 51/4 = 12.75\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Note:</b></p>\n\n<ol>\n\t<li>1 &lt;= <code>k</code> &lt;= <code>n</code> &lt;= 30,000.</li>\n\t<li>Elements of the given array will be in the range [-10,000, 10,000].</li>\n</ol>\n\n<p>&nbsp;</p>\n</div>"
+}

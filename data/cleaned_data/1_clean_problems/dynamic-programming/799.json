@@ -1,0 +1,7 @@
+{
+    "id": 799,
+    "title": "Champagne Tower",
+    "title_slug": "champagne-tower",
+    "backend_id": 815,
+    "content": "We stack glasses in a pyramid, where the first row has 1 glass, the second row has 2 glasses, and so on until the 100 row.\u00a0 Each glass holds one cup\u00a0of champagne.\nThen, some champagne is poured into the first glass at the top.\u00a0 When the topmost glass is full, any excess liquid poured will fall equally to the glass immediately to the left and right of it.\u00a0 When those glasses become full, any excess champagne will fall equally to the left and right of those glasses, and so on.\u00a0 (A glass at the bottom row has its excess champagne fall on the floor.)\nFor example, after one cup of champagne is poured, the top most glass is full.\u00a0 After two cups of champagne are poured, the two glasses on the second row are half full.\u00a0 After three cups of champagne are poured, those two cups become full - there are 3 full glasses total now.\u00a0 After four cups of champagne are poured, the third row has the middle glass half full, and the two outside glasses are a quarter full, as pictured below.\n\nNow after pouring some non-negative integer cups of champagne, return how full the  glass in the  row is (both  and  are 0-indexed.)\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

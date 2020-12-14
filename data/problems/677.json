@@ -1,0 +1,7 @@
+{
+    "id": 677,
+    "title": "Map Sum Pairs",
+    "title_slug": "map-sum-pairs",
+    "backend_id": 677,
+    "content": "<div><p>Implement the <code>MapSum</code> class:</p>\n\n<ul>\n\t<li><code>MapSum()</code> Initializes the&nbsp;<code>MapSum</code> object.</li>\n\t<li><code>void insert(String key, int val)</code> Inserts the <code>key-val</code> pair into the map. If the <code>key</code> already existed, the original <code>key-value</code> pair will be overridden to the new one.</li>\n\t<li><code>int sum(string prefix)</code> Returns&nbsp;the sum of all the pairs' value whose <code>key</code> starts with the <code>prefix</code>.</li>\n</ul>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input</strong>\n[\"MapSum\", \"insert\", \"sum\", \"insert\", \"sum\"]\n[[], [\"apple\", 3], [\"ap\"], [\"app\", 2], [\"ap\"]]\n<strong>Output</strong>\n[null, null, 3, null, 5]\n\n<strong>Explanation</strong>\nMapSum mapSum = new MapSum();\nmapSum.insert(\"apple\", 3);  \nmapSum.sum(\"ap\");           // return 3 (<u>ap</u>ple = 3)\nmapSum.insert(\"app\", 2);    \nmapSum.sum(\"ap\");           // return 5 (<u>ap</u>ple + <u>ap</u>p = 3 + 2 = 5)\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= key.length, prefix.length &lt;= 50</code></li>\n\t<li><code>key</code> and <code>prefix</code> consist of only lowercase English letters.</li>\n\t<li><code>1 &lt;= val &lt;= 1000</code></li>\n\t<li>At most <code>50</code> calls will be made to <code>insert</code> and <code>sum</code>.</li>\n</ul>\n</div>"
+}

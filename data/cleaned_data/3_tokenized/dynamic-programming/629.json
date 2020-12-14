@@ -1,0 +1,43 @@
+{
+    "id": 629,
+    "title": "K Inverse Pairs Array",
+    "title_slug": "k-inverse-pairs-array",
+    "backend_id": 629,
+    "content": [
+        [
+            "give",
+            "two",
+            "integer",
+            "find",
+            "many",
+            "different",
+            "array",
+            "consist",
+            "number",
+            "exactly",
+            "inverse",
+            "pair"
+        ],
+        [
+            "define",
+            "inverse",
+            "pair",
+            "follow",
+            "element",
+            "array",
+            "'s",
+            "inverse",
+            "pair",
+            "otherwise",
+            "'s"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "answer",
+            "modulo"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1028,
+    "title": "Recover a Tree From Preorder Traversal",
+    "title_slug": "recover-a-tree-from-preorder-traversal",
+    "backend_id": 1093,
+    "content": "We run a preorder depth-first search (DFS) on the of a binary tree. At each node in this traversal, we output dashes (where is the depth of this node), then we output the value of this node. If the depth of a node is , the depth of its immediate child is . The depth of the node is 0. If a node has only one child, that child is guaranteed to be the left child. Given the output of this traversal, recover the tree and return its . The number of nodes in the original tree is in the range ."
+}

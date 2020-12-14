@@ -1,0 +1,35 @@
+{
+    "id": 392,
+    "title": "Is Subsequence",
+    "title_slug": "is-subsequence",
+    "backend_id": 392,
+    "content": [
+        [
+            "give",
+            "string",
+            "string",
+            "check",
+            "subsequence",
+            "subsequence",
+            "string",
+            "new",
+            "string",
+            "form",
+            "original",
+            "string",
+            "delete",
+            "none",
+            "character",
+            "without",
+            "disturb",
+            "relative",
+            "position",
+            "remain",
+            "character"
+        ],
+        [
+            "ie",
+            "subsequence"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 746,
+    "title": "Min Cost Climbing Stairs",
+    "title_slug": "min-cost-climbing-stairs",
+    "backend_id": 747,
+    "content": "\nOn a staircase, the -th step has some non-negative cost  assigned (0 indexed).\n\nOnce you pay the cost, you can either climb one or two steps. You need to find minimum cost to reach the top of the floor, and you can either start from the step with index 0, or the step with index 1.\n\n\n\n\n\n"
+}

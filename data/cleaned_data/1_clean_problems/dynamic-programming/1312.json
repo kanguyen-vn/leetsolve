@@ -1,0 +1,7 @@
+{
+    "id": 1312,
+    "title": "Minimum Insertion Steps to Make a String Palindrome",
+    "title_slug": "minimum-insertion-steps-to-make-a-string-palindrome",
+    "backend_id": 1437,
+    "content": "Given a string . In one step you can insert any character at any index of the string.\nReturn the minimum number of steps to make \u00a0palindrome.\nA\u00a0Palindrome String\u00a0is one that reads the same backward as well as forward.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\nAll characters of \u00a0are lower case English letters.\n\n"
+}

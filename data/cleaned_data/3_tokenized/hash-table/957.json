@@ -1,0 +1,80 @@
+{
+    "id": 957,
+    "title": "Prison Cells After N Days",
+    "title_slug": "prison-cells-after-n-days",
+    "backend_id": 994,
+    "content": [
+        [
+            "prison",
+            "cell",
+            "row",
+            "cell",
+            "either",
+            "occupy",
+            "vacant"
+        ],
+        [
+            "day",
+            "whether",
+            "cell",
+            "occupy",
+            "vacant",
+            "change",
+            "accord",
+            "follow",
+            "rule",
+            "cell",
+            "two",
+            "adjacent",
+            "neighbor",
+            "occupy",
+            "vacant",
+            "cell",
+            "become",
+            "occupy"
+        ],
+        [
+            "otherwise",
+            "become",
+            "vacant"
+        ],
+        [
+            "note",
+            "prison",
+            "row",
+            "first",
+            "last",
+            "cell",
+            "row",
+            "ca",
+            "n't",
+            "two",
+            "adjacent",
+            "neighbor"
+        ],
+        [
+            "describe",
+            "current",
+            "state",
+            "prison",
+            "follow",
+            "way",
+            "th",
+            "cell",
+            "occupy",
+            "else"
+        ],
+        [
+            "give",
+            "initial",
+            "state",
+            "prison",
+            "return",
+            "state",
+            "prison",
+            "day",
+            "change",
+            "describe"
+        ]
+    ]
+}

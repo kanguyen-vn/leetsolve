@@ -1,0 +1,7 @@
+{
+    "id": 1219,
+    "title": "Path with Maximum Gold",
+    "title_slug": "path-with-maximum-gold",
+    "backend_id": 1331,
+    "content": "In a gold mine \u00a0of size ,\u00a0each cell in this mine has an integer representing the amount of gold\u00a0in that cell,\u00a00 if it is empty.\nReturn the maximum amount of gold you\u00a0can collect under the conditions:\n\nEvery time you are located in a cell you will collect all the gold in that cell.\nFrom your position you can walk one step to the left, right, up or down.\nYou can't visit the same cell more than once.\nNever visit a cell with\u00a00 gold.\nYou can start and stop collecting gold from\u00a0any position in the grid that has some gold.\n\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\nThere are at most 25\u00a0cells containing gold.\n\n"
+}

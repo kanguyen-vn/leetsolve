@@ -1,0 +1,7 @@
+{
+    "id": 1015,
+    "title": "Smallest Integer Divisible by K",
+    "title_slug": "smallest-integer-divisible-by-k",
+    "backend_id": 1064,
+    "content": "<div><p>Given a positive integer <code>K</code>, you need to find the <strong>length</strong> of the <strong>smallest</strong> positive integer <code>N</code> such that <code>N</code> is divisible by <code>K</code>, and <code>N</code> only contains the digit <code>1</code>.</p>\n\n<p>Return <em>the <strong>length</strong> of </em><code>N</code>. If there is no such <code>N</code>, return -1.</p>\n\n<p><strong>Note:</strong> <code>N</code> may not fit in a 64-bit signed integer.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> K = 1\n<strong>Output:</strong> 1\n<strong>Explanation:</strong> The smallest answer is N = 1, which has length 1.\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> K = 2\n<strong>Output:</strong> -1\n<strong>Explanation:</strong> There is no such positive integer N divisible by 2.\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> K = 3\n<strong>Output:</strong> 3\n<strong>Explanation:</strong> The smallest answer is N = 111, which has length 3.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= K &lt;= 10<sup>5</sup></code></li>\n</ul>\n</div>"
+}

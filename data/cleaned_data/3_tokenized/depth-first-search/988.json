@@ -1,0 +1,49 @@
+{
+    "id": 988,
+    "title": "Smallest String Starting From Leaf",
+    "title_slug": "smallest-string-starting-from-leaf",
+    "backend_id": 1030,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "node",
+            "value",
+            "represent",
+            "letter",
+            "value",
+            "represent",
+            "value",
+            "represent"
+        ],
+        [
+            "find",
+            "lexicographically",
+            "small",
+            "string",
+            "start",
+            "leaf",
+            "tree",
+            "end",
+            "root"
+        ],
+        [
+            "reminder",
+            "shorter",
+            "prefix",
+            "string",
+            "lexicographically",
+            "small",
+            "example",
+            "lexicographically",
+            "small"
+        ],
+        [
+            "leaf",
+            "node",
+            "node",
+            "child"
+        ]
+    ]
+}

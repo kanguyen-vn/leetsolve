@@ -1,0 +1,7 @@
+{
+    "id": 1620,
+    "title": "Coordinate With Maximum Network Quality",
+    "title_slug": "coordinate-with-maximum-network-quality",
+    "backend_id": 1726,
+    "content": "You are given an array of network towers and an integer , where denotes the network tower with location and quality factor . All the coordinates are integral coordinates on the X-Y plane, and the distance between two coordinates is the Euclidean distance. The integer denotes the maximum distance in which the tower is reachable. The tower is reachable if the distance is less than or equal to . Outside that distance, the signal becomes garbled, and the tower is not reachable. The signal quality of the tower at a coordinate is calculated with the formula , where is the distance between the tower and the coordinate. The network quality at a coordinate is the sum of the signal qualities from all the reachable towers. Return the integral coordinate where the network quality is maximum. If there are multiple coordinates with the same network quality, return the lexicographically minimum coordinate."
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1340,
+    "title": "Jump Game V",
+    "title_slug": "jump-game-v",
+    "backend_id": 1466,
+    "content": "Given an array of\u00a0integers  and an integer . In one step you can jump from index  to index:\n\n where:\u00a0 and .\n where:\u00a0 and .\n\nIn addition, you can only jump from index  to index \u00a0if  and  for all indices  between  and  (More formally ).\nYou can choose any index of the array and start jumping. Return the maximum number of indices\u00a0you can visit.\nNotice that you can not jump outside of the array at any time.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

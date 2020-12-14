@@ -1,0 +1,7 @@
+{
+    "id": 696,
+    "title": "Count Binary Substrings",
+    "title_slug": "count-binary-substrings",
+    "backend_id": 696,
+    "content": "<div><p>Give a string <code>s</code>, count the number of non-empty (contiguous) substrings that have the same number of 0's and 1's, and all the 0's and all the 1's in these substrings are grouped consecutively. \n</p>\n<p>Substrings that occur multiple times are counted the number of times they occur.</p>\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> \"00110011\"\n<b>Output:</b> 6\n<b>Explanation:</b> There are 6 substrings that have equal number of consecutive 1's and 0's: \"0011\", \"01\", \"1100\", \"10\", \"0011\", and \"01\".\n<br>Notice that some of these substrings repeat and are counted the number of times they occur.\n<br>Also, \"00110011\" is not a valid substring because <b>all</b> the 0's (and 1's) are not grouped together.\n</pre>\n<p></p>\n\n<p><b>Example 2:</b><br>\n</p><pre><b>Input:</b> \"10101\"\n<b>Output:</b> 4\n<b>Explanation:</b> There are 4 substrings: \"10\", \"01\", \"10\", \"01\" that have equal number of consecutive 1's and 0's.\n</pre>\n<p></p>\n\n<p><b>Note:</b>\n</p><li><code>s.length</code> will be between 1 and 50,000.</li>\n<li><code>s</code> will only consist of \"0\" or \"1\" characters.</li>\n<p></p></div>"
+}

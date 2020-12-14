@@ -1,0 +1,55 @@
+{
+    "id": 1449,
+    "title": "Form Largest Integer With Digits That Add up to Target",
+    "title_slug": "form-largest-integer-with-digits-that-add-up-to-target",
+    "backend_id": 1545,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "integer"
+        ],
+        [
+            "return",
+            "maximum",
+            "integer",
+            "paint",
+            "follow",
+            "rule",
+            "cost",
+            "paint",
+            "digit",
+            "i+1",
+            "give",
+            "indexed"
+        ],
+        [
+            "total",
+            "cost",
+            "use",
+            "must",
+            "equal"
+        ],
+        [
+            "integer",
+            "digit"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "string"
+        ],
+        [
+            "way",
+            "paint",
+            "integer",
+            "give",
+            "condition",
+            "return"
+        ]
+    ]
+}

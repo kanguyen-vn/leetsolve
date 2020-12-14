@@ -1,0 +1,7 @@
+{
+    "id": 778,
+    "title": "Swim in Rising Water",
+    "title_slug": "swim-in-rising-water",
+    "backend_id": 794,
+    "content": "On an N x N , each square represents the elevation at that point . Now rain starts to fall. At time , the depth of the water everywhere is . You can swim from a square to another 4-directionally adjacent square if and only if the elevation of both squares individually are at most . You can swim infinite distance in zero time. Of course, you must stay within the boundaries of the grid during your swim. You start at the top left square . What is the least time until you can reach the bottom right square ?"
+}

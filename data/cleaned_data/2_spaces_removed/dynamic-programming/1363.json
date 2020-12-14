@@ -1,0 +1,7 @@
+{
+    "id": 1363,
+    "title": "Largest Multiple of Three",
+    "title_slug": "largest-multiple-of-three",
+    "backend_id": 1277,
+    "content": "Given an integer array of , return the largest multiple of three that can be formed by concatenating some of the given digits in any order. Since the answer may not fit in an integer data type, return the answer as a string. If there is no answer return an empty string. The returning answer must not contain unnecessary leading zeros."
+}

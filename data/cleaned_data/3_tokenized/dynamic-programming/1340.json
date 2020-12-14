@@ -1,0 +1,50 @@
+{
+    "id": 1340,
+    "title": "Jump Game V",
+    "title_slug": "jump-game-v",
+    "backend_id": 1466,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "integer"
+        ],
+        [
+            "one",
+            "step",
+            "jump",
+            "index",
+            "index"
+        ],
+        [
+            "addition",
+            "jump",
+            "index",
+            "index",
+            "index",
+            "formally"
+        ],
+        [
+            "choose",
+            "index",
+            "array",
+            "start",
+            "jumping"
+        ],
+        [
+            "return",
+            "maximum",
+            "number",
+            "index",
+            "visit"
+        ],
+        [
+            "notice",
+            "jump",
+            "outside",
+            "array",
+            "time"
+        ]
+    ]
+}

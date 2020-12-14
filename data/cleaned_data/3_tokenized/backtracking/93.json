@@ -1,0 +1,52 @@
+{
+    "id": 93,
+    "title": "Restore IP Addresses",
+    "title_slug": "restore-ip-addresses",
+    "backend_id": 93,
+    "content": [
+        [
+            "give",
+            "string",
+            "contain",
+            "digit",
+            "return",
+            "possible",
+            "valid",
+            "ip",
+            "address",
+            "obtain"
+        ],
+        [
+            "return",
+            "order"
+        ],
+        [
+            "valid",
+            "ip",
+            "address",
+            "consist",
+            "exactly",
+            "four",
+            "integer",
+            "integer",
+            "separate",
+            "single",
+            "dot",
+            "lead",
+            "zero"
+        ],
+        [
+            "example",
+            "valid",
+            "ip",
+            "address",
+            "invalid",
+            "ip",
+            "address"
+        ],
+        [
+            "consist",
+            "digit"
+        ]
+    ]
+}

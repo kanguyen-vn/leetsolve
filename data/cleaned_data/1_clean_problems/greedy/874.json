@@ -1,0 +1,7 @@
+{
+    "id": 874,
+    "title": "Walking Robot Simulation",
+    "title_slug": "walking-robot-simulation",
+    "backend_id": 906,
+    "content": "A robot on an infinite grid starts at point (0, 0) and faces north.\u00a0 The robot can receive one of three possible types of commands:\n\n: turn left 90 degrees\n: turn right 90 degrees\n: move forward  units\n\nSome of the grid squares are obstacles.\u00a0\nThe -th obstacle is at grid point \nIf the robot would try to move onto them, the robot stays on the previous grid square instead (but still continues following the rest of the route.)\nReturn the square of the maximum Euclidean distance that the robot will be from the origin.\n\u00a0\n\n\n\n\u00a0\n"
+}

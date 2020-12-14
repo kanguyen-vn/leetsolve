@@ -1,0 +1,37 @@
+{
+    "id": 813,
+    "title": "Largest Sum of Averages",
+    "title_slug": "largest-sum-of-averages",
+    "backend_id": 831,
+    "content": [
+        [
+            "partition",
+            "row",
+            "number",
+            "adjacent",
+            "non",
+            "empty",
+            "group",
+            "score",
+            "sum",
+            "average",
+            "group"
+        ],
+        [
+            "large",
+            "score",
+            "achieve"
+        ],
+        [
+            "note",
+            "partition",
+            "must",
+            "use",
+            "every",
+            "number",
+            "score",
+            "necessarily",
+            "integer"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "id": 756,
+    "title": "Pyramid Transition Matrix",
+    "title_slug": "pyramid-transition-matrix",
+    "backend_id": 757,
+    "content": [
+        [
+            "stack",
+            "block",
+            "form",
+            "pyramid"
+        ],
+        [
+            "block",
+            "color",
+            "one",
+            "letter",
+            "string"
+        ],
+        [
+            "allow",
+            "place",
+            "color",
+            "block",
+            "top",
+            "two",
+            "adjacent",
+            "block",
+            "color",
+            "allow",
+            "triple"
+        ],
+        [
+            "start",
+            "bottom",
+            "row",
+            "represent",
+            "single",
+            "string"
+        ],
+        [
+            "also",
+            "start",
+            "list",
+            "allow",
+            "triple"
+        ],
+        [
+            "allow",
+            "triple",
+            "represent",
+            "string",
+            "length"
+        ],
+        [
+            "return",
+            "true",
+            "build",
+            "pyramid",
+            "way",
+            "top",
+            "otherwise",
+            "false"
+        ],
+        [
+            "string",
+            "length",
+            "range"
+        ],
+        [
+            "length",
+            "range"
+        ],
+        [
+            "letter",
+            "string",
+            "choose",
+            "set"
+        ]
+    ]
+}

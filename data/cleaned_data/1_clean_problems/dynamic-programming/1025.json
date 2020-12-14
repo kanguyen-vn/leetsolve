@@ -1,0 +1,7 @@
+{
+    "id": 1025,
+    "title": "Divisor Game",
+    "title_slug": "divisor-game",
+    "backend_id": 1086,
+    "content": "Alice and Bob take turns playing a game, with Alice starting first.\nInitially, there is a number \u00a0on the chalkboard.\u00a0 On each player's turn, that player makes a move\u00a0consisting of:\n\nChoosing\u00a0any  with  and .\nReplacing\u00a0the number\u00a0\u00a0on the chalkboard with .\n\nAlso, if a player cannot make a move, they lose the game.\nReturn  if and only if Alice wins the game, assuming both players play optimally.\n\u00a0\n\n\n"
+}

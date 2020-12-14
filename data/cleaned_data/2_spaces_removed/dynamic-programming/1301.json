@@ -1,0 +1,7 @@
+{
+    "id": 1301,
+    "title": "Number of Paths with Max Score",
+    "title_slug": "number-of-paths-with-max-score",
+    "backend_id": 1234,
+    "content": "You are given a square of characters. You can move on the board starting at the bottom right square marked with the character . You need to reach the top left square marked with the character . The rest of the squares are labeled either with a numeric character or with an obstacle . In one move you can go up, left or up-left (diagonally) only if there is no obstacle there. Return a list of two integers: the first integer is the maximum sum of numeric characters you can collect, and the second is the number of such paths that you can take to get that maximum sum, taken modulo . In case there is no path, return ."
+}

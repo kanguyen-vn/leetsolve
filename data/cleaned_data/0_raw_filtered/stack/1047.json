@@ -1,0 +1,7 @@
+{
+    "id": 1047,
+    "title": "Remove All Adjacent Duplicates In String",
+    "title_slug": "remove-all-adjacent-duplicates-in-string",
+    "backend_id": 1128,
+    "content": "<div><p>Given a string <code>S</code> of lowercase letters, a <em>duplicate removal</em> consists of choosing two adjacent and equal letters, and removing&nbsp;them.</p>\n\n<p>We repeatedly make duplicate removals on S until we no longer can.</p>\n\n<p>Return the final string after all such duplicate removals have been made.&nbsp; It is guaranteed the answer is unique.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-1-1\">\"abbaca\"</span>\n<strong>Output: </strong><span id=\"example-output-1\">\"ca\"</span>\n<strong>Explanation: </strong>\nFor example, in \"abbaca\" we could remove \"bb\" since the letters are adjacent and equal, and this is the only possible move.&nbsp; The result of this move is that the string is \"aaca\", of which only \"aa\" is possible, so the final string is \"ca\".\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Note:</strong></p>\n\n<ol>\n\t<li><code>1 &lt;= S.length &lt;= 20000</code></li>\n\t<li><code>S</code> consists only of English lowercase letters.</li>\n</ol>\n</div>"
+}

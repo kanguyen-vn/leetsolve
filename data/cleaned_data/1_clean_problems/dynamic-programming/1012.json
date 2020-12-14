@@ -1,0 +1,7 @@
+{
+    "id": 1012,
+    "title": "Numbers With Repeated Digits",
+    "title_slug": "numbers-with-repeated-digits",
+    "backend_id": 1057,
+    "content": "Given a positive integer , return the number of positive integers less than or equal to  that have at least 1 repeated digit.\n\u00a0\n"
+}

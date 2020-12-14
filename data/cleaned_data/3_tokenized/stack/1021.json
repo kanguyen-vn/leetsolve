@@ -1,0 +1,65 @@
+{
+    "id": 1021,
+    "title": "Remove Outermost Parentheses",
+    "title_slug": "remove-outermost-parentheses",
+    "backend_id": 1078,
+    "content": [
+        [
+            "valid",
+            "parenthesis",
+            "string",
+            "either",
+            "empty",
+            "valid",
+            "parenthesis",
+            "string",
+            "represent",
+            "string",
+            "concatenation"
+        ],
+        [
+            "example",
+            "valid",
+            "parenthesis",
+            "string"
+        ],
+        [
+            "valid",
+            "parenthesis",
+            "string",
+            "primitive",
+            "nonempty",
+            "exist",
+            "way",
+            "split",
+            "nonempty",
+            "valid",
+            "parenthesis",
+            "string"
+        ],
+        [
+            "give",
+            "valid",
+            "parenthesis",
+            "string",
+            "consider",
+            "primitive",
+            "decomposition",
+            "primitive",
+            "valid",
+            "parenthesis",
+            "string"
+        ],
+        [
+            "return",
+            "remove",
+            "outermost",
+            "parenthesis",
+            "every",
+            "primitive",
+            "string",
+            "primitive",
+            "decomposition"
+        ]
+    ]
+}

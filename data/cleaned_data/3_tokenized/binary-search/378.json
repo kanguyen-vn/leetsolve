@@ -1,0 +1,33 @@
+{
+    "id": 378,
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "title_slug": "kth-smallest-element-in-a-sorted-matrix",
+    "backend_id": 378,
+    "content": [
+        [
+            "give",
+            "matrix",
+            "row",
+            "column",
+            "sort",
+            "ascend",
+            "order",
+            "find",
+            "kth",
+            "small",
+            "element",
+            "matrix"
+        ],
+        [
+            "note",
+            "kth",
+            "small",
+            "element",
+            "sort",
+            "order",
+            "kth",
+            "distinct",
+            "element"
+        ]
+    ]
+}

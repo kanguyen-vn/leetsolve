@@ -1,0 +1,40 @@
+{
+    "id": 1400,
+    "title": "Construct K Palindrome Strings",
+    "title_slug": "construct-k-palindrome-strings",
+    "backend_id": 1502,
+    "content": [
+        [
+            "give",
+            "string",
+            "integer"
+        ],
+        [
+            "construct",
+            "non",
+            "empty",
+            "palindrome",
+            "string",
+            "use",
+            "character"
+        ],
+        [
+            "return",
+            "true",
+            "use",
+            "character",
+            "construct",
+            "palindrome",
+            "string",
+            "false",
+            "otherwise"
+        ],
+        [
+            "character",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ]
+    ]
+}

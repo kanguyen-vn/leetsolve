@@ -1,0 +1,7 @@
+{
+    "id": 1089,
+    "title": "Duplicate Zeros",
+    "title_slug": "duplicate-zeros",
+    "backend_id": 1168,
+    "content": "<div><p>Given a fixed length&nbsp;array <code>arr</code> of integers, duplicate each occurrence of zero, shifting the remaining elements to the right.</p>\n\n<p>Note that elements beyond the length of the original array are not written.</p>\n\n<p>Do the above modifications to the input array <strong>in place</strong>, do not return anything from your function.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-1-1\">[1,0,2,3,0,4,5,0]</span>\n<strong>Output: </strong>null\n<strong>Explanation: </strong>After calling your function, the <strong>input</strong> array is modified to: <span id=\"example-output-1\">[1,0,0,2,3,0,0,4]</span>\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-2-1\">[1,2,3]</span>\n<strong>Output: </strong>null\n<strong>Explanation: </strong>After calling your function, the <strong>input</strong> array is modified to: <span id=\"example-output-2\">[1,2,3]</span>\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Note:</strong></p>\n\n<ol>\n\t<li><code>1 &lt;= arr.length &lt;= 10000</code></li>\n\t<li><code>0 &lt;= arr[i] &lt;= 9</code></li>\n</ol></div>"
+}

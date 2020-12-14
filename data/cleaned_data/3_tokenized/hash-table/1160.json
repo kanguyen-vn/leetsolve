@@ -1,0 +1,36 @@
+{
+    "id": 1160,
+    "title": "Find Words That Can Be Formed by Characters",
+    "title_slug": "find-words-that-can-be-formed-by-characters",
+    "backend_id": 1112,
+    "content": [
+        [
+            "give",
+            "array",
+            "string",
+            "string"
+        ],
+        [
+            "string",
+            "good",
+            "form",
+            "character",
+            "character",
+            "use"
+        ],
+        [
+            "return",
+            "sum",
+            "length",
+            "good",
+            "string"
+        ],
+        [
+            "string",
+            "contain",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

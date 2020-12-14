@@ -1,0 +1,7 @@
+{
+    "id": 1013,
+    "title": "Partition Array Into Three Parts With Equal Sum",
+    "title_slug": "partition-array-into-three-parts-with-equal-sum",
+    "backend_id": 1062,
+    "content": "<div><p>Given an array <code>A</code> of integers, return <code>true</code> if and only if we can partition the array into three <strong>non-empty</strong> parts with equal sums.</p>\n\n<p>Formally, we can partition the array if we can find indexes <code>i+1 &lt; j</code> with <code>(A[0] + A[1] + ... + A[i] == A[i+1] + A[i+2] + ... + A[j-1] == A[j] + A[j-1] + ... + A[A.length - 1])</code></p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> A = [0,2,1,-6,6,-7,9,1,2,0,1]\n<strong>Output:</strong> true\n<strong>Explanation: </strong>0 + 2 + 1 = -6 + 6 - 7 + 9 + 1 = 2 + 0 + 1\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> A = [0,2,1,-6,6,7,9,-1,2,0,1]\n<strong>Output:</strong> false\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> A = [3,3,6,5,-2,2,5,1,-9,4]\n<strong>Output:</strong> true\n<strong>Explanation: </strong>3 + 3 = 6 = 5 - 2 + 2 + 5 + 1 - 9 + 4\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>3 &lt;= A.length &lt;= 50000</code></li>\n\t<li><code>-10^4&nbsp;&lt;= A[i] &lt;= 10^4</code></li>\n</ul>\n</div>"
+}

@@ -1,0 +1,59 @@
+{
+    "id": 559,
+    "title": "Maximum Depth of N-ary Tree",
+    "title_slug": "maximum-depth-of-n-ary-tree",
+    "backend_id": 774,
+    "content": [
+        [
+            "give",
+            "ary",
+            "tree",
+            "find",
+            "maximum",
+            "depth"
+        ],
+        [
+            "maximum",
+            "depth",
+            "number",
+            "node",
+            "along",
+            "long",
+            "path",
+            "root",
+            "node",
+            "farthest",
+            "leaf",
+            "node"
+        ],
+        [
+            "nary",
+            "tree",
+            "input",
+            "serialization",
+            "represent",
+            "level",
+            "order",
+            "traversal",
+            "group",
+            "child",
+            "separate",
+            "null",
+            "value",
+            "see",
+            "example"
+        ],
+        [
+            "depth",
+            "ary",
+            "tree",
+            "less",
+            "equal"
+        ],
+        [
+            "total",
+            "number",
+            "node"
+        ]
+    ]
+}

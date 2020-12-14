@@ -1,0 +1,7 @@
+{
+    "id": 32,
+    "title": "Longest Valid Parentheses",
+    "title_slug": "longest-valid-parentheses",
+    "backend_id": 32,
+    "content": "Given a string containing just the characters and , find the length of the longest valid (well-formed) parentheses substring. is , or ."
+}

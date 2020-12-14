@@ -1,0 +1,54 @@
+{
+    "id": 1220,
+    "title": "Count Vowels Permutation",
+    "title_slug": "count-vowels-permutation",
+    "backend_id": 1332,
+    "content": [
+        [
+            "give",
+            "integer",
+            "task",
+            "count",
+            "many",
+            "string",
+            "length",
+            "form",
+            "follow",
+            "rule",
+            "character",
+            "low",
+            "case",
+            "vowel",
+            "vowel",
+            "may",
+            "follow"
+        ],
+        [
+            "vowel",
+            "may",
+            "follow"
+        ],
+        [
+            "vowel",
+            "may",
+            "follow",
+            "another"
+        ],
+        [
+            "vowel",
+            "may",
+            "follow"
+        ],
+        [
+            "vowel",
+            "may",
+            "follow",
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "modulo"
+        ]
+    ]
+}

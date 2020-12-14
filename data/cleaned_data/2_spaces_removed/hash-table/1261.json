@@ -1,0 +1,7 @@
+{
+    "id": 1261,
+    "title": "Find Elements in a Contaminated Binary Tree",
+    "title_slug": "find-elements-in-a-contaminated-binary-tree",
+    "backend_id": 1387,
+    "content": "Given a binary tree with the following rules: If and , then If and , then Now the binary tree is contaminated, which means all have been changed to . You need to first recover the binary tree and then implement the class: Initializes the object with a contamined binary tree, you need to recover it first. Return if the value exists in the recovered binary tree. The height of the binary tree is less than or equal to 20 The total number of nodes is between Total calls of is between"
+}

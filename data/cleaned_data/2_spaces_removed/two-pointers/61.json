@@ -1,0 +1,7 @@
+{
+    "id": 61,
+    "title": "Rotate List",
+    "title_slug": "rotate-list",
+    "backend_id": 61,
+    "content": "Given the of a linked list, rotate the list to the right by places. The number of nodes in the list is in the range ."
+}

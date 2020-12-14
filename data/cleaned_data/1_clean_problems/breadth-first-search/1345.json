@@ -1,0 +1,7 @@
+{
+    "id": 1345,
+    "title": "Jump Game IV",
+    "title_slug": "jump-game-iv",
+    "backend_id": 1447,
+    "content": "Given an array of\u00a0integers , you are initially positioned at the first index of the array.\nIn one step you can jump from index  to index:\n\n where:\u00a0.\n where:\u00a0.\n where:  and .\n\nReturn the minimum number of steps to reach the last index of the array.\nNotice that you can not jump outside of the array at any time.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 375,
+    "title": "Guess Number Higher or Lower II",
+    "title_slug": "guess-number-higher-or-lower-ii",
+    "backend_id": 375,
+    "content": "We are playing the Guessing Game. The game will work as follows:\n\nI pick a number between\u00a01\u00a0and\u00a0.\nYou guess a number.\nIf you guess the right number, you win the game.\nIf you guess the wrong number, then I will tell you whether the number I picked is higher or lower, and you will continue guessing.\nEvery time you guess a wrong number\u00a0, you will pay\u00a0\u00a0dollars. If you run out of money, you lose the game.\n\nGiven a particular\u00a0, return\u00a0the minimum amount of money you need to\u00a0guarantee a win regardless of what number I pick.\n\u00a0\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

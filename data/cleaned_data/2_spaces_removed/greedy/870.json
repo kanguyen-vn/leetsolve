@@ -1,0 +1,7 @@
+{
+    "id": 870,
+    "title": "Advantage Shuffle",
+    "title_slug": "advantage-shuffle",
+    "backend_id": 901,
+    "content": "Given two arrays and of equal size, the advantage of with respect to is the number of indices for which . Return any permutation of that maximizes its advantage with respect to ."
+}

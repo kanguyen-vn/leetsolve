@@ -1,0 +1,7 @@
+{
+    "id": 1594,
+    "title": "Maximum Non Negative Product in a Matrix",
+    "title_slug": "maximum-non-negative-product-in-a-matrix",
+    "backend_id": 1716,
+    "content": "You are given a\u00a0\u00a0matrix\u00a0.\u00a0Initially, you\u00a0are located at the top-left\u00a0corner ,\u00a0and in each step, you can only move right\u00a0or\u00a0down in the matrix.\nAmong all possible paths starting from the top-left corner\u00a0\u00a0and ending in the bottom-right corner\u00a0, find the path with the\u00a0maximum non-negative product. The product of a path is the product of all integers in the grid cells visited along the path.\nReturn the\u00a0maximum non-negative product\u00a0modulo\u00a0.\u00a0If the maximum product is negative return\u00a0.\nNotice that the modulo is performed after getting the maximum product.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

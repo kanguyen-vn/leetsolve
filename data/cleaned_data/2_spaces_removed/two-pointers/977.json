@@ -1,0 +1,7 @@
+{
+    "id": 977,
+    "title": "Squares of a Sorted Array",
+    "title_slug": "squares-of-a-sorted-array",
+    "backend_id": 1019,
+    "content": "Given an array of integers sorted in non-decreasing order, return an array of the squares of each number, also in sorted non-decreasing order. is sorted in non-decreasing order."
+}

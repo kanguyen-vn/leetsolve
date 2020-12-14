@@ -1,0 +1,53 @@
+{
+    "id": 212,
+    "title": "Word Search II",
+    "title_slug": "word-search-ii",
+    "backend_id": 212,
+    "content": [
+        [
+            "give",
+            "character",
+            "list",
+            "string",
+            "return",
+            "word",
+            "board"
+        ],
+        [
+            "word",
+            "must",
+            "construct",
+            "letter",
+            "sequentially",
+            "adjacent",
+            "cell",
+            "adjacent",
+            "cell",
+            "horizontally",
+            "vertically",
+            "neighbor"
+        ],
+        [
+            "letter",
+            "cell",
+            "may",
+            "use",
+            "word"
+        ],
+        [
+            "lowercase",
+            "english",
+            "letter"
+        ],
+        [
+            "consist",
+            "lowercase",
+            "english",
+            "letter"
+        ],
+        [
+            "string",
+            "unique"
+        ]
+    ]
+}

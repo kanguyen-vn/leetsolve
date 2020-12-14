@@ -1,0 +1,7 @@
+{
+    "id": 648,
+    "title": "Replace Words",
+    "title_slug": "replace-words",
+    "backend_id": 648,
+    "content": "In English, we have a concept called root, which can be followed by some other word\u00a0to form another longer word - let's call this word successor. For example, when the root  is\u00a0followed by the successor\u00a0word\u00a0, we\u00a0can form a new word .\nGiven a  consisting of many roots and a \u00a0consisting of words separated by spaces, replace all the successors in the sentence with the root forming it. If a successor can be replaced by more than one root,\u00a0replace it with the root that has\u00a0the shortest length.\nReturn the  after the replacement.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\u00a0consists of only lower-case letters.\n\n\u00a0consists of only lower-case letters and spaces.\nThe number of words in\u00a0\u00a0is in the range \nThe length of each word in\u00a0\u00a0is in the range \nEach two consecutive words in\u00a0\u00a0will be separated by exactly one space.\n\u00a0does not have leading or trailing spaces.\n\n"
+}

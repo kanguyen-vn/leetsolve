@@ -1,0 +1,7 @@
+{
+    "id": 928,
+    "title": "Minimize Malware Spread II",
+    "title_slug": "minimize-malware-spread-ii",
+    "backend_id": 964,
+    "content": "(This problem is the same as Minimize Malware Spread, with the differences bolded.)\nIn a network of nodes, each node  is directly connected to another node  if and only if\u00a0.\nSome nodes  are initially infected by malware.\u00a0 Whenever two nodes are directly connected and at least one of those two nodes is infected by malware, both nodes will be infected by malware.\u00a0 This spread of malware will continue until no more nodes can be infected in this manner.\nSuppose \u00a0is the final number of nodes infected with malware in the entire network, after the spread of malware stops.\nWe will\u00a0remove one node from the initial list, completely removing it and any connections from this node to any other node.\u00a0 Return the node that if removed, would minimize\u00a0.\u00a0 If multiple nodes could be removed to minimize , return such a node with the smallest index.\n\u00a0\n\n\n"
+}

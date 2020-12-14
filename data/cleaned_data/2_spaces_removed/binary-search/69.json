@@ -1,0 +1,7 @@
+{
+    "id": 69,
+    "title": "Sqrt(x)",
+    "title_slug": "sqrtx",
+    "backend_id": 69,
+    "content": "Given a non-negative integer , compute and return the square root of . Since the return type is an integer, the decimal digits are truncated, and only the integer part of the result is returned."
+}

@@ -1,0 +1,41 @@
+{
+    "id": 903,
+    "title": "Valid Permutations for DI Sequence",
+    "title_slug": "valid-permutations-for-di-sequence",
+    "backend_id": 939,
+    "content": [
+        [
+            "give",
+            "length",
+            "string",
+            "character",
+            "set"
+        ],
+        [
+            "letter",
+            "stand",
+            "decrease",
+            "increase"
+        ],
+        [
+            "valid",
+            "permutation",
+            "permutation",
+            "integer"
+        ],
+        [
+            "many",
+            "valid",
+            "permutation"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "answer",
+            "modulo"
+        ]
+    ]
+}

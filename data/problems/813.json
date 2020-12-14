@@ -1,0 +1,7 @@
+{
+    "id": 813,
+    "title": "Largest Sum of Averages",
+    "title_slug": "largest-sum-of-averages",
+    "backend_id": 831,
+    "content": "<div><p>We partition a row of numbers <code>A</code>&nbsp;into at most <code>K</code> adjacent (non-empty) groups, then our score is the sum of the average of each group. What is the largest score we can achieve?</p>\n\n<p>Note that our partition must use every number in A, and that scores are not necessarily integers.</p>\n\n<pre><strong>Example:</strong>\n<strong>Input:</strong> \nA = [9,1,2,3,9]\nK = 3\n<strong>Output:</strong> 20\n<strong>Explanation:</strong> \nThe best choice is to partition A into [9], [1, 2, 3], [9]. The answer is 9 + (1 + 2 + 3) / 3 + 9 = 20.\nWe could have also partitioned A into [9, 1], [2], [3, 9], for example.\nThat partition would lead to a score of 5 + 2 + 6 = 13, which is worse.\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Note: </strong></p>\n\n<ul>\n\t<li><code>1 &lt;= A.length &lt;= 100</code>.</li>\n\t<li><code>1 &lt;= A[i] &lt;= 10000</code>.</li>\n\t<li><code>1 &lt;= K &lt;= A.length</code>.</li>\n\t<li>Answers within <code>10^-6</code> of the correct answer will be accepted as correct.</li>\n</ul>\n</div>"
+}

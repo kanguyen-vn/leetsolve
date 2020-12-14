@@ -1,0 +1,20 @@
+{
+    "id": 982,
+    "title": "Triples with Bitwise AND Equal To Zero",
+    "title_slug": "triples-with-bitwise-and-equal-to-zero",
+    "backend_id": 1024,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "find",
+            "number",
+            "triple",
+            "indices",
+            "represent",
+            "bitwise",
+            "operator"
+        ]
+    ]
+}

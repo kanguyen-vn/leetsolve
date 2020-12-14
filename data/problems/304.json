@@ -1,0 +1,7 @@
+{
+    "id": 304,
+    "title": "Range Sum Query 2D - Immutable",
+    "title_slug": "range-sum-query-2d-immutable",
+    "backend_id": 304,
+    "content": "<div><p>Given a 2D matrix <i>matrix</i>, find the sum of the elements inside the rectangle defined by its upper left corner (<i>row</i>1, <i>col</i>1) and lower right corner (<i>row</i>2, <i>col</i>2).</p>\n\n<p>\n<img src=\"/static/images/courses/range_sum_query_2d.png\" border=\"0\" alt=\"Range Sum Query 2D\"><br>\n<small>The above rectangle (with the red border) is defined by (row1, col1) = <b>(2, 1)</b> and (row2, col2) = <b>(4, 3)</b>, which contains sum = <b>8</b>.</small>\n</p>\n\n<p><b>Example:</b><br>\n</p><pre>Given matrix = [\n  [3, 0, 1, 4, 2],\n  [5, 6, 3, 2, 1],\n  [1, 2, 0, 1, 5],\n  [4, 1, 0, 1, 7],\n  [1, 0, 3, 0, 5]\n]\n\nsumRegion(2, 1, 4, 3) -&gt; 8\nsumRegion(1, 1, 2, 2) -&gt; 11\nsumRegion(1, 2, 2, 4) -&gt; 12\n</pre>\n<p></p>\n\n<p><b>Note:</b><br>\n</p><ol>\n<li>You may assume that the matrix does not change.</li>\n<li>There are many calls to <i>sumRegion</i> function.</li>\n<li>You may assume that <i>row</i>1 \u2264 <i>row</i>2 and <i>col</i>1 \u2264 <i>col</i>2.</li>\n</ol>\n<p></p></div>"
+}

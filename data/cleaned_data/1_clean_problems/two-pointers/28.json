@@ -1,0 +1,7 @@
+{
+    "id": 28,
+    "title": "Implement strStr()",
+    "title_slug": "implement-strstr",
+    "backend_id": 28,
+    "content": "Implement strStr().\nReturn the index of the first occurrence of needle in haystack, or  if  is not part of .\nClarification:\nWhat should we return when  is an empty string? This is a great question to ask during an interview.\nFor the purpose of this problem, we will return 0 when  is an empty string. This is consistent to C's\u00a0strstr() and Java's\u00a0indexOf().\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n and\u00a0 consist of only lower-case English characters.\n\n"
+}

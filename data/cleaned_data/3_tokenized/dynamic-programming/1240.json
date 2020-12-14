@@ -1,0 +1,21 @@
+{
+    "id": 1240,
+    "title": "Tiling a Rectangle with the Fewest Squares",
+    "title_slug": "tiling-a-rectangle-with-the-fewest-squares",
+    "backend_id": 1361,
+    "content": [
+        [
+            "give",
+            "rectangle",
+            "size",
+            "find",
+            "minimum",
+            "number",
+            "integer",
+            "side",
+            "square",
+            "tile",
+            "rectangle"
+        ]
+    ]
+}

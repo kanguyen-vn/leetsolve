@@ -1,0 +1,47 @@
+{
+    "id": 1293,
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "title_slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+    "backend_id": 1414,
+    "content": [
+        [
+            "give",
+            "grid",
+            "cell",
+            "either",
+            "empty",
+            "obstacle"
+        ],
+        [
+            "one",
+            "step",
+            "move",
+            "leave",
+            "right",
+            "empty",
+            "cell"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "step",
+            "walk",
+            "upper",
+            "leave",
+            "corner",
+            "low",
+            "right",
+            "corner",
+            "give",
+            "eliminate",
+            "obstacle"
+        ],
+        [
+            "possible",
+            "find",
+            "walk",
+            "return"
+        ]
+    ]
+}

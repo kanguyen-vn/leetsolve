@@ -1,0 +1,7 @@
+{
+    "id": 775,
+    "title": "Global and Local Inversions",
+    "title_slug": "global-and-local-inversions",
+    "backend_id": 790,
+    "content": "<div><p>We have some permutation <code>A</code> of <code>[0, 1, ..., N - 1]</code>, where <code>N</code> is the length of <code>A</code>.</p>\n\n<p>The number of (global) inversions is the number of <code>i &lt; j</code> with <code>0 &lt;= i &lt; j &lt; N</code> and <code>A[i] &gt; A[j]</code>.</p>\n\n<p>The number of local inversions is the number of <code>i</code> with <code>0 &lt;= i &lt; N</code> and <code>A[i] &gt; A[i+1]</code>.</p>\n\n<p>Return <code>true</code>&nbsp;if and only if the number of global inversions is equal to the number of local inversions.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> A = [1,0,2]\n<strong>Output:</strong> true\n<strong>Explanation:</strong> There is 1 global inversion, and 1 local inversion.\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> A = [1,2,0]\n<strong>Output:</strong> false\n<strong>Explanation:</strong> There are 2 global inversions, and 1 local inversion.\n</pre>\n\n<p><strong>Note:</strong></p>\n\n<ul>\n\t<li><code>A</code> will be a permutation of <code>[0, 1, ..., A.length - 1]</code>.</li>\n\t<li><code>A</code> will have length in range <code>[1, 5000]</code>.</li>\n\t<li>The time limit for this problem has been reduced.</li>\n</ul>\n</div>"
+}

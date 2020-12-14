@@ -1,0 +1,70 @@
+{
+    "id": 463,
+    "title": "Island Perimeter",
+    "title_slug": "island-perimeter",
+    "backend_id": 463,
+    "content": [
+        [
+            "give",
+            "represent",
+            "map",
+            "represent",
+            "land",
+            "represent",
+            "water"
+        ],
+        [
+            "grid",
+            "cell",
+            "connect",
+            "horizontally",
+            "vertically",
+            "diagonally"
+        ],
+        [
+            "completely",
+            "surrounded",
+            "water",
+            "exactly",
+            "one",
+            "island",
+            "one",
+            "connect",
+            "land",
+            "cell"
+        ],
+        [
+            "island",
+            "n't",
+            "lakes",
+            "meaning",
+            "water",
+            "inside",
+            "n't",
+            "connected",
+            "water",
+            "around",
+            "island"
+        ],
+        [
+            "one",
+            "cell",
+            "square",
+            "side",
+            "length"
+        ],
+        [
+            "grid",
+            "rectangular",
+            "width",
+            "height",
+            "n't",
+            "exceed"
+        ],
+        [
+            "determine",
+            "perimeter",
+            "island"
+        ]
+    ]
+}

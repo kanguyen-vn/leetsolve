@@ -1,0 +1,7 @@
+{
+    "id": 101,
+    "title": "Symmetric Tree",
+    "title_slug": "symmetric-tree",
+    "backend_id": 101,
+    "content": "Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).\nFor example, this binary tree  is symmetric:\n\n\u00a0\nBut the following  is not:\n\n\u00a0\n"
+}

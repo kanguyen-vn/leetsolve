@@ -1,0 +1,7 @@
+{
+    "id": 826,
+    "title": "Most Profit Assigning Work",
+    "title_slug": "most-profit-assigning-work",
+    "backend_id": 853,
+    "content": "We have jobs: \u00a0is the difficulty of the\u00a0th job, and\u00a0\u00a0is the profit of the\u00a0th job.\u00a0\nNow we have some workers.\u00a0\u00a0is the ability of the\u00a0th worker, which means that this worker can only complete a job with difficulty at most\u00a0.\u00a0\nEvery worker can be assigned at most one job, but one job\u00a0can be completed multiple times.\nFor example, if 3 people attempt the same job that pays $1, then the total profit will be $3.\u00a0 If a worker cannot complete any job, his profit is $0.\nWhat is the most profit we can make?\n\n\n"
+}

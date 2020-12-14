@@ -1,0 +1,67 @@
+{
+    "id": 374,
+    "title": "Guess Number Higher or Lower",
+    "title_slug": "guess-number-higher-or-lower",
+    "backend_id": 374,
+    "content": [
+        [
+            "play",
+            "guess",
+            "game"
+        ],
+        [
+            "game",
+            "follow",
+            "pick",
+            "number"
+        ],
+        [
+            "guess",
+            "number",
+            "pick"
+        ],
+        [
+            "every",
+            "time",
+            "guess",
+            "wrong",
+            "tell",
+            "whether",
+            "number",
+            "pick",
+            "high",
+            "low",
+            "guess"
+        ],
+        [
+            "call",
+            "pre",
+            "define",
+            "api",
+            "return",
+            "possible",
+            "result",
+            "number",
+            "pick",
+            "low",
+            "guess"
+        ],
+        [
+            "number",
+            "pick",
+            "high",
+            "guess"
+        ],
+        [
+            "number",
+            "pick",
+            "equal",
+            "guess"
+        ],
+        [
+            "return",
+            "number",
+            "pick"
+        ]
+    ]
+}

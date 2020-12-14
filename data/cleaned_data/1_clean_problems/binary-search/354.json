@@ -1,0 +1,7 @@
+{
+    "id": 354,
+    "title": "Russian Doll Envelopes",
+    "title_slug": "russian-doll-envelopes",
+    "backend_id": 354,
+    "content": "You have a number of envelopes with widths and heights given as a pair of integers . One envelope can fit into another if and only if both the width and height of one envelope is greater than the width and height of the other envelope.\nWhat is the maximum number of envelopes can you Russian doll? (put one inside other)\n"
+}

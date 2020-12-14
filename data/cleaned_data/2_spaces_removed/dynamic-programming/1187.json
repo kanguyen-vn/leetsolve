@@ -1,0 +1,7 @@
+{
+    "id": 1187,
+    "title": "Make Array Strictly Increasing",
+    "title_slug": "make-array-strictly-increasing",
+    "backend_id": 1290,
+    "content": "Given two integer arrays and , return the minimum number of operations (possibly zero) needed to make strictly increasing. In one operation, you can choose two indices and and do the assignment . If there is no way to make strictly increasing, return ."
+}

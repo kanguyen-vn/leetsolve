@@ -1,0 +1,7 @@
+{
+    "id": 1519,
+    "title": "Number of Nodes in the Sub-Tree With the Same Label",
+    "title_slug": "number-of-nodes-in-the-sub-tree-with-the-same-label",
+    "backend_id": 1643,
+    "content": "Given a tree (i.e. a connected, undirected graph that has no cycles) consisting of  nodes numbered from 0 to  and exactly  . The root of the tree is the node 0, and each node of the tree has a label which is a lower-case character given in the string  (i.e. The node with the number  has the label ).\nThe  array is given on the form , which means there is an edge between nodes  and  in the tree.\nReturn an array of size  where  is the number of nodes in the subtree of the\u00a0\u00a0node which have the same label as node .\nA\u00a0subtree\u00a0of a tree\u00a0 is the tree consisting of a node in  and all of its descendant\u00a0nodes.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n is consisting of only of lower-case English letters.\n"
+}

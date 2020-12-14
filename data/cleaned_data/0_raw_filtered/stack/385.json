@@ -1,0 +1,7 @@
+{
+    "id": 385,
+    "title": "Mini Parser",
+    "title_slug": "mini-parser",
+    "backend_id": 385,
+    "content": "<div><p>Given a nested list of integers represented as a string, implement a parser to deserialize it.</p>\n\n<p>Each element is either an integer, or a list -- whose elements may also be integers or other lists.</p>\n\n<p><b>Note:</b> You may assume that the string is well-formed:</p>\n\n<ul>\n\t<li>String is non-empty.</li>\n\t<li>String does not contain white spaces.</li>\n\t<li>String contains only digits <code>0-9</code>, <code>[</code>, <code>-</code> <code>,</code>, <code>]</code>.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><b>Example 1:</b></p>\n\n<pre>Given s = \"324\",\n\nYou should return a NestedInteger object which contains a single integer 324.\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Example 2:</b></p>\n\n<pre>Given s = \"[123,[456,[789]]]\",\n\nReturn a NestedInteger object containing a nested list with 2 elements:\n\n1. An integer containing value 123.\n2. A nested list containing two elements:\n    i.  An integer containing value 456.\n    ii. A nested list with one element:\n         a. An integer containing value 789.\n</pre>\n\n<p>&nbsp;</p>\n</div>"
+}

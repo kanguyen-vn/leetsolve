@@ -1,0 +1,7 @@
+{
+    "id": 852,
+    "title": "Peak Index in a Mountain Array",
+    "title_slug": "peak-index-in-a-mountain-array",
+    "backend_id": 882,
+    "content": "Let's call an array a mountain if the following properties hold: There exists some with such that: Given an integer array arr that is guaranteed to be a mountain, return any such that . is guaranteed to be a mountain array."
+}

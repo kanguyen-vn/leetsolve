@@ -1,0 +1,7 @@
+{
+    "id": 1000,
+    "title": "Minimum Cost to Merge Stones",
+    "title_slug": "minimum-cost-to-merge-stones",
+    "backend_id": 1042,
+    "content": "There are piles of stones arranged in a row. The -th pile has stones. A move consists of merging exactly consecutive piles into one pile, and the cost of this move is equal to the total number of stones in these piles. Find the minimum cost to merge all piles of stones into one pile. If it is impossible, return ."
+}

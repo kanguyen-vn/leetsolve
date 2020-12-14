@@ -1,0 +1,7 @@
+{
+    "id": 472,
+    "title": "Concatenated Words",
+    "title_slug": "concatenated-words",
+    "backend_id": 472,
+    "content": "Given a list of words (without duplicates), please write a program that returns all concatenated words in the given list of words.\nA concatenated word is defined as a string that is comprised entirely of at least two shorter words in the given array.\n\n\n"
+}

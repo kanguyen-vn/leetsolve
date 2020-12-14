@@ -1,0 +1,32 @@
+{
+    "id": 15,
+    "title": "3Sum",
+    "title_slug": "3sum",
+    "backend_id": 15,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "element"
+        ],
+        [
+            "find",
+            "unique",
+            "triplet",
+            "array",
+            "give",
+            "sum",
+            "zero"
+        ],
+        [
+            "notice",
+            "solution",
+            "set",
+            "must",
+            "contain",
+            "duplicate",
+            "triplet"
+        ]
+    ]
+}

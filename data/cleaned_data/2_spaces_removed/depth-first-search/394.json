@@ -1,0 +1,7 @@
+{
+    "id": 394,
+    "title": "Decode String",
+    "title_slug": "decode-string",
+    "backend_id": 394,
+    "content": "Given an encoded string, return its decoded string. The encoding rule is: , where the encoded_string inside the square brackets is being repeated exactly k times. Note that k is guaranteed to be a positive integer. You may assume that the input string is always valid; No extra white spaces, square brackets are well-formed, etc. Furthermore, you may assume that the original data does not contain any digits and that digits are only for those repeat numbers, k. For example, there won't be input like or . consists of lowercase English letters, digits, and square brackets . is guaranteed to be a valid input. All the integers in are in the range ."
+}

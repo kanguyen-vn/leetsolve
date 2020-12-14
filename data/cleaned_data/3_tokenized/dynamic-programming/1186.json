@@ -1,0 +1,54 @@
+{
+    "id": 1186,
+    "title": "Maximum Subarray Sum with One Deletion",
+    "title_slug": "maximum-subarray-sum-with-one-deletion",
+    "backend_id": 1288,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "return",
+            "maximum",
+            "sum",
+            "non",
+            "empty",
+            "subarray",
+            "contiguous",
+            "element",
+            "one",
+            "element",
+            "deletion"
+        ],
+        [
+            "word",
+            "want",
+            "choose",
+            "subarray",
+            "optionally",
+            "delete",
+            "one",
+            "element",
+            "still",
+            "least",
+            "one",
+            "element",
+            "leave",
+            "sum",
+            "remain",
+            "element",
+            "maximum",
+            "possible"
+        ],
+        [
+            "note",
+            "subarray",
+            "need",
+            "non",
+            "empty",
+            "delete",
+            "one",
+            "element"
+        ]
+    ]
+}

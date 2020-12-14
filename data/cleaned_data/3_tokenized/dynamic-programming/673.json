@@ -1,0 +1,24 @@
+{
+    "id": 673,
+    "title": "Number of Longest Increasing Subsequence",
+    "title_slug": "number-of-longest-increasing-subsequence",
+    "backend_id": 673,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "return",
+            "number",
+            "long",
+            "increase",
+            "subsequence"
+        ],
+        [
+            "notice",
+            "sequence",
+            "strictly",
+            "increase"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1282,
+    "title": "Group the People Given the Group Size They Belong To",
+    "title_slug": "group-the-people-given-the-group-size-they-belong-to",
+    "backend_id": 1407,
+    "content": "There are people that are split into some unknown number of groups. Each person is labeled with a unique ID from 0 to . You are given an integer array , where is the size of the group that person is in. For example, if , then person 1 must be in a group of size 3. Return a list of groups such that each person is in a group of size . Each person should appear in exactly one group, and every person must be in a group. If there are multiple answers, return any of them. It is guaranteed that there will be at least one valid solution for the given input."
+}

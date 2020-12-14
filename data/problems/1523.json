@@ -1,0 +1,7 @@
+{
+    "id": 1523,
+    "title": "Count Odd Numbers in an Interval Range",
+    "title_slug": "count-odd-numbers-in-an-interval-range",
+    "backend_id": 1630,
+    "content": "<div><p>Given two non-negative integers <code>low</code> and <code><font face=\"monospace\">high</font></code>. Return the <em>count of odd numbers between </em><code>low</code><em> and </em><code><font face=\"monospace\">high</font></code><em>&nbsp;(inclusive)</em>.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> low = 3, high = 7\n<strong>Output:</strong> 3\n<b>Explanation: </b>The odd numbers between 3 and 7 are [3,5,7].</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> low = 8, high = 10\n<strong>Output:</strong> 1\n<b>Explanation: </b>The odd numbers between 8 and 10 are [9].</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= low &lt;= high&nbsp;&lt;= 10^9</code></li>\n</ul></div>"
+}

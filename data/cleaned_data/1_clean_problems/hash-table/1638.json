@@ -1,0 +1,7 @@
+{
+    "id": 1638,
+    "title": "Count Substrings That Differ by One Character",
+    "title_slug": "count-substrings-that-differ-by-one-character",
+    "backend_id": 1743,
+    "content": "Given two strings  and , find the number of ways you can choose a non-empty substring of  and replace a single character by a different character such that the resulting substring is a substring of . In other words, find the number of substrings in  that differ from some substring in  by exactly one character.\nFor example, the underlined substrings in  and  only differ by the /, so this is a valid way.\nReturn the number of substrings that satisfy the condition above.\nA substring is a contiguous sequence of characters within a string.\n\u00a0\n\n\n\u200b\u200b\n\n\n\n\n\n\u00a0\n\n\n\n and  consist of lowercase English letters only.\n\n"
+}

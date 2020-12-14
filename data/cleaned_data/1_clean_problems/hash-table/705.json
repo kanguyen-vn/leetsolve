@@ -1,0 +1,7 @@
+{
+    "id": 705,
+    "title": "Design HashSet",
+    "title_slug": "design-hashset",
+    "backend_id": 816,
+    "content": "Design a HashSet\u00a0without using any built-in hash table libraries.\nTo be specific, your design should include these functions:\n\n:\u00a0Insert a value into the HashSet.\u00a0\n : Return whether the value exists in the HashSet or not.\n: Remove a value in\u00a0the HashSet. If the value does not exist in the HashSet, do nothing.\n\n\n\n\n"
+}

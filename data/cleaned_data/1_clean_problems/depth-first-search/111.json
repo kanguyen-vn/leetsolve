@@ -1,0 +1,7 @@
+{
+    "id": 111,
+    "title": "Minimum Depth of Binary Tree",
+    "title_slug": "minimum-depth-of-binary-tree",
+    "backend_id": 111,
+    "content": "Given a binary tree, find its minimum depth.\nThe minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.\n"
+}

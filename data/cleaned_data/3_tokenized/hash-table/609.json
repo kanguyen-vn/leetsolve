@@ -1,0 +1,87 @@
+{
+    "id": 609,
+    "title": "Find Duplicate File in System",
+    "title_slug": "find-duplicate-file-in-system",
+    "backend_id": 609,
+    "content": [
+        [
+            "give",
+            "list",
+            "directory",
+            "info",
+            "include",
+            "directory",
+            "path",
+            "file",
+            "content",
+            "directory",
+            "need",
+            "find",
+            "group",
+            "duplicate",
+            "file",
+            "file",
+            "system",
+            "term",
+            "path"
+        ],
+        [
+            "group",
+            "duplicate",
+            "file",
+            "consist",
+            "least",
+            "two",
+            "file",
+            "exactly",
+            "content"
+        ],
+        [
+            "single",
+            "directory",
+            "info",
+            "string",
+            "input",
+            "list",
+            "follow",
+            "format",
+            "mean",
+            "file",
+            "content",
+            "respectively",
+            "directory"
+        ],
+        [
+            "note"
+        ],
+        [
+            "mean",
+            "directory",
+            "root",
+            "directory"
+        ],
+        [
+            "output",
+            "list",
+            "group",
+            "duplicate",
+            "file",
+            "path"
+        ],
+        [
+            "group",
+            "contain",
+            "file",
+            "path",
+            "file",
+            "content"
+        ],
+        [
+            "file",
+            "path",
+            "string",
+            "follow",
+            "format"
+        ]
+    ]
+}

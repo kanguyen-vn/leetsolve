@@ -1,0 +1,7 @@
+{
+    "id": 1655,
+    "title": "Distribute Repeating Integers",
+    "title_slug": "distribute-repeating-integers",
+    "backend_id": 1758,
+    "content": "You are given an array of  integers, , where there are at most 50 unique values in the array. You are also given an array of  customer order quantities, , where  is the amount of integers the  customer ordered. Determine if it is possible to distribute  such that:\n\nThe  customer gets exactly  integers,\nThe integers the  customer gets are all equal, and\nEvery customer is satisfied.\n\nReturn  if it is possible to distribute  according to the above conditions.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\nThere are at most 50 unique values in .\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1654,
+    "title": "Minimum Jumps to Reach Home",
+    "title_slug": "minimum-jumps-to-reach-home",
+    "backend_id": 1757,
+    "content": "A certain bug's home is on the x-axis at position . Help them get there from position 0.\nThe bug jumps according to the following rules:\n\nIt can jump exactly  positions forward (to the right).\nIt can jump exactly  positions backward (to the left).\nIt cannot jump backward twice in a row.\nIt cannot jump to any  positions.\n\nThe bug may jump forward beyond its home, but it cannot jump to positions numbered with negative integers.\nGiven an array of integers , where  means that the bug cannot jump to the position , and integers , , and , return the minimum number of jumps needed for the bug to reach its home. If there is no possible sequence of jumps that lands the bug on position , return \n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\nAll the elements in  are distinct.\nPosition  is not forbidden.\n\n"
+}

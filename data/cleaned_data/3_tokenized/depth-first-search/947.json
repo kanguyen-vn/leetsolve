@@ -1,0 +1,43 @@
+{
+    "id": 947,
+    "title": "Most Stones Removed with Same Row or Column",
+    "title_slug": "most-stones-removed-with-same-row-or-column",
+    "backend_id": 984,
+    "content": [
+        [
+            "2d",
+            "plane",
+            "place",
+            "stone",
+            "integer",
+            "coordinate",
+            "point"
+        ],
+        [
+            "coordinate",
+            "point",
+            "may",
+            "one",
+            "stone"
+        ],
+        [
+            "move",
+            "consist",
+            "remove",
+            "stone",
+            "share",
+            "column",
+            "row",
+            "another",
+            "stone",
+            "grid"
+        ],
+        [
+            "large",
+            "possible",
+            "number",
+            "move",
+            "make"
+        ]
+    ]
+}

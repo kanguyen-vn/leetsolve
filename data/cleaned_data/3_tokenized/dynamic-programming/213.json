@@ -1,0 +1,74 @@
+{
+    "id": 213,
+    "title": "House Robber II",
+    "title_slug": "house-robber-ii",
+    "backend_id": 213,
+    "content": [
+        [
+            "professional",
+            "robber",
+            "planning",
+            "rob",
+            "house",
+            "along",
+            "street"
+        ],
+        [
+            "house",
+            "certain",
+            "amount",
+            "money",
+            "stash"
+        ],
+        [
+            "house",
+            "place",
+            "arranged",
+            "circle"
+        ],
+        [
+            "mean",
+            "first",
+            "house",
+            "neighbor",
+            "last",
+            "one"
+        ],
+        [
+            "meanwhile",
+            "adjacent",
+            "house",
+            "security",
+            "system",
+            "connect",
+            "automatically",
+            "contact",
+            "police",
+            "two",
+            "adjacent",
+            "house",
+            "break",
+            "night"
+        ],
+        [
+            "give",
+            "list",
+            "non",
+            "negative",
+            "integer",
+            "represent",
+            "amount",
+            "money",
+            "house",
+            "return",
+            "maximum",
+            "amount",
+            "money",
+            "rob",
+            "tonight",
+            "without",
+            "alert",
+            "police"
+        ]
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 524,
+    "title": "Longest Word in Dictionary through Deleting",
+    "title_slug": "longest-word-in-dictionary-through-deleting",
+    "backend_id": 524,
+    "content": [
+        [
+            "give",
+            "string",
+            "string",
+            "dictionary",
+            "find",
+            "long",
+            "string",
+            "dictionary",
+            "form",
+            "delete",
+            "character",
+            "give",
+            "string"
+        ],
+        [
+            "one",
+            "possible",
+            "result",
+            "return",
+            "long",
+            "word",
+            "small",
+            "lexicographical",
+            "order"
+        ],
+        [
+            "possible",
+            "result",
+            "return",
+            "empty",
+            "string"
+        ]
+    ]
+}

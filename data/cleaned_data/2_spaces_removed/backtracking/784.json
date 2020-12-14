@@ -1,0 +1,7 @@
+{
+    "id": 784,
+    "title": "Letter Case Permutation",
+    "title_slug": "letter-case-permutation",
+    "backend_id": 800,
+    "content": "Given a string S, we can transform every letter individually to be lowercase or uppercase to create another string. Return a list of all possible strings we could create. You can return the output in any order. will be a string with length between 1 and 12. will consist only of letters or digits."
+}

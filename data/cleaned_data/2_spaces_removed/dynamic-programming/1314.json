@@ -1,0 +1,7 @@
+{
+    "id": 1314,
+    "title": "Matrix Block Sum",
+    "title_slug": "matrix-block-sum",
+    "backend_id": 1242,
+    "content": "Given a matrix and an integer , return a matrix where each is the sum of all elements for , and is a valid position in the matrix."
+}

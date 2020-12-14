@@ -1,0 +1,7 @@
+{
+    "id": 53,
+    "title": "Maximum Subarray",
+    "title_slug": "maximum-subarray",
+    "backend_id": 53,
+    "content": "Given an integer array , find the contiguous subarray (containing at least one number) which has the largest sum and return its sum."
+}

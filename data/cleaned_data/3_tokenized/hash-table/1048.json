@@ -1,0 +1,61 @@
+{
+    "id": 1048,
+    "title": "Longest String Chain",
+    "title_slug": "longest-string-chain",
+    "backend_id": 1129,
+    "content": [
+        [
+            "give",
+            "list",
+            "word",
+            "word",
+            "consist",
+            "english",
+            "lowercase",
+            "letter"
+        ],
+        [
+            "let",
+            "'s",
+            "say",
+            "predecessor",
+            "add",
+            "exactly",
+            "one",
+            "letter",
+            "anywhere",
+            "make",
+            "equal"
+        ],
+        [
+            "example",
+            "predecessor"
+        ],
+        [
+            "word",
+            "chain",
+            "sequence",
+            "word",
+            "predecessor",
+            "predecessor"
+        ],
+        [
+            "return",
+            "long",
+            "possible",
+            "length",
+            "word",
+            "chain",
+            "word",
+            "choose",
+            "give",
+            "list"
+        ],
+        [
+            "consist",
+            "english",
+            "lowercase",
+            "letter"
+        ]
+    ]
+}

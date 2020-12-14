@@ -1,0 +1,16 @@
+{
+    "id": 930,
+    "title": "Binary Subarrays With Sum",
+    "title_slug": "binary-subarrays-with-sum",
+    "backend_id": 966,
+    "content": [
+        [
+            "array",
+            "many",
+            "non",
+            "empty",
+            "subarrays",
+            "sum"
+        ]
+    ]
+}

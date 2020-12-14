@@ -1,0 +1,57 @@
+{
+    "id": 1337,
+    "title": "The K Weakest Rows in a Matrix",
+    "title_slug": "the-k-weakest-rows-in-a-matrix",
+    "backend_id": 1463,
+    "content": [
+        [
+            "give",
+            "matrix",
+            "one",
+            "represent",
+            "soldier",
+            "zero",
+            "represent",
+            "civilian",
+            "return",
+            "index",
+            "weak",
+            "row",
+            "matrix",
+            "order",
+            "weak",
+            "strongest"
+        ],
+        [
+            "row",
+            "weaker",
+            "row",
+            "number",
+            "soldier",
+            "row",
+            "less",
+            "number",
+            "soldier",
+            "row",
+            "number",
+            "soldier",
+            "less"
+        ],
+        [
+            "soldier",
+            "always",
+            "stand",
+            "frontier",
+            "row",
+            "always",
+            "one",
+            "may",
+            "appear",
+            "first",
+            "zero"
+        ],
+        [
+            "either"
+        ]
+    ]
+}

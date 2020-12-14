@@ -1,0 +1,51 @@
+{
+    "id": 1536,
+    "title": "Minimum Swaps to Arrange a Binary Grid",
+    "title_slug": "minimum-swaps-to-arrange-a-binary-grid",
+    "backend_id": 1658,
+    "content": [
+        [
+            "give",
+            "binary",
+            "one",
+            "step",
+            "choose",
+            "two",
+            "adjacent",
+            "row",
+            "grid",
+            "swap"
+        ],
+        [
+            "grid",
+            "say",
+            "valid",
+            "cell",
+            "main",
+            "diagonal",
+            "zero"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "step",
+            "need",
+            "make",
+            "grid",
+            "valid",
+            "grid",
+            "valid"
+        ],
+        [
+            "main",
+            "diagonal",
+            "grid",
+            "diagonal",
+            "start",
+            "cell",
+            "end",
+            "cell"
+        ]
+    ]
+}

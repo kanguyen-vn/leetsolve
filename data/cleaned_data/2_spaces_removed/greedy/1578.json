@@ -1,0 +1,7 @@
+{
+    "id": 1578,
+    "title": "Minimum Deletion Cost to Avoid Repeating Letters",
+    "title_slug": "minimum-deletion-cost-to-avoid-repeating-letters",
+    "backend_id": 1700,
+    "content": "Given a string and an array of integers where is the cost of deleting the character in . Return the minimum cost of deletions such that there are no two identical letters next to each other. Notice that you will delete the chosen characters at the same time, in other words, after deleting a character, the costs of deleting other characters will not change. contains only lowercase English letters."
+}

@@ -1,0 +1,55 @@
+{
+    "id": 1593,
+    "title": "Split a String Into the Max Number of Unique Substrings",
+    "title_slug": "split-a-string-into-the-max-number-of-unique-substrings",
+    "backend_id": 1715,
+    "content": [
+        [
+            "give",
+            "string",
+            "return",
+            "maximum",
+            "number",
+            "unique",
+            "substring",
+            "give",
+            "string",
+            "split"
+        ],
+        [
+            "split",
+            "string",
+            "list",
+            "non",
+            "empty",
+            "substring",
+            "concatenation",
+            "substring",
+            "form",
+            "original",
+            "string"
+        ],
+        [
+            "however",
+            "must",
+            "split",
+            "substring",
+            "unique"
+        ],
+        [
+            "substring",
+            "contiguous",
+            "sequence",
+            "character",
+            "within",
+            "string"
+        ],
+        [
+            "contain",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": 69,
+    "title": "Sqrt(x)",
+    "title_slug": "sqrtx",
+    "backend_id": 69,
+    "content": [
+        [
+            "give",
+            "non",
+            "negative",
+            "integer",
+            "compute",
+            "return",
+            "square",
+            "root"
+        ],
+        [
+            "since",
+            "return",
+            "type",
+            "integer",
+            "decimal",
+            "digit",
+            "truncate",
+            "integer",
+            "part",
+            "result",
+            "return"
+        ]
+    ]
+}

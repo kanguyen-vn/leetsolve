@@ -1,0 +1,7 @@
+{
+    "id": 1293,
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "title_slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+    "backend_id": 1414,
+    "content": "Given a  grid, where each cell is either 0 (empty)\u00a0or 1 (obstacle).\u00a0In one step, you can move up, down, left or right from and to an empty cell.\nReturn the minimum number of steps to walk from the upper left corner\u00a0\u00a0to the lower right corner\u00a0 given that you can eliminate\u00a0at most  obstacles. If it is not possible to find such\u00a0walk return -1.\n\u00a0\n\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n"
+}

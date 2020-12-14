@@ -1,0 +1,38 @@
+{
+    "id": 970,
+    "title": "Powerful Integers",
+    "title_slug": "powerful-integers",
+    "backend_id": 1010,
+    "content": [
+        [
+            "give",
+            "two",
+            "positive",
+            "integer",
+            "integer",
+            "powerful",
+            "equal",
+            "integer"
+        ],
+        [
+            "return",
+            "list",
+            "powerful",
+            "integer",
+            "value",
+            "less",
+            "equal"
+        ],
+        [
+            "may",
+            "return",
+            "answer",
+            "order"
+        ],
+        [
+            "answer",
+            "value",
+            "occur"
+        ]
+    ]
+}

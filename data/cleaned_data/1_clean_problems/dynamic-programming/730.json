@@ -1,0 +1,7 @@
+{
+    "id": 730,
+    "title": "Count Different Palindromic Subsequences",
+    "title_slug": "count-different-palindromic-subsequences",
+    "backend_id": 730,
+    "content": "\nGiven a string S, find the number of different non-empty palindromic subsequences in S, and return that number modulo .\n\nA subsequence of a string S is obtained by deleting 0 or more characters from S.\n\nA sequence is palindromic if it is equal to the sequence reversed.\n\nTwo sequences  and  are different if there is some  for which .\n\n\n\n\n\n"
+}

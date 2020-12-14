@@ -1,0 +1,38 @@
+{
+    "id": 632,
+    "title": "Smallest Range Covering Elements from K Lists",
+    "title_slug": "smallest-range-covering-elements-from-k-lists",
+    "backend_id": 632,
+    "content": [
+        [
+            "list",
+            "sort",
+            "integer",
+            "non",
+            "decrease",
+            "order"
+        ],
+        [
+            "find",
+            "small",
+            "range",
+            "include",
+            "least",
+            "one",
+            "number",
+            "list"
+        ],
+        [
+            "define",
+            "range",
+            "small",
+            "range"
+        ],
+        [
+            "sort",
+            "non",
+            "decrease",
+            "order"
+        ]
+    ]
+}

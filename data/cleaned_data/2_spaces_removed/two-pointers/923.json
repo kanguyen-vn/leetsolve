@@ -1,0 +1,7 @@
+{
+    "id": 923,
+    "title": "3Sum With Multiplicity",
+    "title_slug": "3sum-with-multiplicity",
+    "backend_id": 959,
+    "content": "Given an integer array , and an integer , return the number of tuples such that and . As the answer can be very large, return it modulo ."
+}

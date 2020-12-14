@@ -1,0 +1,29 @@
+{
+    "id": 139,
+    "title": "Word Break",
+    "title_slug": "word-break",
+    "backend_id": 139,
+    "content": [
+        [
+            "give",
+            "non",
+            "empty",
+            "string",
+            "dictionary",
+            "worddict",
+            "contain",
+            "list",
+            "non",
+            "empty",
+            "word",
+            "determine",
+            "segment",
+            "space",
+            "separate",
+            "sequence",
+            "one",
+            "dictionary",
+            "word"
+        ]
+    ]
+}

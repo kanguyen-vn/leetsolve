@@ -1,0 +1,7 @@
+{
+    "id": 520,
+    "title": "Detect Capital",
+    "title_slug": "detect-capital",
+    "backend_id": 520,
+    "content": "<div><p>Given a word, you need to judge whether the usage of capitals in it is right or not.</p>\n\n<p>We define the usage of capitals in a word to be right when one of the following cases holds:</p>\n\n<ol>\n\t<li>All letters in this word are capitals, like \"USA\".</li>\n\t<li>All letters in this word are not capitals, like \"leetcode\".</li>\n\t<li>Only the first letter in this word is capital, like \"Google\".</li>\n</ol>\nOtherwise, we define that this word doesn't use capitals in a right way.\n\n<p>&nbsp;</p>\n\n<p><b>Example 1:</b></p>\n\n<pre><b>Input:</b> \"USA\"\n<b>Output:</b> True\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Example 2:</b></p>\n\n<pre><b>Input:</b> \"FlaG\"\n<b>Output:</b> False\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Note:</b> The input will be a non-empty word consisting of uppercase and lowercase latin letters.</p>\n</div>"
+}

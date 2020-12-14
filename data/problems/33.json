@@ -1,0 +1,7 @@
+{
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "title_slug": "search-in-rotated-sorted-array",
+    "backend_id": 33,
+    "content": "<div><p>You are given an integer array <code>nums</code> sorted in ascending order, and an integer <code>target</code>.</p>\n\n<p>Suppose that <code>nums</code> is rotated at some pivot unknown to you beforehand (i.e., <code>[0,1,2,4,5,6,7]</code> might become <code>[4,5,6,7,0,1,2]</code>).</p>\n\n<p><em>If <code>target</code> is found in the array return its index, otherwise, return <code>-1</code>.</em></p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> nums = [4,5,6,7,0,1,2], target = 0\n<strong>Output:</strong> 4\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> nums = [4,5,6,7,0,1,2], target = 3\n<strong>Output:</strong> -1\n</pre><p><strong>Example 3:</strong></p>\n<pre><strong>Input:</strong> nums = [1], target = 0\n<strong>Output:</strong> -1\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= nums.length &lt;= 5000</code></li>\n\t<li><code>-10^4 &lt;= nums[i] &lt;= 10^4</code></li>\n\t<li>All values of <code>nums</code> are <strong>unique</strong>.</li>\n\t<li><code>nums</code> is guranteed to be rotated at some pivot.</li>\n\t<li><code>-10^4 &lt;= target &lt;= 10^4</code></li>\n</ul>\n</div>"
+}

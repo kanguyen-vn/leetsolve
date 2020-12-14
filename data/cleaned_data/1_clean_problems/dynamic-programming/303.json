@@ -1,0 +1,7 @@
+{
+    "id": 303,
+    "title": "Range Sum Query - Immutable",
+    "title_slug": "range-sum-query-immutable",
+    "backend_id": 303,
+    "content": "Given an integer array , find the sum of the elements between indices  and  , inclusive.\nImplement the\u00a0 class:\n\n Initializes the object with the integer array .\n Return the sum of the elements of the  array in the range  inclusive (i.e., )\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\nAt most 104 calls will be made to .\n\n"
+}

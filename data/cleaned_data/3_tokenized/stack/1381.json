@@ -1,0 +1,64 @@
+{
+    "id": 1381,
+    "title": "Design a Stack With Increment Operation",
+    "title_slug": "design-a-stack-with-increment-operation",
+    "backend_id": 1497,
+    "content": [
+        [
+            "design",
+            "stack",
+            "support",
+            "follow",
+            "operation"
+        ],
+        [
+            "implement",
+            "class",
+            "initialize",
+            "object",
+            "maximum",
+            "number",
+            "element",
+            "stack",
+            "nothing",
+            "stack",
+            "reach"
+        ],
+        [
+            "add",
+            "top",
+            "stack",
+            "stack",
+            "n't",
+            "reach"
+        ],
+        [
+            "pop",
+            "return",
+            "top",
+            "stack",
+            "stack",
+            "empty"
+        ],
+        [
+            "increment",
+            "bottom",
+            "element",
+            "stack"
+        ],
+        [
+            "less",
+            "element",
+            "stack",
+            "increment",
+            "element",
+            "stack"
+        ],
+        [
+            "call",
+            "make",
+            "method",
+            "separately"
+        ]
+    ]
+}

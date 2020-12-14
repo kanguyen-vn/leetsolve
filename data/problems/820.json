@@ -1,0 +1,7 @@
+{
+    "id": 820,
+    "title": "Short Encoding of Words",
+    "title_slug": "short-encoding-of-words",
+    "backend_id": 839,
+    "content": "<div><p>Given a list of words, we may encode it by writing a reference string <code>S</code> and a list of indexes <code>A</code>.</p>\n\n<p>For example, if the list of words is <code>[\"time\", \"me\", \"bell\"]</code>, we can write it as <code>S = \"time#bell#\"</code>&nbsp;and <code>indexes = [0, 2, 5]</code>.</p>\n\n<p>Then for each index, we will recover the word by reading from the reference string from that index until we reach a <code>\"#\"</code> character.</p>\n\n<p>What is the length of the shortest reference string S possible that encodes the given words?</p>\n\n<p><strong>Example:</strong></p>\n\n<pre><strong>Input:</strong> words = <code>[\"time\", \"me\", \"bell\"]</code>\n<strong>Output:</strong> 10\n<strong>Explanation:</strong> S = <code>\"time#bell#\" and indexes = [0, 2, 5</code>].\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Note:</strong></p>\n\n<ol>\n\t<li><code>1 &lt;= words.length&nbsp;&lt;= 2000</code>.</li>\n\t<li><code>1 &lt;=&nbsp;words[i].length&nbsp;&lt;= 7</code>.</li>\n\t<li>Each word&nbsp;has only&nbsp;lowercase letters.</li>\n</ol>\n</div>"
+}

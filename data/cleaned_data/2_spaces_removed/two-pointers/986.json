@@ -1,0 +1,7 @@
+{
+    "id": 986,
+    "title": "Interval List Intersections",
+    "title_slug": "interval-list-intersections",
+    "backend_id": 1028,
+    "content": "Given two lists of closed intervals, each list of intervals is pairwise disjoint and in sorted order. Return the intersection of these two interval lists. (Formally, a closed interval (with ) denotes the set of real numbers with . The intersection of two closed intervals is a set of real numbers that is either empty, or can be represented as a closed interval. For example, the intersection of [1, 3] and [2, 4] is [2, 3].)"
+}

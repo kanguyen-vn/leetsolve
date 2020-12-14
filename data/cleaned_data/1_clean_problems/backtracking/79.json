@@ -1,0 +1,7 @@
+{
+    "id": 79,
+    "title": "Word Search",
+    "title_slug": "word-search",
+    "backend_id": 79,
+    "content": "Given an\u00a0  and a , find if the word exists in the grid.\nThe word can be constructed from letters of sequentially adjacent cells, where \"adjacent\" cells are horizontally or vertically neighboring. The same letter cell may not be used more than once.\n\u00a0\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\u00a0and  consists only of lowercase and uppercase English letters.\n\n"
+}

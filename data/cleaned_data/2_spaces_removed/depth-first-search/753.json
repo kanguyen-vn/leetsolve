@@ -1,0 +1,7 @@
+{
+    "id": 753,
+    "title": "Cracking the Safe",
+    "title_slug": "cracking-the-safe",
+    "backend_id": 754,
+    "content": "There is a box protected by a password. The password is a sequence of digits where each digit can be one of the first digits . While entering a password, the last digits entered will automatically be matched against the correct password. For example, assuming the correct password is , if you type , the box will open because the correct password matches the suffix of the entered password. Return any password of minimum length that is guaranteed to open the box at some point of entering it."
+}

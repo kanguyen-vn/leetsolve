@@ -1,0 +1,7 @@
+{
+    "id": 462,
+    "title": "Minimum Moves to Equal Array Elements II",
+    "title_slug": "minimum-moves-to-equal-array-elements-ii",
+    "backend_id": 462,
+    "content": "<div><p></p><p>Given a <b>non-empty</b> integer array, find the minimum number of moves required to make all array elements equal, where a move is incrementing a selected element by 1 or decrementing a selected element by 1.</p>\n\n<p>You may assume the array's length is at most 10,000.</p>\n\n<p><b>Example:</b>\n</p><pre><b>Input:</b>\n[1,2,3]\n\n<b>Output:</b>\n2\n\n<b>Explanation:</b>\nOnly two moves are needed (remember each move increments or decrements one element):\n\n[1,2,3]  =&gt;  [2,2,3]  =&gt;  [2,2,2]\n</pre>\n<p></p><p></p></div>"
+}

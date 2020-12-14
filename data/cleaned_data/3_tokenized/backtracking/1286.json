@@ -1,0 +1,54 @@
+{
+    "id": 1286,
+    "title": "Iterator for Combination",
+    "title_slug": "iterator-for-combination",
+    "backend_id": 1211,
+    "content": [
+        [
+            "design",
+            "iterator",
+            "class",
+            "constructor",
+            "take",
+            "string",
+            "sort",
+            "distinct",
+            "lowercase",
+            "english",
+            "letter",
+            "number",
+            "argument"
+        ],
+        [
+            "function",
+            "next",
+            "return",
+            "next",
+            "combination",
+            "length",
+            "lexicographical",
+            "order"
+        ],
+        [
+            "function",
+            "hasnext",
+            "return",
+            "exist",
+            "next",
+            "combination"
+        ],
+        [
+            "function",
+            "call",
+            "per",
+            "test"
+        ],
+        [
+            "'s",
+            "guaranteed",
+            "call",
+            "function",
+            "valid"
+        ]
+    ]
+}

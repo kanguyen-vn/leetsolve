@@ -1,0 +1,7 @@
+{
+    "id": 154,
+    "title": "Find Minimum in Rotated Sorted Array II",
+    "title_slug": "find-minimum-in-rotated-sorted-array-ii",
+    "backend_id": 154,
+    "content": "<div><p>Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.</p>\n\n<p>(i.e., &nbsp;<code>[0,1,2,4,5,6,7]</code>&nbsp;might become &nbsp;<code>[4,5,6,7,0,1,2]</code>).</p>\n\n<p>Find the minimum element.</p>\n\n<p>The array may contain duplicates.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> [1,3,5]\n<strong>Output:</strong> 1</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> [2,2,2,0,1]\n<strong>Output:</strong> 0</pre>\n\n<p><strong>Note:</strong></p>\n\n<ul>\n\t<li>This is a follow up problem to&nbsp;<a href=\"https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/\">Find Minimum in Rotated Sorted Array</a>.</li>\n\t<li>Would allow duplicates affect the run-time complexity? How and why?</li>\n</ul>\n</div>"
+}

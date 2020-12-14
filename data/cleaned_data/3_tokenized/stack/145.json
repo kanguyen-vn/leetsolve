@@ -1,0 +1,24 @@
+{
+    "id": 145,
+    "title": "Binary Tree Postorder Traversal",
+    "title_slug": "binary-tree-postorder-traversal",
+    "backend_id": 145,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "return",
+            "postorder",
+            "traversal",
+            "node",
+            "value"
+        ],
+        [
+            "number",
+            "node",
+            "tree",
+            "range"
+        ]
+    ]
+}

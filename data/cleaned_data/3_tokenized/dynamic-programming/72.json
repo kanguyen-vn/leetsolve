@@ -1,0 +1,36 @@
+{
+    "id": 72,
+    "title": "Edit Distance",
+    "title_slug": "edit-distance",
+    "backend_id": 72,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "return",
+            "minimum",
+            "number",
+            "operation",
+            "require",
+            "convert"
+        ],
+        [
+            "follow",
+            "three",
+            "operation",
+            "permit",
+            "word",
+            "insert",
+            "character",
+            "delete",
+            "character",
+            "replace",
+            "character",
+            "consist",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 287,
+    "title": "Find the Duplicate Number",
+    "title_slug": "find-the-duplicate-number",
+    "backend_id": 287,
+    "content": "Given an array of integers containing integers where each integer is in the range inclusive. There is only one duplicate number in , return this duplicate number."
+}

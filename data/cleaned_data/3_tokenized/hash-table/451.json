@@ -1,0 +1,18 @@
+{
+    "id": 451,
+    "title": "Sort Characters By Frequency",
+    "title_slug": "sort-characters-by-frequency",
+    "backend_id": 451,
+    "content": [
+        [
+            "give",
+            "string",
+            "sort",
+            "decrease",
+            "order",
+            "base",
+            "frequency",
+            "character"
+        ]
+    ]
+}

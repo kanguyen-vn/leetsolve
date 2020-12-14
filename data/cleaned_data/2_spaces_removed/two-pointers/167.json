@@ -1,0 +1,7 @@
+{
+    "id": 167,
+    "title": "Two Sum II - Input array is sorted",
+    "title_slug": "two-sum-ii-input-array-is-sorted",
+    "backend_id": 167,
+    "content": "Given an array of integers that is already sorted in ascending order, find two numbers such that they add up to a specific target number. The function twoSum should return indices of the two numbers such that they add up to the target, where index1 must be less than index2."
+}

@@ -1,0 +1,64 @@
+{
+    "id": 1019,
+    "title": "Next Greater Node In Linked List",
+    "title_slug": "next-greater-node-in-linked-list",
+    "backend_id": 1072,
+    "content": [
+        [
+            "give",
+            "link",
+            "list",
+            "first",
+            "node"
+        ],
+        [
+            "let",
+            "'s",
+            "number",
+            "node",
+            "list",
+            "etc"
+        ],
+        [
+            "node",
+            "may",
+            "next",
+            "large",
+            "value",
+            "small",
+            "possible",
+            "choice"
+        ],
+        [
+            "exist",
+            "next",
+            "large",
+            "value"
+        ],
+        [
+            "return",
+            "array",
+            "integer"
+        ],
+        [
+            "note",
+            "example",
+            "input",
+            "output",
+            "arrays",
+            "represent",
+            "serialization",
+            "link",
+            "list",
+            "head",
+            "node",
+            "value",
+            "second",
+            "node",
+            "value",
+            "third",
+            "node",
+            "value"
+        ]
+    ]
+}

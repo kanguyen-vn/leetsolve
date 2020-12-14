@@ -1,0 +1,74 @@
+{
+    "id": 948,
+    "title": "Bag of Tokens",
+    "title_slug": "bag-of-tokens",
+    "backend_id": 985,
+    "content": [
+        [
+            "initial",
+            "power",
+            "initial",
+            "score",
+            "bag",
+            "value",
+            "token",
+            "indexed"
+        ],
+        [
+            "goal",
+            "maximize",
+            "total",
+            "score",
+            "potentially",
+            "play",
+            "token",
+            "one",
+            "two",
+            "way",
+            "current",
+            "power",
+            "least",
+            "may",
+            "play",
+            "token",
+            "face",
+            "lose",
+            "power",
+            "gain",
+            "score"
+        ],
+        [
+            "current",
+            "score",
+            "least",
+            "may",
+            "play",
+            "token",
+            "face",
+            "gain",
+            "power",
+            "lose",
+            "score"
+        ],
+        [
+            "token",
+            "may",
+            "play",
+            "order"
+        ],
+        [
+            "play",
+            "token"
+        ],
+        [
+            "return",
+            "large",
+            "possible",
+            "score",
+            "achieve",
+            "play",
+            "number",
+            "token"
+        ]
+    ]
+}

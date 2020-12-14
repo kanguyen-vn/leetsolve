@@ -1,0 +1,41 @@
+{
+    "id": 79,
+    "title": "Word Search",
+    "title_slug": "word-search",
+    "backend_id": 79,
+    "content": [
+        [
+            "give",
+            "find",
+            "word",
+            "exist",
+            "grid"
+        ],
+        [
+            "word",
+            "construct",
+            "letter",
+            "sequentially",
+            "adjacent",
+            "cell",
+            "adjacent",
+            "cell",
+            "horizontally",
+            "vertically",
+            "neighbor"
+        ],
+        [
+            "letter",
+            "cell",
+            "may",
+            "use"
+        ],
+        [
+            "consist",
+            "lowercase",
+            "uppercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

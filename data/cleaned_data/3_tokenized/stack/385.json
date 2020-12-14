@@ -1,0 +1,31 @@
+{
+    "id": 385,
+    "title": "Mini Parser",
+    "title_slug": "mini-parser",
+    "backend_id": 385,
+    "content": [
+        [
+            "give",
+            "nested",
+            "list",
+            "integer",
+            "represent",
+            "string",
+            "implement",
+            "parser",
+            "deserialize"
+        ],
+        [
+            "element",
+            "either",
+            "integer",
+            "list",
+            "whose",
+            "element",
+            "may",
+            "also",
+            "integers",
+            "list"
+        ]
+    ]
+}

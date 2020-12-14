@@ -1,0 +1,7 @@
+{
+    "id": 1441,
+    "title": "Build an Array With Stack Operations",
+    "title_slug": "build-an-array-with-stack-operations",
+    "backend_id": 1552,
+    "content": "Given an array  and\u00a0an integer . In each iteration, you will read a number from \u00a0.\nBuild the \u00a0array\u00a0using the following operations:\n\nPush: Read a new element from the beginning\u00a0, and push it in the array.\nPop: delete the last element of\u00a0the array.\nIf the target array is already\u00a0built, stop reading more elements.\n\nYou are guaranteed that the target array is strictly\u00a0increasing, only containing\u00a0numbers between 1 to \u00a0inclusive.\nReturn the operations to build the target array.\nYou are guaranteed that the answer is unique.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n is strictly\u00a0increasing.\n\n"
+}

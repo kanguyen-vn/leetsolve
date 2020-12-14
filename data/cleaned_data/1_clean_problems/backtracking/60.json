@@ -1,0 +1,7 @@
+{
+    "id": 60,
+    "title": "Permutation Sequence",
+    "title_slug": "permutation-sequence",
+    "backend_id": 60,
+    "content": "The set  contains a total of  unique permutations.\nBy listing and labeling all of the permutations in order, we get the following sequence for :\n\n\n\n\n\n\n\n\nGiven  and , return the  permutation sequence.\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

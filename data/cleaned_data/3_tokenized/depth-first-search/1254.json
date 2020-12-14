@@ -1,0 +1,35 @@
+{
+    "id": 1254,
+    "title": "Number of Closed Islands",
+    "title_slug": "number-of-closed-islands",
+    "backend_id": 1380,
+    "content": [
+        [
+            "give",
+            "2d",
+            "consist",
+            "land",
+            "water"
+        ],
+        [
+            "island",
+            "maximal",
+            "directionally",
+            "connect",
+            "group",
+            "close",
+            "island",
+            "island",
+            "totally",
+            "leave",
+            "top",
+            "right",
+            "bottom",
+            "surround",
+            "return",
+            "number",
+            "close",
+            "island"
+        ]
+    ]
+}

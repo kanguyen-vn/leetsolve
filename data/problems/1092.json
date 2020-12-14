@@ -1,0 +1,7 @@
+{
+    "id": 1092,
+    "title": "Shortest Common Supersequence",
+    "title_slug": "shortest-common-supersequence",
+    "backend_id": 1170,
+    "content": "<div><p>Given two strings <code>str1</code> and <code>str2</code>,&nbsp;return the shortest string that has both <code>str1</code>&nbsp;and <code>str2</code>&nbsp;as subsequences.&nbsp;&nbsp;If multiple answers exist, you may return any of them.</p>\n\n<p><em>(A string S is a subsequence of string T if deleting some number of characters from T (possibly 0, and the characters are chosen <u>anywhere</u> from T) results in the string S.)</em></p>\n\n<p>&nbsp;</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong>str1 = <span id=\"example-input-1-1\">\"abac\"</span>, str2 = <span id=\"example-input-1-2\">\"cab\"</span>\n<strong>Output: </strong><span id=\"example-output-1\">\"cabac\"</span>\n<strong>Explanation: </strong>\nstr1 = \"abac\" is a subsequence of \"cabac\" because we can delete the first \"c\".\nstr2 = \"cab\" is a subsequence of \"cabac\" because we can delete the last \"ac\".\nThe answer provided is the shortest such string that satisfies these properties.\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Note:</strong></p>\n\n<ol>\n\t<li><code>1 &lt;= str1.length, str2.length &lt;= 1000</code></li>\n\t<li><code>str1</code> and <code>str2</code> consist of lowercase English letters.</li>\n</ol>\n</div>"
+}

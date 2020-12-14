@@ -1,0 +1,31 @@
+{
+    "id": 173,
+    "title": "Binary Search Tree Iterator",
+    "title_slug": "binary-search-tree-iterator",
+    "backend_id": 173,
+    "content": [
+        [
+            "implement",
+            "iterator",
+            "binary",
+            "search",
+            "tree",
+            "bst"
+        ],
+        [
+            "iterator",
+            "initialize",
+            "root",
+            "node",
+            "bst"
+        ],
+        [
+            "call",
+            "return",
+            "next",
+            "small",
+            "number",
+            "bst"
+        ]
+    ]
+}

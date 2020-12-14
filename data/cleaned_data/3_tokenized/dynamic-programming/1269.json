@@ -1,0 +1,51 @@
+{
+    "id": 1269,
+    "title": "Number of Ways to Stay in the Same Place After Some Steps",
+    "title_slug": "number-of-ways-to-stay-in-the-same-place-after-some-steps",
+    "backend_id": 1398,
+    "content": [
+        [
+            "pointer",
+            "index",
+            "array",
+            "size"
+        ],
+        [
+            "step",
+            "move",
+            "position",
+            "leave",
+            "position",
+            "right",
+            "array",
+            "stay",
+            "place",
+            "pointer",
+            "place",
+            "outside",
+            "array",
+            "time"
+        ],
+        [
+            "give",
+            "two",
+            "integer",
+            "return",
+            "number",
+            "way",
+            "pointer",
+            "still",
+            "index",
+            "exactly",
+            "step"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "modulo"
+        ]
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 303,
+    "title": "Range Sum Query - Immutable",
+    "title_slug": "range-sum-query-immutable",
+    "backend_id": 303,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "find",
+            "sum",
+            "element",
+            "index",
+            "inclusive"
+        ],
+        [
+            "implement",
+            "class",
+            "initialize",
+            "object",
+            "integer",
+            "array"
+        ],
+        [
+            "return",
+            "sum",
+            "element",
+            "array",
+            "range",
+            "inclusive",
+            "call",
+            "make"
+        ]
+    ]
+}

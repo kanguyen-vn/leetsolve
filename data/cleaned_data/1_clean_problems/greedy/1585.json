@@ -1,0 +1,7 @@
+{
+    "id": 1585,
+    "title": "Check If String Is Transformable With Substring Sort Operations",
+    "title_slug": "check-if-string-is-transformable-with-substring-sort-operations",
+    "backend_id": 1707,
+    "content": "Given two strings\u00a0 and , you want to transform string\u00a0 into string\u00a0 using the following\u00a0operation any number of times:\n\nChoose a non-empty substring in\u00a0\u00a0and sort it in-place\u00a0so the characters are in\u00a0ascending order.\n\nFor example, applying the operation on the underlined substring in\u00a0\u00a0results in .\nReturn  if it is possible to transform string \u00a0into string . Otherwise,\u00a0return .\nA substring\u00a0is a contiguous sequence of characters within a string.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n and \u00a0only contain digits from  to .\n\n"
+}

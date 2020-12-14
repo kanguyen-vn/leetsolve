@@ -1,0 +1,35 @@
+{
+    "id": 1217,
+    "title": "Minimum Cost to Move Chips to The Same Position",
+    "title_slug": "minimum-cost-to-move-chips-to-the-same-position",
+    "backend_id": 1329,
+    "content": [
+        [
+            "chip",
+            "position",
+            "chip"
+        ],
+        [
+            "need",
+            "move",
+            "chip",
+            "position"
+        ],
+        [
+            "one",
+            "step",
+            "change",
+            "position",
+            "chip"
+        ],
+        [
+            "return",
+            "minimum",
+            "cost",
+            "need",
+            "move",
+            "chip",
+            "position"
+        ]
+    ]
+}

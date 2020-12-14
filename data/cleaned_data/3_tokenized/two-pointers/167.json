@@ -1,0 +1,38 @@
+{
+    "id": 167,
+    "title": "Two Sum II - Input array is sorted",
+    "title_slug": "two-sum-ii-input-array-is-sorted",
+    "backend_id": 167,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "already",
+            "sort",
+            "ascend",
+            "order",
+            "find",
+            "two",
+            "number",
+            "add",
+            "specific",
+            "target",
+            "number"
+        ],
+        [
+            "function",
+            "twosum",
+            "return",
+            "index",
+            "two",
+            "number",
+            "add",
+            "target",
+            "index1",
+            "must",
+            "less",
+            "index2"
+        ]
+    ]
+}

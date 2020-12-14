@@ -1,0 +1,7 @@
+{
+    "id": 902,
+    "title": "Numbers At Most N Given Digit Set",
+    "title_slug": "numbers-at-most-n-given-digit-set",
+    "backend_id": 938,
+    "content": "Given an array of , you can write numbers using each as many times as we want. For example, if , we may write numbers such as , , and . Return the number of positive integers that can be generated that are less than or equal to a given integer . is a digit from to . All the values in are unique."
+}

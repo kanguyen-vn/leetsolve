@@ -1,0 +1,7 @@
+{
+    "id": 1254,
+    "title": "Number of Closed Islands",
+    "title_slug": "number-of-closed-islands",
+    "backend_id": 1380,
+    "content": "Given a 2D\u00a0 consists of  (land)\u00a0and  (water).\u00a0 An island is a maximal 4-directionally connected group of  and a closed island\u00a0is an island totally\u00a0(all left, top, right, bottom) surrounded by \nReturn the number of closed islands.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

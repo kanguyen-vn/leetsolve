@@ -1,0 +1,7 @@
+{
+    "id": 1105,
+    "title": "Filling Bookcase Shelves",
+    "title_slug": "filling-bookcase-shelves",
+    "backend_id": 1196,
+    "content": "We have a sequence of : the -th book has thickness  and height .\nWe want to place these books in order\u00a0onto bookcase shelves that have total width .\nWe choose\u00a0some of the books to place on this shelf (such that the sum of their thickness is ), then build another level of shelf of the bookcase so that the total height of the bookcase has increased by the maximum height of the books we just put down.\u00a0 We repeat this process until there are no more books to place.\nNote again that at each step of the above\u00a0process, the order of the books we place is the same order as the given sequence of books.\u00a0 For example, if we have an ordered list of 5\u00a0books, we might place the first and second book onto the first shelf, the third book on the second shelf, and the fourth and fifth book on the last shelf.\nReturn the minimum possible height that the total bookshelf can be after placing shelves in this manner.\n\u00a0\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

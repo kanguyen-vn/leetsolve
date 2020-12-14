@@ -1,0 +1,66 @@
+{
+    "id": 1367,
+    "title": "Linked List in Binary Tree",
+    "title_slug": "linked-list-in-binary-tree",
+    "backend_id": 1484,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "link",
+            "list",
+            "first",
+            "node"
+        ],
+        [
+            "return",
+            "true",
+            "element",
+            "link",
+            "list",
+            "start",
+            "correspond",
+            "downward",
+            "path",
+            "connect",
+            "binary",
+            "tree",
+            "otherwise",
+            "return",
+            "false"
+        ],
+        [
+            "context",
+            "downward",
+            "path",
+            "mean",
+            "path",
+            "start",
+            "node",
+            "go",
+            "downwards"
+        ],
+        [
+            "node",
+            "link",
+            "list",
+            "binary",
+            "tree"
+        ],
+        [
+            "give",
+            "link",
+            "list",
+            "contain",
+            "node"
+        ],
+        [
+            "give",
+            "binary",
+            "tree",
+            "contain",
+            "node"
+        ]
+    ]
+}

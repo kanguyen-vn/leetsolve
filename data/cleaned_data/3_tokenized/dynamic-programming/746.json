@@ -1,0 +1,42 @@
+{
+    "id": 746,
+    "title": "Min Cost Climbing Stairs",
+    "title_slug": "min-cost-climbing-stairs",
+    "backend_id": 747,
+    "content": [
+        [
+            "staircase",
+            "th",
+            "step",
+            "non",
+            "negative",
+            "cost",
+            "assign",
+            "indexed"
+        ],
+        [
+            "pay",
+            "cost",
+            "either",
+            "climb",
+            "one",
+            "two",
+            "step"
+        ],
+        [
+            "need",
+            "find",
+            "minimum",
+            "cost",
+            "reach",
+            "top",
+            "floor",
+            "either",
+            "start",
+            "step",
+            "index",
+            "step",
+            "index"
+        ]
+    ]
+}

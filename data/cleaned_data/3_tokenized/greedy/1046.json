@@ -1,0 +1,57 @@
+{
+    "id": 1046,
+    "title": "Last Stone Weight",
+    "title_slug": "last-stone-weight",
+    "backend_id": 1127,
+    "content": [
+        [
+            "collection",
+            "stone",
+            "stone",
+            "positive",
+            "integer",
+            "weight"
+        ],
+        [
+            "turn",
+            "choose",
+            "two",
+            "heavy",
+            "stone",
+            "smash",
+            "together"
+        ],
+        [
+            "suppose",
+            "stone",
+            "weight"
+        ],
+        [
+            "result",
+            "smash",
+            "stone",
+            "totally",
+            "destroy",
+            "stone",
+            "weight",
+            "totally",
+            "destroy",
+            "stone",
+            "weight",
+            "new",
+            "weight"
+        ],
+        [
+            "end",
+            "stone",
+            "leave"
+        ],
+        [
+            "return",
+            "weight",
+            "stone",
+            "stone",
+            "leave"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1530,
+    "title": "Number of Good Leaf Nodes Pairs",
+    "title_slug": "number-of-good-leaf-nodes-pairs",
+    "backend_id": 1653,
+    "content": "Given the  of a binary tree and an integer . A pair of two different leaf nodes of a binary tree is said to be good if the length of the shortest path between them is less than or equal to .\nReturn the number of good leaf node pairs in the tree.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\nThe number of nodes in the\u00a0\u00a0is in the range\u00a0\nEach node's value is between\u00a0.\n\n"
+}

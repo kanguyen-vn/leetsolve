@@ -1,0 +1,7 @@
+{
+    "id": 208,
+    "title": "Implement Trie (Prefix Tree)",
+    "title_slug": "implement-trie-prefix-tree",
+    "backend_id": 208,
+    "content": "<div><p>Implement a trie with <code>insert</code>, <code>search</code>, and <code>startsWith</code> methods.</p>\n\n<p><b>Example:</b></p>\n\n<pre>Trie trie = new Trie();\n\ntrie.insert(\"apple\");\ntrie.search(\"apple\");   // returns true\ntrie.search(\"app\");     // returns false\ntrie.startsWith(\"app\"); // returns true\ntrie.insert(\"app\");   \ntrie.search(\"app\");     // returns true\n</pre>\n\n<p><b>Note:</b></p>\n\n<ul>\n\t<li>You may assume that all inputs are consist of lowercase letters <code>a-z</code>.</li>\n\t<li>All inputs are guaranteed to be non-empty strings.</li>\n</ul>\n</div>"
+}

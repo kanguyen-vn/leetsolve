@@ -1,0 +1,7 @@
+{
+    "id": 1326,
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "title_slug": "minimum-number-of-taps-to-open-to-water-a-garden",
+    "backend_id": 1451,
+    "content": "There is a one-dimensional garden on the x-axis. The garden starts at the point 0 and ends at the point . (i.e The length of the garden is ).\nThere are\u00a0 taps located\u00a0at points  in the garden.\nGiven an integer  and an integer array  of length  where  (0-indexed) means the  tap can water the area  if it was open.\nReturn the minimum number of taps that should be open to water the whole garden, If the garden cannot be watered return -1.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1079,
+    "title": "Letter Tile Possibilities",
+    "title_slug": "letter-tile-possibilities",
+    "backend_id": 1160,
+    "content": "You have \u00a0\u00a0, where each tile has one letter  printed on it.\nReturn the number of possible non-empty sequences of letters you can make using the letters printed on those .\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n consists of uppercase English letters.\n\n"
+}

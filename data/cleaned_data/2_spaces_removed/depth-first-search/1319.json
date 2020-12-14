@@ -1,0 +1,7 @@
+{
+    "id": 1319,
+    "title": "Number of Operations to Make Network Connected",
+    "title_slug": "number-of-operations-to-make-network-connected",
+    "backend_id": 1442,
+    "content": "There are computers numbered from 0 to connected by ethernet cables forming a network where represents a connection between computers and . Any computer can reach any other computer directly or indirectly through the network. Given an initial computer network . You can extract certain cables between two directly connected computers, and place them between any pair of disconnected computers to make them directly connected. Return the minimum number of times you need to do this in order to make all the computers connected. If it's not possible, return -1. There are no repeated connections. No two computers are connected by more than one cable."
+}

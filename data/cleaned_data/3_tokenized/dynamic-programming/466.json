@@ -1,0 +1,68 @@
+{
+    "id": 466,
+    "title": "Count The Repetitions",
+    "title_slug": "count-the-repetitions",
+    "backend_id": 466,
+    "content": [
+        [
+            "define",
+            "string",
+            "consist",
+            "connect",
+            "string",
+            "example",
+            "abcabcabc"
+        ],
+        [
+            "hand",
+            "define",
+            "string",
+            "s1",
+            "obtain",
+            "string",
+            "s2",
+            "remove",
+            "character",
+            "s2",
+            "become",
+            "s1"
+        ],
+        [
+            "example",
+            "abc",
+            "obtain",
+            "abdbec",
+            "base",
+            "definition",
+            "obtain",
+            "acbbe"
+        ],
+        [
+            "give",
+            "two",
+            "non",
+            "empty",
+            "string",
+            "s1",
+            "s2",
+            "character",
+            "long",
+            "two",
+            "integer",
+            "n1",
+            "n2"
+        ],
+        [
+            "consider",
+            "string",
+            "s1",
+            "s2"
+        ],
+        [
+            "find",
+            "maximum",
+            "integer",
+            "obtain"
+        ]
+    ]
+}

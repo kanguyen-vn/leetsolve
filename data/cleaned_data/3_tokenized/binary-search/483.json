@@ -1,0 +1,27 @@
+{
+    "id": 483,
+    "title": "Smallest Good Base",
+    "title_slug": "smallest-good-base",
+    "backend_id": 483,
+    "content": [
+        [
+            "integer",
+            "call",
+            "good",
+            "base",
+            "digit",
+            "base"
+        ],
+        [
+            "give",
+            "string",
+            "represent",
+            "return",
+            "small",
+            "good",
+            "base",
+            "string",
+            "format"
+        ]
+    ]
+}

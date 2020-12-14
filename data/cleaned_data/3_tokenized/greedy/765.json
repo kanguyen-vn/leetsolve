@@ -1,0 +1,68 @@
+{
+    "id": 765,
+    "title": "Couples Holding Hands",
+    "title_slug": "couples-holding-hands",
+    "backend_id": 770,
+    "content": [
+        [
+            "couple",
+            "sit",
+            "2n",
+            "seat",
+            "arrange",
+            "row",
+            "want",
+            "hold",
+            "hand"
+        ],
+        [
+            "want",
+            "know",
+            "minimum",
+            "number",
+            "swap",
+            "every",
+            "couple",
+            "sit",
+            "side",
+            "side"
+        ],
+        [
+            "swap",
+            "consist",
+            "choose",
+            "two",
+            "people",
+            "stand",
+            "switch",
+            "seat"
+        ],
+        [
+            "people",
+            "seat",
+            "represent",
+            "integer",
+            "couple",
+            "number",
+            "order",
+            "first",
+            "couple",
+            "second",
+            "couple",
+            "last",
+            "couple"
+        ],
+        [
+            "couple",
+            "initial",
+            "seat",
+            "give",
+            "value",
+            "person",
+            "initially",
+            "sit",
+            "th",
+            "seat"
+        ]
+    ]
+}

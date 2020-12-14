@@ -1,0 +1,7 @@
+{
+    "id": 537,
+    "title": "Complex Number Multiplication",
+    "title_slug": "complex-number-multiplication",
+    "backend_id": 537,
+    "content": "<div><p>\nGiven two strings representing two <a href=\"https://en.wikipedia.org/wiki/Complex_number\">complex numbers</a>.</p>\n\n<p>\nYou need to return a string representing their multiplication. Note i<sup>2</sup> = -1 according to the definition.\n</p>\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> \"1+1i\", \"1+1i\"\n<b>Output:</b> \"0+2i\"\n<b>Explanation:</b> (1 + i) * (1 + i) = 1 + i<sup>2</sup> + 2 * i = 2i, and you need convert it to the form of 0+2i.\n</pre>\n<p></p>\n\n<p><b>Example 2:</b><br>\n</p><pre><b>Input:</b> \"1+-1i\", \"1+-1i\"\n<b>Output:</b> \"0+-2i\"\n<b>Explanation:</b> (1 - i) * (1 - i) = 1 + i<sup>2</sup> - 2 * i = -2i, and you need convert it to the form of 0+-2i.\n</pre>\n<p></p>\n\n<p><b>Note:</b>\n</p><ol>\n<li>The input strings will not have extra blank.</li>\n<li>The input strings will be given in the form of <b>a+bi</b>, where the integer <b>a</b> and <b>b</b> will both belong to the range of [-100, 100]. And <b>the output should be also in this form</b>.</li>\n</ol>\n<p></p></div>"
+}

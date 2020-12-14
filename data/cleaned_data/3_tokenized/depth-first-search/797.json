@@ -1,0 +1,47 @@
+{
+    "id": 797,
+    "title": "All Paths From Source to Target",
+    "title_slug": "all-paths-from-source-to-target",
+    "backend_id": 813,
+    "content": [
+        [
+            "give",
+            "direct",
+            "acyclic",
+            "graph",
+            "dag",
+            "node",
+            "label",
+            "find",
+            "possible",
+            "paths",
+            "node",
+            "node",
+            "return",
+            "order"
+        ],
+        [
+            "graph",
+            "give",
+            "follow",
+            "list",
+            "node",
+            "visit",
+            "node",
+            "direct",
+            "edge",
+            "node",
+            "node"
+        ],
+        [
+            "self",
+            "loop"
+        ],
+        [
+            "input",
+            "graph",
+            "guarantee",
+            "dag"
+        ]
+    ]
+}

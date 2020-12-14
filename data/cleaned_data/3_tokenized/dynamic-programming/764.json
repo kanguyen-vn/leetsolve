@@ -1,0 +1,78 @@
+{
+    "id": 764,
+    "title": "Largest Plus Sign",
+    "title_slug": "largest-plus-sign",
+    "backend_id": 769,
+    "content": [
+        [
+            "2d",
+            "every",
+            "cell",
+            "contain",
+            "except",
+            "cell",
+            "give",
+            "list"
+        ],
+        [
+            "large",
+            "axis",
+            "align",
+            "plus",
+            "sign",
+            "contain",
+            "grid"
+        ],
+        [
+            "return",
+            "order",
+            "plus",
+            "sign"
+        ],
+        [
+            "none",
+            "return"
+        ],
+        [
+            "axis",
+            "align",
+            "plus",
+            "sign",
+            "order",
+            "center",
+            "along",
+            "arm",
+            "length",
+            "go",
+            "leave",
+            "right",
+            "make"
+        ],
+        [
+            "demonstrate",
+            "diagram"
+        ],
+        [
+            "note",
+            "could",
+            "0s",
+            "beyond",
+            "arm",
+            "plus",
+            "sign",
+            "relevant",
+            "area",
+            "plus",
+            "sign",
+            "check"
+        ],
+        [
+            "example",
+            "axis",
+            "align",
+            "plus",
+            "sign",
+            "order"
+        ]
+    ]
+}

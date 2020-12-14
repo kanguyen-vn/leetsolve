@@ -1,0 +1,7 @@
+{
+    "id": 1544,
+    "title": "Make The String Great",
+    "title_slug": "make-the-string-great",
+    "backend_id": 1666,
+    "content": "Given a string  of lower and upper case English letters.\nA good string is a string which doesn't have\u00a0two adjacent characters  and  where:\n\n\n is a lower-case letter and  is the same letter but in upper-case\u00a0or vice-versa.\n\nTo make the string good, you can choose two adjacent characters that make the string bad and remove them. You can keep doing this until the string becomes good.\nReturn the string after making it good. The answer is guaranteed to be unique under the given constraints.\nNotice that an empty string is also good.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n contains only lower and upper case English letters.\n"
+}

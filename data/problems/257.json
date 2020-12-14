@@ -1,0 +1,7 @@
+{
+    "id": 257,
+    "title": "Binary Tree Paths",
+    "title_slug": "binary-tree-paths",
+    "backend_id": 257,
+    "content": "<div><p>Given a binary tree, return all root-to-leaf paths.</p>\n\n<p><strong>Note:</strong>&nbsp;A leaf is a node with no children.</p>\n\n<p><strong>Example:</strong></p>\n\n<pre><strong>Input:</strong>\n\n   1\n /   \\\n2     3\n \\\n  5\n\n<strong>Output:</strong> [\"1-&gt;2-&gt;5\", \"1-&gt;3\"]\n\n<strong>Explanation:</strong> All root-to-leaf paths are: 1-&gt;2-&gt;5, 1-&gt;3\n</pre></div>"
+}

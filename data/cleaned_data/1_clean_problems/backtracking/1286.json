@@ -1,0 +1,7 @@
+{
+    "id": 1286,
+    "title": "Iterator for Combination",
+    "title_slug": "iterator-for-combination",
+    "backend_id": 1211,
+    "content": "Design an Iterator class, which has:\n\nA constructor that takes a string\u00a0\u00a0of sorted distinct lowercase English letters and a number\u00a0 as arguments.\nA function next()\u00a0that returns the next combination of length \u00a0in lexicographical order.\nA function hasNext() that returns \u00a0if and only if\u00a0there exists a next combination.\n\n\u00a0\n\n\n\u00a0\n\n\n\nThere will be at most  function calls per test.\nIt's guaranteed that all\u00a0calls\u00a0of the function \u00a0are valid.\n\n"
+}

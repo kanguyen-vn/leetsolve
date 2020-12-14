@@ -1,0 +1,7 @@
+{
+    "id": 1048,
+    "title": "Longest String Chain",
+    "title_slug": "longest-string-chain",
+    "backend_id": 1129,
+    "content": "Given a list of words, each word consists of English lowercase letters. Let's say is a predecessor of if and only if we can add exactly one letter anywhere in to make it equal to . For example, is a predecessor of . A word chain is a sequence of words with , where is a predecessor of , is a predecessor of , and so on. Return the longest possible length of a word chain with words chosen from the given list of . only consists of English lowercase letters."
+}

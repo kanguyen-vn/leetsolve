@@ -1,0 +1,7 @@
+{
+    "id": 964,
+    "title": "Least Operators to Express Number",
+    "title_slug": "least-operators-to-express-number",
+    "backend_id": 1004,
+    "content": "Given a single positive integer , we will write an expression of the form \u00a0where each operator , , etc. is either addition, subtraction, multiplication, or division (, , , or .\u00a0 For example, with , we might write \u00a0which is a value of 3.\nWhen writing such an expression, we adhere to the following conventions:\n\nThe division operator () returns rational numbers.\nThere are no parentheses placed anywhere.\nWe use the usual order of operations: multiplication and division happens before addition and subtraction.\nIt's not allowed to use the unary negation\u00a0operator ().\u00a0 For example, \"\"\u00a0is a valid expression as it only uses subtraction, but \"\" is not because it uses negation.\n\nWe would like to write an expression with the least number of operators such that the expression equals the given .\u00a0 Return the least number of operators used.\n\u00a0\n\n"
+}

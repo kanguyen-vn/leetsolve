@@ -1,0 +1,26 @@
+{
+    "id": 84,
+    "title": "Largest Rectangle in Histogram",
+    "title_slug": "largest-rectangle-in-histogram",
+    "backend_id": 84,
+    "content": [
+        [
+            "give",
+            "non",
+            "negative",
+            "integer",
+            "represent",
+            "histogram",
+            "'s",
+            "bar",
+            "height",
+            "width",
+            "bar",
+            "find",
+            "area",
+            "large",
+            "rectangle",
+            "histogram"
+        ]
+    ]
+}

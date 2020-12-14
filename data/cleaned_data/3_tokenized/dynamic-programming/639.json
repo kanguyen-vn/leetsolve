@@ -1,0 +1,51 @@
+{
+    "id": 639,
+    "title": "Decode Ways II",
+    "title_slug": "decode-ways-ii",
+    "backend_id": 639,
+    "content": [
+        [
+            "message",
+            "contain",
+            "letter",
+            "encode",
+            "number",
+            "use",
+            "follow",
+            "map",
+            "way",
+            "beyond",
+            "encoded",
+            "string",
+            "also",
+            "contain",
+            "character",
+            "treat",
+            "one",
+            "number"
+        ],
+        [
+            "give",
+            "encoded",
+            "message",
+            "contain",
+            "digit",
+            "character",
+            "return",
+            "total",
+            "number",
+            "way",
+            "decode"
+        ],
+        [
+            "also",
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "output",
+            "mod"
+        ]
+    ]
+}

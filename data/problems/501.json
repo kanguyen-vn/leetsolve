@@ -1,0 +1,7 @@
+{
+    "id": 501,
+    "title": "Find Mode in Binary Search Tree",
+    "title_slug": "find-mode-in-binary-search-tree",
+    "backend_id": 501,
+    "content": "<div><p>Given a binary search tree (BST) with duplicates, find all the <a href=\"https://en.wikipedia.org/wiki/Mode_(statistics)\" target=\"_blank\">mode(s)</a> (the most frequently occurred element) in the given BST.</p>\n\n<p>Assume a BST is defined as follows:</p>\n\n<ul>\n\t<li>The left subtree of a node contains only nodes with keys <b>less than or equal to</b> the node's key.</li>\n\t<li>The right subtree of a node contains only nodes with keys <b>greater than or equal to</b> the node's key.</li>\n\t<li>Both the left and right subtrees must also be binary search trees.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>For example:<br>\nGiven BST <code>[1,null,2,2]</code>,</p>\n\n<pre>   1\n    \\\n     2\n    /\n   2\n</pre>\n\n<p>&nbsp;</p>\n\n<p>return <code>[2]</code>.</p>\n\n<p><b>Note:</b> If a tree has more than one mode, you can return them in any order.</p>\n\n<p><b>Follow up:</b> Could you do that without using any extra space? (Assume that the implicit stack space incurred due to recursion does not count).</p>\n</div>"
+}

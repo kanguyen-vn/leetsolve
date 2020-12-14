@@ -1,0 +1,7 @@
+{
+    "id": 1036,
+    "title": "Escape a Large Maze",
+    "title_slug": "escape-a-large-maze",
+    "backend_id": 1106,
+    "content": "In a 1 million by 1 million grid, the coordinates of each grid square are .\nWe start at the  square and want to reach the  square.\u00a0 Each move, we can walk to a 4-directionally adjacent square in the grid that isn't in the given list of  squares.\nReturn  if and only if it is possible to reach the target square through a sequence of moves.\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n"
+}

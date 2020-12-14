@@ -1,0 +1,70 @@
+{
+    "id": 1473,
+    "title": "Paint House III",
+    "title_slug": "paint-house-iii",
+    "backend_id": 1583,
+    "content": [
+        [
+            "row",
+            "house",
+            "small",
+            "city",
+            "house",
+            "must",
+            "paint",
+            "one",
+            "color",
+            "label",
+            "house",
+            "paint",
+            "last",
+            "summer",
+            "paint"
+        ],
+        [
+            "neighborhood",
+            "maximal",
+            "group",
+            "continuous",
+            "house",
+            "paint",
+            "color"
+        ],
+        [
+            "example",
+            "house",
+            "contain",
+            "neighborhood"
+        ],
+        [
+            "give",
+            "array",
+            "matrix",
+            "integer",
+            "color",
+            "house",
+            "house",
+            "paint",
+            "yet"
+        ],
+        [
+            "cost",
+            "paint",
+            "house",
+            "color"
+        ],
+        [
+            "return",
+            "minimum",
+            "cost",
+            "painting",
+            "remain",
+            "house",
+            "way",
+            "exactly",
+            "neighborhood",
+            "possible",
+            "return"
+        ]
+    ]
+}

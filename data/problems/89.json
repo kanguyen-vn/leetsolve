@@ -1,0 +1,7 @@
+{
+    "id": 89,
+    "title": "Gray Code",
+    "title_slug": "gray-code",
+    "backend_id": 89,
+    "content": "<div><p>The gray code is a binary numeral system where two successive values differ in only one bit.</p>\n\n<p>Given a non-negative integer <em>n</em> representing the total number of bits in the code, print the sequence of gray code. A gray code sequence must begin with 0.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong>&nbsp;2\n<strong>Output:</strong>&nbsp;<code>[0,1,3,2]</code>\n<strong>Explanation:</strong>\n00 - 0\n01 - 1\n11 - 3\n10 - 2\n\nFor a given&nbsp;<em>n</em>, a gray code sequence may not be uniquely defined.\nFor example, [0,2,3,1] is also a valid gray code sequence.\n\n00 - 0\n10 - 2\n11 - 3\n01 - 1\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong>&nbsp;0\n<strong>Output:</strong>&nbsp;<code>[0]\n<strong>Explanation:</strong> We define the gray code sequence to begin with 0.\n&nbsp;            A gray code sequence of <em>n</em> has size = 2<sup>n</sup>, which for <em>n</em> = 0 the size is 2<sup>0</sup> = 1.\n&nbsp;            Therefore, for <em>n</em> = 0 the gray code sequence is [0].</code>\n</pre>\n</div>"
+}

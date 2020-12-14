@@ -1,0 +1,37 @@
+{
+    "id": 300,
+    "title": "Longest Increasing Subsequence",
+    "title_slug": "longest-increasing-subsequence",
+    "backend_id": 300,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "return",
+            "length",
+            "long",
+            "strictly",
+            "increase",
+            "subsequence"
+        ],
+        [
+            "subsequence",
+            "sequence",
+            "derive",
+            "array",
+            "deleting",
+            "element",
+            "without",
+            "change",
+            "order",
+            "remain",
+            "element"
+        ],
+        [
+            "example",
+            "subsequence",
+            "array"
+        ]
+    ]
+}

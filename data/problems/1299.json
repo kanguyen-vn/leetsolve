@@ -1,0 +1,7 @@
+{
+    "id": 1299,
+    "title": "Replace Elements with Greatest Element on Right Side",
+    "title_slug": "replace-elements-with-greatest-element-on-right-side",
+    "backend_id": 1231,
+    "content": "<div><p>Given an array <code>arr</code>,&nbsp;replace every element in that array with the greatest element among the elements to its&nbsp;right, and replace the last element with <code>-1</code>.</p>\n\n<p>After doing so, return the array.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> arr = [17,18,5,4,6,1]\n<strong>Output:</strong> [18,6,6,6,1,-1]\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= arr.length &lt;= 10^4</code></li>\n\t<li><code>1 &lt;= arr[i] &lt;= 10^5</code></li>\n</ul></div>"
+}

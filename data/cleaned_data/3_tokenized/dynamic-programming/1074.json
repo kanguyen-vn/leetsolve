@@ -1,0 +1,30 @@
+{
+    "id": 1074,
+    "title": "Number of Submatrices That Sum to Target",
+    "title_slug": "number-of-submatrices-that-sum-to-target",
+    "backend_id": 1145,
+    "content": [
+        [
+            "give",
+            "return",
+            "number",
+            "non",
+            "empty",
+            "submatrices",
+            "sum"
+        ],
+        [
+            "submatrix",
+            "set",
+            "cell"
+        ],
+        [
+            "two",
+            "submatrices",
+            "different",
+            "coordinate",
+            "different",
+            "example"
+        ]
+    ]
+}

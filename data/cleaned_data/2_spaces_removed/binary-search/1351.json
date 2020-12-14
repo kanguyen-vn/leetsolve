@@ -1,0 +1,7 @@
+{
+    "id": 1351,
+    "title": "Count Negative Numbers in a Sorted Matrix",
+    "title_slug": "count-negative-numbers-in-a-sorted-matrix",
+    "backend_id": 1476,
+    "content": "Given a matrix which is sorted in non-increasing order both row-wise and column-wise. Return the number of negative numbers in ."
+}

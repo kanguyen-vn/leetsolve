@@ -1,0 +1,26 @@
+{
+    "id": 46,
+    "title": "Permutations",
+    "title_slug": "permutations",
+    "backend_id": 46,
+    "content": [
+        [
+            "give",
+            "array",
+            "distinct",
+            "integer",
+            "return",
+            "possible",
+            "permutation"
+        ],
+        [
+            "return",
+            "answer",
+            "order"
+        ],
+        [
+            "integer",
+            "unique"
+        ]
+    ]
+}

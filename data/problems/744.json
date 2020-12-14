@@ -1,0 +1,7 @@
+{
+    "id": 744,
+    "title": "Find Smallest Letter Greater Than Target",
+    "title_slug": "find-smallest-letter-greater-than-target",
+    "backend_id": 745,
+    "content": "<div><p>\nGiven a list of sorted characters <code>letters</code> containing only lowercase letters, and given a target letter <code>target</code>, find the smallest element in the list that is larger than the given target.\n</p><p>\nLetters also wrap around.  For example, if the target is <code>target = 'z'</code> and <code>letters = ['a', 'b']</code>, the answer is <code>'a'</code>.\n</p>\n\n<p><b>Examples:</b><br>\n</p><pre><b>Input:</b>\nletters = [\"c\", \"f\", \"j\"]\ntarget = \"a\"\n<b>Output:</b> \"c\"\n\n<b>Input:</b>\nletters = [\"c\", \"f\", \"j\"]\ntarget = \"c\"\n<b>Output:</b> \"f\"\n\n<b>Input:</b>\nletters = [\"c\", \"f\", \"j\"]\ntarget = \"d\"\n<b>Output:</b> \"f\"\n\n<b>Input:</b>\nletters = [\"c\", \"f\", \"j\"]\ntarget = \"g\"\n<b>Output:</b> \"j\"\n\n<b>Input:</b>\nletters = [\"c\", \"f\", \"j\"]\ntarget = \"j\"\n<b>Output:</b> \"c\"\n\n<b>Input:</b>\nletters = [\"c\", \"f\", \"j\"]\ntarget = \"k\"\n<b>Output:</b> \"c\"\n</pre>\n<p></p>\n\n<p><b>Note:</b><br>\n</p><ol>\n<li><code>letters</code> has a length in range <code>[2, 10000]</code>.</li>\n<li><code>letters</code> consists of lowercase letters, and contains at least 2 unique letters.</li>\n<li><code>target</code> is a lowercase letter.</li>\n</ol>\n<p></p></div>"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 60,
+    "title": "Permutation Sequence",
+    "title_slug": "permutation-sequence",
+    "backend_id": 60,
+    "content": "<div><p>The set <code>[1, 2, 3, ...,&nbsp;n]</code> contains a total of <code>n!</code> unique permutations.</p>\n\n<p>By listing and labeling all of the permutations in order, we get the following sequence for <code>n = 3</code>:</p>\n\n<ol>\n\t<li><code>\"123\"</code></li>\n\t<li><code>\"132\"</code></li>\n\t<li><code>\"213\"</code></li>\n\t<li><code>\"231\"</code></li>\n\t<li><code>\"312\"</code></li>\n\t<li><code>\"321\"</code></li>\n</ol>\n\n<p>Given <code>n</code> and <code>k</code>, return the <code>k<sup>th</sup></code> permutation sequence.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> n = 3, k = 3\n<strong>Output:</strong> \"213\"\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> n = 4, k = 9\n<strong>Output:</strong> \"2314\"\n</pre><p><strong>Example 3:</strong></p>\n<pre><strong>Input:</strong> n = 3, k = 1\n<strong>Output:</strong> \"123\"\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= n &lt;= 9</code></li>\n\t<li><code>1 &lt;= k &lt;= n!</code></li>\n</ul>\n</div>"
+}

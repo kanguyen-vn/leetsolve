@@ -1,0 +1,7 @@
+{
+    "id": 1589,
+    "title": "Maximum Sum Obtained of Any Permutation",
+    "title_slug": "maximum-sum-obtained-of-any-permutation",
+    "backend_id": 1695,
+    "content": "We have an array of integers, , and an array of where . The request asks for the sum of . Both and are 0-indexed. Return the maximum total sum of all requests among all permutations of . Since the answer may be too large, return it modulo ."
+}

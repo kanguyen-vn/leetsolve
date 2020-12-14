@@ -1,0 +1,7 @@
+{
+    "id": 343,
+    "title": "Integer Break",
+    "title_slug": "integer-break",
+    "backend_id": 343,
+    "content": "Given a positive integer n, break it into the sum of at least two positive integers and maximize the product of those integers. Return the maximum product you can get.\n\n"
+}

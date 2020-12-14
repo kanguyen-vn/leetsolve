@@ -1,0 +1,7 @@
+{
+    "id": 532,
+    "title": "K-diff Pairs in an Array",
+    "title_slug": "k-diff-pairs-in-an-array",
+    "backend_id": 532,
+    "content": "Given an array of integers  and an integer , return the number of unique k-diff pairs in the array.\nA k-diff pair is\u00a0an integer pair , where the following are true:\n\n\n\n\n\nNotice\u00a0that  denotes the absolute value of .\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 435,
+    "title": "Non-overlapping Intervals",
+    "title_slug": "non-overlapping-intervals",
+    "backend_id": 435,
+    "content": "Given a collection of intervals, find the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.\n\n\n\u00a0\n\n\n\n\n\n\n\u00a0\n"
+}

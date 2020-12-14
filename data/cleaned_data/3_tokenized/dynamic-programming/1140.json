@@ -1,0 +1,78 @@
+{
+    "id": 1140,
+    "title": "Stone Game II",
+    "title_slug": "stone-game-ii",
+    "backend_id": 1240,
+    "content": [
+        [
+            "alice",
+            "bob",
+            "continue",
+            "game",
+            "pile",
+            "stone"
+        ],
+        [
+            "number",
+            "pile",
+            "arrange",
+            "row",
+            "pile",
+            "positive",
+            "integer",
+            "number",
+            "stone"
+        ],
+        [
+            "objective",
+            "game",
+            "end",
+            "stone"
+        ],
+        [
+            "alice",
+            "bob",
+            "take",
+            "turn",
+            "alice",
+            "start",
+            "first"
+        ],
+        [
+            "initially"
+        ],
+        [
+            "player",
+            "'s",
+            "turn",
+            "player",
+            "take",
+            "stone",
+            "first",
+            "remain",
+            "pile"
+        ],
+        [
+            "set"
+        ],
+        [
+            "game",
+            "continue",
+            "stone",
+            "take"
+        ],
+        [
+            "assume",
+            "alice",
+            "bob",
+            "play",
+            "optimally",
+            "return",
+            "maximum",
+            "number",
+            "stone",
+            "alice",
+            "get"
+        ]
+    ]
+}

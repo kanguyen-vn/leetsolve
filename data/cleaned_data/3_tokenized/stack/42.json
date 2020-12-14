@@ -1,0 +1,24 @@
+{
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "title_slug": "trapping-rain-water",
+    "backend_id": 42,
+    "content": [
+        [
+            "give",
+            "non",
+            "negative",
+            "integer",
+            "represent",
+            "elevation",
+            "map",
+            "width",
+            "bar",
+            "compute",
+            "much",
+            "water",
+            "trap",
+            "rain"
+        ]
+    ]
+}

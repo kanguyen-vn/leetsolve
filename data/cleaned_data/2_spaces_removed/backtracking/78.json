@@ -1,0 +1,7 @@
+{
+    "id": 78,
+    "title": "Subsets",
+    "title_slug": "subsets",
+    "backend_id": 78,
+    "content": "Given an integer array , return all possible subsets (the power set). The solution set must not contain duplicate subsets."
+}

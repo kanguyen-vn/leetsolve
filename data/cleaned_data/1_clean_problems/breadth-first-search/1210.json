@@ -1,0 +1,7 @@
+{
+    "id": 1210,
+    "title": "Minimum Moves to Reach Target with Rotations",
+    "title_slug": "minimum-moves-to-reach-target-with-rotations",
+    "backend_id": 1322,
+    "content": "In an\u00a0\u00a0grid, there is a snake that spans 2 cells and starts moving from the top left corner at  and . The grid has empty cells represented by zeros and blocked cells represented by ones. The snake wants to reach the lower right corner at\u00a0\u00a0and\u00a0.\nIn one move the snake can:\n\nMove one cell to the right\u00a0if there are no blocked cells there. This move keeps the horizontal/vertical position of the snake as it is.\nMove down one cell\u00a0if there are no blocked cells there. This move keeps the horizontal/vertical position of the snake as it is.\nRotate clockwise if it's in a horizontal position and the two cells under it are both empty. In that case the snake moves from\u00a0\u00a0and\u00a0\u00a0to\u00a0\u00a0and\u00a0.\n\nRotate counterclockwise\u00a0if it's in a vertical position and the two cells to its right are both empty. In that case the snake moves from\u00a0\u00a0and\u00a0\u00a0to\u00a0\u00a0and\u00a0.\n\n\nReturn the minimum number of moves to reach the target.\nIf there is no way to reach the target, return\u00a0.\n\u00a0\n\n\n\n\n\n\u00a0\n\n\n\n\nIt is guaranteed that the snake starts at empty cells.\n\n"
+}

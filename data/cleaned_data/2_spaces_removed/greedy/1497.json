@@ -1,0 +1,7 @@
+{
+    "id": 1497,
+    "title": "Check If Array Pairs Are Divisible by k",
+    "title_slug": "check-if-array-pairs-are-divisible-by-k",
+    "backend_id": 1620,
+    "content": "Given an array of integers of even length and an integer . We want to divide the array into exactly pairs such that the sum of each pair is divisible by . Return True If you can find a way to do that or False otherwise. is even."
+}

@@ -1,0 +1,7 @@
+{
+    "id": 738,
+    "title": "Monotone Increasing Digits",
+    "title_slug": "monotone-increasing-digits",
+    "backend_id": 738,
+    "content": "\nGiven a non-negative integer , find the largest number that is less than or equal to  with monotone increasing digits.\n\n(Recall that an integer has monotone increasing digits if and only if each pair of adjacent digits  and  satisfy .)\n\n\n\n\n\n\n\n"
+}

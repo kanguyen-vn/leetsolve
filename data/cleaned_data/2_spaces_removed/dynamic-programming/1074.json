@@ -1,0 +1,7 @@
+{
+    "id": 1074,
+    "title": "Number of Submatrices That Sum to Target",
+    "title_slug": "number-of-submatrices-that-sum-to-target",
+    "backend_id": 1145,
+    "content": "Given a and a , return the number of non-empty submatrices that sum to . A submatrix is the set of all cells with and . Two submatrices and are different if they have some coordinate that is different: for example, if ."
+}

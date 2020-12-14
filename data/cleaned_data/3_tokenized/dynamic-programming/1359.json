@@ -1,0 +1,36 @@
+{
+    "id": 1359,
+    "title": "Count All Valid Pickup and Delivery Options",
+    "title_slug": "count-all-valid-pickup-and-delivery-options",
+    "backend_id": 1461,
+    "content": [
+        [
+            "give",
+            "order",
+            "order",
+            "consist",
+            "pickup",
+            "delivery",
+            "service"
+        ],
+        [
+            "count",
+            "valid",
+            "pickup",
+            "delivery",
+            "possible",
+            "sequence",
+            "delivery",
+            "always",
+            "pickup"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "modulo"
+        ]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 130,
+    "title": "Surrounded Regions",
+    "title_slug": "surrounded-regions",
+    "backend_id": 130,
+    "content": [
+        [
+            "give",
+            "2d",
+            "board",
+            "contain",
+            "letter",
+            "capture",
+            "region",
+            "surround"
+        ],
+        [
+            "region",
+            "capture",
+            "flip",
+            "surround",
+            "region"
+        ],
+        [
+            "run",
+            "function",
+            "board",
+            "explanation",
+            "surround",
+            "region",
+            "border",
+            "mean",
+            "border",
+            "board",
+            "flip"
+        ],
+        [
+            "border",
+            "connect",
+            "border",
+            "flip"
+        ],
+        [
+            "two",
+            "cell",
+            "connect",
+            "adjacent",
+            "cell",
+            "connect",
+            "horizontally",
+            "vertically"
+        ]
+    ]
+}

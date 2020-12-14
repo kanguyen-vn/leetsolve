@@ -1,0 +1,54 @@
+{
+    "id": 1568,
+    "title": "Minimum Number of Days to Disconnect Island",
+    "title_slug": "minimum-number-of-days-to-disconnect-island",
+    "backend_id": 1691,
+    "content": [
+        [
+            "give",
+            "2d",
+            "consist",
+            "land",
+            "water"
+        ],
+        [
+            "island",
+            "maximal",
+            "directionally",
+            "horizontal",
+            "vertical",
+            "connect",
+            "group"
+        ],
+        [
+            "grid",
+            "say",
+            "connect",
+            "exactly",
+            "one",
+            "island",
+            "otherwise",
+            "say",
+            "disconnect"
+        ],
+        [
+            "one",
+            "day",
+            "allow",
+            "change",
+            "single",
+            "land",
+            "cell",
+            "water",
+            "cell"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "day",
+            "disconnect",
+            "grid"
+        ]
+    ]
+}

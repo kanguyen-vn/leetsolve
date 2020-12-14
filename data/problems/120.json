@@ -1,0 +1,7 @@
+{
+    "id": 120,
+    "title": "Triangle",
+    "title_slug": "triangle",
+    "backend_id": 120,
+    "content": "<div><p>Given a triangle, find the minimum path sum from top to bottom. Each step you may move to adjacent numbers on the row below.</p>\n\n<p>For example, given the following triangle</p>\n\n<pre>[\n     [<strong>2</strong>],\n    [<strong>3</strong>,4],\n   [6,<strong>5</strong>,7],\n  [4,<strong>1</strong>,8,3]\n]\n</pre>\n\n<p>The minimum path sum from top to bottom is <code>11</code> (i.e., <strong>2</strong> + <strong>3</strong> + <strong>5</strong> + <strong>1</strong> = 11).</p>\n\n<p><strong>Note:</strong></p>\n\n<p>Bonus point if you are able to do this using only <em>O</em>(<em>n</em>) extra space, where <em>n</em> is the total number of rows in the triangle.</p>\n</div>"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1020,
+    "title": "Number of Enclaves",
+    "title_slug": "number-of-enclaves",
+    "backend_id": 1073,
+    "content": "Given a 2D array , each cell is 0 (representing sea) or 1 (representing land)\nA move consists of walking from one land square 4-directionally to another land square, or off the boundary of the grid.\nReturn the number of land squares in the grid for which we cannot walk off the boundary of the grid in any number of moves.\n\u00a0\n\n\n\n\n\u00a0\n"
+}

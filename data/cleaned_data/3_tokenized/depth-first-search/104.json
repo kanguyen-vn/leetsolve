@@ -1,0 +1,30 @@
+{
+    "id": 104,
+    "title": "Maximum Depth of Binary Tree",
+    "title_slug": "maximum-depth-of-binary-tree",
+    "backend_id": 104,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "find",
+            "maximum",
+            "depth"
+        ],
+        [
+            "maximum",
+            "depth",
+            "number",
+            "node",
+            "along",
+            "long",
+            "path",
+            "root",
+            "node",
+            "farthest",
+            "leaf",
+            "node"
+        ]
+    ]
+}

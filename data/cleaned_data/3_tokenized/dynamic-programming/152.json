@@ -1,0 +1,24 @@
+{
+    "id": 152,
+    "title": "Maximum Product Subarray",
+    "title_slug": "maximum-product-subarray",
+    "backend_id": 152,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "find",
+            "contiguous",
+            "subarray",
+            "within",
+            "array",
+            "contain",
+            "least",
+            "one",
+            "number",
+            "large",
+            "product"
+        ]
+    ]
+}

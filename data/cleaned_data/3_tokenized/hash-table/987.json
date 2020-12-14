@@ -1,0 +1,73 @@
+{
+    "id": 987,
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "title_slug": "vertical-order-traversal-of-a-binary-tree",
+    "backend_id": 1029,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "return",
+            "vertical",
+            "order",
+            "traversal",
+            "node",
+            "value"
+        ],
+        [
+            "node",
+            "position",
+            "leave",
+            "right",
+            "child",
+            "respectively",
+            "position"
+        ],
+        [
+            "run",
+            "vertical",
+            "line",
+            "whenever",
+            "vertical",
+            "line",
+            "touch",
+            "node",
+            "report",
+            "value",
+            "node",
+            "order",
+            "top",
+            "bottom",
+            "decrease",
+            "coordinate"
+        ],
+        [
+            "two",
+            "node",
+            "position",
+            "value",
+            "node",
+            "report",
+            "first",
+            "value",
+            "small"
+        ],
+        [
+            "return",
+            "list",
+            "non",
+            "empty",
+            "report",
+            "order",
+            "coordinate"
+        ],
+        [
+            "every",
+            "report",
+            "list",
+            "value",
+            "node"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1320,
+    "title": "Minimum Distance to Type a Word Using Two Fingers",
+    "title_slug": "minimum-distance-to-type-a-word-using-two-fingers",
+    "backend_id": 1443,
+    "content": "You have a keyboard layout as shown above in the XY plane, where each English uppercase letter is located at some coordinate, for example, the letter A is located at coordinate (0,0), the letter B is located at coordinate (0,1), the letter P is located at coordinate (2,3) and the letter Z is located at coordinate (4,1). Given the string , return the minimum total distance to type such string using only two fingers. The distance between coordinates (x1,y1) and (x2,y2) is |x1 - x2| + |y1 - y2|. Note that the initial positions of your two fingers are considered free so don't count towards your total distance, also your two fingers do not have to start at the first letter or the first two letters. Each is an English uppercase letter."
+}

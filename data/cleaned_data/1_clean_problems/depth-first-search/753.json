@@ -1,0 +1,7 @@
+{
+    "id": 753,
+    "title": "Cracking the Safe",
+    "title_slug": "cracking-the-safe",
+    "backend_id": 754,
+    "content": "There is a box protected by a password. The password is a sequence of\u00a0 digits\u00a0where each digit can be one of the first  digits .\nWhile entering a password,\u00a0the last  digits entered will automatically be matched against the correct password.\nFor example, assuming the correct password is ,\u00a0if you type , the box will open because the correct password matches the suffix of the entered password.\nReturn any password of minimum length that is guaranteed to open the box at some point of entering it.\n\u00a0\n\n\n\n\n\u00a0\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1027,
+    "title": "Longest Arithmetic Subsequence",
+    "title_slug": "longest-arithmetic-subsequence",
+    "backend_id": 1087,
+    "content": "<div><p>Given an array <code>A</code> of integers, return the <strong>length</strong> of the longest arithmetic subsequence in <code>A</code>.</p>\n\n<p>Recall that a <em>subsequence</em> of <code>A</code> is a list <code>A[i_1], A[i_2], ..., A[i_k]</code> with <code>0 &lt;= i_1 &lt; i_2 &lt; ... &lt; i_k &lt;= A.length - 1</code>, and that a sequence <code>B</code>&nbsp;is <em>arithmetic</em> if <code>B[i+1] - B[i]</code> are all the same value (for <code>0 &lt;= i &lt; B.length - 1</code>).</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> A = [3,6,9,12]\n<strong>Output:</strong> 4\n<strong>Explanation: </strong>\nThe whole array is an arithmetic sequence with steps of length = 3.\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> A = [9,4,7,2,10]\n<strong>Output:</strong> 3\n<strong>Explanation: </strong>\nThe longest arithmetic subsequence is [4,7,10].\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> A = [20,1,15,3,10,5,8]\n<strong>Output:</strong> 4\n<strong>Explanation: </strong>\nThe longest arithmetic subsequence is [20,15,10,5].\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>2 &lt;= A.length &lt;= 1000</code></li>\n\t<li><code>0 &lt;= A[i] &lt;= 500</code></li>\n</ul>\n</div>"
+}

@@ -1,0 +1,52 @@
+{
+    "id": 773,
+    "title": "Sliding Puzzle",
+    "title_slug": "sliding-puzzle",
+    "backend_id": 787,
+    "content": [
+        [
+            "2x3",
+            "tile",
+            "represent",
+            "integer",
+            "empty",
+            "square",
+            "represent"
+        ],
+        [
+            "move",
+            "consist",
+            "choose",
+            "directionally",
+            "adjacent",
+            "number",
+            "swap"
+        ],
+        [
+            "state",
+            "board",
+            "solve",
+            "give",
+            "puzzle",
+            "board",
+            "return",
+            "least",
+            "number",
+            "move",
+            "require",
+            "state",
+            "board",
+            "solve"
+        ],
+        [
+            "impossible",
+            "state",
+            "board",
+            "solve",
+            "return"
+        ],
+        [
+            "example"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1187,
+    "title": "Make Array Strictly Increasing",
+    "title_slug": "make-array-strictly-increasing",
+    "backend_id": 1290,
+    "content": [
+        [
+            "give",
+            "two",
+            "integer",
+            "array",
+            "return",
+            "minimum",
+            "number",
+            "operation",
+            "possibly",
+            "zero",
+            "need",
+            "make",
+            "strictly",
+            "increase"
+        ],
+        [
+            "one",
+            "operation",
+            "choose",
+            "two",
+            "index",
+            "assignment"
+        ],
+        [
+            "way",
+            "make",
+            "strictly",
+            "increase",
+            "return"
+        ]
+    ]
+}

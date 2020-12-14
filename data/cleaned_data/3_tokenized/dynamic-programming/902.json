@@ -1,0 +1,42 @@
+{
+    "id": 902,
+    "title": "Numbers At Most N Given Digit Set",
+    "title_slug": "numbers-at-most-n-given-digit-set",
+    "backend_id": 938,
+    "content": [
+        [
+            "give",
+            "array",
+            "write",
+            "number",
+            "use",
+            "many",
+            "time",
+            "want"
+        ],
+        [
+            "example",
+            "may",
+            "write",
+            "number"
+        ],
+        [
+            "return",
+            "number",
+            "positive",
+            "integer",
+            "generate",
+            "less",
+            "equal",
+            "give",
+            "integer"
+        ],
+        [
+            "digit"
+        ],
+        [
+            "value",
+            "unique"
+        ]
+    ]
+}

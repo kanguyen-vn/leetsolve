@@ -1,0 +1,7 @@
+{
+    "id": 906,
+    "title": "Super Palindromes",
+    "title_slug": "super-palindromes",
+    "backend_id": 942,
+    "content": "<div><p>Let's say a positive integer is a&nbsp;<em>superpalindrome</em>&nbsp;if it is a palindrome, and it is also the square of a palindrome.</p>\n\n<p>Now, given two positive&nbsp;integers <code>L</code> and <code>R</code> (represented as strings), return the number of superpalindromes in the inclusive range <code>[L, R]</code>.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong>L = <span id=\"example-input-1-1\">\"4\"</span>, R = <span id=\"example-input-1-2\">\"1000\"</span>\n<strong>Output: </strong>4\n<span><strong>Explanation</strong>: </span>4, 9, 121, and 484 are superpalindromes.\nNote that 676 is not a superpalindrome: 26 * 26 = 676, but 26 is not a palindrome.</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Note:</strong></p>\n\n<ol>\n\t<li><code>1 &lt;= len(L) &lt;= 18</code></li>\n\t<li><code>1 &lt;= len(R) &lt;= 18</code></li>\n\t<li><code>L</code> and <code>R</code> are strings representing integers in the range <code>[1, 10^18)</code>.</li>\n\t<li><code>int(L) &lt;= int(R)</code></li>\n</ol>\n\n<div>\n<p>&nbsp;</p>\n</div>\n</div>"
+}

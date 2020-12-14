@@ -1,0 +1,61 @@
+{
+    "id": 826,
+    "title": "Most Profit Assigning Work",
+    "title_slug": "most-profit-assigning-work",
+    "backend_id": 853,
+    "content": [
+        [
+            "job",
+            "difficulty",
+            "th",
+            "job",
+            "profit",
+            "th",
+            "job"
+        ],
+        [
+            "worker"
+        ],
+        [
+            "ability",
+            "th",
+            "worker",
+            "mean",
+            "worker",
+            "complete",
+            "job",
+            "difficulty"
+        ],
+        [
+            "every",
+            "worker",
+            "assign",
+            "one",
+            "job",
+            "one",
+            "job",
+            "complete",
+            "multiple",
+            "time"
+        ],
+        [
+            "example",
+            "people",
+            "attempt",
+            "job",
+            "pay",
+            "total",
+            "profit"
+        ],
+        [
+            "worker",
+            "complete",
+            "job",
+            "profit"
+        ],
+        [
+            "profit",
+            "make"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 257,
+    "title": "Binary Tree Paths",
+    "title_slug": "binary-tree-paths",
+    "backend_id": 257,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "return",
+            "root",
+            "leaf",
+            "path"
+        ]
+    ]
+}

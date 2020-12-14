@@ -1,0 +1,7 @@
+{
+    "id": 18,
+    "title": "4Sum",
+    "title_slug": "4sum",
+    "backend_id": 18,
+    "content": "<div><p>Given an array <code>nums</code> of <em>n</em> integers and an integer <code>target</code>, are there elements <em>a</em>, <em>b</em>, <em>c</em>, and <em>d</em> in <code>nums</code> such that <em>a</em> + <em>b</em> + <em>c</em> + <em>d</em> = <code>target</code>? Find all unique quadruplets in the array which gives the sum of <code>target</code>.</p>\n\n<p><strong>Notice</strong>&nbsp;that&nbsp;the solution set must not contain duplicate quadruplets.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> nums = [1,0,-1,0,-2,2], target = 0\n<strong>Output:</strong> [[-2,-1,1,2],[-2,0,0,2],[-1,0,0,1]]\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> nums = [], target = 0\n<strong>Output:</strong> []\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= nums.length &lt;= 200</code></li>\n\t<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>\n\t<li><code>-10<sup>9</sup> &lt;= target &lt;= 10<sup>9</sup></code></li>\n</ul>\n</div>"
+}

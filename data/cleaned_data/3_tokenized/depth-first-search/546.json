@@ -1,0 +1,47 @@
+{
+    "id": 546,
+    "title": "Remove Boxes",
+    "title_slug": "remove-boxes",
+    "backend_id": 546,
+    "content": [
+        [
+            "give",
+            "several",
+            "box",
+            "different",
+            "color",
+            "represent",
+            "different",
+            "positive",
+            "number"
+        ],
+        [
+            "may",
+            "experience",
+            "several",
+            "round",
+            "remove",
+            "box",
+            "box",
+            "leave"
+        ],
+        [
+            "time",
+            "choose",
+            "continuous",
+            "box",
+            "color",
+            "compose",
+            "box",
+            "remove",
+            "get",
+            "point"
+        ],
+        [
+            "find",
+            "maximum",
+            "point",
+            "get"
+        ]
+    ]
+}

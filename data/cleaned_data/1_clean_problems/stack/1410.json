@@ -1,0 +1,7 @@
+{
+    "id": 1410,
+    "title": "HTML Entity Parser",
+    "title_slug": "html-entity-parser",
+    "backend_id": 1526,
+    "content": "HTML entity parser is the parser that takes HTML code as input and replace all the entities of the special characters by the characters itself.\nThe special characters and their entities for HTML are:\n\nQuotation Mark:\u00a0the entity is  and\u00a0symbol character is .\nSingle Quote\u00a0Mark:\u00a0the entity is  and\u00a0symbol character is .\nAmpersand:\u00a0the entity is  and symbol character is .\nGreater Than Sign:\u00a0the entity is \u00a0and symbol character is .\nLess Than Sign:\u00a0the entity is \u00a0and symbol character is .\nSlash:\u00a0the entity is  and\u00a0symbol character is .\n\nGiven the input  string to the HTML parser, you have to implement the entity parser.\nReturn the text after replacing the entities by the special characters.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\nThe string may contain any possible characters out of all the 256\u00a0ASCII characters.\n\n"
+}

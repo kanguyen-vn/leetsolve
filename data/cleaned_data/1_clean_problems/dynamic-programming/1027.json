@@ -1,0 +1,7 @@
+{
+    "id": 1027,
+    "title": "Longest Arithmetic Subsequence",
+    "title_slug": "longest-arithmetic-subsequence",
+    "backend_id": 1087,
+    "content": "Given an array  of integers, return the length of the longest arithmetic subsequence in .\nRecall that a subsequence of  is a list  with , and that a sequence \u00a0is arithmetic if  are all the same value (for ).\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

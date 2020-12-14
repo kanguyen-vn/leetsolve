@@ -1,0 +1,7 @@
+{
+    "id": 1639,
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "title_slug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
+    "backend_id": 1744,
+    "content": "You are given a list of strings of the same length  and a string .\nYour task is to form  using the given  under the following rules:\n\n should be formed from left to right.\nTo form the  character (0-indexed) of , you can choose the  character of the  string in  if .\nOnce you use the  character of the  string of , you can no longer use the  character of any string in  where . In other words, all characters to the left of or at index  become unusuable for every string.\nRepeat the process until you form the string .\n\nNotice\u00a0that you can use multiple characters from the same string in  provided the conditions above are met.\nReturn the number of ways to form  from . Since the answer may be too large, return it modulo .\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\nAll strings in  have the same length.\n\n and  contain only lowercase English letters.\n\n"
+}

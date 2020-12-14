@@ -1,0 +1,7 @@
+{
+    "id": 409,
+    "title": "Longest Palindrome",
+    "title_slug": "longest-palindrome",
+    "backend_id": 409,
+    "content": "Given a string which consists of lowercase or uppercase letters, return the length of the longest palindrome that can be built with those letters. Letters are case sensitive, for example, is not considered a palindrome here. consits of lower-case and/or upper-case English letters only."
+}

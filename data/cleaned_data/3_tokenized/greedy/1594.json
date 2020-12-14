@@ -1,0 +1,75 @@
+{
+    "id": 1594,
+    "title": "Maximum Non Negative Product in a Matrix",
+    "title_slug": "maximum-non-negative-product-in-a-matrix",
+    "backend_id": 1716,
+    "content": [
+        [
+            "give",
+            "matrix"
+        ],
+        [
+            "initially",
+            "locate",
+            "top",
+            "leave",
+            "corner",
+            "step",
+            "move",
+            "right",
+            "matrix"
+        ],
+        [
+            "among",
+            "possible",
+            "path",
+            "start",
+            "top",
+            "left",
+            "corner",
+            "end",
+            "bottom",
+            "right",
+            "corner",
+            "find",
+            "path",
+            "maximum",
+            "non",
+            "negative",
+            "product"
+        ],
+        [
+            "product",
+            "path",
+            "product",
+            "integer",
+            "grid",
+            "cell",
+            "visit",
+            "along",
+            "path"
+        ],
+        [
+            "return",
+            "maximum",
+            "non",
+            "negative",
+            "product",
+            "modulo"
+        ],
+        [
+            "maximum",
+            "product",
+            "negative",
+            "return"
+        ],
+        [
+            "notice",
+            "modulo",
+            "perform",
+            "get",
+            "maximum",
+            "product"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": 1388,
+    "title": "Pizza With 3n Slices",
+    "title_slug": "pizza-with-3n-slices",
+    "backend_id": 1489,
+    "content": [
+        [
+            "pizza",
+            "3n",
+            "slice",
+            "vary",
+            "size",
+            "friend",
+            "take",
+            "slice",
+            "pizza",
+            "follow",
+            "pick",
+            "pizza",
+            "slice"
+        ],
+        [
+            "friend",
+            "alice",
+            "pick",
+            "next",
+            "slice",
+            "anti",
+            "clockwise",
+            "direction",
+            "pick"
+        ],
+        [
+            "friend",
+            "bob",
+            "pick",
+            "next",
+            "slice",
+            "clockwise",
+            "direction",
+            "pick"
+        ],
+        [
+            "repeat",
+            "slice",
+            "pizzas"
+        ],
+        [
+            "size",
+            "pizza",
+            "slice",
+            "represent",
+            "circular",
+            "array",
+            "clockwise",
+            "direction"
+        ],
+        [
+            "return",
+            "maximum",
+            "possible",
+            "sum",
+            "slice",
+            "size"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 525,
+    "title": "Contiguous Array",
+    "title_slug": "contiguous-array",
+    "backend_id": 525,
+    "content": "<div><p>Given a binary array, find the maximum length of a contiguous subarray with equal number of 0 and 1. </p>\n\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> [0,1]\n<b>Output:</b> 2\n<b>Explanation:</b> [0, 1] is the longest contiguous subarray with equal number of 0 and 1.\n</pre>\n<p></p>\n\n<p><b>Example 2:</b><br>\n</p><pre><b>Input:</b> [0,1,0]\n<b>Output:</b> 2\n<b>Explanation:</b> [0, 1] (or [1, 0]) is a longest contiguous subarray with equal number of 0 and 1.\n</pre>\n<p></p>\n\n<p><b>Note:</b>\nThe length of the given binary array will not exceed 50,000.\n</p></div>"
+}

@@ -1,0 +1,84 @@
+{
+    "id": 394,
+    "title": "Decode String",
+    "title_slug": "decode-string",
+    "backend_id": 394,
+    "content": [
+        [
+            "give",
+            "encode",
+            "string",
+            "return",
+            "decode",
+            "string"
+        ],
+        [
+            "encode",
+            "rule",
+            "encoded_string",
+            "inside",
+            "square",
+            "bracket",
+            "repeat",
+            "exactly",
+            "time"
+        ],
+        [
+            "note",
+            "guarantee",
+            "positive",
+            "integer"
+        ],
+        [
+            "may",
+            "assume",
+            "input",
+            "string",
+            "always",
+            "valid",
+            "extra",
+            "white",
+            "space",
+            "square",
+            "bracket",
+            "well",
+            "form",
+            "etc"
+        ],
+        [
+            "furthermore",
+            "may",
+            "assume",
+            "original",
+            "data",
+            "contain",
+            "digits",
+            "digit",
+            "repeat",
+            "number",
+            "example",
+            "wo",
+            "n't",
+            "input",
+            "like"
+        ],
+        [
+            "consist",
+            "lowercase",
+            "english",
+            "letter",
+            "digit",
+            "square",
+            "bracket"
+        ],
+        [
+            "guarantee",
+            "valid",
+            "input"
+        ],
+        [
+            "integer",
+            "range"
+        ]
+    ]
+}

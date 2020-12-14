@@ -1,0 +1,7 @@
+{
+    "id": 1601,
+    "title": "Maximum Number of Achievable Transfer Requests",
+    "title_slug": "maximum-number-of-achievable-transfer-requests",
+    "backend_id": 1723,
+    "content": "We have  buildings numbered from 0 to . Each building has a number of employees. It's transfer season, and some employees want to change the building they reside in.\nYou are given an array  where  represents an employee's request to transfer from building  to building .\nAll buildings are full, so a list of requests is achievable only if for each building, the net change in employee transfers is zero. This means the number of employees leaving is equal to the number of employees moving in. For example if  and two employees are leaving building 0, one is leaving building 1, and one is leaving building 2, there should be two employees moving to building 0, one employee moving to building 1, and one employee moving to building 2.\nReturn the maximum number of achievable requests.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n"
+}

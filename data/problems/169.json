@@ -1,0 +1,7 @@
+{
+    "id": 169,
+    "title": "Majority Element",
+    "title_slug": "majority-element",
+    "backend_id": 169,
+    "content": "<div><p>Given an array of size <i>n</i>, find the majority element. The majority element is the element that appears <b>more than</b> <code>\u230a n/2 \u230b</code> times.</p>\n\n<p>You may assume that the array is non-empty and the majority element always exist in the array.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> [3,2,3]\n<strong>Output:</strong> 3</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> [2,2,1,1,1,2,2]\n<strong>Output:</strong> 2\n</pre>\n</div>"
+}

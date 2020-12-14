@@ -1,0 +1,52 @@
+{
+    "id": 62,
+    "title": "Unique Paths",
+    "title_slug": "unique-paths",
+    "backend_id": 62,
+    "content": [
+        [
+            "robot",
+            "locate",
+            "top",
+            "left",
+            "corner",
+            "grid",
+            "mark",
+            "'start",
+            "diagram"
+        ],
+        [
+            "robot",
+            "move",
+            "either",
+            "right",
+            "point",
+            "time"
+        ],
+        [
+            "robot",
+            "try",
+            "reach",
+            "bottom",
+            "right",
+            "corner",
+            "grid",
+            "mark",
+            "'finish",
+            "diagram"
+        ],
+        [
+            "many",
+            "possible",
+            "unique",
+            "path"
+        ],
+        [
+            "'s",
+            "guarantee",
+            "answer",
+            "less",
+            "equal"
+        ]
+    ]
+}

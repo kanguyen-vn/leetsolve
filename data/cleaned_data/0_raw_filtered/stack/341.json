@@ -1,0 +1,7 @@
+{
+    "id": 341,
+    "title": "Flatten Nested List Iterator",
+    "title_slug": "flatten-nested-list-iterator",
+    "backend_id": 341,
+    "content": "<div><p>Given a nested list of integers, implement an iterator to flatten it.</p>\n\n<p>Each element is either an integer, or a list -- whose elements may also be integers or other lists.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<div>\n<pre><strong>Input: </strong><span id=\"example-input-1-1\">[[1,1],2,[1,1]]</span>\n<strong>Output: </strong><span id=\"example-output-1\">[1,1,2,1,1]\n</span><strong>Explanation: </strong>By calling <i>next</i> repeatedly until <i>hasNext</i> returns false, \n&nbsp;            the order of elements returned by <i>next</i> should be: <code>[1,1,2,1,1]</code>.</pre>\n\n<div>\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-2-1\">[1,[4,[6]]]</span>\n<strong>Output: </strong><span id=\"example-output-2\">[1,4,6]\n</span><strong>Explanation: </strong>By calling <i>next</i> repeatedly until <i>hasNext</i> returns false, \n&nbsp;            the order of elements returned by <i>next</i> should be: <code>[1,4,6]</code>.\n</pre>\n</div>\n</div>\n</div>"
+}

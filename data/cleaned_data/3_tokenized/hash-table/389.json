@@ -1,0 +1,37 @@
+{
+    "id": 389,
+    "title": "Find the Difference",
+    "title_slug": "find-the-difference",
+    "backend_id": 389,
+    "content": [
+        [
+            "give",
+            "two",
+            "string"
+        ],
+        [
+            "string",
+            "generate",
+            "random",
+            "shuffle",
+            "string",
+            "add",
+            "one",
+            "letter",
+            "random",
+            "position"
+        ],
+        [
+            "return",
+            "letter",
+            "add"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ]
+    ]
+}

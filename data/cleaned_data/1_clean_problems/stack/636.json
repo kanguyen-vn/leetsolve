@@ -1,0 +1,7 @@
+{
+    "id": 636,
+    "title": "Exclusive Time of Functions",
+    "title_slug": "exclusive-time-of-functions",
+    "backend_id": 636,
+    "content": "On a single-threaded CPU, we execute a program containing  functions. Each function has a unique ID between 0 and .\nFunction calls are stored in a call stack: when a function call starts, its ID is pushed onto the stack, and when a function call ends, its ID is popped off the stack. The function whose ID is at the top of the stack is the current function being executed. Each time a function starts or ends, we write a log with the ID, whether it started or ended, and the timestamp.\nYou are given a list , where  represents the  log message formatted as a string . For example,  means a function call with function ID 0 started at the beginning of timestamp 3, and  means a function call with function ID 1 ended at the end of timestamp 2. Note that a function can be called multiple times, possibly recursively.\nA function's exclusive time is the sum of execution times for all function calls in the program. For example, if a function is called twice, one call executing for 2 time units and another call executing for 1 time unit, the exclusive time is .\nReturn the exclusive time of each function in an array, where the value at the  index represents the exclusive time for the function with ID .\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\nNo two start events will happen at the same timestamp.\nNo two end events will happen at the same timestamp.\nEach function has an  log for each  log.\n\n"
+}

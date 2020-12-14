@@ -1,0 +1,7 @@
+{
+    "id": 424,
+    "title": "Longest Repeating Character Replacement",
+    "title_slug": "longest-repeating-character-replacement",
+    "backend_id": 424,
+    "content": "Given a string that consists of only uppercase English letters, you can perform at most operations on that string. In one operation, you can choose any character of the string and change it to any other uppercase English character. Find the length of the longest sub-string containing all repeating letters you can get after performing the above operations."
+}

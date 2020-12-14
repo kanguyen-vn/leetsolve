@@ -1,0 +1,7 @@
+{
+    "id": 139,
+    "title": "Word Break",
+    "title_slug": "word-break",
+    "backend_id": 139,
+    "content": "<div><p>Given a <strong>non-empty</strong> string <em>s</em> and a dictionary <em>wordDict</em> containing a list of <strong>non-empty</strong> words, determine if <em>s</em> can be segmented into a space-separated sequence of one or more dictionary words.</p>\n\n<p><strong>Note:</strong></p>\n\n<ul>\n\t<li>The same word in the dictionary may be reused multiple times in the segmentation.</li>\n\t<li>You may assume the dictionary does not contain duplicate words.</li>\n</ul>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> s = \"leetcode\", wordDict = [\"leet\", \"code\"]\n<strong>Output:</strong> true\n<strong>Explanation:</strong> Return true because <code>\"leetcode\"</code> can be segmented as <code>\"leet code\"</code>.\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> s = \"applepenapple\", wordDict = [\"apple\", \"pen\"]\n<strong>Output:</strong> true\n<strong>Explanation:</strong> Return true because <code>\"</code>applepenapple<code>\"</code> can be segmented as <code>\"</code>apple pen apple<code>\"</code>.\n&nbsp;            Note that you are allowed to reuse a dictionary word.\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> s = \"catsandog\", wordDict = [\"cats\", \"dog\", \"sand\", \"and\", \"cat\"]\n<strong>Output:</strong> false\n</pre>\n</div>"
+}

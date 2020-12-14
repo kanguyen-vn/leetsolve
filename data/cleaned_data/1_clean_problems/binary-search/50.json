@@ -1,0 +1,7 @@
+{
+    "id": 50,
+    "title": "Pow(x, n)",
+    "title_slug": "powx-n",
+    "backend_id": 50,
+    "content": "Implement pow(x, n), which calculates\u00a0x raised to the power n (i.e. x).\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

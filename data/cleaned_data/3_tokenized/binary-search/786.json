@@ -1,0 +1,34 @@
+{
+    "id": 786,
+    "title": "K-th Smallest Prime Fraction",
+    "title_slug": "k-th-smallest-prime-fraction",
+    "backend_id": 802,
+    "content": [
+        [
+            "sort",
+            "list",
+            "contain",
+            "plus",
+            "number",
+            "prime"
+        ],
+        [
+            "every",
+            "list",
+            "consider",
+            "fraction"
+        ],
+        [
+            "th",
+            "small",
+            "fraction",
+            "consider"
+        ],
+        [
+            "return",
+            "answer",
+            "array",
+            "ints"
+        ]
+    ]
+}

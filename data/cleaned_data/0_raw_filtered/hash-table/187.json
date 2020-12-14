@@ -1,0 +1,7 @@
+{
+    "id": 187,
+    "title": "Repeated DNA Sequences",
+    "title_slug": "repeated-dna-sequences",
+    "backend_id": 187,
+    "content": "<div><p>All DNA is composed of a series of nucleotides abbreviated as <code>'A'</code>, <code>'C'</code>, <code>'G'</code>, and <code>'T'</code>, for example: <code>\"ACGAATTCCG\"</code>. When studying DNA, it is sometimes useful to identify repeated sequences within the DNA.</p>\n\n<p>Write a function to find all the 10-letter-long sequences (substrings) that occur more than once in a DNA molecule.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> s = \"AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT\"\n<strong>Output:</strong> [\"AAAAACCCCC\",\"CCCCCAAAAA\"]\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> s = \"AAAAAAAAAAAAA\"\n<strong>Output:</strong> [\"AAAAAAAAAA\"]\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= s.length &lt;= 10<sup>5</sup></code></li>\n\t<li><code>s[i]</code> is <code>'A'</code>, <code>'C'</code>, <code>'G'</code>, or <code>'T'</code>.</li>\n</ul>\n</div>"
+}

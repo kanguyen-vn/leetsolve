@@ -1,0 +1,7 @@
+{
+    "id": 39,
+    "title": "Combination Sum",
+    "title_slug": "combination-sum",
+    "backend_id": 39,
+    "content": "Given an array of distinct integers and a target integer , return a list of all unique combinations of where the chosen numbers sum to . You may return the combinations in any order. The same number may be chosen from an unlimited number of times. Two combinations are unique if the frequency of at least one of the chosen numbers is different. It is guaranteed that the number of unique combinations that sum up to is less than 150 combinations for the given input. All elements of are distinct."
+}

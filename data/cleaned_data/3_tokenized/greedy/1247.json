@@ -1,0 +1,48 @@
+{
+    "id": 1247,
+    "title": "Minimum Swaps to Make Strings Equal",
+    "title_slug": "minimum-swaps-to-make-strings-equal",
+    "backend_id": 1369,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "equal",
+            "length",
+            "consist",
+            "letter"
+        ],
+        [
+            "task",
+            "make",
+            "two",
+            "string",
+            "equal"
+        ],
+        [
+            "swap",
+            "two",
+            "character",
+            "belong",
+            "different",
+            "string",
+            "mean",
+            "swap"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "swap",
+            "require",
+            "make",
+            "equal",
+            "return",
+            "impossible"
+        ],
+        [
+            "contain"
+        ]
+    ]
+}

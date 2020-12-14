@@ -1,0 +1,37 @@
+{
+    "id": 1044,
+    "title": "Longest Duplicate Substring",
+    "title_slug": "longest-duplicate-substring",
+    "backend_id": 1122,
+    "content": [
+        [
+            "give",
+            "string",
+            "consider",
+            "duplicate",
+            "substring",
+            "contiguous",
+            "substring",
+            "occur",
+            "time"
+        ],
+        [
+            "occurrence",
+            "may",
+            "overlap"
+        ],
+        [
+            "return",
+            "duplicate",
+            "substring",
+            "long",
+            "possible",
+            "length"
+        ],
+        [
+            "duplicate",
+            "substring",
+            "answer"
+        ]
+    ]
+}

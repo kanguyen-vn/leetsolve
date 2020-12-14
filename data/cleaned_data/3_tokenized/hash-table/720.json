@@ -1,0 +1,41 @@
+{
+    "id": 720,
+    "title": "Longest Word in Dictionary",
+    "title_slug": "longest-word-in-dictionary",
+    "backend_id": 720,
+    "content": [
+        [
+            "give",
+            "list",
+            "string",
+            "represent",
+            "english",
+            "dictionary",
+            "find",
+            "long",
+            "word",
+            "build",
+            "one",
+            "character",
+            "time",
+            "word"
+        ],
+        [
+            "one",
+            "possible",
+            "answer",
+            "return",
+            "long",
+            "word",
+            "small",
+            "lexicographical",
+            "order"
+        ],
+        [
+            "answer",
+            "return",
+            "empty",
+            "string"
+        ]
+    ]
+}

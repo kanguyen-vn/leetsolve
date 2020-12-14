@@ -1,0 +1,50 @@
+{
+    "id": 1039,
+    "title": "Minimum Score Triangulation of Polygon",
+    "title_slug": "minimum-score-triangulation-of-polygon",
+    "backend_id": 1111,
+    "content": [
+        [
+            "give",
+            "consider",
+            "convex",
+            "side",
+            "polygon",
+            "vertex",
+            "label",
+            "clockwise",
+            "order"
+        ],
+        [
+            "suppose",
+            "triangulate",
+            "polygon",
+            "triangle"
+        ],
+        [
+            "triangle",
+            "value",
+            "triangle",
+            "product",
+            "label",
+            "vertex",
+            "total",
+            "score",
+            "triangulation",
+            "sum",
+            "value",
+            "triangle",
+            "triangulation"
+        ],
+        [
+            "return",
+            "small",
+            "possible",
+            "total",
+            "score",
+            "achieve",
+            "triangulation",
+            "polygon"
+        ]
+    ]
+}

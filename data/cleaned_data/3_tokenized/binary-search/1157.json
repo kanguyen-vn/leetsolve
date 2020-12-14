@@ -1,0 +1,44 @@
+{
+    "id": 1157,
+    "title": "Online Majority Element In Subarray",
+    "title_slug": "online-majority-element-in-subarray",
+    "backend_id": 1262,
+    "content": [
+        [
+            "implement",
+            "class",
+            "follow",
+            "api",
+            "construct",
+            "instance",
+            "majoritychecker",
+            "give",
+            "array",
+            "argument",
+            "represent",
+            "subarray",
+            "ie"
+        ],
+        [
+            "threshold",
+            "always",
+            "strict",
+            "majority",
+            "length",
+            "subarray",
+            "return",
+            "element",
+            "occur",
+            "least",
+            "time",
+            "element",
+            "exist"
+        ],
+        [
+            "query",
+            "query",
+            "number",
+            "query"
+        ]
+    ]
+}

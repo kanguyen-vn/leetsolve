@@ -1,0 +1,7 @@
+{
+    "id": 1234,
+    "title": "Replace the Substring for Balanced String",
+    "title_slug": "replace-the-substring-for-balanced-string",
+    "backend_id": 1351,
+    "content": "You are given a string containing only 4 kinds of characters and . A string is said to be balanced if each of its characters appears times where is the length of the string. Return the minimum length of the substring that can be replaced with any other string of the same length to make the original string balanced. Return 0 if the string is already balanced. is a multiple of 4 contains only , , and ."
+}

@@ -1,0 +1,47 @@
+{
+    "id": 1191,
+    "title": "K-Concatenation Maximum Sum",
+    "title_slug": "k-concatenation-maximum-sum",
+    "backend_id": 1299,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "integer",
+            "modify",
+            "array",
+            "repeat",
+            "time"
+        ],
+        [
+            "example",
+            "modify",
+            "array"
+        ],
+        [
+            "return",
+            "maximum",
+            "sub",
+            "array",
+            "sum",
+            "modify",
+            "array"
+        ],
+        [
+            "note",
+            "length",
+            "sub",
+            "array",
+            "sum",
+            "case"
+        ],
+        [
+            "answer",
+            "large",
+            "return",
+            "answer",
+            "modulo"
+        ]
+    ]
+}

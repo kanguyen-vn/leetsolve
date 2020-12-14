@@ -1,0 +1,30 @@
+{
+    "id": 316,
+    "title": "Remove Duplicate Letters",
+    "title_slug": "remove-duplicate-letters",
+    "backend_id": 316,
+    "content": [
+        [
+            "give",
+            "string",
+            "remove",
+            "duplicate",
+            "letter",
+            "every",
+            "letter",
+            "appear"
+        ],
+        [
+            "must",
+            "make",
+            "sure",
+            "result",
+            "small",
+            "lexicographical",
+            "order",
+            "among",
+            "possible",
+            "result"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1531,
+    "title": "String Compression II",
+    "title_slug": "string-compression-ii",
+    "backend_id": 1637,
+    "content": "Run-length encoding is a string compression method that works by replacing consecutive identical characters (repeated 2 or more times) with the concatenation of the character and the number marking the count of the characters (length of the run). For example, to compress the string we replace by and replace by . Thus the compressed string becomes Notice that in this problem, we are not adding after single characters. Given a string and an integer . You need to delete at most characters from such that the run-length encoded version of has minimum length. Find the minimum length of the run-length encoded version of after deleting at most characters. contains only lowercase English letters."
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1095,
+    "title": "Find in Mountain Array",
+    "title_slug": "find-in-mountain-array",
+    "backend_id": 1185,
+    "content": "(This problem is an interactive problem.) You may recall that an array is a mountain array if and only if: There exists some with such that: Given a mountain array , return the minimum such that . If such an doesn't exist, return . You can't access the mountain array directly. You may only access the array using a interface: returns the element of the array at index (0-indexed). returns the length of the array. Submissions making more than 100 calls to will be judged Wrong Answer. Also, any solutions that attempt to circumvent the judge will result in disqualification."
+}

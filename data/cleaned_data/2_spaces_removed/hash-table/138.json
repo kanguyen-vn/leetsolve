@@ -1,0 +1,7 @@
+{
+    "id": 138,
+    "title": "Copy List with Random Pointer",
+    "title_slug": "copy-list-with-random-pointer",
+    "backend_id": 138,
+    "content": "A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null. Return a deep copy of the list. The Linked List is represented in the input/output as a list of nodes. Each node is represented as a pair of where: : an integer representing : the index of the node (range from 0 to ) where random pointer points to, or if it does not point to any node. is null or pointing to a node in the linked list. The number of nodes will not exceed 1000."
+}

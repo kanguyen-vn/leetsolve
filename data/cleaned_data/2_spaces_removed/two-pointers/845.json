@@ -1,0 +1,7 @@
+{
+    "id": 845,
+    "title": "Longest Mountain in Array",
+    "title_slug": "longest-mountain-in-array",
+    "backend_id": 875,
+    "content": "You may recall that an array is a mountain array if and only if: There exists some index (0-indexed) with such that: Given an integer array , return the length of the longest subarray, which is a mountain. Return 0 if there is no mountain subarray."
+}

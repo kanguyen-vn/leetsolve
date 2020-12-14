@@ -1,0 +1,27 @@
+{
+    "id": 114,
+    "title": "Flatten Binary Tree to Linked List",
+    "title_slug": "flatten-binary-tree-to-linked-list",
+    "backend_id": 114,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "flatten",
+            "link",
+            "list",
+            "place"
+        ],
+        [
+            "example",
+            "give",
+            "follow",
+            "tree",
+            "flatten",
+            "tree",
+            "look",
+            "like"
+        ]
+    ]
+}

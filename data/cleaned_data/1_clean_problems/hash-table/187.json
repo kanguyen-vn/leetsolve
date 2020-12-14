@@ -1,0 +1,7 @@
+{
+    "id": 187,
+    "title": "Repeated DNA Sequences",
+    "title_slug": "repeated-dna-sequences",
+    "backend_id": 187,
+    "content": "All DNA is composed of a series of nucleotides abbreviated as , , , and , for example: . When studying DNA, it is sometimes useful to identify repeated sequences within the DNA.\nWrite a function to find all the 10-letter-long sequences (substrings) that occur more than once in a DNA molecule.\n\u00a0\n\n\n\n\u00a0\n\n\n\n is , , , or .\n\n"
+}

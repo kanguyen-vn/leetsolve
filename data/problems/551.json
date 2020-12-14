@@ -1,0 +1,7 @@
+{
+    "id": 551,
+    "title": "Student Attendance Record I",
+    "title_slug": "student-attendance-record-i",
+    "backend_id": 551,
+    "content": "<div>You are given a string representing an attendance record for a student. The record only contains the following three characters:\n\n<p>\n</p><ol>\n<li><b>'A'</b> : Absent. </li>\n<li><b>'L'</b> : Late.</li>\n<li> <b>'P'</b> : Present. </li>\n</ol>\n<p></p>\n\n<p>\nA student could be rewarded if his attendance record doesn't contain <b>more than one 'A' (absent)</b> or <b>more than two continuous 'L' (late)</b>.    </p>\n\n<p>You need to return whether the student could be rewarded according to his attendance record.</p>\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> \"PPALLP\"\n<b>Output:</b> True\n</pre>\n<p></p>\n\n<p><b>Example 2:</b><br>\n</p><pre><b>Input:</b> \"PPALLL\"\n<b>Output:</b> False\n</pre>\n<p></p>\n\n\n</div>"
+}

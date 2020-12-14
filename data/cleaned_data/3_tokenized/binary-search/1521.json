@@ -1,0 +1,37 @@
+{
+    "id": 1521,
+    "title": "Find a Value of a Mysterious Function Closest to Target",
+    "title_slug": "find-a-value-of-a-mysterious-function-closest-to-target",
+    "backend_id": 1645,
+    "content": [
+        [
+            "winston",
+            "give",
+            "mysterious",
+            "function"
+        ],
+        [
+            "integer",
+            "array",
+            "integer",
+            "want",
+            "find",
+            "value",
+            "make",
+            "value",
+            "minimum",
+            "possible"
+        ],
+        [
+            "return",
+            "minimum",
+            "possible",
+            "value"
+        ],
+        [
+            "notice",
+            "call",
+            "value"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 402,
+    "title": "Remove K Digits",
+    "title_slug": "remove-k-digits",
+    "backend_id": 402,
+    "content": "<div><p>Given a non-negative integer <i>num</i> represented as a string, remove <i>k</i> digits from the number so that the new number is the smallest possible.\n</p>\n\n<p><b>Note:</b><br>\n</p><ul>\n<li>The length of <i>num</i> is less than 10002 and will be \u2265 <i>k</i>.</li>\n<li>The given <i>num</i> does not contain any leading zero.</li>\n</ul>\n\n<p></p>\n\n<p><b>Example 1:</b>\n</p><pre>Input: num = \"1432219\", k = 3\nOutput: \"1219\"\nExplanation: Remove the three digits 4, 3, and 2 to form the new number 1219 which is the smallest.\n</pre>\n<p></p>\n\n<p><b>Example 2:</b>\n</p><pre>Input: num = \"10200\", k = 1\nOutput: \"200\"\nExplanation: Remove the leading 1 and the number is 200. Note that the output must not contain leading zeroes.\n</pre>\n<p></p>\n\n<p><b>Example 3:</b>\n</p><pre>Input: num = \"10\", k = 2\nOutput: \"0\"\nExplanation: Remove all the digits from the number and it is left with nothing which is 0.\n</pre>\n<p></p></div>"
+}

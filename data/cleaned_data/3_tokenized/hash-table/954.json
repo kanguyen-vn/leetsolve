@@ -1,0 +1,22 @@
+{
+    "id": 954,
+    "title": "Array of Doubled Pairs",
+    "title_slug": "array-of-doubled-pairs",
+    "backend_id": 991,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "even",
+            "length",
+            "return",
+            "possible",
+            "reorder",
+            "every"
+        ],
+        [
+            "even"
+        ]
+    ]
+}

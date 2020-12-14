@@ -1,0 +1,7 @@
+{
+    "id": 10,
+    "title": "Regular Expression Matching",
+    "title_slug": "regular-expression-matching",
+    "backend_id": 10,
+    "content": "Given an input string () and a pattern (), implement regular expression matching with support for and where: Matches any single character. Matches zero or more of the preceding element. The matching should cover the entire input string (not partial). contains only lowercase English letters. contains only lowercase English letters, , and . It is guaranteed for each appearance of the character , there will be a previous valid character to match."
+}

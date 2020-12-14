@@ -1,0 +1,28 @@
+{
+    "id": 60,
+    "title": "Permutation Sequence",
+    "title_slug": "permutation-sequence",
+    "backend_id": 60,
+    "content": [
+        [
+            "set",
+            "contain",
+            "total",
+            "unique",
+            "permutation"
+        ],
+        [
+            "list",
+            "label",
+            "permutation",
+            "order",
+            "get",
+            "follow",
+            "sequence",
+            "give",
+            "return",
+            "permutation",
+            "sequence"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1510,
+    "title": "Stone Game IV",
+    "title_slug": "stone-game-iv",
+    "backend_id": 1617,
+    "content": "Alice and Bob take turns playing a game, with Alice starting first.\nInitially, there are  stones in a pile.\u00a0 On each player's turn, that player makes a\u00a0move\u00a0consisting of removing any non-zero square number of stones in the pile.\nAlso, if a player cannot make a move, he/she loses the game.\nGiven a positive\u00a0integer .\u00a0Return\u00a0\u00a0if and only if Alice wins the game otherwise return , assuming both players play optimally.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 72,
+    "title": "Edit Distance",
+    "title_slug": "edit-distance",
+    "backend_id": 72,
+    "content": "Given two strings  and , return the minimum number of operations required to convert  to .\nYou have the following three operations permitted on a word:\n\nInsert a character\nDelete a character\nReplace a character\n\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n and  consist of lowercase English letters.\n\n"
+}

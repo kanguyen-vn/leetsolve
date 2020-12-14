@@ -1,0 +1,7 @@
+{
+    "id": 345,
+    "title": "Reverse Vowels of a String",
+    "title_slug": "reverse-vowels-of-a-string",
+    "backend_id": 345,
+    "content": "<div><p>Write a function that takes a string as input and reverse only the vowels of a string.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-1-1\">\"hello\"</span>\n<strong>Output: </strong><span id=\"example-output-1\">\"holle\"</span>\n</pre>\n\n<div>\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-2-1\">\"leetcode\"</span>\n<strong>Output: </strong><span id=\"example-output-2\">\"leotcede\"</span></pre>\n</div>\n\n<p><b>Note:</b><br>\nThe vowels does not include the letter \"y\".</p>\n\n<p>&nbsp;</p>\n</div>"
+}

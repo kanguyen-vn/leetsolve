@@ -1,0 +1,7 @@
+{
+    "id": 629,
+    "title": "K Inverse Pairs Array",
+    "title_slug": "k-inverse-pairs-array",
+    "backend_id": 629,
+    "content": "Given two integers and , find how many different arrays consist of numbers from 1 to such that there are exactly inverse pairs. We define an inverse pair as following: For and element in the array, if &lt; and &gt; then it's an inverse pair; Otherwise, it's not. Since the answer may be very large, the answer should be modulo 109 + 7."
+}

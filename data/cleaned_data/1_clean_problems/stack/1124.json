@@ -1,0 +1,7 @@
+{
+    "id": 1124,
+    "title": "Longest Well-Performing Interval",
+    "title_slug": "longest-well-performing-interval",
+    "backend_id": 1219,
+    "content": "We are given , a list of the number of hours\u00a0worked per day for a given employee.\nA day is considered to be a tiring day if and only if the number of hours worked is (strictly) greater than 8.\nA well-performing interval is an interval of days for which the number of tiring days is strictly larger than the number of non-tiring days.\nReturn the length of the longest well-performing interval.\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n"
+}

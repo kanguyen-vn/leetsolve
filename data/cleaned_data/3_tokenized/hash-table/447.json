@@ -1,0 +1,33 @@
+{
+    "id": 447,
+    "title": "Number of Boomerangs",
+    "title_slug": "number-of-boomerangs",
+    "backend_id": 447,
+    "content": [
+        [
+            "give",
+            "plane",
+            "distinct"
+        ],
+        [
+            "boomerang",
+            "tuple",
+            "point",
+            "distance",
+            "equal",
+            "distance",
+            "order",
+            "tuple",
+            "matter"
+        ],
+        [
+            "return",
+            "number",
+            "boomerang"
+        ],
+        [
+            "point",
+            "unique"
+        ]
+    ]
+}

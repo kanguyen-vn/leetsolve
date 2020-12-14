@@ -1,0 +1,7 @@
+{
+    "id": 1140,
+    "title": "Stone Game II",
+    "title_slug": "stone-game-ii",
+    "backend_id": 1240,
+    "content": "Alice and Bob continue their\u00a0games with piles of stones.\u00a0 There are a number of\u00a0piles\u00a0arranged in a row, and each pile has a positive integer number of stones\u00a0.\u00a0 The objective of the game is to end with the most\u00a0stones.\u00a0\nAlice\u00a0and Bob take turns, with Alice starting first.\u00a0 Initially, .\nOn each player's turn, that player\u00a0can take all the stones in the first  remaining piles, where .\u00a0 Then, we set\u00a0.\nThe game continues until all the stones have been taken.\nAssuming Alice and Bob play optimally, return the maximum number of stones Alice\u00a0can get.\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

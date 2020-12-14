@@ -1,0 +1,21 @@
+{
+    "id": 77,
+    "title": "Combinations",
+    "title_slug": "combinations",
+    "backend_id": 77,
+    "content": [
+        [
+            "give",
+            "two",
+            "integer",
+            "return",
+            "possible",
+            "combination",
+            "number",
+            "may",
+            "return",
+            "answer",
+            "order"
+        ]
+    ]
+}

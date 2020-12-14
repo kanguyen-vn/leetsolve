@@ -1,0 +1,41 @@
+{
+    "id": 1611,
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "title_slug": "minimum-one-bit-operations-to-make-integers-zero",
+    "backend_id": 1732,
+    "content": [
+        [
+            "give",
+            "integer",
+            "must",
+            "transform",
+            "use",
+            "follow",
+            "operation",
+            "number",
+            "time",
+            "change",
+            "rightmost",
+            "bit",
+            "binary",
+            "representation"
+        ],
+        [
+            "change",
+            "bit",
+            "binary",
+            "representation",
+            "bit",
+            "set",
+            "bit",
+            "set"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "operation",
+            "transform"
+        ]
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": 542,
+    "title": "01 Matrix",
+    "title_slug": "01-matrix",
+    "backend_id": 542,
+    "content": [
+        [
+            "give",
+            "matrix",
+            "consist",
+            "find",
+            "distance",
+            "near",
+            "cell"
+        ],
+        [
+            "distance",
+            "two",
+            "adjacent",
+            "cell"
+        ]
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 1653,
+    "title": "Minimum Deletions to Make String Balanced",
+    "title_slug": "minimum-deletions-to-make-string-balanced",
+    "backend_id": 1756,
+    "content": [
+        [
+            "give",
+            "string",
+            "consist",
+            "character"
+        ],
+        [
+            "delete",
+            "number",
+            "character",
+            "make",
+            "balanced"
+        ],
+        [
+            "balance",
+            "pair",
+            "index"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "deletion",
+            "need",
+            "make",
+            "balanced"
+        ]
+    ]
+}

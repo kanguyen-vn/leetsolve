@@ -1,0 +1,7 @@
+{
+    "id": 1125,
+    "title": "Smallest Sufficient Team",
+    "title_slug": "smallest-sufficient-team",
+    "backend_id": 1220,
+    "content": "In a project, you have a list of required skills ,\u00a0and a list of .\u00a0 The i-th person \u00a0contains a list of skills that person has.\nConsider a sufficient team: a set of people such that for every required skill in , there is at least one person in the team who has that skill.\u00a0 We can represent these teams by the index of each person: for example,  represents the people with skills , , and .\nReturn any\u00a0sufficient team of the smallest possible size, represented by the index of each person.\nYou may return the answer in any order.\u00a0 It is guaranteed an answer exists.\n\u00a0\n\n\n\n\u00a0\n\n\n\n\n\nElements of  and  are (respectively) distinct.\n are\u00a0lowercase English letters.\nEvery skill in \u00a0is a skill in .\nIt is guaranteed a sufficient team exists.\n\n"
+}

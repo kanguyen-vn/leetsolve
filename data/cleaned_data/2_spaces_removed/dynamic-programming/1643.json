@@ -1,0 +1,7 @@
+{
+    "id": 1643,
+    "title": "Kth Smallest Instructions",
+    "title_slug": "kth-smallest-instructions",
+    "backend_id": 489,
+    "content": "Bob is standing at cell , and he wants to reach : . He can only travel right and down. You are going to help Bob by providing instructions for him to reach . The instructions are represented as a string, where each character is either: , meaning move horizontally (go right), or , meaning move vertically (go down). Multiple instructions will lead Bob to . For example, if is , both and are valid instructions. However, Bob is very picky. Bob has a lucky number , and he wants the lexicographically smallest instructions that will lead him to . is 1-indexed. Given an integer array and an integer , return the lexicographically smallest instructions that will take Bob to . , where denotes choose ."
+}

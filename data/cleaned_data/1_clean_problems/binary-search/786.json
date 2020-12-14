@@ -1,0 +1,7 @@
+{
+    "id": 786,
+    "title": "K-th Smallest Prime Fraction",
+    "title_slug": "k-th-smallest-prime-fraction",
+    "backend_id": 802,
+    "content": "A sorted list  contains 1, plus some number of primes.\u00a0 Then, for every p &lt; q in the list, we consider the fraction p/q.\nWhat is the -th smallest fraction considered?\u00a0 Return your answer as an array of ints, where  and .\n\n"
+}

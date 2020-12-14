@@ -1,0 +1,87 @@
+{
+    "id": 452,
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "title_slug": "minimum-number-of-arrows-to-burst-balloons",
+    "backend_id": 452,
+    "content": [
+        [
+            "spherical",
+            "balloon",
+            "spread",
+            "two",
+            "dimensional",
+            "space"
+        ],
+        [
+            "balloon",
+            "provide",
+            "input",
+            "start",
+            "end",
+            "coordinate",
+            "horizontal",
+            "diameter"
+        ],
+        [
+            "since",
+            "'s",
+            "horizontal",
+            "coordinate",
+            "n't",
+            "matter",
+            "hence",
+            "coordinate",
+            "start",
+            "end",
+            "diameter",
+            "suffice"
+        ],
+        [
+            "start",
+            "always",
+            "small",
+            "end"
+        ],
+        [
+            "arrow",
+            "shot",
+            "exactly",
+            "vertically",
+            "different",
+            "point",
+            "along",
+            "axis"
+        ],
+        [
+            "balloon",
+            "burst",
+            "arrow",
+            "shot"
+        ],
+        [
+            "limit",
+            "number",
+            "arrow",
+            "shoot"
+        ],
+        [
+            "arrow",
+            "shot",
+            "keep",
+            "travel",
+            "infinitely"
+        ],
+        [
+            "give",
+            "array",
+            "return",
+            "minimum",
+            "number",
+            "arrow",
+            "must",
+            "shoot",
+            "burst",
+            "balloon"
+        ]
+    ]
+}

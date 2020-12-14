@@ -1,0 +1,7 @@
+{
+    "id": 1368,
+    "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "title_slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "backend_id": 1485,
+    "content": "Given a m x n . Each cell of the has a sign pointing to the next cell you should visit if you are currently in this cell. The sign of can be: 1 which means go to the cell to the right. (i.e go from to ) 2 which means go to the cell to the left. (i.e go from to ) 3 which means go to the lower cell. (i.e go from to ) 4 which means go to the upper cell. (i.e go from to ) Notice that there could be some invalid signs on the cells of the which points outside the . You will initially start at the upper left cell . A valid path in the grid is a path which starts from the upper left cell and ends at the bottom-right cell following the signs on the grid. The valid path doesn't have to be the shortest. You can modify the sign on a cell with . You can modify the sign on a cell one time only. Return the minimum cost to make the grid have at least one valid path."
+}

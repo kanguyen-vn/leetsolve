@@ -1,0 +1,18 @@
+{
+    "id": 1504,
+    "title": "Count Submatrices With All Ones",
+    "title_slug": "count-submatrices-with-all-ones",
+    "backend_id": 1628,
+    "content": [
+        [
+            "give",
+            "matrix",
+            "one",
+            "zero",
+            "return",
+            "many",
+            "submatrices",
+            "one"
+        ]
+    ]
+}

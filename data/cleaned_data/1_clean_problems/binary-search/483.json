@@ -1,0 +1,7 @@
+{
+    "id": 483,
+    "title": "Smallest Good Base",
+    "title_slug": "smallest-good-base",
+    "backend_id": 483,
+    "content": "For an integer n, we call k&gt;=2 a good base of n, if all digits of n base k are 1.\nNow given a string representing n, you should return the smallest good base of n in string format.\n\n\n\u00a0\n\n\n\u00a0\n\n\n\u00a0\n"
+}

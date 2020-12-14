@@ -1,0 +1,7 @@
+{
+    "id": 658,
+    "title": "Find K Closest Elements",
+    "title_slug": "find-k-closest-elements",
+    "backend_id": 658,
+    "content": "Given a sorted integer array , two integers and , return the closest integers to in the array. The result should also be sorted in ascending order. An integer is closer to than an integer if: , or and Absolute value of elements in the array and will not exceed 104"
+}

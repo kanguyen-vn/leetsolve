@@ -1,0 +1,7 @@
+{
+    "id": 901,
+    "title": "Online Stock Span",
+    "title_slug": "online-stock-span",
+    "backend_id": 937,
+    "content": "Write a class  which collects daily price quotes for some stock, and returns the span\u00a0of that stock's price for the current day.\nThe span of the stock's price today\u00a0is defined as the maximum number of consecutive days (starting from today and going backwards)\u00a0for which the price of the stock was less than or equal to today's price.\nFor example, if the price of a stock over the next 7 days were , then the stock spans would be .\n\u00a0\n\n"
+}

@@ -1,0 +1,62 @@
+{
+    "id": 1402,
+    "title": "Reducing Dishes",
+    "title_slug": "reducing-dishes",
+    "backend_id": 1503,
+    "content": [
+        [
+            "chef",
+            "collect",
+            "data",
+            "level",
+            "dish"
+        ],
+        [
+            "chef",
+            "cook",
+            "dish",
+            "unit",
+            "time"
+        ],
+        [
+            "like",
+            "time",
+            "coefficient",
+            "dish",
+            "define",
+            "time",
+            "take",
+            "cook",
+            "dish",
+            "include",
+            "previous",
+            "dish",
+            "multiply",
+            "satisfaction",
+            "level"
+        ],
+        [
+            "return",
+            "maximum",
+            "sum",
+            "like",
+            "time",
+            "coefficient",
+            "chef",
+            "obtain",
+            "dish",
+            "preparation"
+        ],
+        [
+            "dish",
+            "prepare",
+            "order",
+            "chef",
+            "discard",
+            "dish",
+            "get",
+            "maximum",
+            "value"
+        ]
+    ]
+}

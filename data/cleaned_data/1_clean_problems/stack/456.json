@@ -1,0 +1,7 @@
+{
+    "id": 456,
+    "title": "132 Pattern",
+    "title_slug": "132-pattern",
+    "backend_id": 456,
+    "content": "Given an array\u00a0of  integers , a 132 pattern is a subsequence of three integers ,  and  such that  and .\nReturn  if there is a 132 pattern in , otherwise, return .\n"
+}

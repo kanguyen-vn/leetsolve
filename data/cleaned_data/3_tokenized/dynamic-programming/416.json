@@ -1,0 +1,26 @@
+{
+    "id": 416,
+    "title": "Partition Equal Subset Sum",
+    "title_slug": "partition-equal-subset-sum",
+    "backend_id": 416,
+    "content": [
+        [
+            "give",
+            "non",
+            "empty",
+            "array",
+            "contain",
+            "positive",
+            "integer",
+            "find",
+            "array",
+            "partition",
+            "two",
+            "subset",
+            "sum",
+            "element",
+            "subset",
+            "equal"
+        ]
+    ]
+}

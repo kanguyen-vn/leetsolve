@@ -1,0 +1,7 @@
+{
+    "id": 1178,
+    "title": "Number of Valid Words for Each Puzzle",
+    "title_slug": "number-of-valid-words-for-each-puzzle",
+    "backend_id": 1282,
+    "content": "With respect to a given string, a is valid if both the following conditions are satisfied: contains the first letter of . For each letter in , that letter is in . For example, if the puzzle is \"abcdefg\", then valid words are \"faced\", \"cabbage\", and \"baggage\"; while invalid words are \"beefed\" (doesn't include \"a\") and \"based\" (includes \"s\" which isn't in the puzzle). Return an array , where is the number of words in the given word list that are valid with respect to the puzzle . , are English lowercase letters. Each doesn't contain repeated characters."
+}

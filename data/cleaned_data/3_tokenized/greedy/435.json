@@ -1,0 +1,24 @@
+{
+    "id": 435,
+    "title": "Non-overlapping Intervals",
+    "title_slug": "non-overlapping-intervals",
+    "backend_id": 435,
+    "content": [
+        [
+            "give",
+            "collection",
+            "interval",
+            "find",
+            "minimum",
+            "number",
+            "interval",
+            "need",
+            "remove",
+            "make",
+            "rest",
+            "interval",
+            "non",
+            "overlap"
+        ]
+    ]
+}

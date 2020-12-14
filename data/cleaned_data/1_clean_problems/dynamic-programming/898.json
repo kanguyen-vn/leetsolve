@@ -1,0 +1,7 @@
+{
+    "id": 898,
+    "title": "Bitwise ORs of Subarrays",
+    "title_slug": "bitwise-ors-of-subarrays",
+    "backend_id": 934,
+    "content": "We have an array  of non-negative integers.\nFor every (contiguous) subarray  (with ), we take the bitwise OR of all the elements in , obtaining a result \nReturn the number of possible\u00a0results.\u00a0 (Results that occur more than once are only counted once in the final answer.)\n\u00a0\n\n\u00a0\n"
+}

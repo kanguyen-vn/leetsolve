@@ -1,0 +1,7 @@
+{
+    "id": 310,
+    "title": "Minimum Height Trees",
+    "title_slug": "minimum-height-trees",
+    "backend_id": 310,
+    "content": "A tree is an undirected graph in which any two vertices are connected by\u00a0exactly\u00a0one path. In other words, any connected graph without simple cycles is a tree.\nGiven a tree of  nodes\u00a0labelled from 0 to , and an array of\u00a0\u00a0 where  indicates that there is an undirected edge between the two nodes\u00a0 and\u00a0 in the tree,\u00a0you can choose any node of the tree as the root. When you select a node  as the root, the result tree has height . Among all possible rooted trees, those with minimum height (i.e. )\u00a0 are called minimum height trees (MHTs).\nReturn a list of all MHTs' root labels.\u00a0You can return the answer in any order.\nThe height of a rooted tree is the number of edges on the longest downward path between the root and a leaf.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\nAll the pairs  are distinct.\nThe given input is guaranteed to be a tree and there will be no repeated edges.\n\n"
+}

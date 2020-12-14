@@ -1,0 +1,57 @@
+{
+    "id": 1411,
+    "title": "Number of Ways to Paint N \u00d7 3 Grid",
+    "title_slug": "number-of-ways-to-paint-n-3-grid",
+    "backend_id": 1527,
+    "content": [
+        [
+            "size",
+            "want",
+            "paint",
+            "cell",
+            "grid",
+            "exactly",
+            "one",
+            "three",
+            "colour",
+            "red",
+            "yellow",
+            "green",
+            "make",
+            "sure",
+            "two",
+            "adjacent",
+            "cell",
+            "colour",
+            "two",
+            "cell",
+            "share",
+            "vertical",
+            "horizontal",
+            "side",
+            "colour"
+        ],
+        [
+            "give",
+            "number",
+            "row",
+            "grid"
+        ],
+        [
+            "return",
+            "number",
+            "way",
+            "paint"
+        ],
+        [
+            "answer",
+            "may",
+            "grow",
+            "large",
+            "answer",
+            "must",
+            "compute",
+            "modulo"
+        ]
+    ]
+}

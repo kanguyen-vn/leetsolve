@@ -1,0 +1,43 @@
+{
+    "id": 1300,
+    "title": "Sum of Mutated Array Closest to Target",
+    "title_slug": "sum-of-mutated-array-closest-to-target",
+    "backend_id": 1232,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "target",
+            "value",
+            "return",
+            "integer",
+            "change",
+            "integer",
+            "large",
+            "give",
+            "array",
+            "equal",
+            "sum",
+            "array",
+            "get",
+            "close",
+            "possible",
+            "absolute",
+            "difference"
+        ],
+        [
+            "case",
+            "tie",
+            "return",
+            "minimum",
+            "integer"
+        ],
+        [
+            "notice",
+            "answer",
+            "neccesarilly",
+            "number"
+        ]
+    ]
+}

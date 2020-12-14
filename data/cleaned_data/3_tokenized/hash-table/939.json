@@ -1,0 +1,29 @@
+{
+    "id": 939,
+    "title": "Minimum Area Rectangle",
+    "title_slug": "minimum-area-rectangle",
+    "backend_id": 976,
+    "content": [
+        [
+            "give",
+            "set",
+            "point",
+            "xy",
+            "plane",
+            "determine",
+            "minimum",
+            "area",
+            "rectangle",
+            "form",
+            "point",
+            "side",
+            "parallel",
+            "ax"
+        ],
+        [
+            "n't",
+            "rectangle",
+            "return"
+        ]
+    ]
+}

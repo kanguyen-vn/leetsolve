@@ -1,0 +1,28 @@
+{
+    "id": 327,
+    "title": "Count of Range Sum",
+    "title_slug": "count-of-range-sum",
+    "backend_id": 327,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "return",
+            "number",
+            "range",
+            "sum",
+            "lie",
+            "inclusive"
+        ],
+        [
+            "range",
+            "sum",
+            "define",
+            "sum",
+            "element",
+            "index",
+            "inclusive"
+        ]
+    ]
+}

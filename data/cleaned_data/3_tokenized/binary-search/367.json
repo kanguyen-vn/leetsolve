@@ -1,0 +1,23 @@
+{
+    "id": 367,
+    "title": "Valid Perfect Square",
+    "title_slug": "valid-perfect-square",
+    "backend_id": 367,
+    "content": [
+        [
+            "give",
+            "positive",
+            "integer",
+            "num",
+            "write",
+            "function",
+            "return",
+            "true",
+            "num",
+            "perfect",
+            "square",
+            "else",
+            "false"
+        ]
+    ]
+}

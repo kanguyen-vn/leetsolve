@@ -1,0 +1,7 @@
+{
+    "id": 754,
+    "title": "Reach a Number",
+    "title_slug": "reach-a-number",
+    "backend_id": 755,
+    "content": "<div><p>\nYou are standing at position <code>0</code> on an infinite number line.  There is a goal at position <code>target</code>.\n</p><p>\nOn each move, you can either go left or right.  During the <i>n</i>-th move (starting from 1), you take <i>n</i> steps.\n</p><p>\nReturn the minimum number of steps required to reach the destination.\n</p>\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> target = 3\n<b>Output:</b> 2\n<b>Explanation:</b>\nOn the first move we step from 0 to 1.\nOn the second step we step from 1 to 3.\n</pre>\n<p></p>\n\n<p><b>Example 2:</b><br>\n</p><pre><b>Input:</b> target = 2\n<b>Output:</b> 3\n<b>Explanation:</b>\nOn the first move we step from 0 to 1.\nOn the second move we step  from 1 to -1.\nOn the third move we step from -1 to 2.\n</pre>\n<p></p>\n\n<p><b>Note:</b><br>\n</p><li><code>target</code> will be a non-zero integer in the range <code>[-10^9, 10^9]</code>.</li>\n<p></p></div>"
+}

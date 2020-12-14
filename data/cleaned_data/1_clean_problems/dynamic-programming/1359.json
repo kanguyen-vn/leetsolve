@@ -1,0 +1,7 @@
+{
+    "id": 1359,
+    "title": "Count All Valid Pickup and Delivery Options",
+    "title_slug": "count-all-valid-pickup-and-delivery-options",
+    "backend_id": 1461,
+    "content": "Given  orders, each order consist in pickup and delivery services.\u00a0\nCount all valid pickup/delivery possible sequences such that delivery(i) is always after of\u00a0pickup(i).\u00a0\nSince the answer\u00a0may be too large,\u00a0return it modulo\u00a010^9 + 7.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

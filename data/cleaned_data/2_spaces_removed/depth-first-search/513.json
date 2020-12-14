@@ -1,0 +1,7 @@
+{
+    "id": 513,
+    "title": "Find Bottom Left Tree Value",
+    "title_slug": "find-bottom-left-tree-value",
+    "backend_id": 513,
+    "content": "Given a binary tree, find the leftmost value in the last row of the tree."
+}

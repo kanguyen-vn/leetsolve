@@ -1,0 +1,46 @@
+{
+    "id": 1002,
+    "title": "Find Common Characters",
+    "title_slug": "find-common-characters",
+    "backend_id": 1044,
+    "content": [
+        [
+            "give",
+            "array",
+            "string",
+            "make",
+            "lowercase",
+            "letter",
+            "return",
+            "list",
+            "character",
+            "show",
+            "string",
+            "within",
+            "list",
+            "include",
+            "duplicate"
+        ],
+        [
+            "example",
+            "character",
+            "occur",
+            "time",
+            "string",
+            "time",
+            "need",
+            "include",
+            "character",
+            "three",
+            "time",
+            "final",
+            "answer"
+        ],
+        [
+            "may",
+            "return",
+            "answer",
+            "order"
+        ]
+    ]
+}

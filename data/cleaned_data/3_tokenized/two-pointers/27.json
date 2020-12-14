@@ -1,0 +1,76 @@
+{
+    "id": 27,
+    "title": "Remove Element",
+    "title_slug": "remove-element",
+    "backend_id": 27,
+    "content": [
+        [
+            "give",
+            "array",
+            "nums",
+            "value",
+            "val",
+            "remove",
+            "instance",
+            "value",
+            "place",
+            "return",
+            "new",
+            "length"
+        ],
+        [
+            "allocate",
+            "extra",
+            "space",
+            "another",
+            "array",
+            "must",
+            "modify",
+            "input",
+            "array",
+            "place",
+            "extra",
+            "memory"
+        ],
+        [
+            "order",
+            "element",
+            "change"
+        ],
+        [
+            "n't",
+            "matter",
+            "leave",
+            "beyond",
+            "new",
+            "length"
+        ],
+        [
+            "clarification",
+            "confuse",
+            "return",
+            "value",
+            "integer",
+            "answer",
+            "array"
+        ],
+        [
+            "note",
+            "input",
+            "array",
+            "pass",
+            "reference",
+            "mean",
+            "modification",
+            "input",
+            "array",
+            "know",
+            "caller",
+            "well"
+        ],
+        [
+            "internally",
+            "think"
+        ]
+    ]
+}

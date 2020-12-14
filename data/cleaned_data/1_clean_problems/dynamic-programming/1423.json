@@ -1,0 +1,7 @@
+{
+    "id": 1423,
+    "title": "Maximum Points You Can Obtain from Cards",
+    "title_slug": "maximum-points-you-can-obtain-from-cards",
+    "backend_id": 1538,
+    "content": "There are several cards\u00a0arranged in a row, and each card has an associated number of points\u00a0The points are given in the integer array\u00a0.\nIn one step, you can take one card from the beginning or from the end of the row. You have to take exactly  cards.\nYour score is the sum of the points of the cards you have taken.\nGiven the integer array  and the integer , return the maximum score you can obtain.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

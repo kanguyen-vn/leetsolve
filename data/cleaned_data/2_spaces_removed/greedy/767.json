@@ -1,0 +1,7 @@
+{
+    "id": 767,
+    "title": "Reorganize String",
+    "title_slug": "reorganize-string",
+    "backend_id": 778,
+    "content": "Given a string , check if the letters can be rearranged so that two characters that are adjacent to each other are not the same. If possible, output any possible result. If not possible, return the empty string."
+}

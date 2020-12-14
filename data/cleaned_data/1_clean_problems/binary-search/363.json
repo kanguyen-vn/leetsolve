@@ -1,0 +1,7 @@
+{
+    "id": 363,
+    "title": "Max Sum of Rectangle No Larger Than K",
+    "title_slug": "max-sum-of-rectangle-no-larger-than-k",
+    "backend_id": 363,
+    "content": "Given a non-empty 2D matrix matrix and an integer k, find the max sum of a rectangle in the matrix such that its sum is no larger than k.\n\n\n"
+}

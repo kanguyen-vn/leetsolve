@@ -1,0 +1,7 @@
+{
+    "id": 207,
+    "title": "Course Schedule",
+    "title_slug": "course-schedule",
+    "backend_id": 207,
+    "content": "There are a total of  courses you have to take, labeled from 0 to .\nSome courses may have prerequisites, for example to take course 0 you have to first take course 1, which is expressed as a pair: \nGiven the total number of courses and a list of prerequisite pairs, is it possible for you to finish all courses?\n\u00a0\n\n\n\n\n\u00a0\n\n\nThe input prerequisites is a graph represented by a list of edges, not adjacency matrices. Read more about how a graph is represented.\nYou may assume that there are no duplicate edges in the input prerequisites.\n\n\n"
+}

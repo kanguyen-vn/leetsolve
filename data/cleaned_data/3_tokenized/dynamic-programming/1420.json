@@ -1,0 +1,57 @@
+{
+    "id": 1420,
+    "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+    "title_slug": "build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+    "backend_id": 1535,
+    "content": [
+        [
+            "give",
+            "three",
+            "integer"
+        ],
+        [
+            "consider",
+            "follow",
+            "algorithm",
+            "find",
+            "maximum",
+            "element",
+            "array",
+            "positive",
+            "integer",
+            "build",
+            "array",
+            "arr",
+            "follow",
+            "property",
+            "exactly",
+            "integer"
+        ],
+        [
+            "apply",
+            "mention",
+            "algorithm",
+            "value",
+            "equal"
+        ],
+        [
+            "return",
+            "number",
+            "way",
+            "build",
+            "array",
+            "mention",
+            "condition"
+        ],
+        [
+            "answer",
+            "may",
+            "grow",
+            "large",
+            "answer",
+            "must",
+            "compute",
+            "modulo"
+        ]
+    ]
+}

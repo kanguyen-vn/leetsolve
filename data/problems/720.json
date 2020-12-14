@@ -1,0 +1,7 @@
+{
+    "id": 720,
+    "title": "Longest Word in Dictionary",
+    "title_slug": "longest-word-in-dictionary",
+    "backend_id": 720,
+    "content": "<div><p>Given a list of strings <code>words</code> representing an English Dictionary, find the longest word in <code>words</code> that can be built one character at a time by other words in <code>words</code>.  If there is more than one possible answer, return the longest word with the smallest lexicographical order.</p>  If there is no answer, return the empty string.\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> \nwords = [\"w\",\"wo\",\"wor\",\"worl\", \"world\"]\n<b>Output:</b> \"world\"\n<b>Explanation:</b> \nThe word \"world\" can be built one character at a time by \"w\", \"wo\", \"wor\", and \"worl\".\n</pre>\n<p></p>\n\n<p><b>Example 2:</b><br>\n</p><pre><b>Input:</b> \nwords = [\"a\", \"banana\", \"app\", \"appl\", \"ap\", \"apply\", \"apple\"]\n<b>Output:</b> \"apple\"\n<b>Explanation:</b> \nBoth \"apply\" and \"apple\" can be built from other words in the dictionary. However, \"apple\" is lexicographically smaller than \"apply\".\n</pre>\n<p></p>\n\n<p><b>Note:</b>\n</p><li>All the strings in the input will only contain lowercase letters.</li>\n<li>The length of <code>words</code> will be in the range <code>[1, 1000]</code>.</li>\n<li>The length of <code>words[i]</code> will be in the range <code>[1, 30]</code>.</li>\n<p></p></div>"
+}

@@ -1,0 +1,60 @@
+{
+    "id": 645,
+    "title": "Set Mismatch",
+    "title_slug": "set-mismatch",
+    "backend_id": 645,
+    "content": [
+        [
+            "set",
+            "originally",
+            "contain",
+            "number"
+        ],
+        [
+            "unfortunately",
+            "due",
+            "data",
+            "error",
+            "one",
+            "number",
+            "set",
+            "get",
+            "duplicated",
+            "another",
+            "number",
+            "set",
+            "result",
+            "repetition",
+            "one",
+            "number",
+            "loss",
+            "another",
+            "number"
+        ],
+        [
+            "give",
+            "array",
+            "represent",
+            "data",
+            "status",
+            "set",
+            "error"
+        ],
+        [
+            "task",
+            "firstly",
+            "find",
+            "number",
+            "occurs",
+            "twice",
+            "find",
+            "number",
+            "miss"
+        ],
+        [
+            "return",
+            "form",
+            "array"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1478,
+    "title": "Allocate Mailboxes",
+    "title_slug": "allocate-mailboxes",
+    "backend_id": 1571,
+    "content": "Given the array and an integer . where is the location of the ith house along a street, your task is to allocate mailboxes in the street. Return the minimum total distance between each house and its nearest mailbox. The answer is guaranteed to fit in a 32-bit signed integer. Array contain unique integers."
+}

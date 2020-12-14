@@ -1,0 +1,7 @@
+{
+    "id": 524,
+    "title": "Longest Word in Dictionary through Deleting",
+    "title_slug": "longest-word-in-dictionary-through-deleting",
+    "backend_id": 524,
+    "content": "<div><p>\nGiven a string and a string dictionary, find the longest string in the dictionary that can be formed by deleting some characters of the given string. If there are more than one possible results, return the longest word with the smallest lexicographical order. If there is no possible result, return the empty string.\n</p>\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b>\ns = \"abpcplea\", d = [\"ale\",\"apple\",\"monkey\",\"plea\"]\n\n<b>Output:</b> \n\"apple\"\n</pre>\n<p></p>\n\n<p></p>\n<p><b>Example 2:</b><br>\n</p><pre><b>Input:</b>\ns = \"abpcplea\", d = [\"a\",\"b\",\"c\"]\n\n<b>Output:</b> \n\"a\"\n</pre>\n<p></p>\n\n<p><b>Note:</b><br>\n</p><ol>\n<li>All the strings in the input will only contain lower-case letters.</li>\n<li>The size of the dictionary won't exceed 1,000.</li>\n<li>The length of all the strings in the input won't exceed 1,000.</li>\n</ol>\n<p></p></div>"
+}

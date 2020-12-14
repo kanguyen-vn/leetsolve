@@ -1,0 +1,39 @@
+{
+    "id": 122,
+    "title": "Best Time to Buy and Sell Stock II",
+    "title_slug": "best-time-to-buy-and-sell-stock-ii",
+    "backend_id": 122,
+    "content": [
+        [
+            "say",
+            "array",
+            "element",
+            "price",
+            "give",
+            "stock",
+            "day"
+        ],
+        [
+            "design",
+            "algorithm",
+            "find",
+            "maximum",
+            "profit"
+        ],
+        [
+            "may",
+            "complete",
+            "many",
+            "transaction",
+            "like",
+            "buy",
+            "one",
+            "sell",
+            "one",
+            "share",
+            "stock",
+            "multiple",
+            "time"
+        ]
+    ]
+}

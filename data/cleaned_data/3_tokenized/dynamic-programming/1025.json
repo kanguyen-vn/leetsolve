@@ -1,0 +1,57 @@
+{
+    "id": 1025,
+    "title": "Divisor Game",
+    "title_slug": "divisor-game",
+    "backend_id": 1086,
+    "content": [
+        [
+            "alice",
+            "bob",
+            "take",
+            "turn",
+            "play",
+            "game",
+            "alice",
+            "start",
+            "first"
+        ],
+        [
+            "initially",
+            "number",
+            "chalkboard"
+        ],
+        [
+            "player",
+            "'s",
+            "turn",
+            "player",
+            "make",
+            "move",
+            "consist",
+            "choosing"
+        ],
+        [
+            "replace",
+            "number",
+            "chalkboard"
+        ],
+        [
+            "also",
+            "player",
+            "make",
+            "move",
+            "lose",
+            "game"
+        ],
+        [
+            "return",
+            "alice",
+            "win",
+            "game",
+            "assume",
+            "player",
+            "play",
+            "optimally"
+        ]
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "id": 621,
+    "title": "Task Scheduler",
+    "title_slug": "task-scheduler",
+    "backend_id": 621,
+    "content": [
+        [
+            "give",
+            "character",
+            "array",
+            "represent",
+            "task",
+            "cpu",
+            "need",
+            "letter",
+            "represent",
+            "different",
+            "task"
+        ],
+        [
+            "task",
+            "could",
+            "do",
+            "order"
+        ],
+        [
+            "task",
+            "do",
+            "one",
+            "unit",
+            "time"
+        ],
+        [
+            "unit",
+            "time",
+            "cpu",
+            "could",
+            "complete",
+            "either",
+            "one",
+            "task",
+            "idle"
+        ],
+        [
+            "however",
+            "non",
+            "negative",
+            "integer",
+            "represent",
+            "cooldown",
+            "period",
+            "two",
+            "task",
+            "letter",
+            "array",
+            "must",
+            "least",
+            "unit",
+            "time",
+            "two",
+            "task"
+        ],
+        [
+            "return",
+            "least",
+            "number",
+            "unit",
+            "time",
+            "cpu",
+            "take",
+            "finish",
+            "give",
+            "task"
+        ],
+        [
+            "upper",
+            "case",
+            "english",
+            "letter"
+        ],
+        [
+            "integer",
+            "range"
+        ]
+    ]
+}

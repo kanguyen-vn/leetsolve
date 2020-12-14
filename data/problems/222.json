@@ -1,0 +1,7 @@
+{
+    "id": 222,
+    "title": "Count Complete Tree Nodes",
+    "title_slug": "count-complete-tree-nodes",
+    "backend_id": 222,
+    "content": "<div><p>Given a <b>complete</b> binary tree, count the number of nodes.</p>\n\n<p><b>Note: </b></p>\n\n<p><b><u>Definition of a complete binary tree from <a href=\"http://en.wikipedia.org/wiki/Binary_tree#Types_of_binary_trees\" target=\"_blank\">Wikipedia</a>:</u></b><br>\nIn a complete binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible. It can have between 1 and 2<sup>h</sup> nodes inclusive at the last level h.</p>\n\n<p><strong>Example:</strong></p>\n\n<pre><strong>Input:</strong> \n    1\n   / \\\n  2   3\n / \\  /\n4  5 6\n\n<strong>Output:</strong> 6</pre>\n</div>"
+}

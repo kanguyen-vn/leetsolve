@@ -1,0 +1,7 @@
+{
+    "id": 920,
+    "title": "Number of Music Playlists",
+    "title_slug": "number-of-music-playlists",
+    "backend_id": 956,
+    "content": "Your music player contains \u00a0different songs and she wants to listen to  (not necessarily different) songs during your trip. \u00a0You\u00a0create\u00a0a playlist so\u00a0that:\n\nEvery song is played at least once\nA song can only be played again only if\u00a0\u00a0other songs have been played\n\nReturn the number of possible playlists.\u00a0 As the answer can be very large, return it modulo .\n\u00a0\n"
+}

@@ -1,0 +1,37 @@
+{
+    "id": 129,
+    "title": "Sum Root to Leaf Numbers",
+    "title_slug": "sum-root-to-leaf-numbers",
+    "backend_id": 129,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "contain",
+            "digit",
+            "root",
+            "leaf",
+            "path",
+            "could",
+            "represent",
+            "number"
+        ],
+        [
+            "example",
+            "root",
+            "leaf",
+            "path",
+            "represent",
+            "number"
+        ],
+        [
+            "find",
+            "total",
+            "sum",
+            "root",
+            "leaf",
+            "number"
+        ]
+    ]
+}

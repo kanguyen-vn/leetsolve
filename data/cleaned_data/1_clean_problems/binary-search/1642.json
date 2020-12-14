@@ -1,0 +1,7 @@
+{
+    "id": 1642,
+    "title": "Furthest Building You Can Reach",
+    "title_slug": "furthest-building-you-can-reach",
+    "backend_id": 1762,
+    "content": "You are given an integer array  representing the heights of buildings, some , and some .\nYou start your journey from building 0 and move to the next building by possibly using bricks or ladders.\nWhile moving from building  to building  (0-indexed),\n\nIf the current building's height is greater than or equal to the next building's height, you do not need a ladder or bricks.\nIf the current building's height is less than the next building's height, you can either use one ladder or  bricks.\n\nReturn the furthest building index (0-indexed) you can reach if you use the given ladders and bricks optimally.\n\u00a0\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n"
+}

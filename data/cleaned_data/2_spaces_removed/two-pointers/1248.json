@@ -1,0 +1,7 @@
+{
+    "id": 1248,
+    "title": "Count Number of Nice Subarrays",
+    "title_slug": "count-number-of-nice-subarrays",
+    "backend_id": 1370,
+    "content": "Given an array of integers and an integer . A continuous subarray is called nice if there are odd numbers on it. Return the number of nice sub-arrays."
+}

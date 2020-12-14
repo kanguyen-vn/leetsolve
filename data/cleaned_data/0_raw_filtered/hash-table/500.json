@@ -1,0 +1,7 @@
+{
+    "id": 500,
+    "title": "Keyboard Row",
+    "title_slug": "keyboard-row",
+    "backend_id": 500,
+    "content": "<div><p>Given a List of words, return the words that can be typed using letters of <b>alphabet</b> on only one row's of American keyboard like the image below.</p>\n\n<p>&nbsp;</p>\n\n<p><img alt=\"\" src=\"https://assets.leetcode.com/uploads/2018/10/12/keyboard.png\" style=\"width: 100%; max-width: 600px\"></p>\n&nbsp;\n\n<p><b>Example:</b></p>\n\n<pre><b>Input:</b> [\"Hello\", \"Alaska\", \"Dad\", \"Peace\"]\n<b>Output:</b> [\"Alaska\", \"Dad\"]\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Note:</b></p>\n\n<ol>\n\t<li>You may use one character in the keyboard more than once.</li>\n\t<li>You may assume the input string will only contain letters of alphabet.</li>\n</ol>\n</div>"
+}

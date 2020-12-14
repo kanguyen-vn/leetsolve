@@ -1,0 +1,83 @@
+{
+    "id": 676,
+    "title": "Implement Magic Dictionary",
+    "title_slug": "implement-magic-dictionary",
+    "backend_id": 676,
+    "content": [
+        [
+            "design",
+            "data",
+            "structure",
+            "initialized",
+            "list",
+            "different",
+            "word"
+        ],
+        [
+            "provide",
+            "string",
+            "determine",
+            "change",
+            "exactly",
+            "one",
+            "character",
+            "string",
+            "match",
+            "word",
+            "data",
+            "structure"
+        ],
+        [
+            "implement",
+            "class",
+            "initialize",
+            "object"
+        ],
+        [
+            "set",
+            "data",
+            "structure",
+            "array",
+            "distinct",
+            "string"
+        ],
+        [
+            "return",
+            "change",
+            "exactly",
+            "one",
+            "character",
+            "match",
+            "string",
+            "data",
+            "structure",
+            "otherwise",
+            "return"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ],
+        [
+            "string",
+            "distinct"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ],
+        [
+            "call"
+        ],
+        [
+            "call",
+            "make"
+        ]
+    ]
+}

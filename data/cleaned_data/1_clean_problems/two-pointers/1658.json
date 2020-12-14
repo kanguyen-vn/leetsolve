@@ -1,0 +1,7 @@
+{
+    "id": 1658,
+    "title": "Minimum Operations to Reduce X to Zero",
+    "title_slug": "minimum-operations-to-reduce-x-to-zero",
+    "backend_id": 1776,
+    "content": "You are given an integer array  and an integer . In one operation, you can either remove the leftmost or the rightmost element from the array  and subtract its value from . Note that this modifies the array for future operations.\nReturn the minimum number of operations to reduce  to exactly 0 if it's possible, otherwise, return .\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

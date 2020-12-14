@@ -1,0 +1,37 @@
+{
+    "id": 1353,
+    "title": "Maximum Number of Events That Can Be Attended",
+    "title_slug": "maximum-number-of-events-that-can-be-attended",
+    "backend_id": 1478,
+    "content": [
+        [
+            "give",
+            "array"
+        ],
+        [
+            "every",
+            "event",
+            "start",
+            "end"
+        ],
+        [
+            "attend",
+            "event",
+            "day"
+        ],
+        [
+            "notice",
+            "attend",
+            "one",
+            "event",
+            "time"
+        ],
+        [
+            "return",
+            "maximum",
+            "number",
+            "event",
+            "attend"
+        ]
+    ]
+}

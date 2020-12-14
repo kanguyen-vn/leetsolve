@@ -1,0 +1,7 @@
+{
+    "id": 133,
+    "title": "Clone Graph",
+    "title_slug": "clone-graph",
+    "backend_id": 133,
+    "content": "Given a reference of a node in a\u00a0connected\u00a0undirected graph.\nReturn a deep copy (clone) of the graph.\nEach node in the graph contains a val () and a list () of its neighbors.\n\n\u00a0\nTest case format:\nFor simplicity sake, each\u00a0node's value is the same as the node's index (1-indexed). For example, the first node with\u00a0, the second node with , and so on.\u00a0The graph is represented in the test case using an adjacency list.\nAdjacency list\u00a0is a collection of unordered\u00a0lists\u00a0used to represent a finite graph. Each\u00a0list\u00a0describes the set of neighbors of a node in the graph.\nThe given node will\u00a0always be the first node\u00a0with\u00a0. You must return the copy of the given node as a reference to the cloned graph.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n is unique for each node.\nNumber of Nodes will not exceed 100.\nThere is no repeated edges and no self-loops in the graph.\nThe Graph is connected and all nodes can be visited starting from the given node.\n\n"
+}

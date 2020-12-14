@@ -1,0 +1,7 @@
+{
+    "id": 1458,
+    "title": "Max Dot Product of Two Subsequences",
+    "title_slug": "max-dot-product-of-two-subsequences",
+    "backend_id": 1569,
+    "content": "Given two arrays and Return the maximum dot product between non-empty subsequences of nums1 and nums2 with the same length. A subsequence of a array is a new array which is formed from the original array by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (ie, is a subsequence of while is not)."
+}

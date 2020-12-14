@@ -1,0 +1,55 @@
+{
+    "id": 1655,
+    "title": "Distribute Repeating Integers",
+    "title_slug": "distribute-repeating-integers",
+    "backend_id": 1758,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "unique",
+            "value",
+            "array"
+        ],
+        [
+            "also",
+            "give",
+            "array",
+            "customer",
+            "order",
+            "quantity",
+            "amount",
+            "integer",
+            "customer",
+            "order"
+        ],
+        [
+            "determine",
+            "possible",
+            "distribute",
+            "customer",
+            "get",
+            "exactly",
+            "integer",
+            "integer",
+            "customer",
+            "get",
+            "equal",
+            "every",
+            "customer",
+            "satisfy"
+        ],
+        [
+            "return",
+            "possible",
+            "distribute",
+            "accord",
+            "condition"
+        ],
+        [
+            "unique",
+            "value"
+        ]
+    ]
+}

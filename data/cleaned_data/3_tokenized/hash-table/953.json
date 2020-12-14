@@ -1,0 +1,46 @@
+{
+    "id": 953,
+    "title": "Verifying an Alien Dictionary",
+    "title_slug": "verifying-an-alien-dictionary",
+    "backend_id": 990,
+    "content": [
+        [
+            "alien",
+            "language",
+            "surprisingly",
+            "also",
+            "use",
+            "english",
+            "lowercase",
+            "letter",
+            "possibly",
+            "different"
+        ],
+        [
+            "alphabet",
+            "permutation",
+            "lowercase",
+            "letter"
+        ],
+        [
+            "give",
+            "sequence",
+            "write",
+            "alien",
+            "language",
+            "alphabet",
+            "return",
+            "give",
+            "sorted",
+            "lexicographicaly",
+            "alien",
+            "language"
+        ],
+        [
+            "character",
+            "english",
+            "lowercase",
+            "letter"
+        ]
+    ]
+}

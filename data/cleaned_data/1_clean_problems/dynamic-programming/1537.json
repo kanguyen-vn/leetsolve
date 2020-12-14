@@ -1,0 +1,7 @@
+{
+    "id": 1537,
+    "title": "Get the Maximum Score",
+    "title_slug": "get-the-maximum-score",
+    "backend_id": 1659,
+    "content": "You are given two sorted arrays of distinct integers  and \nA valid path is defined as follows:\n\nChoose\u00a0array nums1 or nums2 to traverse (from index-0).\nTraverse the current array from left to right.\nIf you are reading any value that is present in  and \u00a0you are allowed to change your path to the other array. (Only one repeated value is considered in the\u00a0valid path).\n\nScore is defined as the sum of uniques values in a valid path.\nReturn the maximum score you can obtain of all possible\u00a0valid\u00a0paths.\nSince the answer\u00a0may be too large,\u00a0return it modulo\u00a010^9 + 7.\n\u00a0\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n and  are strictly increasing.\n\n"
+}

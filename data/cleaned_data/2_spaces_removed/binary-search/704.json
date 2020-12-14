@@ -1,0 +1,7 @@
+{
+    "id": 704,
+    "title": "Binary Search",
+    "title_slug": "binary-search",
+    "backend_id": 792,
+    "content": "Given a sorted (in ascending order) integer array of elements and a value, write a function to search in . If exists, then return its index, otherwise return ."
+}

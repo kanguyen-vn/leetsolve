@@ -1,0 +1,7 @@
+{
+    "id": 872,
+    "title": "Leaf-Similar Trees",
+    "title_slug": "leaf-similar-trees",
+    "backend_id": 904,
+    "content": "Consider all the leaves of a binary tree, from\u00a0left to right order, the values of those\u00a0leaves form a leaf value sequence.\n\nFor example, in the given tree above, the leaf value sequence is .\nTwo binary trees are considered leaf-similar\u00a0if their leaf value sequence is the same.\nReturn  if and only if the two given trees with head nodes  and  are leaf-similar.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\nThe number of nodes in each tree will be in the range .\nBoth of the given trees will have values in the range .\n\n"
+}

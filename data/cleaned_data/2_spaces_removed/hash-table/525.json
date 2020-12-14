@@ -1,0 +1,7 @@
+{
+    "id": 525,
+    "title": "Contiguous Array",
+    "title_slug": "contiguous-array",
+    "backend_id": 525,
+    "content": "Given a binary array, find the maximum length of a contiguous subarray with equal number of 0 and 1."
+}

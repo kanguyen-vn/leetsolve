@@ -1,0 +1,55 @@
+{
+    "id": 28,
+    "title": "Implement strStr()",
+    "title_slug": "implement-strstr",
+    "backend_id": 28,
+    "content": [
+        [
+            "implement",
+            "strstr"
+        ],
+        [
+            "return",
+            "index",
+            "first",
+            "occurrence",
+            "needle",
+            "haystack",
+            "part"
+        ],
+        [
+            "clarification",
+            "return",
+            "empty",
+            "string"
+        ],
+        [
+            "great",
+            "question",
+            "ask",
+            "interview"
+        ],
+        [
+            "purpose",
+            "problem",
+            "return",
+            "empty",
+            "string"
+        ],
+        [
+            "consistent",
+            "'s",
+            "strstr",
+            "java",
+            "'s",
+            "indexof"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "character"
+        ]
+    ]
+}

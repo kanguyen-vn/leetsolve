@@ -1,0 +1,63 @@
+{
+    "id": 39,
+    "title": "Combination Sum",
+    "title_slug": "combination-sum",
+    "backend_id": 39,
+    "content": [
+        [
+            "give",
+            "array",
+            "distinct",
+            "integer",
+            "target",
+            "integer",
+            "return",
+            "list",
+            "unique",
+            "combination",
+            "choose",
+            "number",
+            "sum"
+        ],
+        [
+            "may",
+            "return",
+            "combination",
+            "order"
+        ],
+        [
+            "number",
+            "may",
+            "choose",
+            "unlimited",
+            "number",
+            "time"
+        ],
+        [
+            "two",
+            "combination",
+            "unique",
+            "frequency",
+            "least",
+            "one",
+            "chosen",
+            "number",
+            "different"
+        ],
+        [
+            "guarantee",
+            "number",
+            "unique",
+            "combination",
+            "sum",
+            "less",
+            "combination",
+            "give",
+            "input"
+        ],
+        [
+            "element",
+            "distinct"
+        ]
+    ]
+}

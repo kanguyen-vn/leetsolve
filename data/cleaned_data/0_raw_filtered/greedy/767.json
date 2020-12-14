@@ -1,0 +1,7 @@
+{
+    "id": 767,
+    "title": "Reorganize String",
+    "title_slug": "reorganize-string",
+    "backend_id": 778,
+    "content": "<div><p>Given a string <code>S</code>, check if the letters can be rearranged so that two characters that are adjacent to each other are not the same.</p>\n\n<p>If possible, output any possible result.&nbsp; If not possible, return the empty string.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> S = \"aab\"\n<strong>Output:</strong> \"aba\"\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> S = \"aaab\"\n<strong>Output:</strong> \"\"\n</pre>\n\n<p><strong>Note:</strong></p>\n\n<ul>\n\t<li><code>S</code> will consist of lowercase letters and have length in range <code>[1, 500]</code>.</li>\n</ul>\n\n<p>&nbsp;</p>\n</div>"
+}

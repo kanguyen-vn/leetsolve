@@ -1,0 +1,7 @@
+{
+    "id": 451,
+    "title": "Sort Characters By Frequency",
+    "title_slug": "sort-characters-by-frequency",
+    "backend_id": 451,
+    "content": "<div><p>Given a string, sort it in decreasing order based on the frequency of characters.</p>\n\n<p><b>Example 1:</b>\n</p><pre><b>Input:</b>\n\"tree\"\n\n<b>Output:</b>\n\"eert\"\n\n<b>Explanation:</b>\n'e' appears twice while 'r' and 't' both appear once.\nSo 'e' must appear before both 'r' and 't'. Therefore \"eetr\" is also a valid answer.\n</pre>\n<p></p>\n\n<p><b>Example 2:</b>\n</p><pre><b>Input:</b>\n\"cccaaa\"\n\n<b>Output:</b>\n\"cccaaa\"\n\n<b>Explanation:</b>\nBoth 'c' and 'a' appear three times, so \"aaaccc\" is also a valid answer.\nNote that \"cacaca\" is incorrect, as the same characters must be together.\n</pre>\n<p></p>\n\n<p><b>Example 3:</b>\n</p><pre><b>Input:</b>\n\"Aabb\"\n\n<b>Output:</b>\n\"bbAa\"\n\n<b>Explanation:</b>\n\"bbaA\" is also a valid answer, but \"Aabb\" is incorrect.\nNote that 'A' and 'a' are treated as two different characters.\n</pre>\n<p></p></div>"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 141,
+    "title": "Linked List Cycle",
+    "title_slug": "linked-list-cycle",
+    "backend_id": 141,
+    "content": "Given , the head of a linked list, determine if the linked list has a cycle in it.\nThere is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the\u00a0\u00a0pointer. Internally, \u00a0is used to denote the index of the node that\u00a0tail's\u00a0\u00a0pointer is connected to.\u00a0Note that\u00a0\u00a0is not passed as a parameter.\nReturn\u00a0 if there is a cycle in the linked list. Otherwise, return .\n\u00a0\n\n\n\n\n\n\u00a0\n\n\nThe number of the nodes in the list is in the range .\n\n is  or a valid index in the linked-list.\n\n\u00a0\n"
+}

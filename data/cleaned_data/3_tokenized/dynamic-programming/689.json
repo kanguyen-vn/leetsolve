@@ -1,0 +1,48 @@
+{
+    "id": 689,
+    "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+    "title_slug": "maximum-sum-of-3-non-overlapping-subarrays",
+    "backend_id": 689,
+    "content": [
+        [
+            "give",
+            "array",
+            "positive",
+            "integer",
+            "find",
+            "three",
+            "non",
+            "overlap",
+            "subarrays",
+            "maximum",
+            "sum"
+        ],
+        [
+            "subarray",
+            "size",
+            "want",
+            "maximize",
+            "sum",
+            "entry"
+        ],
+        [
+            "return",
+            "result",
+            "list",
+            "index",
+            "represent",
+            "start",
+            "position",
+            "interval",
+            "indexed"
+        ],
+        [
+            "multiple",
+            "answer",
+            "return",
+            "lexicographically",
+            "small",
+            "one"
+        ]
+    ]
+}

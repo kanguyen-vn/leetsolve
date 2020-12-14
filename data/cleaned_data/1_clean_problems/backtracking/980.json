@@ -1,0 +1,7 @@
+{
+    "id": 980,
+    "title": "Unique Paths III",
+    "title_slug": "unique-paths-iii",
+    "backend_id": 1022,
+    "content": "On a 2-dimensional\u00a0, there are 4 types of squares:\n\n1 represents the starting square.\u00a0 There is exactly one starting square.\n2 represents the ending square.\u00a0 There is exactly one ending square.\n0 represents empty squares we can walk over.\n represents obstacles that we cannot walk over.\n\nReturn the number of 4-directional walks\u00a0from the starting square to the ending square, that walk over every non-obstacle square\u00a0exactly once.\n\u00a0\n\n\u00a0\n"
+}

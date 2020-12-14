@@ -1,0 +1,27 @@
+{
+    "id": 387,
+    "title": "First Unique Character in a String",
+    "title_slug": "first-unique-character-in-a-string",
+    "backend_id": 387,
+    "content": [
+        [
+            "give",
+            "string",
+            "find",
+            "first",
+            "non",
+            "repeat",
+            "character",
+            "return",
+            "index"
+        ],
+        [
+            "n't",
+            "exist",
+            "return"
+        ],
+        [
+            "example"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 404,
+    "title": "Sum of Left Leaves",
+    "title_slug": "sum-of-left-leaves",
+    "backend_id": 404,
+    "content": "<div><p>Find the sum of all left leaves in a given binary tree.</p>\n\n<p><b>Example:</b>\n</p><pre>    3\n   / \\\n  9  20\n    /  \\\n   15   7\n\nThere are two left leaves in the binary tree, with values <b>9</b> and <b>15</b> respectively. Return <b>24</b>.\n</pre>\n<p></p></div>"
+}

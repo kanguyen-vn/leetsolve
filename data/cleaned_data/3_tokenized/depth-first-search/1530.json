@@ -1,0 +1,47 @@
+{
+    "id": 1530,
+    "title": "Number of Good Leaf Nodes Pairs",
+    "title_slug": "number-of-good-leaf-nodes-pairs",
+    "backend_id": 1653,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "integer"
+        ],
+        [
+            "pair",
+            "two",
+            "different",
+            "leaf",
+            "node",
+            "binary",
+            "tree",
+            "say",
+            "good",
+            "length",
+            "short",
+            "path",
+            "less",
+            "equal"
+        ],
+        [
+            "return",
+            "number",
+            "good",
+            "leaf",
+            "node",
+            "pair",
+            "tree"
+        ],
+        [
+            "number",
+            "node",
+            "range",
+            "node",
+            "'s",
+            "value"
+        ]
+    ]
+}

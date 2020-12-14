@@ -1,0 +1,7 @@
+{
+    "id": 4,
+    "title": "Median of Two Sorted Arrays",
+    "title_slug": "median-of-two-sorted-arrays",
+    "backend_id": 4,
+    "content": "Given two sorted arrays  and  of size  and  respectively, return the median of the two sorted arrays.\n"
+}

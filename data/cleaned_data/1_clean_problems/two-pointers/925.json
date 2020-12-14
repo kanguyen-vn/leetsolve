@@ -1,0 +1,7 @@
+{
+    "id": 925,
+    "title": "Long Pressed Name",
+    "title_slug": "long-pressed-name",
+    "backend_id": 961,
+    "content": "Your friend is typing his \u00a0into a keyboard.\u00a0 Sometimes, when typing a character , the key might get long pressed, and the character will be typed 1 or more times.\nYou examine the \u00a0characters of the keyboard.\u00a0 Return  if it is possible that it was your friends name, with some characters (possibly none) being long pressed.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\nThe characters of  and  are lowercase letters.\n\n"
+}

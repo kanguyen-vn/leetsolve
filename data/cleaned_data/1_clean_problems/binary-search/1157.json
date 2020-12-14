@@ -1,0 +1,7 @@
+{
+    "id": 1157,
+    "title": "Online Majority Element In Subarray",
+    "title_slug": "online-majority-element-in-subarray",
+    "backend_id": 1262,
+    "content": "Implementing the class , which has the following API:\n\n constructs an instance of MajorityChecker with the given array ;\n\u00a0has arguments\u00a0such that:\n\t\n representing a subarray of ;\n, ie. the threshold is always a strict majority of the length of\u00a0the subarray\n\n\n\nEach\u00a0 returns the element in  that occurs at least  times, or  if no such element exists.\n\u00a0\n\n\n\u00a0\n\n\n\n\nFor each query, \nFor each query, \nThe number of queries is at most 10000\n"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1139,
+    "title": "Largest 1-Bordered Square",
+    "title_slug": "largest-1-bordered-square",
+    "backend_id": 1239,
+    "content": [
+        [
+            "give",
+            "2d",
+            "return",
+            "number",
+            "element",
+            "large",
+            "square",
+            "subgrid",
+            "border",
+            "subgrid",
+            "n't",
+            "exist"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 440,
+    "title": "K-th Smallest in Lexicographical Order",
+    "title_slug": "k-th-smallest-in-lexicographical-order",
+    "backend_id": 440,
+    "content": "<div><p>Given integers <code>n</code> and <code>k</code>, find the lexicographically k-th smallest integer in the range from <code>1</code> to <code>n</code>.</p>\n\n<p>Note: 1 \u2264 k \u2264 n \u2264 10<sup>9</sup>.</p>\n\n<p><b>Example:</b>\n</p><pre><b>Input:</b>\nn: 13   k: 2\n\n<b>Output:</b>\n10\n\n<b>Explanation:</b>\nThe lexicographical order is [1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9], so the second smallest number is 10.\n</pre>\n<p></p>\n</div>"
+}

@@ -1,0 +1,41 @@
+{
+    "id": 991,
+    "title": "Broken Calculator",
+    "title_slug": "broken-calculator",
+    "backend_id": 1033,
+    "content": [
+        [
+            "broken",
+            "calculator",
+            "number",
+            "show",
+            "display",
+            "perform",
+            "two",
+            "operation",
+            "double",
+            "multiply",
+            "number",
+            "display",
+            "decrement",
+            "subtract",
+            "number",
+            "display"
+        ],
+        [
+            "initially",
+            "calculator",
+            "display",
+            "number"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "operation",
+            "need",
+            "display",
+            "number"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 474,
+    "title": "Ones and Zeroes",
+    "title_slug": "ones-and-zeroes",
+    "backend_id": 474,
+    "content": "You are given an array of binary strings  and two integers  and .\nReturn the size of the largest subset of  such that there are at most  0's and  1's in the subset.\nA set  is a subset of a set  if all elements of  are also elements of .\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n consists only of digits  and .\n\n\n"
+}

@@ -1,0 +1,44 @@
+{
+    "id": 49,
+    "title": "Group Anagrams",
+    "title_slug": "group-anagrams",
+    "backend_id": 49,
+    "content": [
+        [
+            "give",
+            "array",
+            "string",
+            "group",
+            "anagram",
+            "together"
+        ],
+        [
+            "return",
+            "answer",
+            "order"
+        ],
+        [
+            "anagram",
+            "word",
+            "phrase",
+            "form",
+            "rearrange",
+            "letter",
+            "different",
+            "word",
+            "phrase",
+            "typically",
+            "use",
+            "original",
+            "letter",
+            "exactly"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ]
+    ]
+}

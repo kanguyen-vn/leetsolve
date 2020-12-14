@@ -1,0 +1,67 @@
+{
+    "id": 1552,
+    "title": "Magnetic Force Between Two Balls",
+    "title_slug": "magnetic-force-between-two-balls",
+    "backend_id": 1675,
+    "content": [
+        [
+            "universe",
+            "earth",
+            "rick",
+            "discover",
+            "special",
+            "form",
+            "magnetic",
+            "force",
+            "two",
+            "ball",
+            "put",
+            "new",
+            "invent",
+            "basket"
+        ],
+        [
+            "rick",
+            "empty",
+            "basket",
+            "basket",
+            "morty",
+            "ball",
+            "need",
+            "distribute",
+            "ball",
+            "basket",
+            "minimum",
+            "magnetic",
+            "force",
+            "two",
+            "ball",
+            "maximum"
+        ],
+        [
+            "rick",
+            "state",
+            "magnetic",
+            "force",
+            "two",
+            "different",
+            "ball",
+            "position"
+        ],
+        [
+            "give",
+            "integer",
+            "array",
+            "integer"
+        ],
+        [
+            "return",
+            "require",
+            "force"
+        ],
+        [
+            "integer",
+            "distinct"
+        ]
+    ]
+}

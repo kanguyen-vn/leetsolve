@@ -1,0 +1,7 @@
+{
+    "id": 69,
+    "title": "Sqrt(x)",
+    "title_slug": "sqrtx",
+    "backend_id": 69,
+    "content": "<div><p>Given a non-negative integer <code>x</code>,&nbsp;compute and return <em>the square root of</em> <code>x</code>.</p>\n\n<p>Since the return type&nbsp;is an integer, the decimal digits are <strong>truncated</strong>, and only <strong>the integer part</strong> of the result&nbsp;is returned.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> x = 4\n<strong>Output:</strong> 2\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> x = 8\n<strong>Output:</strong> 2\n<strong>Explanation:</strong> The square root of 8 is 2.82842..., and since the decimal part is truncated, 2 is returned.</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= x &lt;= 2<sup>31</sup> - 1</code></li>\n</ul>\n</div>"
+}

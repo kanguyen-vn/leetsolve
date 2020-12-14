@@ -1,0 +1,67 @@
+{
+    "id": 695,
+    "title": "Max Area of Island",
+    "title_slug": "max-area-of-island",
+    "backend_id": 695,
+    "content": [
+        [
+            "give",
+            "non",
+            "empty",
+            "2d",
+            "array",
+            "'s",
+            "'s",
+            "island",
+            "group",
+            "'s",
+            "represent",
+            "land",
+            "connect",
+            "directionally",
+            "horizontal",
+            "vertical"
+        ],
+        [
+            "may",
+            "assume",
+            "four",
+            "edge",
+            "grid",
+            "surrounded",
+            "water"
+        ],
+        [
+            "find",
+            "maximum",
+            "area",
+            "island",
+            "give",
+            "2d",
+            "array"
+        ],
+        [
+            "island",
+            "maximum",
+            "area"
+        ],
+        [
+            "give",
+            "grid",
+            "return"
+        ],
+        [
+            "note",
+            "answer",
+            "island",
+            "must",
+            "connect",
+            "directionally"
+        ],
+        [
+            "give",
+            "grid",
+            "return"
+        ]
+    ]
+}

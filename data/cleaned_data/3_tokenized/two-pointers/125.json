@@ -1,0 +1,19 @@
+{
+    "id": 125,
+    "title": "Valid Palindrome",
+    "title_slug": "valid-palindrome",
+    "backend_id": 125,
+    "content": [
+        [
+            "give",
+            "string",
+            "determine",
+            "palindrome",
+            "consider",
+            "alphanumeric",
+            "character",
+            "ignore",
+            "case"
+        ]
+    ]
+}

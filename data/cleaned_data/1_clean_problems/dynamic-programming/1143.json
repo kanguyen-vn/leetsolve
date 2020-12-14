@@ -1,0 +1,7 @@
+{
+    "id": 1143,
+    "title": "Longest Common Subsequence",
+    "title_slug": "longest-common-subsequence",
+    "backend_id": 1250,
+    "content": "Given two strings  and , return the length of their longest common subsequence.\nA subsequence of a string is a new string generated from the original string with some characters(can be none) deleted without changing the relative order of the remaining characters. (eg, \"ace\" is a subsequence of \"abcde\" while \"aec\" is not).\u00a0A common subsequence\u00a0of two strings is a subsequence that is common to both strings.\n\u00a0\nIf there is no common subsequence, return 0.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\nThe input strings consist of lowercase English characters only.\n\n"
+}

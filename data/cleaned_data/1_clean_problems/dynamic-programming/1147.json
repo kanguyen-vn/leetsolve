@@ -1,0 +1,7 @@
+{
+    "id": 1147,
+    "title": "Longest Chunked Palindrome Decomposition",
+    "title_slug": "longest-chunked-palindrome-decomposition",
+    "backend_id": 1251,
+    "content": "Return the largest possible \u00a0such that there exists\u00a0\u00a0such that:\n\nEach  is a non-empty string;\nTheir concatenation  is equal to ;\nFor all ,\u00a0\u00a0.\n\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n consists only of lowercase English characters.\n\n"
+}

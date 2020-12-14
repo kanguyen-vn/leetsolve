@@ -1,0 +1,7 @@
+{
+    "id": 16,
+    "title": "3Sum Closest",
+    "title_slug": "3sum-closest",
+    "backend_id": 16,
+    "content": "Given an array  of n integers and an integer , find three integers in \u00a0such that the sum is closest to\u00a0. Return the sum of the three integers. You may assume that each input would have exactly one solution.\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

@@ -1,0 +1,53 @@
+{
+    "id": 1354,
+    "title": "Construct Target Array With Multiple Sums",
+    "title_slug": "construct-target-array-with-multiple-sums",
+    "backend_id": 1479,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer"
+        ],
+        [
+            "start",
+            "array",
+            "consist",
+            "'s",
+            "may",
+            "perform",
+            "follow",
+            "procedure",
+            "let",
+            "sum",
+            "element",
+            "currently",
+            "array"
+        ],
+        [
+            "choose",
+            "index",
+            "set",
+            "value",
+            "index"
+        ],
+        [
+            "may",
+            "repeat",
+            "procedure",
+            "many",
+            "time",
+            "need"
+        ],
+        [
+            "return",
+            "true",
+            "possible",
+            "construct",
+            "array",
+            "otherwise",
+            "return",
+            "false"
+        ]
+    ]
+}

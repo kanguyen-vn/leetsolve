@@ -1,0 +1,7 @@
+{
+    "id": 659,
+    "title": "Split Array into Consecutive Subsequences",
+    "title_slug": "split-array-into-consecutive-subsequences",
+    "backend_id": 659,
+    "content": "Given an array sorted in ascending order, return if and only if you can split it into 1 or more subsequences such that each subsequence consists of consecutive integers and has length at least 3."
+}

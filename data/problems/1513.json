@@ -1,0 +1,7 @@
+{
+    "id": 1513,
+    "title": "Number of Substrings With Only 1s",
+    "title_slug": "number-of-substrings-with-only-1s",
+    "backend_id": 1636,
+    "content": "<div><p>Given a binary string&nbsp;<code>s</code>&nbsp;(a string consisting only of '0' and '1's).</p>\n\n<p>Return the number of substrings with all characters 1's.</p>\n\n<p>Since the answer&nbsp;may be too large,&nbsp;return it modulo&nbsp;10^9 + 7.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> s = \"0110111\"\n<strong>Output:</strong> 9\n<strong>Explanation: </strong>There are 9 substring in total with only 1's characters.\n\"1\" -&gt; 5 times.\n\"11\" -&gt; 3 times.\n\"111\" -&gt; 1 time.</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> s = \"101\"\n<strong>Output:</strong> 2\n<strong>Explanation: </strong>Substring \"1\" is shown 2 times in s.\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> s = \"111111\"\n<strong>Output:</strong> 21\n<strong>Explanation: </strong>Each substring contains only 1's characters.\n</pre>\n\n<p><strong>Example 4:</strong></p>\n\n<pre><strong>Input:</strong> s = \"000\"\n<strong>Output:</strong> 0\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>s[i] == '0'</code> or <code>s[i] == '1'</code></li>\n\t<li><code>1 &lt;= s.length &lt;= 10^5</code></li>\n</ul></div>"
+}

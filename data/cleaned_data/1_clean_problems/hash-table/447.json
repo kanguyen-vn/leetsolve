@@ -1,0 +1,7 @@
+{
+    "id": 447,
+    "title": "Number of Boomerangs",
+    "title_slug": "number-of-boomerangs",
+    "backend_id": 447,
+    "content": "You are given\u00a0  in the plane that are all distinct, where . A boomerang\u00a0is a tuple of points  such that the distance between  and  equals the distance between  and  (the order of the tuple matters).\nReturn\u00a0the number of boomerangs.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\nAll the points are unique.\n\n"
+}

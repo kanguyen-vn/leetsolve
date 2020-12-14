@@ -1,0 +1,7 @@
+{
+    "id": 58,
+    "title": "Length of Last Word",
+    "title_slug": "length-of-last-word",
+    "backend_id": 58,
+    "content": "<div><p>Given a string <code>s</code> consists of some words separated by spaces, return <em>the length of the last word&nbsp;in the string. If the last word does not exist, return </em><code>0</code>.</p>\n\n<p>A <strong>word</strong> is a maximal substring consisting&nbsp;of non-space characters only.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> s = \"Hello World\"\n<strong>Output:</strong> 5\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> s = \" \"\n<strong>Output:</strong> 0\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= s.length &lt;= 10<sup>4</sup></code></li>\n\t<li><code>s</code> consists of only English letters and spaces <code>' '</code>.</li>\n</ul>\n</div>"
+}

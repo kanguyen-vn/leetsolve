@@ -1,0 +1,43 @@
+{
+    "id": 740,
+    "title": "Delete and Earn",
+    "title_slug": "delete-and-earn",
+    "backend_id": 740,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "perform",
+            "operation",
+            "array"
+        ],
+        [
+            "operation",
+            "pick",
+            "delete",
+            "earn",
+            "point"
+        ],
+        [
+            "must",
+            "delete",
+            "every",
+            "element",
+            "equal"
+        ],
+        [
+            "start",
+            "point"
+        ],
+        [
+            "return",
+            "maximum",
+            "number",
+            "point",
+            "earn",
+            "apply",
+            "operation"
+        ]
+    ]
+}

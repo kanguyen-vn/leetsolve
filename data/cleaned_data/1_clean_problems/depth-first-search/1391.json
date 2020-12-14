@@ -1,0 +1,7 @@
+{
+    "id": 1391,
+    "title": "Check if There is a Valid Path in a Grid",
+    "title_slug": "check-if-there-is-a-valid-path-in-a-grid",
+    "backend_id": 1507,
+    "content": "Given a m x n . Each cell of the  represents a street. The street of\u00a0 can be:\n\n1 which means a street connecting the left cell and the right cell.\n2 which means a street connecting the upper cell and the lower cell.\n3\u00a0which means a street connecting the left cell and the lower cell.\n4 which means a street connecting the right cell and the lower cell.\n5 which means a street connecting the left cell and the upper cell.\n6 which means a street connecting the right cell and the upper cell.\n\n\nYou will initially start at the street of the\u00a0upper-left cell . A valid path in the grid is a path which starts from the upper left\u00a0cell  and ends at the bottom-right\u00a0cell . The path should only follow the streets.\nNotice that you are not allowed to change any street.\nReturn true\u00a0if there is a valid path in the grid or false otherwise.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n"
+}

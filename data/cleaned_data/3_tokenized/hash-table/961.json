@@ -1,0 +1,25 @@
+{
+    "id": 961,
+    "title": "N-Repeated Element in Size 2N Array",
+    "title_slug": "n-repeated-element-in-size-2n-array",
+    "backend_id": 1001,
+    "content": [
+        [
+            "array",
+            "size",
+            "unique",
+            "element",
+            "exactly",
+            "one",
+            "element",
+            "repeat",
+            "time"
+        ],
+        [
+            "return",
+            "element",
+            "repeat",
+            "time"
+        ]
+    ]
+}

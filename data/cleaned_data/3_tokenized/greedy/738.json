@@ -1,0 +1,33 @@
+{
+    "id": 738,
+    "title": "Monotone Increasing Digits",
+    "title_slug": "monotone-increasing-digits",
+    "backend_id": 738,
+    "content": [
+        [
+            "give",
+            "non",
+            "negative",
+            "integer",
+            "find",
+            "large",
+            "number",
+            "less",
+            "equal",
+            "monotone",
+            "increase",
+            "digit"
+        ],
+        [
+            "recall",
+            "integer",
+            "monotone",
+            "increase",
+            "digit",
+            "pair",
+            "adjacent",
+            "digit",
+            "satisfy"
+        ]
+    ]
+}

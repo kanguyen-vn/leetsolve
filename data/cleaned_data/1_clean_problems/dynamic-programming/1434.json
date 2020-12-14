@@ -1,0 +1,7 @@
+{
+    "id": 1434,
+    "title": "Number of Ways to Wear Different Hats to Each Other",
+    "title_slug": "number-of-ways-to-wear-different-hats-to-each-other",
+    "backend_id": 1531,
+    "content": "There are\u00a0 people\u00a0and 40 types of hats labeled from 1 to 40.\nGiven a list of list of integers , where \u00a0is a list of all hats preferred\u00a0by the  person.\nReturn the number of ways that the n people wear different hats to each other.\nSince the answer\u00a0may be too large,\u00a0return it modulo\u00a0.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n contains a list of unique integers.\n"
+}

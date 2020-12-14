@@ -1,0 +1,7 @@
+{
+    "id": 36,
+    "title": "Valid Sudoku",
+    "title_slug": "valid-sudoku",
+    "backend_id": 36,
+    "content": "Determine if a Sudoku board is valid. Only the filled cells need to be validated according to the following rules: Each row must contain the digits without repetition. Each column must contain the digits without repetition. Each of the nine sub-boxes of the grid must contain the digits without repetition."
+}

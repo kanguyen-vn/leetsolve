@@ -1,0 +1,7 @@
+{
+    "id": 611,
+    "title": "Valid Triangle Number",
+    "title_slug": "valid-triangle-number",
+    "backend_id": 611,
+    "content": "<div>Given an array consists of non-negative integers,  your task is to count the number of triplets chosen from the array that can make triangles if we take them as side lengths of a triangle.\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> [2,2,3,4]\n<b>Output:</b> 3\n<b>Explanation:</b>\nValid combinations are: \n2,3,4 (using the first 2)\n2,3,4 (using the second 2)\n2,2,3\n</pre>\n<p></p>\n\n<p><b>Note:</b><br>\n</p><ol>\n<li>The length of the given array won't exceed 1000.</li>\n<li>The integers in the given array are in the range of [0, 1000].</li>\n</ol>\n<p></p>\n</div>"
+}

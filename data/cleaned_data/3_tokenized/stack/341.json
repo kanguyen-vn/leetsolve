@@ -1,0 +1,29 @@
+{
+    "id": 341,
+    "title": "Flatten Nested List Iterator",
+    "title_slug": "flatten-nested-list-iterator",
+    "backend_id": 341,
+    "content": [
+        [
+            "give",
+            "nested",
+            "list",
+            "integer",
+            "implement",
+            "iterator",
+            "flatten"
+        ],
+        [
+            "element",
+            "either",
+            "integer",
+            "list",
+            "whose",
+            "element",
+            "may",
+            "also",
+            "integers",
+            "list"
+        ]
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 744,
+    "title": "Find Smallest Letter Greater Than Target",
+    "title_slug": "find-smallest-letter-greater-than-target",
+    "backend_id": 745,
+    "content": [
+        [
+            "give",
+            "list",
+            "sort",
+            "character",
+            "contain",
+            "lowercase",
+            "letter",
+            "give",
+            "target",
+            "letter",
+            "find",
+            "small",
+            "element",
+            "list",
+            "large",
+            "give",
+            "target"
+        ],
+        [
+            "letter",
+            "also",
+            "wrap",
+            "around"
+        ],
+        [
+            "example",
+            "target",
+            "answer"
+        ],
+        [
+            "example"
+        ]
+    ]
+}

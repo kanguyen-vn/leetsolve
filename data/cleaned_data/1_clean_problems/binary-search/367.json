@@ -1,0 +1,7 @@
+{
+    "id": 367,
+    "title": "Valid Perfect Square",
+    "title_slug": "valid-perfect-square",
+    "backend_id": 367,
+    "content": "Given a positive integer num, write a function which returns True if num is a perfect square else False.\n"
+}

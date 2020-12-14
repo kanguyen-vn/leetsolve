@@ -1,0 +1,40 @@
+{
+    "id": 1518,
+    "title": "Water Bottles",
+    "title_slug": "water-bottles",
+    "backend_id": 1642,
+    "content": [
+        [
+            "give",
+            "full",
+            "water",
+            "bottle",
+            "exchange",
+            "empty",
+            "water",
+            "bottle",
+            "one",
+            "full",
+            "water",
+            "bottle"
+        ],
+        [
+            "operation",
+            "drink",
+            "full",
+            "water",
+            "bottle",
+            "turn",
+            "empty",
+            "bottle"
+        ],
+        [
+            "return",
+            "maximum",
+            "number",
+            "water",
+            "bottle",
+            "drink"
+        ]
+    ]
+}

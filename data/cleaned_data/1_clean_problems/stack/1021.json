@@ -1,0 +1,7 @@
+{
+    "id": 1021,
+    "title": "Remove Outermost Parentheses",
+    "title_slug": "remove-outermost-parentheses",
+    "backend_id": 1078,
+    "content": "A valid parentheses string is either empty , , or , where  and  are valid parentheses strings, and  represents string concatenation.\u00a0 For example, , , , and  are all valid parentheses strings.\nA valid parentheses string  is primitive if it is nonempty, and there does not exist a way to split it into , with  and  nonempty valid parentheses strings.\nGiven a valid parentheses string , consider its primitive decomposition: , where  are primitive valid parentheses strings.\nReturn  after removing the outermost parentheses of every primitive string in the primitive decomposition of .\n\u00a0\n\n\n\n"
+}

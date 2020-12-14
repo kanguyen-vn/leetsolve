@@ -1,0 +1,45 @@
+{
+    "id": 934,
+    "title": "Shortest Bridge",
+    "title_slug": "shortest-bridge",
+    "backend_id": 971,
+    "content": [
+        [
+            "give",
+            "2d",
+            "binary",
+            "array",
+            "two",
+            "island"
+        ],
+        [
+            "island",
+            "directionally",
+            "connect",
+            "group",
+            "connect"
+        ],
+        [
+            "may",
+            "change",
+            "connect",
+            "two",
+            "island",
+            "together",
+            "form",
+            "island"
+        ],
+        [
+            "return",
+            "small",
+            "number",
+            "must",
+            "flip"
+        ],
+        [
+            "guarantee",
+            "answer",
+            "least"
+        ]
+    ]
+}

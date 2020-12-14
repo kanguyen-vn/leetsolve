@@ -1,0 +1,7 @@
+{
+    "id": 903,
+    "title": "Valid Permutations for DI Sequence",
+    "title_slug": "valid-permutations-for-di-sequence",
+    "backend_id": 939,
+    "content": "We are given , a length  string of characters from the set . (These letters stand for \"decreasing\" and \"increasing\".)\nA\u00a0valid permutation\u00a0is a permutation  of integers\u00a0, such that for all :\n\nIf , then , and;\nIf , then .\n\nHow many valid permutations are there?\u00a0 Since the answer may be large, return your answer modulo .\n\u00a0\n\n\n\u00a0\n"
+}

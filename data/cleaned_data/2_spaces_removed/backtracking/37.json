@@ -1,0 +1,7 @@
+{
+    "id": 37,
+    "title": "Sudoku Solver",
+    "title_slug": "sudoku-solver",
+    "backend_id": 37,
+    "content": "Write a program to solve a Sudoku puzzle by filling the empty cells. A sudoku solution must satisfy all of the following rules: Each of the digits must occur exactly once in each row. Each of the digits must occur exactly once in each column. Each of the digits must occur exactly once in each of the 9 sub-boxes of the grid. The character indicates empty cells. is a digit or . It is guaranteed that the input board has only one solution."
+}

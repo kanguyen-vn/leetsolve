@@ -1,0 +1,47 @@
+{
+    "id": 594,
+    "title": "Longest Harmonious Subsequence",
+    "title_slug": "longest-harmonious-subsequence",
+    "backend_id": 594,
+    "content": [
+        [
+            "define",
+            "harmonious",
+            "array",
+            "array",
+            "difference",
+            "maximum",
+            "value",
+            "minimum",
+            "value",
+            "exactly"
+        ],
+        [
+            "give",
+            "integer",
+            "array",
+            "return",
+            "length",
+            "long",
+            "harmonious",
+            "subsequence",
+            "among",
+            "possible",
+            "subsequence"
+        ],
+        [
+            "subsequence",
+            "array",
+            "sequence",
+            "derive",
+            "array",
+            "deleting",
+            "element",
+            "without",
+            "change",
+            "order",
+            "remain",
+            "element"
+        ]
+    ]
+}

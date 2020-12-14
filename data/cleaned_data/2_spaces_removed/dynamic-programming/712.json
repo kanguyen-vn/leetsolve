@@ -1,0 +1,7 @@
+{
+    "id": 712,
+    "title": "Minimum ASCII Delete Sum for Two Strings",
+    "title_slug": "minimum-ascii-delete-sum-for-two-strings",
+    "backend_id": 712,
+    "content": "Given two strings , find the lowest ASCII sum of deleted characters to make two strings equal."
+}

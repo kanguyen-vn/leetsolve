@@ -1,0 +1,74 @@
+{
+    "id": 1562,
+    "title": "Find Latest Group of Size M",
+    "title_slug": "find-latest-group-of-size-m",
+    "backend_id": 1684,
+    "content": [
+        [
+            "give",
+            "array",
+            "represent",
+            "permutation",
+            "number"
+        ],
+        [
+            "binary",
+            "string",
+            "size",
+            "initially",
+            "bits",
+            "set",
+            "zero"
+        ],
+        [
+            "step",
+            "assume",
+            "binary",
+            "string",
+            "indexed",
+            "bit",
+            "position",
+            "set"
+        ],
+        [
+            "give",
+            "integer",
+            "need",
+            "find",
+            "late",
+            "step",
+            "exist",
+            "group",
+            "one",
+            "length"
+        ],
+        [
+            "group",
+            "one",
+            "contiguous",
+            "substring",
+            "extend",
+            "either",
+            "direction"
+        ],
+        [
+            "return",
+            "late",
+            "step",
+            "exist",
+            "group",
+            "one",
+            "length",
+            "exactly"
+        ],
+        [
+            "group",
+            "exist",
+            "return"
+        ],
+        [
+            "integer",
+            "distinct"
+        ]
+    ]
+}

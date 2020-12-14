@@ -1,0 +1,7 @@
+{
+    "id": 295,
+    "title": "Find Median from Data Stream",
+    "title_slug": "find-median-from-data-stream",
+    "backend_id": 295,
+    "content": "<div><p>Median is the middle value in an ordered integer list. If the size of the list is even, there is no middle value. So the median is the mean of the two middle value.</p>\nFor example,\n\n<p><code>[2,3,4]</code>, the median is <code>3</code></p>\n\n<p><code>[2,3]</code>, the median is <code>(2 + 3) / 2 = 2.5</code></p>\n\n<p>Design a data structure that supports the following two operations:</p>\n\n<ul>\n\t<li>void addNum(int num) - Add a integer number from the data stream to the data structure.</li>\n\t<li>double findMedian() - Return the median of all elements so far.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong>Example:</strong></p>\n\n<pre>addNum(1)\naddNum(2)\nfindMedian() -&gt; 1.5\naddNum(3) \nfindMedian() -&gt; 2\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Follow up:</strong></p>\n\n<ol>\n\t<li>If all integer numbers from the stream are between 0&nbsp;and 100, how would you optimize it?</li>\n\t<li>If 99% of all integer numbers from the stream are between 0 and 100, how would you optimize it?</li>\n</ol>\n</div>"
+}

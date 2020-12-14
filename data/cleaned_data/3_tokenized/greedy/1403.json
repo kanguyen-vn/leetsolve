@@ -1,0 +1,70 @@
+{
+    "id": 1403,
+    "title": "Minimum Subsequence in Non-Increasing Order",
+    "title_slug": "minimum-subsequence-in-non-increasing-order",
+    "backend_id": 1519,
+    "content": [
+        [
+            "give",
+            "array",
+            "obtain",
+            "subsequence",
+            "array",
+            "whose",
+            "sum",
+            "elements",
+            "strictly",
+            "great",
+            "sum",
+            "non",
+            "include",
+            "element",
+            "subsequence"
+        ],
+        [
+            "multiple",
+            "solution",
+            "return",
+            "subsequence",
+            "minimum",
+            "size",
+            "still",
+            "exist",
+            "multiple",
+            "solution",
+            "return",
+            "subsequence",
+            "maximum",
+            "total",
+            "sum",
+            "element"
+        ],
+        [
+            "subsequence",
+            "array",
+            "obtain",
+            "erase",
+            "possibly",
+            "zero",
+            "element",
+            "array"
+        ],
+        [
+            "note",
+            "solution",
+            "give",
+            "constraint",
+            "guarantee",
+            "unique"
+        ],
+        [
+            "also",
+            "return",
+            "answer",
+            "sort",
+            "non",
+            "increase",
+            "order"
+        ]
+    ]
+}

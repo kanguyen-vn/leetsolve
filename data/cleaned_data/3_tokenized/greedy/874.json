@@ -1,0 +1,69 @@
+{
+    "id": 874,
+    "title": "Walking Robot Simulation",
+    "title_slug": "walking-robot-simulation",
+    "backend_id": 906,
+    "content": [
+        [
+            "robot",
+            "infinite",
+            "grid",
+            "start",
+            "point",
+            "face",
+            "north"
+        ],
+        [
+            "robot",
+            "receive",
+            "one",
+            "three",
+            "possible",
+            "type",
+            "command",
+            "turn",
+            "leave",
+            "degree",
+            "turn",
+            "right",
+            "degree",
+            "move",
+            "forward",
+            "unit",
+            "grid",
+            "square",
+            "obstacle"
+        ],
+        [
+            "th",
+            "obstacle",
+            "grid",
+            "point",
+            "robot",
+            "would",
+            "try",
+            "move",
+            "onto",
+            "robot",
+            "stay",
+            "previous",
+            "grid",
+            "square",
+            "instead",
+            "still",
+            "continue",
+            "follow",
+            "rest",
+            "route"
+        ],
+        [
+            "return",
+            "square",
+            "maximum",
+            "euclidean",
+            "distance",
+            "robot",
+            "origin"
+        ]
+    ]
+}

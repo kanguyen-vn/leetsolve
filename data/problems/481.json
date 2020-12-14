@@ -1,0 +1,7 @@
+{
+    "id": 481,
+    "title": "Magical String",
+    "title_slug": "magical-string",
+    "backend_id": 481,
+    "content": "<div><p>\nA magical string <b>S</b> consists of only '1' and '2' and obeys the following rules:\n</p>\n<p>\nThe string <b>S</b> is magical because concatenating the number of contiguous occurrences of characters '1' and '2' generates the string <b>S</b> itself.\n</p>\n\n<p>\nThe first few elements of string <b>S</b> is the following:\n<b>S</b> = \"1221121221221121122\u2026\u2026\"\n</p>\n\n<p>\nIf we group the consecutive '1's and '2's in <b>S</b>, it will be:\n</p>\n<p>\n1   22  11  2  1  22  1  22  11  2  11  22 ......\n</p>\n<p>\nand the occurrences of '1's or '2's in each group are:\n</p>\n<p>\n1   2\t   2    1   1    2     1    2     2    1    2    2 ......\n</p>\n\n<p>\nYou can see that the occurrence sequence above is the <b>S</b> itself. \n</p>\n\n<p>\nGiven an integer N as input, return the number of '1's in the first N number in the magical string <b>S</b>.\n</p>\n\n<p><b>Note:</b>\nN will not exceed 100,000.\n</p>\n\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> 6\n<b>Output:</b> 3\n<b>Explanation:</b> The first 6 elements of magical string S is \"12211\" and it contains three 1's, so return 3.\n</pre>\n<p></p></div>"
+}

@@ -1,0 +1,57 @@
+{
+    "id": 10,
+    "title": "Regular Expression Matching",
+    "title_slug": "regular-expression-matching",
+    "backend_id": 10,
+    "content": [
+        [
+            "give",
+            "input",
+            "string",
+            "pattern",
+            "implement",
+            "regular",
+            "expression",
+            "match",
+            "support",
+            "match",
+            "single",
+            "character"
+        ],
+        [
+            "match",
+            "zero",
+            "precede",
+            "element"
+        ],
+        [
+            "match",
+            "cover",
+            "entire",
+            "input",
+            "string",
+            "partial"
+        ],
+        [
+            "contain",
+            "lowercase",
+            "english",
+            "letter"
+        ],
+        [
+            "contain",
+            "lowercase",
+            "english",
+            "letter"
+        ],
+        [
+            "guarantee",
+            "appearance",
+            "character",
+            "previous",
+            "valid",
+            "character",
+            "match"
+        ]
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": 690,
+    "title": "Employee Importance",
+    "title_slug": "employee-importance",
+    "backend_id": 690,
+    "content": [
+        [
+            "give",
+            "data",
+            "structure",
+            "employee",
+            "information",
+            "include",
+            "employee",
+            "'s",
+            "unique",
+            "id",
+            "importance",
+            "value",
+            "direct",
+            "subordinate",
+            "id"
+        ],
+        [
+            "example",
+            "employee",
+            "leader",
+            "employee",
+            "employee",
+            "leader",
+            "employee"
+        ],
+        [
+            "importance",
+            "value",
+            "respectively"
+        ],
+        [
+            "employee",
+            "data",
+            "structure",
+            "like",
+            "employee",
+            "employee"
+        ],
+        [
+            "note",
+            "although",
+            "employee",
+            "also",
+            "subordinate",
+            "employee",
+            "relationship",
+            "direct"
+        ],
+        [
+            "give",
+            "employee",
+            "information",
+            "company",
+            "employee",
+            "id",
+            "need",
+            "return",
+            "total",
+            "importance",
+            "value",
+            "employee",
+            "subordinate"
+        ]
+    ]
+}

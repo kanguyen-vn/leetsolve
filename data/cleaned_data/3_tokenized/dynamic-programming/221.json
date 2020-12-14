@@ -1,0 +1,24 @@
+{
+    "id": 221,
+    "title": "Maximal Square",
+    "title_slug": "maximal-square",
+    "backend_id": 221,
+    "content": [
+        [
+            "give",
+            "2d",
+            "binary",
+            "matrix",
+            "fill",
+            "'s",
+            "'s",
+            "find",
+            "large",
+            "square",
+            "contain",
+            "'s",
+            "return",
+            "area"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1590,
+    "title": "Make Sum Divisible by P",
+    "title_slug": "make-sum-divisible-by-p",
+    "backend_id": 1694,
+    "content": "Given an array of positive integers , remove the smallest subarray (possibly empty) such that the sum of the remaining elements is divisible by . It is not allowed to remove the whole array.\nReturn the length of the smallest subarray that you need to remove, or  if it's impossible.\nA subarray is defined as a contiguous block of elements in the array.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

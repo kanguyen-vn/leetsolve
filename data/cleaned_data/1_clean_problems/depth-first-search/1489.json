@@ -1,0 +1,7 @@
+{
+    "id": 1489,
+    "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+    "title_slug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+    "backend_id": 1613,
+    "content": "Given a weighted undirected connected graph with \u00a0vertices numbered from 0 to ,\u00a0and an array \u00a0where  represents a bidirectional and weighted edge between nodes\u00a0\u00a0and . A minimum spanning tree (MST) is a subset of the graph's edges that connects all vertices without cycles\u00a0and with the minimum possible total edge weight.\nFind all the critical and pseudo-critical edges in the given graph's minimum spanning tree (MST). An MST edge whose deletion from the graph would cause the MST weight to increase is called a\u00a0critical edge. On\u00a0the other hand, a pseudo-critical edge is that which can appear in some MSTs but not all.\nNote that you can return the indices of the edges in any order.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\nAll pairs  are distinct.\n\n"
+}

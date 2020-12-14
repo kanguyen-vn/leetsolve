@@ -1,0 +1,63 @@
+{
+    "id": 37,
+    "title": "Sudoku Solver",
+    "title_slug": "sudoku-solver",
+    "backend_id": 37,
+    "content": [
+        [
+            "write",
+            "program",
+            "solve",
+            "sudoku",
+            "puzzle",
+            "fill",
+            "empty",
+            "cell"
+        ],
+        [
+            "sudoku",
+            "solution",
+            "must",
+            "satisfy",
+            "follow",
+            "rule",
+            "digit",
+            "must",
+            "occur",
+            "exactly",
+            "row"
+        ],
+        [
+            "digit",
+            "must",
+            "occur",
+            "exactly",
+            "column"
+        ],
+        [
+            "digit",
+            "must",
+            "occur",
+            "exactly",
+            "sub",
+            "box",
+            "grid"
+        ],
+        [
+            "character",
+            "indicate",
+            "empty",
+            "cell"
+        ],
+        [
+            "digit"
+        ],
+        [
+            "guarantee",
+            "input",
+            "board",
+            "one",
+            "solution"
+        ]
+    ]
+}

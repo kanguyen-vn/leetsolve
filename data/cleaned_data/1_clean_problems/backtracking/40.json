@@ -1,0 +1,7 @@
+{
+    "id": 40,
+    "title": "Combination Sum II",
+    "title_slug": "combination-sum-ii",
+    "backend_id": 40,
+    "content": "Given a collection of candidate numbers () and a target number (), find all unique combinations in \u00a0where the candidate numbers sum to .\nEach number in \u00a0may only be used once in the combination.\n"
+}

@@ -1,0 +1,31 @@
+{
+    "id": 70,
+    "title": "Climbing Stairs",
+    "title_slug": "climbing-stairs",
+    "backend_id": 70,
+    "content": [
+        [
+            "climb",
+            "staircase"
+        ],
+        [
+            "take",
+            "step",
+            "reach",
+            "top"
+        ],
+        [
+            "time",
+            "either",
+            "climb",
+            "step"
+        ],
+        [
+            "many",
+            "distinct",
+            "way",
+            "climb",
+            "top"
+        ]
+    ]
+}

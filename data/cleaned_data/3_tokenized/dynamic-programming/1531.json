@@ -1,0 +1,82 @@
+{
+    "id": 1531,
+    "title": "String Compression II",
+    "title_slug": "string-compression-ii",
+    "backend_id": 1637,
+    "content": [
+        [
+            "run",
+            "length",
+            "encode",
+            "string",
+            "compression",
+            "method",
+            "work",
+            "replace",
+            "consecutive",
+            "identical",
+            "character",
+            "repeat",
+            "time",
+            "concatenation",
+            "character",
+            "number",
+            "mark",
+            "count",
+            "character",
+            "length",
+            "run"
+        ],
+        [
+            "example",
+            "compress",
+            "string",
+            "replace",
+            "replace"
+        ],
+        [
+            "thus",
+            "compress",
+            "string",
+            "become",
+            "notice",
+            "problem",
+            "add",
+            "single",
+            "character"
+        ],
+        [
+            "give",
+            "string",
+            "integer"
+        ],
+        [
+            "need",
+            "delete",
+            "character",
+            "run",
+            "length",
+            "encode",
+            "version",
+            "minimum",
+            "length"
+        ],
+        [
+            "find",
+            "minimum",
+            "length",
+            "run",
+            "length",
+            "encode",
+            "version",
+            "delete",
+            "character"
+        ],
+        [
+            "contain",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

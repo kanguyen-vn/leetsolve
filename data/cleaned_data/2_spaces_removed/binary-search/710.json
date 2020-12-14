@@ -1,0 +1,7 @@
+{
+    "id": 710,
+    "title": "Random Pick with Blacklist",
+    "title_slug": "random-pick-with-blacklist",
+    "backend_id": 894,
+    "content": "Given a blacklist containing unique integers from , write a function to return a uniform random integer from which is NOT in . Optimize it such that it minimizes the call to system s ."
+}

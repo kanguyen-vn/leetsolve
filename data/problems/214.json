@@ -1,0 +1,7 @@
+{
+    "id": 214,
+    "title": "Shortest Palindrome",
+    "title_slug": "shortest-palindrome",
+    "backend_id": 214,
+    "content": "<div><p>Given a string <em><b>s</b></em>, you can convert it to a palindrome by adding characters in front of it. Find and return the shortest palindrome you can find by performing this transformation.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> s = \"aacecaaa\"\n<strong>Output:</strong> \"aaacecaaa\"\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> s = \"abcd\"\n<strong>Output:</strong> \"dcbabcd\"\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= s.length &lt;= 5 * 10<sup>4</sup></code></li>\n\t<li><code>s</code> consists of lowercase English letters only.</li>\n</ul>\n</div>"
+}

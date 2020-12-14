@@ -1,0 +1,7 @@
+{
+    "id": 466,
+    "title": "Count The Repetitions",
+    "title_slug": "count-the-repetitions",
+    "backend_id": 466,
+    "content": "<div><p>Define <code>S = [s,n]</code> as the string S which consists of n connected strings s. For example, <code>[\"abc\", 3]</code> =\"abcabcabc\". </p>\n<p>On the other hand, we define that string s1 can be obtained from string s2 if we can remove some characters from s2 such that it becomes s1. For example, \u201cabc\u201d  can be obtained from \u201cabdbec\u201d based on our definition, but it can not be obtained from \u201cacbbe\u201d.</p>\n<p>You are given two non-empty strings s1 and s2 (each at most 100 characters long) and two integers 0 \u2264 n1 \u2264 10<sup>6</sup> and 1 \u2264 n2 \u2264 10<sup>6</sup>. Now consider the strings S1 and S2, where <code>S1=[s1,n1]</code> and <code>S2=[s2,n2]</code>. Find the maximum integer M such that <code>[S2,M]</code> can be obtained from <code>S1</code>.</p>\n\n<p><b>Example:</b>\n</p><pre>Input:\ns1=\"acb\", n1=4\ns2=\"ab\", n2=2\n\nReturn:\n2\n</pre>\n<p></p></div>"
+}

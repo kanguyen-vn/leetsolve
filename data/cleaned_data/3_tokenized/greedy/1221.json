@@ -1,0 +1,33 @@
+{
+    "id": 1221,
+    "title": "Split a String in Balanced Strings",
+    "title_slug": "split-a-string-in-balanced-strings",
+    "backend_id": 1341,
+    "content": [
+        [
+            "balance",
+            "string",
+            "equal",
+            "quantity",
+            "character"
+        ],
+        [
+            "give",
+            "balance",
+            "string",
+            "split",
+            "maximum",
+            "amount",
+            "balance",
+            "string"
+        ],
+        [
+            "return",
+            "maximum",
+            "amount",
+            "splitted",
+            "balanced",
+            "string"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 116,
+    "title": "Populating Next Right Pointers in Each Node",
+    "title_slug": "populating-next-right-pointers-in-each-node",
+    "backend_id": 116,
+    "content": "You are given a perfect binary tree\u00a0where\u00a0all leaves are on the same level, and every parent has two children. The binary tree has the following definition:\n\nPopulate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to .\nInitially, all next pointers are set to .\n\u00a0\n"
+}

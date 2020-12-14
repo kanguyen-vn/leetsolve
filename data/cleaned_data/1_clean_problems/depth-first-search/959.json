@@ -1,0 +1,7 @@
+{
+    "id": 959,
+    "title": "Regions Cut By Slashes",
+    "title_slug": "regions-cut-by-slashes",
+    "backend_id": 999,
+    "content": "In a N x N\u00a0 composed of 1 x 1 squares, each 1 x 1 square consists of a , , or blank space.\u00a0 These characters divide the square into contiguous regions.\n(Note that backslash characters are escaped, so a \u00a0is represented as .)\nReturn the number of regions.\n\u00a0\n\n"
+}

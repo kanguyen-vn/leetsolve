@@ -1,0 +1,47 @@
+{
+    "id": 1190,
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "title_slug": "reverse-substrings-between-each-pair-of-parentheses",
+    "backend_id": 1298,
+    "content": [
+        [
+            "give",
+            "string",
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter",
+            "bracket"
+        ],
+        [
+            "reverse",
+            "string",
+            "pair",
+            "match",
+            "parenthesis",
+            "start",
+            "innermost",
+            "one"
+        ],
+        [
+            "result",
+            "contain",
+            "bracket"
+        ],
+        [
+            "contain",
+            "low",
+            "case",
+            "english",
+            "character",
+            "parenthesis"
+        ],
+        [
+            "'s",
+            "guaranteed",
+            "parenthesis",
+            "balance"
+        ]
+    ]
+}

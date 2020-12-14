@@ -1,0 +1,7 @@
+{
+    "id": 344,
+    "title": "Reverse String",
+    "title_slug": "reverse-string",
+    "backend_id": 344,
+    "content": "Write a function that reverses a string. The input string is given as an array of characters .\nDo not allocate extra space for another array, you must do this by modifying the input array\u00a0in-place with O(1) extra memory.\nYou may assume all the characters consist of printable ascii characters.\n\u00a0\n\n"
+}

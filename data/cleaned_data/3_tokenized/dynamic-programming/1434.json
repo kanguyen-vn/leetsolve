@@ -1,0 +1,47 @@
+{
+    "id": 1434,
+    "title": "Number of Ways to Wear Different Hats to Each Other",
+    "title_slug": "number-of-ways-to-wear-different-hats-to-each-other",
+    "backend_id": 1531,
+    "content": [
+        [
+            "people",
+            "type",
+            "hat",
+            "label"
+        ],
+        [
+            "give",
+            "list",
+            "list",
+            "integer",
+            "list",
+            "hat",
+            "prefer",
+            "person"
+        ],
+        [
+            "return",
+            "number",
+            "way",
+            "people",
+            "wear",
+            "different",
+            "hat"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "modulo"
+        ],
+        [
+            "contain",
+            "list",
+            "unique",
+            "integer"
+        ]
+    ]
+}

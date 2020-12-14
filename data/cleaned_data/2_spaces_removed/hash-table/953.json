@@ -1,0 +1,7 @@
+{
+    "id": 953,
+    "title": "Verifying an Alien Dictionary",
+    "title_slug": "verifying-an-alien-dictionary",
+    "backend_id": 990,
+    "content": "In an alien language, surprisingly they also use english lowercase letters, but possibly in a different . The of the alphabet is some permutation of lowercase letters. Given a sequence of written in the alien language, and the of the alphabet, return if and only if the given are sorted lexicographicaly in this alien language. All characters in and are English lowercase letters."
+}

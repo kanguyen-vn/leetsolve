@@ -1,0 +1,7 @@
+{
+    "id": 639,
+    "title": "Decode Ways II",
+    "title_slug": "decode-ways-ii",
+    "backend_id": 639,
+    "content": "\nA message containing letters from  is being encoded to numbers using the following mapping way:\n\n\n\nBeyond that, now the encoded string can also contain the character '*', which can be treated as one of the numbers from 1 to 9.\n\n\nGiven the encoded message containing digits and the character '*', return the total number of ways to decode it.\n\n\nAlso, since the answer may be very large, you should return the output mod 109 + 7.\n\n\n\n\n\n"
+}

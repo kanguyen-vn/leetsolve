@@ -1,0 +1,30 @@
+{
+    "id": 111,
+    "title": "Minimum Depth of Binary Tree",
+    "title_slug": "minimum-depth-of-binary-tree",
+    "backend_id": 111,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "find",
+            "minimum",
+            "depth"
+        ],
+        [
+            "minimum",
+            "depth",
+            "number",
+            "node",
+            "along",
+            "short",
+            "path",
+            "root",
+            "node",
+            "near",
+            "leaf",
+            "node"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 124,
+    "title": "Binary Tree Maximum Path Sum",
+    "title_slug": "binary-tree-maximum-path-sum",
+    "backend_id": 124,
+    "content": "<div><p>Given a <strong>non-empty</strong> binary tree, find the maximum path sum.</p>\n\n<p>For this problem, a path is defined as any node sequence from some starting node to any node in the tree along the parent-child connections. The path must contain <strong>at least one node</strong> and does not need to go through the root.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2020/10/13/exx1.jpg\" style=\"width: 322px; height: 182px;\">\n<pre><strong>Input:</strong> root = [1,2,3]\n<strong>Output:</strong> 6\n</pre>\n\n<p><strong>Example 2:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2020/10/13/exx2.jpg\">\n<pre><strong>Input:</strong> root = [-10,9,20,null,null,15,7]\n<strong>Output:</strong> 42\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li>The number of nodes in the tree is in the range <code>[0, 3 * 10<sup>4</sup>]</code>.</li>\n\t<li><code>-1000 &lt;= Node.val &lt;= 1000</code></li>\n</ul>\n</div>"
+}

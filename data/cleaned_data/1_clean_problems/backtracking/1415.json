@@ -1,0 +1,7 @@
+{
+    "id": 1415,
+    "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+    "title_slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+    "backend_id": 1516,
+    "content": "A happy string is a string that:\n\nconsists only of letters of the set .\n\u00a0for all values of  from 1 to  (string is 1-indexed).\n\nFor example, strings \"abc\", \"ac\", \"b\" and \"abcbabcbcb\" are all happy strings and strings \"aa\", \"baa\" and\u00a0\"ababbc\" are not happy strings.\nGiven two integers  and , consider a list of all happy strings of length  sorted in lexicographical order.\nReturn the kth string of this list or return an empty string\u00a0if there are less than  happy strings of length .\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

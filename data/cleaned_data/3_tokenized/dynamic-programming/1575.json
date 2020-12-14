@@ -1,0 +1,85 @@
+{
+    "id": 1575,
+    "title": "Count All Possible Routes",
+    "title_slug": "count-all-possible-routes",
+    "backend_id": 1680,
+    "content": [
+        [
+            "give",
+            "array",
+            "distinct",
+            "positive",
+            "integer",
+            "location",
+            "represent",
+            "position",
+            "city"
+        ],
+        [
+            "also",
+            "give",
+            "integer",
+            "represent",
+            "start",
+            "city",
+            "end",
+            "city",
+            "initial",
+            "amount",
+            "fuel",
+            "respectively"
+        ],
+        [
+            "step",
+            "city",
+            "pick",
+            "city",
+            "move",
+            "city"
+        ],
+        [
+            "move",
+            "city",
+            "city",
+            "reduce",
+            "amount",
+            "fuel"
+        ],
+        [
+            "please",
+            "notice",
+            "denote",
+            "absolute",
+            "value"
+        ],
+        [
+            "notice",
+            "become",
+            "negative",
+            "point",
+            "time",
+            "allow",
+            "visit",
+            "city",
+            "include"
+        ],
+        [
+            "return",
+            "count",
+            "possible",
+            "route"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "modulo"
+        ],
+        [
+            "integer",
+            "distinct"
+        ]
+    ]
+}

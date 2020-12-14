@@ -1,0 +1,27 @@
+{
+    "id": 1365,
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "title_slug": "how-many-numbers-are-smaller-than-the-current-number",
+    "backend_id": 1482,
+    "content": [
+        [
+            "give",
+            "array",
+            "find",
+            "many",
+            "number",
+            "array",
+            "small"
+        ],
+        [
+            "count",
+            "number",
+            "valid"
+        ],
+        [
+            "return",
+            "answer",
+            "array"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1026,
+    "title": "Maximum Difference Between Node and Ancestor",
+    "title_slug": "maximum-difference-between-node-and-ancestor",
+    "backend_id": 1092,
+    "content": "Given the of a binary tree, find the maximum value for which there exist different nodes and where and is an ancestor of . A node is an ancestor of if either: any child of is equal to , or any child of is an ancestor of . The number of nodes in the tree is in the range ."
+}

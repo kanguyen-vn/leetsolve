@@ -1,0 +1,7 @@
+{
+    "id": 30,
+    "title": "Substring with Concatenation of All Words",
+    "title_slug": "substring-with-concatenation-of-all-words",
+    "backend_id": 30,
+    "content": "You are given a string  and an array of strings  of the same length. Return\u00a0all starting indices of substring(s) in \u00a0that is a concatenation of each word in  exactly once, in any order,\u00a0and without any intervening characters.\nYou can return the answer in any order.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n consists of lower-case English letters.\n\n\n\u00a0consists of lower-case English letters.\n\n"
+}

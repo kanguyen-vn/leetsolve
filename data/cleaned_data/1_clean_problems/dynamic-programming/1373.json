@@ -1,0 +1,7 @@
+{
+    "id": 1373,
+    "title": "Maximum Sum BST in Binary Tree",
+    "title_slug": "maximum-sum-bst-in-binary-tree",
+    "backend_id": 1475,
+    "content": "Given a binary tree , the task is to return the maximum sum of all keys of any\u00a0sub-tree which is also a Binary Search Tree (BST).\nAssume a BST is defined as follows:\n\nThe left subtree of a node contains only nodes with keys\u00a0less than\u00a0the node's key.\nThe right subtree of a node contains only nodes with keys\u00a0greater than\u00a0the node's key.\nBoth the left and right subtrees must also be binary search trees.\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\nThe\u00a0given binary tree will have between\u00a01\u00a0and\u00a040000\u00a0nodes.\nEach node's value is between .\n\n"
+}

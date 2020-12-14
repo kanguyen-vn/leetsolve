@@ -1,0 +1,43 @@
+{
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "title_slug": "search-in-rotated-sorted-array",
+    "backend_id": 33,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "sort",
+            "ascend",
+            "order",
+            "integer"
+        ],
+        [
+            "suppose",
+            "rotate",
+            "pivot",
+            "unknown",
+            "beforehand",
+            "might",
+            "become"
+        ],
+        [
+            "found",
+            "array",
+            "return",
+            "index",
+            "otherwise",
+            "return"
+        ],
+        [
+            "value",
+            "unique"
+        ],
+        [
+            "guranteed",
+            "rotate",
+            "pivot"
+        ]
+    ]
+}

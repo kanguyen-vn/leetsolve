@@ -1,0 +1,26 @@
+{
+    "id": 209,
+    "title": "Minimum Size Subarray Sum",
+    "title_slug": "minimum-size-subarray-sum",
+    "backend_id": 209,
+    "content": [
+        [
+            "give",
+            "array",
+            "positive",
+            "integer",
+            "positive",
+            "integer",
+            "find",
+            "minimal",
+            "length",
+            "contiguous",
+            "subarray",
+            "sum",
+            "n't",
+            "one",
+            "return",
+            "instead"
+        ]
+    ]
+}

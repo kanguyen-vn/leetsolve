@@ -1,0 +1,7 @@
+{
+    "id": 866,
+    "title": "Prime Palindrome",
+    "title_slug": "prime-palindrome",
+    "backend_id": 897,
+    "content": "<div><p>Find the smallest prime palindrome greater than or equal to <code>N</code>.</p>\n\n<p>Recall that a&nbsp;number is <em>prime</em> if it's only divisors are 1 and itself, and it is greater than 1.&nbsp;</p>\n\n<p>For example, 2,3,5,7,11 and 13 are&nbsp;primes.</p>\n\n<p>Recall that a number is a <em>palindrome</em> if it reads the same from left to right as it does from right to left.&nbsp;</p>\n\n<p>For example, 12321 is a palindrome.</p>\n\n<p>&nbsp;</p>\n\n<div>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-1-1\">6</span>\n<strong>Output: </strong><span id=\"example-output-1\">7</span>\n</pre>\n\n<div>\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-2-1\">8</span>\n<strong>Output: </strong><span id=\"example-output-2\">11</span>\n</pre>\n\n<div>\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-3-1\">13</span>\n<strong>Output: </strong><span id=\"example-output-3\">101</span></pre>\n</div>\n</div>\n</div>\n\n<p>&nbsp;</p>\n\n<p><strong>Note:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= N &lt;= 10^8</code></li>\n\t<li>The answer is guaranteed to exist and be less than <code>2 * 10^8</code>.</li>\n</ul>\n</div>"
+}

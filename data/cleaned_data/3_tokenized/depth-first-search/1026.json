@@ -1,0 +1,35 @@
+{
+    "id": 1026,
+    "title": "Maximum Difference Between Node and Ancestor",
+    "title_slug": "maximum-difference-between-node-and-ancestor",
+    "backend_id": 1092,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "find",
+            "maximum",
+            "value",
+            "exist",
+            "different",
+            "node",
+            "ancestor"
+        ],
+        [
+            "node",
+            "ancestor",
+            "either",
+            "child",
+            "equal",
+            "child",
+            "ancestor"
+        ],
+        [
+            "number",
+            "node",
+            "tree",
+            "range"
+        ]
+    ]
+}

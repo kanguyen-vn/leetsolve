@@ -1,0 +1,7 @@
+{
+    "id": 1,
+    "title": "Two Sum",
+    "title_slug": "two-sum",
+    "backend_id": 1,
+    "content": "Given an array of integers \u00a0and an integer , return indices of the two numbers such that they add up to .\nYou may assume that each input would have exactly one solution, and you may not use the same element twice.\nYou can return the answer in any order.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\nOnly one valid answer exists.\n\n"
+}

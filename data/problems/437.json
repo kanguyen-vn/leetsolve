@@ -1,0 +1,7 @@
+{
+    "id": 437,
+    "title": "Path Sum III",
+    "title_slug": "path-sum-iii",
+    "backend_id": 437,
+    "content": "<div><p>You are given a binary tree in which each node contains an integer value.</p>\n\n<p>Find the number of paths that sum to a given value.</p>\n\n<p>The path does not need to start or end at the root or a leaf, but it must go downwards\n(traveling only from parent nodes to child nodes).</p>\n\n<p>The tree has no more than 1,000 nodes and the values are in the range -1,000,000 to 1,000,000.\n\n</p><p><b>Example:</b>\n</p><pre>root = [10,5,-3,3,2,null,11,3,-2,null,1], sum = 8\n\n      10\n     /  \\\n    <b>5</b>   <b>-3</b>\n   <b>/</b> <b>\\</b>    <b>\\</b>\n  <b>3</b>   <b>2</b>   <b>11</b>\n / \\   <b>\\</b>\n3  -2   <b>1</b>\n\nReturn 3. The paths that sum to 8 are:\n\n1.  5 -&gt; 3\n2.  5 -&gt; 2 -&gt; 1\n3. -3 -&gt; 11\n</pre>\n<p></p></div>"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 227,
+    "title": "Basic Calculator II",
+    "title_slug": "basic-calculator-ii",
+    "backend_id": 227,
+    "content": "<div><p>Implement a basic calculator to evaluate a simple expression string.</p>\n\n<p>The expression string contains only <b>non-negative</b> integers, <code>+</code>, <code>-</code>, <code>*</code>, <code>/</code> operators and empty spaces <code> </code>. The integer division should truncate toward zero.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong>\"3+2*2\"\n<strong>Output:</strong> 7\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> \" 3/2 \"\n<strong>Output:</strong> 1</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> \" 3+5 / 2 \"\n<strong>Output:</strong> 5\n</pre>\n\n<p><b>Note:</b></p>\n\n<ul>\n\t<li>You may assume that the given expression is always valid.</li>\n\t<li><b>Do not</b> use the <code>eval</code> built-in library function.</li>\n</ul></div>"
+}

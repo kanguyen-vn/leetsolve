@@ -1,0 +1,7 @@
+{
+    "id": 955,
+    "title": "Delete Columns to Make Sorted II",
+    "title_slug": "delete-columns-to-make-sorted-ii",
+    "backend_id": 992,
+    "content": "We are given an array of lowercase letter strings, all of the same length. Now, we may choose any set of deletion indices, and for each string, we delete all the characters in those indices. For example, if we have an array and deletion indices , then the final array after deletions is . Suppose we chose a set of deletion indices such that after deletions, the final array has its elements in lexicographic order (). Return the minimum possible value of ."
+}

@@ -1,0 +1,54 @@
+{
+    "id": 1423,
+    "title": "Maximum Points You Can Obtain from Cards",
+    "title_slug": "maximum-points-you-can-obtain-from-cards",
+    "backend_id": 1538,
+    "content": [
+        [
+            "several",
+            "card",
+            "arrange",
+            "row",
+            "card",
+            "associate",
+            "number",
+            "point",
+            "point",
+            "give",
+            "integer",
+            "array"
+        ],
+        [
+            "one",
+            "step",
+            "take",
+            "one",
+            "card",
+            "begin",
+            "end",
+            "row"
+        ],
+        [
+            "take",
+            "exactly",
+            "card"
+        ],
+        [
+            "score",
+            "sum",
+            "point",
+            "card",
+            "take"
+        ],
+        [
+            "give",
+            "integer",
+            "array",
+            "integer",
+            "return",
+            "maximum",
+            "score",
+            "obtain"
+        ]
+    ]
+}

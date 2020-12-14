@@ -1,0 +1,7 @@
+{
+    "id": 1284,
+    "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+    "title_slug": "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+    "backend_id": 1409,
+    "content": "Given a binary matrix . In one step, you can choose one cell and flip it and all the four neighbours of it if they exist (Flip is changing 1 to 0 and 0 to 1). A pair of cells are called neighboors if they share one edge. Return the minimum number of steps required to convert to a zero matrix or -1 if you cannot. Binary matrix is a matrix with all cells equal to 0 or 1 only. Zero matrix is a matrix with all cells equal to 0. is 0 or 1."
+}

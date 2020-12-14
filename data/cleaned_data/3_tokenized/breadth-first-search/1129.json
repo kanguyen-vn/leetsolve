@@ -1,0 +1,62 @@
+{
+    "id": 1129,
+    "title": "Shortest Path with Alternating Colors",
+    "title_slug": "shortest-path-with-alternating-colors",
+    "backend_id": 1229,
+    "content": [
+        [
+            "consider",
+            "direct",
+            "graph",
+            "node",
+            "label"
+        ],
+        [
+            "graph",
+            "edge",
+            "either",
+            "red",
+            "blue",
+            "could",
+            "self",
+            "edge",
+            "parallel",
+            "edge"
+        ],
+        [
+            "denote",
+            "red",
+            "directed",
+            "edge",
+            "node",
+            "node"
+        ],
+        [
+            "similarly",
+            "denote",
+            "blue",
+            "direct",
+            "edge",
+            "node",
+            "node"
+        ],
+        [
+            "return",
+            "array",
+            "length",
+            "length",
+            "short",
+            "path",
+            "node",
+            "node",
+            "edge",
+            "color",
+            "alternate",
+            "along",
+            "path",
+            "path",
+            "n't",
+            "exist"
+        ]
+    ]
+}

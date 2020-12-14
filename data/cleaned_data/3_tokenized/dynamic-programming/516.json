@@ -1,0 +1,46 @@
+{
+    "id": 516,
+    "title": "Longest Palindromic Subsequence",
+    "title_slug": "longest-palindromic-subsequence",
+    "backend_id": 516,
+    "content": [
+        [
+            "give",
+            "string",
+            "find",
+            "long",
+            "palindromic",
+            "subsequence",
+            "'s",
+            "length",
+            "may",
+            "assume",
+            "maximum",
+            "length"
+        ],
+        [
+            "output",
+            "one",
+            "possible",
+            "long",
+            "palindromic",
+            "subsequence",
+            "bbbb"
+        ],
+        [
+            "output",
+            "one",
+            "possible",
+            "long",
+            "palindromic",
+            "subsequence",
+            "bb"
+        ],
+        [
+            "consist",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

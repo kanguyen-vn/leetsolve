@@ -1,0 +1,7 @@
+{
+    "id": 956,
+    "title": "Tallest Billboard",
+    "title_slug": "tallest-billboard",
+    "backend_id": 993,
+    "content": "You are installing a billboard and want it to have the largest height.\u00a0 The billboard will have two steel supports, one on each side.\u00a0 Each steel support must be an equal height.\nYou have a collection of  which can be welded together.\u00a0 For example, if you have rods of lengths 1, 2, and 3, you can weld them together to make a support of length 6.\nReturn the largest possible height of your billboard installation.\u00a0 If you cannot support the billboard, return 0.\n\u00a0\n\n\n\n\n\u00a0\n"
+}

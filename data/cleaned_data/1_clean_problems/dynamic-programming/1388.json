@@ -1,0 +1,7 @@
+{
+    "id": 1388,
+    "title": "Pizza With 3n Slices",
+    "title_slug": "pizza-with-3n-slices",
+    "backend_id": 1489,
+    "content": "There is a pizza with 3n slices of varying size, you and your friends will take slices of pizza as follows:\n\nYou will pick any pizza slice.\nYour friend Alice\u00a0will pick\u00a0next slice in anti clockwise direction of your pick.\u00a0\nYour friend Bob\u00a0will\u00a0pick\u00a0next slice in clockwise direction of your pick.\nRepeat\u00a0until\u00a0there are no more slices of pizzas.\n\nSizes of Pizza slices is represented by circular array  in clockwise direction.\nReturn the maximum possible sum of slice sizes which you can have.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

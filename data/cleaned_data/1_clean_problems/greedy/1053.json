@@ -1,0 +1,7 @@
+{
+    "id": 1053,
+    "title": "Previous Permutation With One Swap",
+    "title_slug": "previous-permutation-with-one-swap",
+    "backend_id": 1139,
+    "content": "Given an array  of positive integers (not necessarily distinct), return the lexicographically largest permutation that is smaller than , that can be made with one swap (A swap exchanges the positions of two numbers  and ).\u00a0 If it cannot be done, then return the same array.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n"
+}

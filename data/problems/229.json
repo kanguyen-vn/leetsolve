@@ -1,0 +1,7 @@
+{
+    "id": 229,
+    "title": "Majority Element II",
+    "title_slug": "majority-element-ii",
+    "backend_id": 229,
+    "content": "<div><p>Given an integer array of size <code>n</code>, find all elements that appear more than <code>\u230a n/3 \u230b</code> times.</p>\n\n<p><strong>Follow-up: </strong>Could you solve the problem&nbsp;in linear time and in O(1) space?</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> nums = [3,2,3]\n<strong>Output:</strong> [3]\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> nums = [1]\n<strong>Output:</strong> [1]\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> nums = [1,2]\n<strong>Output:</strong> [1,2]\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= nums.length &lt;= 5 * 10<sup>4</sup></code></li>\n\t<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>\n</ul>\n</div>"
+}

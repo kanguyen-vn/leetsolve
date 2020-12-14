@@ -1,0 +1,7 @@
+{
+    "id": 851,
+    "title": "Loud and Rich",
+    "title_slug": "loud-and-rich",
+    "backend_id": 881,
+    "content": "In a group of N people (labelled ), each person has different amounts of money, and different levels of quietness. For convenience, we'll call the person with label , simply \"person \". We'll say that if person definitely has more money than person . Note that may only be a subset of valid observations. Also, we'll say if person has quietness . Now, return , where if is the least quiet person (that is, the person with the smallest value of ), among all people who definitely have equal to or more money than person ."
+}

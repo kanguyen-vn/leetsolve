@@ -1,0 +1,7 @@
+{
+    "id": 132,
+    "title": "Palindrome Partitioning II",
+    "title_slug": "palindrome-partitioning-ii",
+    "backend_id": 132,
+    "content": "Given a string , partition such that every substring of the partition is a palindrome. Return the minimum cuts needed for a palindrome partitioning of . consists of lower-case English letters only."
+}

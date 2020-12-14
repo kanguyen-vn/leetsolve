@@ -1,0 +1,54 @@
+{
+    "id": 115,
+    "title": "Distinct Subsequences",
+    "title_slug": "distinct-subsequences",
+    "backend_id": 115,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "return",
+            "number",
+            "distinct",
+            "subsequence",
+            "equal"
+        ],
+        [
+            "string",
+            "'s",
+            "subsequence",
+            "new",
+            "string",
+            "form",
+            "original",
+            "string",
+            "delete",
+            "none",
+            "character",
+            "without",
+            "disturb",
+            "relative",
+            "position",
+            "remain",
+            "character"
+        ],
+        [
+            "subsequence"
+        ],
+        [
+            "'s",
+            "guarantee",
+            "answer",
+            "fit",
+            "bit",
+            "sign",
+            "integer"
+        ],
+        [
+            "consist",
+            "english",
+            "letter"
+        ]
+    ]
+}

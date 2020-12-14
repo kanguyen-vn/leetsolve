@@ -1,0 +1,7 @@
+{
+    "id": 970,
+    "title": "Powerful Integers",
+    "title_slug": "powerful-integers",
+    "backend_id": 1010,
+    "content": "Given two positive integers and , an integer is powerful if it is equal to for some integers and . Return a list of all powerful integers that have value less than or equal to . You may return the answer in any order. In your answer, each value should occur at most once."
+}

@@ -1,0 +1,7 @@
+{
+    "id": 173,
+    "title": "Binary Search Tree Iterator",
+    "title_slug": "binary-search-tree-iterator",
+    "backend_id": 173,
+    "content": "Implement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST. Calling will return the next smallest number in the BST."
+}

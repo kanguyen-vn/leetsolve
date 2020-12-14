@@ -1,0 +1,7 @@
+{
+    "id": 209,
+    "title": "Minimum Size Subarray Sum",
+    "title_slug": "minimum-size-subarray-sum",
+    "backend_id": 209,
+    "content": "<div><p>Given an array of <strong>n</strong> positive integers and a positive integer <strong>s</strong>, find the minimal length of a <b>contiguous</b> subarray of which the sum \u2265 <strong>s</strong>. If there isn't one, return 0 instead.</p>\n\n<p><strong>Example:&nbsp;</strong></p>\n\n<pre><strong>Input:</strong> <code>s = 7, nums = [2,3,1,2,4,3]</code>\n<strong>Output:</strong> 2\n<strong>Explanation: </strong>the subarray <code>[4,3]</code> has the minimal length under the problem constraint.</pre>\n\n<div class=\"spoilers\"><b>Follow up:</b></div>\n\n<div class=\"spoilers\">If you have figured out the <i>O</i>(<i>n</i>) solution, try coding another solution of which the time complexity is <i>O</i>(<i>n</i> log <i>n</i>).&nbsp;</div>\n</div>"
+}

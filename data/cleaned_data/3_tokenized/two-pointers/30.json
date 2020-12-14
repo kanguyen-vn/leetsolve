@@ -1,0 +1,47 @@
+{
+    "id": 30,
+    "title": "Substring with Concatenation of All Words",
+    "title_slug": "substring-with-concatenation-of-all-words",
+    "backend_id": 30,
+    "content": [
+        [
+            "give",
+            "string",
+            "array",
+            "string",
+            "length"
+        ],
+        [
+            "return",
+            "start",
+            "index",
+            "substring",
+            "concatenation",
+            "word",
+            "exactly",
+            "order",
+            "without",
+            "intervene",
+            "character"
+        ],
+        [
+            "return",
+            "answer",
+            "order"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ]
+    ]
+}

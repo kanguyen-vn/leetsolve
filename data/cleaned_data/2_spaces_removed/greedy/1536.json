@@ -1,0 +1,7 @@
+{
+    "id": 1536,
+    "title": "Minimum Swaps to Arrange a Binary Grid",
+    "title_slug": "minimum-swaps-to-arrange-a-binary-grid",
+    "backend_id": 1658,
+    "content": "Given an binary , in one step you can choose two adjacent rows of the grid and swap them. A grid is said to be valid if all the cells above the main diagonal are zeros. Return the minimum number of steps needed to make the grid valid, or -1 if the grid cannot be valid. The main diagonal of a grid is the diagonal that starts at cell and ends at cell . is 0 or 1"
+}

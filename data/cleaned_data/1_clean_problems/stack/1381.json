@@ -1,0 +1,7 @@
+{
+    "id": 1381,
+    "title": "Design a Stack With Increment Operation",
+    "title_slug": "design-a-stack-with-increment-operation",
+    "backend_id": 1497,
+    "content": "Design a stack which supports the following operations.\nImplement the  class:\n\n Initializes the object with  which is the maximum number of elements in the stack or do nothing if the stack reached the .\n\u00a0Adds  to the top of the stack if the stack hasn't reached the .\n\u00a0Pops and returns the top of stack or -1 if the stack is empty.\n Increments the bottom  elements of the stack by . If there are less than  elements in the stack, just increment all the elements in the stack.\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\nAt most\u00a01000\u00a0calls will be made to each method of ,  and  each separately.\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1521,
+    "title": "Find a Value of a Mysterious Function Closest to Target",
+    "title_slug": "find-a-value-of-a-mysterious-function-closest-to-target",
+    "backend_id": 1645,
+    "content": "Winston was given the above mysterious function . He has an integer array and an integer and he wants to find the values and that make the value minimum possible. Return the minimum possible value of . Notice that should be called with the values and where ."
+}

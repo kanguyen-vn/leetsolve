@@ -1,0 +1,7 @@
+{
+    "id": 839,
+    "title": "Similar String Groups",
+    "title_slug": "similar-string-groups",
+    "backend_id": 869,
+    "content": "Two strings \u00a0and \u00a0are similar if we can swap two letters (in different positions) of , so that\u00a0it equals . Also two strings  and  are similar if they are equal.\nFor example, \u00a0and \u00a0are similar (swapping at positions 0 and 2), and  and  are similar, but  is not similar to , , or .\nTogether, these form two connected groups by similarity:  and .\u00a0 Notice that  and  are in the same group even though they are not similar.\u00a0 Formally, each group is such that a word is in the group if and only if it is similar to at least one other word in the group.\nWe are given a list  of strings where every string in  is an anagram of every other string in . How many groups are there?\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\n consists of lowercase letters only.\nAll words in  have the same length and are anagrams of each other.\n\n"
+}

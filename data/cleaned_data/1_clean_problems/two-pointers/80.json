@@ -1,0 +1,7 @@
+{
+    "id": 80,
+    "title": "Remove Duplicates from Sorted Array II",
+    "title_slug": "remove-duplicates-from-sorted-array-ii",
+    "backend_id": 80,
+    "content": "Given a sorted array nums, remove the duplicates in-place such that duplicates appeared at most\u00a0twice and return the new length.\nDo not allocate extra space for another array; you must do this by modifying the input array in-place with O(1) extra memory.\nClarification:\nConfused why the returned value is an integer, but your answer is an array?\nNote that the input array is passed in by reference, which means a modification to the input array will be known to the caller.\nInternally you can think of this:\n\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\u00a0is sorted in ascending order.\n\n"
+}

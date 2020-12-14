@@ -1,0 +1,78 @@
+{
+    "id": 1537,
+    "title": "Get the Maximum Score",
+    "title_slug": "get-the-maximum-score",
+    "backend_id": 1659,
+    "content": [
+        [
+            "give",
+            "two",
+            "sorted",
+            "array",
+            "distinct",
+            "integer",
+            "valid",
+            "path",
+            "define",
+            "follow",
+            "choose",
+            "array",
+            "nums1",
+            "nums2",
+            "traverse",
+            "index"
+        ],
+        [
+            "traverse",
+            "current",
+            "array",
+            "leave",
+            "right"
+        ],
+        [
+            "read",
+            "value",
+            "present",
+            "allow",
+            "change",
+            "path",
+            "array"
+        ],
+        [
+            "one",
+            "repeat",
+            "value",
+            "consider",
+            "valid",
+            "path"
+        ],
+        [
+            "score",
+            "define",
+            "sum",
+            "uniques",
+            "value",
+            "valid",
+            "path"
+        ],
+        [
+            "return",
+            "maximum",
+            "score",
+            "obtain",
+            "possible",
+            "valid",
+            "path"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "modulo",
+            "strictly",
+            "increase"
+        ]
+    ]
+}

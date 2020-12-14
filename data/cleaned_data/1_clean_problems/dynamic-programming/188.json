@@ -1,0 +1,7 @@
+{
+    "id": 188,
+    "title": "Best Time to Buy and Sell Stock IV",
+    "title_slug": "best-time-to-buy-and-sell-stock-iv",
+    "backend_id": 188,
+    "content": "You are given\u00a0an integer array  where \u00a0is the price of a given stock on the  day.\nDesign an algorithm to find the maximum profit. You may complete at most  transactions.\nNotice that you may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again).\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

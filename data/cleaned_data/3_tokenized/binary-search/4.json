@@ -1,0 +1,21 @@
+{
+    "id": 4,
+    "title": "Median of Two Sorted Arrays",
+    "title_slug": "median-of-two-sorted-arrays",
+    "backend_id": 4,
+    "content": [
+        [
+            "give",
+            "two",
+            "sorted",
+            "array",
+            "size",
+            "respectively",
+            "return",
+            "median",
+            "two",
+            "sort",
+            "array"
+        ]
+    ]
+}

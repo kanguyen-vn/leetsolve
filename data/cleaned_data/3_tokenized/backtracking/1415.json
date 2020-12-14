@@ -1,0 +1,62 @@
+{
+    "id": 1415,
+    "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+    "title_slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+    "backend_id": 1516,
+    "content": [
+        [
+            "happy",
+            "string",
+            "string",
+            "consist",
+            "letter",
+            "set"
+        ],
+        [
+            "value",
+            "string",
+            "indexed"
+        ],
+        [
+            "example",
+            "string",
+            "abc",
+            "ac",
+            "abcbabcbcb",
+            "happy",
+            "string",
+            "string",
+            "aa",
+            "baa",
+            "ababbc",
+            "happy",
+            "string"
+        ],
+        [
+            "give",
+            "two",
+            "integer",
+            "consider",
+            "list",
+            "happy",
+            "string",
+            "length",
+            "sort",
+            "lexicographical",
+            "order"
+        ],
+        [
+            "return",
+            "kth",
+            "string",
+            "list",
+            "return",
+            "empty",
+            "string",
+            "less",
+            "happy",
+            "string",
+            "length"
+        ]
+    ]
+}

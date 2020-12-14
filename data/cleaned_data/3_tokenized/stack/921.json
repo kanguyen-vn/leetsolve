@@ -1,0 +1,52 @@
+{
+    "id": 921,
+    "title": "Minimum Add to Make Parentheses Valid",
+    "title_slug": "minimum-add-to-make-parentheses-valid",
+    "backend_id": 957,
+    "content": [
+        [
+            "give",
+            "string",
+            "parenthesis",
+            "add",
+            "minimum",
+            "number",
+            "parenthesis",
+            "position",
+            "result",
+            "parenthesis",
+            "string",
+            "valid"
+        ],
+        [
+            "formally",
+            "parentheses",
+            "string",
+            "valid",
+            "empty",
+            "string",
+            "write",
+            "concatenated",
+            "valid",
+            "string",
+            "write",
+            "valid",
+            "string"
+        ],
+        [
+            "give",
+            "parenthesis",
+            "string",
+            "return",
+            "minimum",
+            "number",
+            "parenthesis",
+            "must",
+            "add",
+            "make",
+            "result",
+            "string",
+            "valid"
+        ]
+    ]
+}

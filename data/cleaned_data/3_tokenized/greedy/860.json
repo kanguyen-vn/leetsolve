@@ -1,0 +1,60 @@
+{
+    "id": 860,
+    "title": "Lemonade Change",
+    "title_slug": "lemonade-change",
+    "backend_id": 890,
+    "content": [
+        [
+            "lemonade",
+            "stand",
+            "lemonade",
+            "cost"
+        ],
+        [
+            "customer",
+            "stand",
+            "queue",
+            "buy",
+            "order",
+            "one",
+            "time",
+            "order",
+            "specify"
+        ],
+        [
+            "customer",
+            "buy",
+            "one",
+            "lemonade",
+            "pay",
+            "either",
+            "bill"
+        ],
+        [
+            "must",
+            "provide",
+            "correct",
+            "change",
+            "customer",
+            "net",
+            "transaction",
+            "customer",
+            "pay"
+        ],
+        [
+            "note",
+            "n't",
+            "change",
+            "hand",
+            "first"
+        ],
+        [
+            "return",
+            "provide",
+            "every",
+            "customer",
+            "correct",
+            "change"
+        ]
+    ]
+}

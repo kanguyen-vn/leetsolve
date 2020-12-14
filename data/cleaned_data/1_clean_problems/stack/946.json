@@ -1,0 +1,7 @@
+{
+    "id": 946,
+    "title": "Validate Stack Sequences",
+    "title_slug": "validate-stack-sequences",
+    "backend_id": 983,
+    "content": "Given two sequences  and \u00a0with distinct values,\u00a0return  if and only if this could have been the result of a sequence of push and pop operations on an initially empty stack.\n\u00a0\n\n\u00a0\n\n\n\n\n is a permutation of .\n and  have distinct values.\n\n"
+}

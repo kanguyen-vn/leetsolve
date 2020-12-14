@@ -1,0 +1,7 @@
+{
+    "id": 18,
+    "title": "4Sum",
+    "title_slug": "4sum",
+    "backend_id": 18,
+    "content": "Given an array  of n integers and an integer , are there elements a, b, c, and d in  such that a + b + c + d = ? Find all unique quadruplets in the array which gives the sum of .\nNotice\u00a0that\u00a0the solution set must not contain duplicate quadruplets.\n\u00a0\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

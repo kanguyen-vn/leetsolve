@@ -1,0 +1,34 @@
+{
+    "id": 117,
+    "title": "Populating Next Right Pointers in Each Node II",
+    "title_slug": "populating-next-right-pointers-in-each-node-ii",
+    "backend_id": 117,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "populate",
+            "next",
+            "pointer",
+            "point",
+            "next",
+            "right",
+            "node"
+        ],
+        [
+            "next",
+            "right",
+            "node",
+            "next",
+            "pointer",
+            "set"
+        ],
+        [
+            "initially",
+            "next",
+            "pointer",
+            "set"
+        ]
+    ]
+}

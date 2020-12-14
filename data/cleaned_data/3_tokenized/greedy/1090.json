@@ -1,0 +1,33 @@
+{
+    "id": 1090,
+    "title": "Largest Values From Labels",
+    "title_slug": "largest-values-from-labels",
+    "backend_id": 1169,
+    "content": [
+        [
+            "set",
+            "item",
+            "th",
+            "item",
+            "value",
+            "label"
+        ],
+        [
+            "choose",
+            "subset",
+            "item",
+            "every",
+            "label",
+            "number",
+            "item",
+            "label"
+        ],
+        [
+            "return",
+            "large",
+            "possible",
+            "sum",
+            "subset"
+        ]
+    ]
+}

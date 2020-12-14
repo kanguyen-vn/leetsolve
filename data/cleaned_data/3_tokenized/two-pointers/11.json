@@ -1,0 +1,43 @@
+{
+    "id": 11,
+    "title": "Container With Most Water",
+    "title_slug": "container-with-most-water",
+    "backend_id": 11,
+    "content": [
+        [
+            "give",
+            "non",
+            "negative",
+            "integer",
+            "represent",
+            "point",
+            "coordinate"
+        ],
+        [
+            "vertical",
+            "line",
+            "draw",
+            "two",
+            "endpoint",
+            "line"
+        ],
+        [
+            "find",
+            "two",
+            "line",
+            "together",
+            "axis",
+            "form",
+            "container",
+            "container",
+            "contain",
+            "water"
+        ],
+        [
+            "notice",
+            "may",
+            "slant",
+            "container"
+        ]
+    ]
+}

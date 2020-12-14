@@ -1,0 +1,37 @@
+{
+    "id": 658,
+    "title": "Find K Closest Elements",
+    "title_slug": "find-k-closest-elements",
+    "backend_id": 658,
+    "content": [
+        [
+            "give",
+            "sort",
+            "integer",
+            "array",
+            "two",
+            "integer",
+            "return",
+            "close",
+            "integer",
+            "array"
+        ],
+        [
+            "result",
+            "also",
+            "sort",
+            "ascend",
+            "order"
+        ],
+        [
+            "integer",
+            "closer",
+            "integer",
+            "absolute",
+            "value",
+            "element",
+            "array",
+            "exceed"
+        ]
+    ]
+}

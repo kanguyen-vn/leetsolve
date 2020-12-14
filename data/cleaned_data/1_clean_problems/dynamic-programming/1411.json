@@ -1,0 +1,7 @@
+{
+    "id": 1411,
+    "title": "Number of Ways to Paint N \u00d7 3 Grid",
+    "title_slug": "number-of-ways-to-paint-n-3-grid",
+    "backend_id": 1527,
+    "content": "You have a  of size  and you want to paint each cell of the grid with exactly\u00a0one of the three colours: Red, Yellow or Green\u00a0while making sure that no two adjacent cells have\u00a0the same colour (i.e no two cells that share vertical or horizontal sides have the same colour).\nYou are given  the number of rows of the grid.\nReturn the number of ways you can paint this . As the answer may grow large, the answer must be computed modulo\u00a0.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

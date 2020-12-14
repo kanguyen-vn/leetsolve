@@ -1,0 +1,60 @@
+{
+    "id": 801,
+    "title": "Minimum Swaps To Make Sequences Increasing",
+    "title_slug": "minimum-swaps-to-make-sequences-increasing",
+    "backend_id": 819,
+    "content": [
+        [
+            "two",
+            "integer",
+            "sequence",
+            "non",
+            "zero",
+            "length"
+        ],
+        [
+            "allow",
+            "swap",
+            "element"
+        ],
+        [
+            "note",
+            "element",
+            "index",
+            "position",
+            "respective",
+            "sequence"
+        ],
+        [
+            "end",
+            "number",
+            "swap",
+            "strictly",
+            "increase"
+        ],
+        [
+            "sequence",
+            "strictly",
+            "increase"
+        ],
+        [
+            "give",
+            "return",
+            "minimum",
+            "number",
+            "swap",
+            "make",
+            "sequence",
+            "strictly",
+            "increase"
+        ],
+        [
+            "guarantee",
+            "give",
+            "input",
+            "always",
+            "make",
+            "possible"
+        ]
+    ]
+}

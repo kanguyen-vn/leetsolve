@@ -1,0 +1,7 @@
+{
+    "id": 1240,
+    "title": "Tiling a Rectangle with the Fewest Squares",
+    "title_slug": "tiling-a-rectangle-with-the-fewest-squares",
+    "backend_id": 1361,
+    "content": "Given a rectangle of size\u00a0\u00a0x , find the minimum number of integer-sided squares that tile the rectangle.\n\u00a0\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

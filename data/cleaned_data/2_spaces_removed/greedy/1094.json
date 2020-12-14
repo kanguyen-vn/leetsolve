@@ -1,0 +1,7 @@
+{
+    "id": 1094,
+    "title": "Car Pooling",
+    "title_slug": "car-pooling",
+    "backend_id": 1184,
+    "content": "You are driving a vehicle that has empty seats initially available for passengers. The vehicle only drives east (ie. it cannot turn around and drive west.) Given a list of , contains information about the -th trip: the number of passengers that must be picked up, and the locations to pick them up and drop them off. The locations are given as the number of kilometers due east from your vehicle's initial location. Return if and only if it is possible to pick up and drop off all passengers for all the given trips."
+}

@@ -1,0 +1,60 @@
+{
+    "id": 563,
+    "title": "Binary Tree Tilt",
+    "title_slug": "binary-tree-tilt",
+    "backend_id": 563,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "return",
+            "sum",
+            "every",
+            "tree",
+            "node",
+            "'s",
+            "tilt"
+        ],
+        [
+            "tilt",
+            "tree",
+            "node",
+            "absolute",
+            "difference",
+            "sum",
+            "leave",
+            "subtree",
+            "node",
+            "value",
+            "right",
+            "subtree",
+            "node",
+            "value"
+        ],
+        [
+            "node",
+            "leave",
+            "child",
+            "sum",
+            "leave",
+            "subtree",
+            "node",
+            "value",
+            "treat"
+        ],
+        [
+            "rule",
+            "similar",
+            "node",
+            "right",
+            "child"
+        ],
+        [
+            "number",
+            "node",
+            "tree",
+            "range"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 978,
+    "title": "Longest Turbulent Subarray",
+    "title_slug": "longest-turbulent-subarray",
+    "backend_id": 1020,
+    "content": "Given an integer array , return the length of a maximum size turbulent subarray of .\nA subarray is turbulent if the comparison sign flips between each adjacent pair of elements in the subarray.\nMore formally, a subarray  of  is said to be turbulent if and only if:\n\nFor :\n\n\t\n when  is odd, and\n when  is even.\n\n\nOr, for :\n\t\n when  is even, and\n when  is odd.\n\n\n\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

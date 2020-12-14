@@ -1,0 +1,43 @@
+{
+    "id": 89,
+    "title": "Gray Code",
+    "title_slug": "gray-code",
+    "backend_id": 89,
+    "content": [
+        [
+            "gray",
+            "code",
+            "binary",
+            "numeral",
+            "system",
+            "two",
+            "successive",
+            "value",
+            "differ",
+            "one",
+            "bit"
+        ],
+        [
+            "give",
+            "non",
+            "negative",
+            "integer",
+            "represent",
+            "total",
+            "number",
+            "bit",
+            "code",
+            "print",
+            "sequence",
+            "gray",
+            "code"
+        ],
+        [
+            "gray",
+            "code",
+            "sequence",
+            "must",
+            "begin"
+        ]
+    ]
+}

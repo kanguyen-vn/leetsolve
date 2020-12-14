@@ -1,0 +1,27 @@
+{
+    "id": 862,
+    "title": "Shortest Subarray with Sum at Least K",
+    "title_slug": "shortest-subarray-with-sum-at-least-k",
+    "backend_id": 892,
+    "content": [
+        [
+            "return",
+            "length",
+            "short",
+            "non",
+            "empty",
+            "contiguous",
+            "subarray",
+            "sum",
+            "least"
+        ],
+        [
+            "non",
+            "empty",
+            "subarray",
+            "sum",
+            "least",
+            "return"
+        ]
+    ]
+}

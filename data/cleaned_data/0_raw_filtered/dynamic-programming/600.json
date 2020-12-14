@@ -1,0 +1,7 @@
+{
+    "id": 600,
+    "title": "Non-negative Integers without Consecutive Ones",
+    "title_slug": "non-negative-integers-without-consecutive-ones",
+    "backend_id": 600,
+    "content": "<div><p>Given a positive integer n, find the number of <b>non-negative</b> integers less than or equal to n, whose binary representations do NOT contain <b>consecutive ones</b>.</p>\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> 5\n<b>Output:</b> 5\n<b>Explanation:</b> \nHere are the non-negative integers &lt;= 5 with their corresponding binary representations:\n0 : 0\n1 : 1\n2 : 10\n3 : 11\n4 : 100\n5 : 101\nAmong them, only integer 3 disobeys the rule (two consecutive ones) and the other 5 satisfy the rule. \n</pre>\n<p></p>\n\n<p><b>Note:</b>\n1 &lt;= n &lt;= 10<sup>9</sup>\n</p>\n</div>"
+}

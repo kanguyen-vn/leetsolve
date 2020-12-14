@@ -1,0 +1,7 @@
+{
+    "id": 15,
+    "title": "3Sum",
+    "title_slug": "3sum",
+    "backend_id": 15,
+    "content": "<div><p>Given an array <code>nums</code> of <em>n</em> integers, are there elements <em>a</em>, <em>b</em>, <em>c</em> in <code>nums</code> such that <em>a</em> + <em>b</em> + <em>c</em> = 0? Find all unique triplets in the array which gives the sum of zero.</p>\n\n<p>Notice that the solution set must not contain duplicate triplets.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> nums = [-1,0,1,2,-1,-4]\n<strong>Output:</strong> [[-1,-1,2],[-1,0,1]]\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> nums = []\n<strong>Output:</strong> []\n</pre><p><strong>Example 3:</strong></p>\n<pre><strong>Input:</strong> nums = [0]\n<strong>Output:</strong> []\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= nums.length &lt;= 3000</code></li>\n\t<li><code>-10<sup>5</sup> &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>\n</ul>\n</div>"
+}

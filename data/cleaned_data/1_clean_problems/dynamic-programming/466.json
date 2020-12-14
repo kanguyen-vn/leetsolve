@@ -1,0 +1,7 @@
+{
+    "id": 466,
+    "title": "Count The Repetitions",
+    "title_slug": "count-the-repetitions",
+    "backend_id": 466,
+    "content": "Define  as the string S which consists of n connected strings s. For example,  =\"abcabcabc\". \nOn the other hand, we define that string s1 can be obtained from string s2 if we can remove some characters from s2 such that it becomes s1. For example, \u201cabc\u201d  can be obtained from \u201cabdbec\u201d based on our definition, but it can not be obtained from \u201cacbbe\u201d.\nYou are given two non-empty strings s1 and s2 (each at most 100 characters long) and two integers 0 \u2264 n1 \u2264 106 and 1 \u2264 n2 \u2264 106. Now consider the strings S1 and S2, where  and . Find the maximum integer M such that  can be obtained from .\n\n"
+}

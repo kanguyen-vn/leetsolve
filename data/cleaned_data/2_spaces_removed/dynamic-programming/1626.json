@@ -1,0 +1,7 @@
+{
+    "id": 1626,
+    "title": "Best Team With No Conflicts",
+    "title_slug": "best-team-with-no-conflicts",
+    "backend_id": 1748,
+    "content": "You are the manager of a basketball team. For the upcoming tournament, you want to choose the team with the highest overall score. The score of the team is the sum of scores of all the players in the team. However, the basketball team is not allowed to have conflicts. A conflict exists if a younger player has a strictly higher score than an older player. A conflict does not occur between players of the same age. Given two lists, and , where each and represents the score and age of the player, respectively, return the highest overall score of all possible basketball teams."
+}

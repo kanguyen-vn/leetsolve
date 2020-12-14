@@ -1,0 +1,46 @@
+{
+    "id": 1383,
+    "title": "Maximum Performance of a Team",
+    "title_slug": "maximum-performance-of-a-team",
+    "backend_id": 1499,
+    "content": [
+        [
+            "engineer",
+            "number",
+            "two",
+            "array",
+            "represent",
+            "speed",
+            "efficiency",
+            "th",
+            "engineer",
+            "respectively"
+        ],
+        [
+            "return",
+            "maximum",
+            "performance",
+            "team",
+            "compose",
+            "engineer",
+            "since",
+            "answer",
+            "huge",
+            "number",
+            "return",
+            "modulo"
+        ],
+        [
+            "performance",
+            "team",
+            "sum",
+            "engineer",
+            "speed",
+            "multiply",
+            "minimum",
+            "efficiency",
+            "among",
+            "engineer"
+        ]
+    ]
+}

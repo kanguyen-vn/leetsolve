@@ -1,0 +1,7 @@
+{
+    "id": 756,
+    "title": "Pyramid Transition Matrix",
+    "title_slug": "pyramid-transition-matrix",
+    "backend_id": 757,
+    "content": "We are stacking blocks to form a pyramid. Each block has a color which is a one letter string.\nWe are allowed to place any color block  on top of two adjacent blocks of colors  and , if and only if  is an allowed triple.\nWe start with a bottom row of , represented as a single string. We also start with a list of allowed triples . Each allowed triple is represented as a string of length 3.\nReturn true if we can build the pyramid all the way to the top, otherwise false.\n\n\n\u00a0\n\n\n\u00a0\n\n\n will be a string with length in range .\n will have length in range .\nLetters in all strings will be chosen from the set .\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 781,
+    "title": "Rabbits in Forest",
+    "title_slug": "rabbits-in-forest",
+    "backend_id": 797,
+    "content": "<div><p>In a forest, each rabbit has some color. Some subset of rabbits (possibly all of them) tell you how many other rabbits have the same color as them. Those <code>answers</code> are placed in an array.</p>\n\n<p>Return the minimum number of rabbits that could be in the forest.</p>\n\n<pre><strong>Examples:</strong>\n<strong>Input:</strong> answers = [1, 1, 2]\n<strong>Output:</strong> 5\n<strong>Explanation:</strong>\nThe two rabbits that answered \"1\" could both be the same color, say red.\nThe rabbit than answered \"2\" can't be red or the answers would be inconsistent.\nSay the rabbit that answered \"2\" was blue.\nThen there should be 2 other blue rabbits in the forest that didn't answer into the array.\nThe smallest possible number of rabbits in the forest is therefore 5: 3 that answered plus 2 that didn't.\n\n<strong>Input:</strong> answers = [10, 10, 10]\n<strong>Output:</strong> 11\n\n<strong>Input:</strong> answers = []\n<strong>Output:</strong> 0\n</pre>\n\n<p><strong>Note:</strong></p>\n\n<ol>\n\t<li><code>answers</code> will have length at most <code>1000</code>.</li>\n\t<li>Each <code>answers[i]</code> will be an integer in the range <code>[0, 999]</code>.</li>\n</ol>\n</div>"
+}

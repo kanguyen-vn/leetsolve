@@ -1,0 +1,7 @@
+{
+    "id": 1567,
+    "title": "Maximum Length of Subarray With Positive Product",
+    "title_slug": "maximum-length-of-subarray-with-positive-product",
+    "backend_id": 1690,
+    "content": "Given an array of integers\u00a0, find\u00a0the maximum length of a subarray where the product of all its elements is positive.\nA subarray of an array is a consecutive sequence of zero or more values taken out of that array.\nReturn\u00a0the maximum length of a subarray with positive product.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

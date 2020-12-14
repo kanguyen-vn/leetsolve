@@ -1,0 +1,7 @@
+{
+    "id": 332,
+    "title": "Reconstruct Itinerary",
+    "title_slug": "reconstruct-itinerary",
+    "backend_id": 332,
+    "content": "Given a list of airline tickets represented by pairs of departure and arrival airports , reconstruct the itinerary in order. All of the tickets belong to a man who departs from . Thus, the itinerary must begin with .\n"
+}

@@ -1,0 +1,62 @@
+{
+    "id": 599,
+    "title": "Minimum Index Sum of Two Lists",
+    "title_slug": "minimum-index-sum-of-two-lists",
+    "backend_id": 599,
+    "content": [
+        [
+            "suppose",
+            "andy",
+            "doris",
+            "want",
+            "choose",
+            "restaurant",
+            "dinner",
+            "list",
+            "favorite",
+            "restaurant",
+            "represent",
+            "string"
+        ],
+        [
+            "need",
+            "help",
+            "find",
+            "common",
+            "interest",
+            "least",
+            "list",
+            "index",
+            "sum"
+        ],
+        [
+            "choice",
+            "tie",
+            "answer",
+            "output",
+            "order",
+            "requirement"
+        ],
+        [
+            "could",
+            "assume",
+            "always",
+            "exist",
+            "answer"
+        ],
+        [
+            "consist",
+            "space",
+            "english",
+            "letter"
+        ],
+        [
+            "sting",
+            "unique"
+        ],
+        [
+            "sting",
+            "unique"
+        ]
+    ]
+}

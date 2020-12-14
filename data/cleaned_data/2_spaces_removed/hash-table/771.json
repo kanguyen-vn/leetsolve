@@ -1,0 +1,7 @@
+{
+    "id": 771,
+    "title": "Jewels and Stones",
+    "title_slug": "jewels-and-stones",
+    "backend_id": 782,
+    "content": "You're given strings representing the types of stones that are jewels, and representing the stones you have. Each character in is a type of stone you have. You want to know how many of the stones you have are also jewels. The letters in are guaranteed distinct, and all characters in and are letters. Letters are case sensitive, so is considered a different type of stone from ."
+}

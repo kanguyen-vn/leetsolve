@@ -1,0 +1,60 @@
+{
+    "id": 1621,
+    "title": "Number of Sets of K Non-Overlapping Line Segments",
+    "title_slug": "number-of-sets-of-k-non-overlapping-line-segments",
+    "backend_id": 1725,
+    "content": [
+        [
+            "give",
+            "point",
+            "plane",
+            "point",
+            "find",
+            "number",
+            "way",
+            "draw",
+            "exactly",
+            "non",
+            "overlap",
+            "line",
+            "segment",
+            "segment",
+            "cover",
+            "two",
+            "point"
+        ],
+        [
+            "endpoint",
+            "segment",
+            "must",
+            "integral",
+            "coordinate"
+        ],
+        [
+            "line",
+            "segment",
+            "cover",
+            "point",
+            "allow",
+            "share",
+            "endpoint"
+        ],
+        [
+            "return",
+            "number",
+            "way",
+            "draw",
+            "non",
+            "overlap",
+            "line",
+            "segment"
+        ],
+        [
+            "since",
+            "number",
+            "huge",
+            "return",
+            "modulo"
+        ]
+    ]
+}

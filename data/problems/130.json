@@ -1,0 +1,7 @@
+{
+    "id": 130,
+    "title": "Surrounded Regions",
+    "title_slug": "surrounded-regions",
+    "backend_id": 130,
+    "content": "<div><p>Given a 2D board containing <code>'X'</code> and <code>'O'</code> (<strong>the letter O</strong>), capture all regions surrounded by <code>'X'</code>.</p>\n\n<p>A region is captured by flipping all <code>'O'</code>s into <code>'X'</code>s in that surrounded region.</p>\n\n<p><strong>Example:</strong></p>\n\n<pre>X X X X\nX O O X\nX X O X\nX O X X\n</pre>\n\n<p>After running your function, the board should be:</p>\n\n<pre>X X X X\nX X X X\nX X X X\nX O X X\n</pre>\n\n<p><strong>Explanation:</strong></p>\n\n<p>Surrounded regions shouldn\u2019t be on the border, which means that any <code>'O'</code>&nbsp;on the border of the board are not flipped to <code>'X'</code>. Any <code>'O'</code>&nbsp;that is not on the border and it is not connected to an <code>'O'</code>&nbsp;on the border will be flipped to <code>'X'</code>. Two cells are connected if they are adjacent cells connected horizontally or vertically.</p>\n</div>"
+}

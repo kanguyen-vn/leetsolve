@@ -1,0 +1,7 @@
+{
+    "id": 1539,
+    "title": "Kth Missing Positive Number",
+    "title_slug": "kth-missing-positive-number",
+    "backend_id": 1646,
+    "content": "Given an array \u00a0of positive integers\u00a0sorted in a strictly increasing order, and an integer .\nFind the \u00a0positive integer that is missing from this array.\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\n for \n"
+}

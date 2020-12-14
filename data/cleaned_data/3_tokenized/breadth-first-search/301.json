@@ -1,0 +1,25 @@
+{
+    "id": 301,
+    "title": "Remove Invalid Parentheses",
+    "title_slug": "remove-invalid-parentheses",
+    "backend_id": 301,
+    "content": [
+        [
+            "remove",
+            "minimum",
+            "number",
+            "invalid",
+            "parenthesis",
+            "order",
+            "make",
+            "input",
+            "string",
+            "valid"
+        ],
+        [
+            "return",
+            "possible",
+            "result"
+        ]
+    ]
+}

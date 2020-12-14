@@ -1,0 +1,85 @@
+{
+    "id": 802,
+    "title": "Find Eventual Safe States",
+    "title_slug": "find-eventual-safe-states",
+    "backend_id": 820,
+    "content": [
+        [
+            "direct",
+            "graph",
+            "start",
+            "node",
+            "every",
+            "turn",
+            "walk",
+            "along",
+            "direct",
+            "edge",
+            "graph"
+        ],
+        [
+            "reach",
+            "node",
+            "terminal",
+            "outgoing",
+            "direct",
+            "edge",
+            "stop"
+        ],
+        [
+            "say",
+            "start",
+            "node",
+            "eventually",
+            "safe",
+            "must",
+            "eventually",
+            "walk",
+            "terminal",
+            "node"
+        ],
+        [
+            "specifically",
+            "exist",
+            "natural",
+            "number",
+            "choice",
+            "walk",
+            "must",
+            "stop",
+            "terminal",
+            "node",
+            "less",
+            "step"
+        ],
+        [
+            "node",
+            "eventually",
+            "safe"
+        ],
+        [
+            "return",
+            "array",
+            "sort",
+            "order"
+        ],
+        [
+            "direct",
+            "graph",
+            "node",
+            "label",
+            "length"
+        ],
+        [
+            "graph",
+            "give",
+            "follow",
+            "form",
+            "list",
+            "label",
+            "direct",
+            "edge",
+            "graph"
+        ]
+    ]
+}

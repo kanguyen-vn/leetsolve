@@ -1,0 +1,7 @@
+{
+    "id": 1466,
+    "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+    "title_slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+    "backend_id": 1576,
+    "content": "There are\u00a0\u00a0cities numbered from\u00a00\u00a0to\u00a0 and\u00a0 roads such that\u00a0there is only one way to travel between two\u00a0different cities (this network form a tree).\u00a0Last year,\u00a0The ministry of transport\u00a0decided to orient the roads in one direction because they are too narrow.\nRoads are represented by\u00a0\u00a0where\u00a0\u00a0represents a\u00a0road\u00a0from city\u00a0\u00a0to\u00a0.\nThis year, there will be a big event in the capital (city 0), and many people want to travel to this city.\nYour task consists of reorienting\u00a0some roads such that each city can visit the city\u00a00. Return the minimum number of edges changed.\nIt's guaranteed that each city can reach the city 0 after reorder.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n"
+}

@@ -1,0 +1,42 @@
+{
+    "id": 496,
+    "title": "Next Greater Element I",
+    "title_slug": "next-greater-element-i",
+    "backend_id": 496,
+    "content": [
+        [
+            "give",
+            "two",
+            "array",
+            "without",
+            "duplicate",
+            "element",
+            "subset"
+        ],
+        [
+            "find",
+            "next",
+            "great",
+            "number",
+            "'s",
+            "element",
+            "correspond",
+            "place"
+        ],
+        [
+            "next",
+            "great",
+            "number",
+            "number",
+            "first",
+            "great",
+            "number",
+            "right"
+        ],
+        [
+            "exist",
+            "output",
+            "number"
+        ]
+    ]
+}

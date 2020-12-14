@@ -1,0 +1,7 @@
+{
+    "id": 854,
+    "title": "K-Similar Strings",
+    "title_slug": "k-similar-strings",
+    "backend_id": 884,
+    "content": "Strings\u00a0 and  are -similar (for some non-negative integer ) if we can swap the positions of two letters in  exactly \u00a0times so that the resulting string equals .\nGiven two anagrams  and , return the smallest \u00a0for which  and  are -similar.\n\n\n\n"
+}

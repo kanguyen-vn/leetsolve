@@ -1,0 +1,21 @@
+{
+    "id": 974,
+    "title": "Subarray Sums Divisible by K",
+    "title_slug": "subarray-sums-divisible-by-k",
+    "backend_id": 1016,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "return",
+            "number",
+            "contiguous",
+            "non",
+            "empty",
+            "subarrays",
+            "sum",
+            "divisible"
+        ]
+    ]
+}

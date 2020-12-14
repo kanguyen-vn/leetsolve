@@ -1,0 +1,7 @@
+{
+    "id": 934,
+    "title": "Shortest Bridge",
+    "title_slug": "shortest-bridge",
+    "backend_id": 971,
+    "content": "In a given 2D binary array , there are two islands.\u00a0 (An island is a 4-directionally connected group of\u00a01s not connected to any other 1s.)\nNow, we may change 0s to 1s so as to connect the two islands together to form 1 island.\nReturn the smallest number of 0s that must be flipped.\u00a0 (It is guaranteed that the answer is at least 1.)\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n or \n\n"
+}

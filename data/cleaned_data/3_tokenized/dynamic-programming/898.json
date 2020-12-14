@@ -1,0 +1,35 @@
+{
+    "id": 898,
+    "title": "Bitwise ORs of Subarrays",
+    "title_slug": "bitwise-ors-of-subarrays",
+    "backend_id": 934,
+    "content": [
+        [
+            "array",
+            "non",
+            "negative",
+            "integer"
+        ],
+        [
+            "every",
+            "contiguous",
+            "subarray",
+            "take",
+            "bitwise",
+            "element",
+            "obtain",
+            "result",
+            "return",
+            "number",
+            "possible",
+            "result"
+        ],
+        [
+            "result",
+            "occur",
+            "counted",
+            "final",
+            "answer"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 891,
+    "title": "Sum of Subsequence Widths",
+    "title_slug": "sum-of-subsequence-widths",
+    "backend_id": 927,
+    "content": "<div><p>Given an array of integers <code>A</code>, consider all non-empty subsequences of <code>A</code>.</p>\n\n<p>For any sequence S, let the&nbsp;<em>width</em>&nbsp;of S be the difference between the maximum and minimum element of S.</p>\n\n<p>Return the sum of the widths of all subsequences of A.&nbsp;</p>\n\n<p>As the answer may be very large, <strong>return the answer modulo 10^9 + 7</strong>.</p>\n\n<div>\n<p>&nbsp;</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-1-1\">[2,1,3]</span>\n<strong>Output: </strong><span id=\"example-output-1\">6</span>\n<strong>Explanation:\n</strong>Subsequences are [1], [2], [3], [2,1], [2,3], [1,3], [2,1,3].\nThe corresponding widths are 0, 0, 0, 1, 1, 2, 2.\nThe sum of these widths is 6.\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Note:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= A.length &lt;= 20000</code></li>\n\t<li><code>1 &lt;= A[i] &lt;= 20000</code></li>\n</ul>\n</div>\n</div>"
+}

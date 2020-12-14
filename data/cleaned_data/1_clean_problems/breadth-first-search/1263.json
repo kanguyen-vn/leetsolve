@@ -1,0 +1,7 @@
+{
+    "id": 1263,
+    "title": "Minimum Moves to Move a Box to Their Target Location",
+    "title_slug": "minimum-moves-to-move-a-box-to-their-target-location",
+    "backend_id": 1389,
+    "content": "Storekeeper is a\u00a0game\u00a0in which the player pushes boxes around in a warehouse\u00a0trying to get them to target locations.\nThe game is represented by a  of size\u00a0, where each element is a wall, floor, or a box.\nYour task is move the box  to the target position  under the following rules:\n\nPlayer is represented by character \u00a0and\u00a0can move up, down, left, right in the  if it is a floor (empy cell).\nFloor is represented by character  that means free cell to walk.\nWall is represented by character  that means obstacle\u00a0\u00a0(impossible to walk there).\u00a0\nThere is only one box  and one\u00a0target cell  in the .\nThe box can be moved to an adjacent free cell by standing next to the box and then moving in the direction of the box. This is a push.\nThe player cannot walk through the box.\n\nReturn the minimum number of pushes to move the box to the target. If there is no way to reach the target, return\u00a0.\n\u00a0\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n contains only characters\u00a0, ,\u00a0  , ,\u00a0or .\nThere is only one character\u00a0, \u00a0\u00a0in the .\n\n"
+}

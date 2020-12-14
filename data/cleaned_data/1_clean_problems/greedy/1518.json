@@ -1,0 +1,7 @@
+{
+    "id": 1518,
+    "title": "Water Bottles",
+    "title_slug": "water-bottles",
+    "backend_id": 1642,
+    "content": "Given \u00a0full water bottles, you can exchange  empty water bottles for one full water bottle.\nThe operation of drinking a full water bottle turns it into an empty bottle.\nReturn the maximum number of water bottles you can\u00a0drink.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

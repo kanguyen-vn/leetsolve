@@ -1,0 +1,49 @@
+{
+    "id": 312,
+    "title": "Burst Balloons",
+    "title_slug": "burst-balloons",
+    "backend_id": 312,
+    "content": [
+        [
+            "give",
+            "balloon",
+            "index"
+        ],
+        [
+            "balloon",
+            "paint",
+            "number",
+            "represent",
+            "array"
+        ],
+        [
+            "ask",
+            "burst",
+            "balloon"
+        ],
+        [
+            "burst",
+            "balloon",
+            "get",
+            "coin"
+        ],
+        [
+            "adjacent",
+            "index"
+        ],
+        [
+            "burst",
+            "become",
+            "adjacent"
+        ],
+        [
+            "find",
+            "maximum",
+            "coin",
+            "collect",
+            "burst",
+            "balloon",
+            "wisely"
+        ]
+    ]
+}

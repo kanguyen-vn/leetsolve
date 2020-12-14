@@ -1,0 +1,7 @@
+{
+    "id": 1591,
+    "title": "Strange Printer II",
+    "title_slug": "strange-printer-ii",
+    "backend_id": 1696,
+    "content": "There is a strange printer with the following two special requirements:\n\nOn each turn, the printer will print a solid rectangular pattern of a single color on the grid. This will cover up the existing colors in the rectangle.\nOnce the printer has used a color for the above operation, the same color cannot be used again.\n\nYou are given a  matrix , where  is the color in the position  of the grid.\nReturn  if it is possible to print the matrix , otherwise, return .\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n"
+}

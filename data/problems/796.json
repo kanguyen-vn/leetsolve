@@ -1,0 +1,7 @@
+{
+    "id": 796,
+    "title": "Rotate String",
+    "title_slug": "rotate-string",
+    "backend_id": 812,
+    "content": "<div><p>We are given two strings, <code>A</code> and <code>B</code>.</p>\n\n<p>A <em>shift on <code>A</code></em> consists of taking string <code>A</code> and moving the leftmost character to the rightmost position. For example, if <code>A = 'abcde'</code>, then it will be <code>'bcdea'</code> after one shift on <code>A</code>. Return <code>True</code> if and only if <code>A</code> can become <code>B</code> after some number of shifts on <code>A</code>.</p>\n\n<pre><strong>Example 1:</strong>\n<strong>Input:</strong> A = 'abcde', B = 'cdeab'\n<strong>Output:</strong> true\n\n<strong>Example 2:</strong>\n<strong>Input:</strong> A = 'abcde', B = 'abced'\n<strong>Output:</strong> false\n</pre>\n\n<p><strong>Note:</strong></p>\n\n<ul>\n\t<li><code>A</code> and <code>B</code> will have length at most <code>100</code>.</li>\n</ul>\n</div>"
+}

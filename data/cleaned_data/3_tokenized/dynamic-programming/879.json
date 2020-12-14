@@ -1,0 +1,67 @@
+{
+    "id": 879,
+    "title": "Profitable Schemes",
+    "title_slug": "profitable-schemes",
+    "backend_id": 911,
+    "content": [
+        [
+            "group",
+            "member",
+            "list",
+            "various",
+            "crime",
+            "could",
+            "commit"
+        ],
+        [
+            "crime",
+            "generate",
+            "require",
+            "member",
+            "participate"
+        ],
+        [
+            "member",
+            "participate",
+            "one",
+            "crime",
+            "member",
+            "ca",
+            "n't",
+            "participate",
+            "another",
+            "crime"
+        ],
+        [
+            "let",
+            "'s",
+            "call",
+            "profitable",
+            "scheme",
+            "subset",
+            "crime",
+            "generate",
+            "least",
+            "profit",
+            "total",
+            "number",
+            "member",
+            "participate",
+            "subset",
+            "crime"
+        ],
+        [
+            "many",
+            "scheme",
+            "choose"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "modulo"
+        ]
+    ]
+}

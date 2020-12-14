@@ -1,0 +1,33 @@
+{
+    "id": 1079,
+    "title": "Letter Tile Possibilities",
+    "title_slug": "letter-tile-possibilities",
+    "backend_id": 1160,
+    "content": [
+        [
+            "tile",
+            "one",
+            "letter",
+            "print"
+        ],
+        [
+            "return",
+            "number",
+            "possible",
+            "non",
+            "empty",
+            "sequence",
+            "letter",
+            "make",
+            "use",
+            "letter",
+            "print"
+        ],
+        [
+            "consist",
+            "uppercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

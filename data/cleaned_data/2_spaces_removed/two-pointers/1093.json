@@ -1,0 +1,7 @@
+{
+    "id": 1093,
+    "title": "Statistics from a Large Sample",
+    "title_slug": "statistics-from-a-large-sample",
+    "backend_id": 1183,
+    "content": "We sampled integers between 0 and 255, and stored the results in an array : is the number of integers we sampled equal to . Return the minimum, maximum, mean, median, and mode of the sample respectively, as an array of floating point numbers. The mode is guaranteed to be unique. (Recall that the median of a sample is: The middle element, if the elements of the sample were sorted and the number of elements is odd; The average of the middle two elements, if the elements of the sample were sorted and the number of elements is even.) The mode of the sample that count represents is unique. Answers within of the true value will be accepted as correct."
+}

@@ -1,0 +1,7 @@
+{
+    "id": 9,
+    "title": "Palindrome Number",
+    "title_slug": "palindrome-number",
+    "backend_id": 9,
+    "content": "<div><p>Determine whether an integer is a palindrome. An integer&nbsp;is&nbsp;a&nbsp;palindrome when it&nbsp;reads the same backward as forward.</p>\n\n<p><strong>Follow up:</strong> Could you solve&nbsp;it without converting the integer to a string?</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> x = 121\n<strong>Output:</strong> true\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> x = -121\n<strong>Output:</strong> false\n<strong>Explanation:</strong> From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> x = 10\n<strong>Output:</strong> false\n<strong>Explanation:</strong> Reads 01 from right to left. Therefore it is not a palindrome.\n</pre>\n\n<p><strong>Example 4:</strong></p>\n\n<pre><strong>Input:</strong> x = -101\n<strong>Output:</strong> false\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>-2<sup>31</sup>&nbsp;&lt;= x &lt;= 2<sup>31</sup>&nbsp;- 1</code></li>\n</ul>\n</div>"
+}

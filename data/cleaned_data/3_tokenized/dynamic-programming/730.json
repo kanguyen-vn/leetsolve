@@ -1,0 +1,39 @@
+{
+    "id": 730,
+    "title": "Count Different Palindromic Subsequences",
+    "title_slug": "count-different-palindromic-subsequences",
+    "backend_id": 730,
+    "content": [
+        [
+            "give",
+            "string",
+            "find",
+            "number",
+            "different",
+            "non",
+            "empty",
+            "palindromic",
+            "subsequence",
+            "return",
+            "number",
+            "modulo"
+        ],
+        [
+            "subsequence",
+            "string",
+            "obtain",
+            "delete",
+            "character",
+            "sequence",
+            "palindromic",
+            "equal",
+            "sequence",
+            "reverse"
+        ],
+        [
+            "two",
+            "sequence",
+            "different"
+        ]
+    ]
+}

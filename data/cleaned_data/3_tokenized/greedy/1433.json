@@ -1,0 +1,43 @@
+{
+    "id": 1433,
+    "title": "Check If a String Can Break Another String",
+    "title_slug": "check-if-a-string-can-break-another-string",
+    "backend_id": 1530,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "size",
+            "check",
+            "permutation",
+            "string",
+            "break",
+            "permutation",
+            "string",
+            "vice",
+            "versa"
+        ],
+        [
+            "word",
+            "break",
+            "vice",
+            "versa"
+        ],
+        [
+            "string",
+            "break",
+            "string",
+            "size",
+            "alphabetical",
+            "order"
+        ],
+        [
+            "string",
+            "consist",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

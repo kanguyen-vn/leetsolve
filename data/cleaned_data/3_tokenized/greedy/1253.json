@@ -1,0 +1,73 @@
+{
+    "id": 1253,
+    "title": "Reconstruct a 2-Row Binary Matrix",
+    "title_slug": "reconstruct-a-2-row-binary-matrix",
+    "backend_id": 1379,
+    "content": [
+        [
+            "give",
+            "follow",
+            "detail",
+            "matrix",
+            "column",
+            "row",
+            "matrix",
+            "binary",
+            "matrix",
+            "mean",
+            "element",
+            "matrix"
+        ],
+        [
+            "sum",
+            "element",
+            "th",
+            "upper",
+            "row",
+            "give"
+        ],
+        [
+            "sum",
+            "element",
+            "st",
+            "low",
+            "row",
+            "give"
+        ],
+        [
+            "sum",
+            "element",
+            "th",
+            "column",
+            "index",
+            "give",
+            "integer",
+            "array",
+            "length"
+        ],
+        [
+            "task",
+            "reconstruct",
+            "matrix"
+        ],
+        [
+            "return",
+            "integer",
+            "array"
+        ],
+        [
+            "one",
+            "valid",
+            "solution",
+            "accept"
+        ],
+        [
+            "valid",
+            "solution",
+            "exist",
+            "return",
+            "empty",
+            "array"
+        ]
+    ]
+}

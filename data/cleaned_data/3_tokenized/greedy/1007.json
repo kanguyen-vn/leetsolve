@@ -1,0 +1,45 @@
+{
+    "id": 1007,
+    "title": "Minimum Domino Rotations For Equal Row",
+    "title_slug": "minimum-domino-rotations-for-equal-row",
+    "backend_id": 1049,
+    "content": [
+        [
+            "row",
+            "domino",
+            "represent",
+            "top",
+            "bottom",
+            "half",
+            "domino"
+        ],
+        [
+            "domino",
+            "tile",
+            "two",
+            "number",
+            "one",
+            "half",
+            "tile"
+        ],
+        [
+            "may",
+            "rotate",
+            "domino",
+            "swap",
+            "value"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "rotation",
+            "value",
+            "value"
+        ],
+        [
+            "do",
+            "return"
+        ]
+    ]
+}

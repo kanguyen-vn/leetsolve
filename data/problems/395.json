@@ -1,0 +1,7 @@
+{
+    "id": 395,
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "title_slug": "longest-substring-with-at-least-k-repeating-characters",
+    "backend_id": 395,
+    "content": "<div><p>\nFind the length of the longest substring <b><i>T</i></b> of a given string (consists of lowercase letters only) such that every character in <b><i>T</i></b> appears no less than <i>k</i> times.\n</p>\n\n<p><b>Example 1:</b>\n</p><pre>Input:\ns = \"aaabb\", k = 3\n\nOutput:\n3\n\nThe longest substring is \"aaa\", as 'a' is repeated 3 times.\n</pre>\n<p></p>\n\n<p><b>Example 2:</b>\n</p><pre>Input:\ns = \"ababbc\", k = 2\n\nOutput:\n5\n\nThe longest substring is \"ababb\", as 'a' is repeated 2 times and 'b' is repeated 3 times.\n</pre>\n<p></p></div>"
+}

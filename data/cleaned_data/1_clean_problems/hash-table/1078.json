@@ -1,0 +1,7 @@
+{
+    "id": 1078,
+    "title": "Occurrences After Bigram",
+    "title_slug": "occurrences-after-bigram",
+    "backend_id": 1156,
+    "content": "Given words  and , consider occurrences in some\u00a0 of the form \"\", where  comes immediately after , and  comes immediately after .\nFor each such occurrence, add \"\" to the answer, and return the answer.\n\u00a0\n\n\n\n\n\n\u00a0\n"
+}

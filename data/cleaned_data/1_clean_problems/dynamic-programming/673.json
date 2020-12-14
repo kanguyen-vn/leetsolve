@@ -1,0 +1,7 @@
+{
+    "id": 673,
+    "title": "Number of Longest Increasing Subsequence",
+    "title_slug": "number-of-longest-increasing-subsequence",
+    "backend_id": 673,
+    "content": "Given an integer array\u00a0, return the number of longest increasing subsequences.\nNotice that the sequence has to be strictly increasing.\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

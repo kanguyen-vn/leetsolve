@@ -1,0 +1,22 @@
+{
+    "id": 679,
+    "title": "24 Game",
+    "title_slug": "24-game",
+    "backend_id": 679,
+    "content": [
+        [
+            "card",
+            "contain",
+            "number"
+        ],
+        [
+            "need",
+            "judge",
+            "whether",
+            "could",
+            "operate",
+            "get",
+            "value"
+        ]
+    ]
+}

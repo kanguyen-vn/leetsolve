@@ -1,0 +1,48 @@
+{
+    "id": 1632,
+    "title": "Rank Transform of a Matrix",
+    "title_slug": "rank-transform-of-a-matrix",
+    "backend_id": 1257,
+    "content": [
+        [
+            "give",
+            "return",
+            "new",
+            "matrix",
+            "rank"
+        ],
+        [
+            "rank",
+            "integer",
+            "represent",
+            "large",
+            "element",
+            "compare",
+            "element"
+        ],
+        [
+            "calculate",
+            "use",
+            "follow",
+            "rule",
+            "rank",
+            "integer",
+            "start"
+        ],
+        [
+            "two",
+            "element",
+            "row",
+            "column",
+            "rank",
+            "small",
+            "possible"
+        ],
+        [
+            "guarantee",
+            "unique",
+            "give",
+            "rule"
+        ]
+    ]
+}

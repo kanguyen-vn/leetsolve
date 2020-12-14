@@ -1,0 +1,42 @@
+{
+    "id": 1020,
+    "title": "Number of Enclaves",
+    "title_slug": "number-of-enclaves",
+    "backend_id": 1073,
+    "content": [
+        [
+            "give",
+            "2d",
+            "array",
+            "cell",
+            "represent",
+            "sea",
+            "represent",
+            "land",
+            "move",
+            "consist",
+            "walk",
+            "one",
+            "land",
+            "square",
+            "directionally",
+            "another",
+            "land",
+            "square",
+            "boundary",
+            "grid"
+        ],
+        [
+            "return",
+            "number",
+            "land",
+            "square",
+            "grid",
+            "walk",
+            "boundary",
+            "grid",
+            "number",
+            "move"
+        ]
+    ]
+}

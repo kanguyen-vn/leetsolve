@@ -1,0 +1,53 @@
+{
+    "id": 491,
+    "title": "Increasing Subsequences",
+    "title_slug": "increasing-subsequences",
+    "backend_id": 491,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "task",
+            "find",
+            "different",
+            "possible",
+            "increase",
+            "subsequence",
+            "give",
+            "array",
+            "length",
+            "increase",
+            "subsequence",
+            "least"
+        ],
+        [
+            "length",
+            "give",
+            "array",
+            "exceed"
+        ],
+        [
+            "range",
+            "integer",
+            "give",
+            "array"
+        ],
+        [
+            "give",
+            "array",
+            "may",
+            "contain",
+            "duplicate",
+            "two",
+            "equal",
+            "integer",
+            "also",
+            "consider",
+            "special",
+            "case",
+            "increase",
+            "sequence"
+        ]
+    ]
+}

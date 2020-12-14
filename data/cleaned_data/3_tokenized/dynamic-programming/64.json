@@ -1,0 +1,26 @@
+{
+    "id": 64,
+    "title": "Minimum Path Sum",
+    "title_slug": "minimum-path-sum",
+    "backend_id": 64,
+    "content": [
+        [
+            "give",
+            "fill",
+            "non",
+            "negative",
+            "number",
+            "find",
+            "path",
+            "top",
+            "leave",
+            "bottom",
+            "right",
+            "minimize",
+            "sum",
+            "number",
+            "along",
+            "path"
+        ]
+    ]
+}

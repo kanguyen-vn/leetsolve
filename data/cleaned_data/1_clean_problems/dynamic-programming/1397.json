@@ -1,0 +1,7 @@
+{
+    "id": 1397,
+    "title": "Find All Good Strings",
+    "title_slug": "find-all-good-strings",
+    "backend_id": 1513,
+    "content": "Given the strings  and  of size , and the string . Return the number of good strings.\nA good string has size , it is alphabetically greater than or equal to , it is alphabetically smaller than or equal to , and it does not contain the string  as a substring. Since the answer can be a huge number, return this modulo 10^9 + 7.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\nAll strings consist of lowercase English letters.\n\n"
+}

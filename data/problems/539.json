@@ -1,0 +1,7 @@
+{
+    "id": 539,
+    "title": "Minimum Time Difference",
+    "title_slug": "minimum-time-difference",
+    "backend_id": 539,
+    "content": "<div>Given a list of 24-hour clock time points in <strong>\"HH:MM\"</strong> format, return <em>the minimum <b>minutes</b> difference between any two time-points in the list</em>.\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> timePoints = [\"23:59\",\"00:00\"]\n<strong>Output:</strong> 1\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> timePoints = [\"00:00\",\"23:59\",\"00:00\"]\n<strong>Output:</strong> 0\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>2 &lt;= timePoints &lt;= 2 * 10<sup>4</sup></code></li>\n\t<li><code>timePoints[i]</code> is in the format <strong>\"HH:MM\"</strong>.</li>\n</ul>\n</div>"
+}

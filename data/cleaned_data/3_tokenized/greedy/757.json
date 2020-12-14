@@ -1,0 +1,29 @@
+{
+    "id": 757,
+    "title": "Set Intersection Size At Least Two",
+    "title_slug": "set-intersection-size-at-least-two",
+    "backend_id": 759,
+    "content": [
+        [
+            "integer",
+            "interval",
+            "integer",
+            "set",
+            "consecutive",
+            "integer",
+            "include"
+        ],
+        [
+            "find",
+            "minimum",
+            "size",
+            "set",
+            "every",
+            "integer",
+            "interval",
+            "intersection",
+            "size",
+            "least"
+        ]
+    ]
+}

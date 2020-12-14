@@ -1,0 +1,7 @@
+{
+    "id": 77,
+    "title": "Combinations",
+    "title_slug": "combinations",
+    "backend_id": 77,
+    "content": "Given two integers n and k, return all possible combinations of k numbers out of 1 ... n. You may return the answer in any order."
+}

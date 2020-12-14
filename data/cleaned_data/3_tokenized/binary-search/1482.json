@@ -1,0 +1,58 @@
+{
+    "id": 1482,
+    "title": "Minimum Number of Days to Make m Bouquets",
+    "title_slug": "minimum-number-of-days-to-make-m-bouquets",
+    "backend_id": 1605,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "integer",
+            "integer"
+        ],
+        [
+            "need",
+            "make",
+            "bouquet"
+        ],
+        [
+            "make",
+            "bouquet",
+            "need",
+            "use",
+            "adjacent",
+            "flower",
+            "garden"
+        ],
+        [
+            "garden",
+            "consist",
+            "flower",
+            "flower",
+            "bloom",
+            "use",
+            "exactly",
+            "one",
+            "bouquet"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "day",
+            "need",
+            "wait",
+            "able",
+            "make",
+            "bouquet",
+            "garden"
+        ],
+        [
+            "impossible",
+            "make",
+            "bouquet",
+            "return"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "id": 1373,
+    "title": "Maximum Sum BST in Binary Tree",
+    "title_slug": "maximum-sum-bst-in-binary-tree",
+    "backend_id": 1475,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "task",
+            "return",
+            "maximum",
+            "sum",
+            "key",
+            "sub",
+            "tree",
+            "also",
+            "binary",
+            "search",
+            "tree",
+            "bst"
+        ],
+        [
+            "assume",
+            "bst",
+            "define",
+            "follow",
+            "leave",
+            "subtree",
+            "node",
+            "contain",
+            "node",
+            "key",
+            "less",
+            "node",
+            "'s",
+            "key"
+        ],
+        [
+            "right",
+            "subtree",
+            "node",
+            "contain",
+            "node",
+            "key",
+            "great",
+            "node",
+            "'s",
+            "key"
+        ],
+        [
+            "left",
+            "right",
+            "subtrees",
+            "must",
+            "also",
+            "binary",
+            "search",
+            "tree"
+        ],
+        [
+            "give",
+            "binary",
+            "tree",
+            "node"
+        ],
+        [
+            "node",
+            "'s",
+            "value"
+        ]
+    ]
+}

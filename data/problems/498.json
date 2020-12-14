@@ -1,0 +1,7 @@
+{
+    "id": 498,
+    "title": "Diagonal Traverse",
+    "title_slug": "diagonal-traverse",
+    "backend_id": 498,
+    "content": "<div><p>Given a matrix of M x N elements (M rows, N columns), return all elements of the matrix in diagonal order as shown in the below image.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Example:</b></p>\n\n<pre><b>Input:</b>\n[\n [ 1, 2, 3 ],\n [ 4, 5, 6 ],\n [ 7, 8, 9 ]\n]\n\n<b>Output:</b>  [1,2,4,7,5,3,6,8,9]\n\n<b>Explanation:</b>\n<img src=\"https://assets.leetcode.com/uploads/2018/10/12/diagonal_traverse.png\" style=\"width: 220px;\">\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Note:</b></p>\n\n<p>The total number of elements of the given matrix will not exceed 10,000.</p>\n</div>"
+}

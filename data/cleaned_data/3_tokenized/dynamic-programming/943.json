@@ -1,0 +1,27 @@
+{
+    "id": 943,
+    "title": "Find the Shortest Superstring",
+    "title_slug": "find-the-shortest-superstring",
+    "backend_id": 980,
+    "content": [
+        [
+            "give",
+            "array",
+            "string",
+            "find",
+            "small",
+            "string",
+            "contain",
+            "string",
+            "substring"
+        ],
+        [
+            "may",
+            "assume",
+            "string",
+            "substring",
+            "another",
+            "string"
+        ]
+    ]
+}

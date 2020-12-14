@@ -1,0 +1,46 @@
+{
+    "id": 1224,
+    "title": "Maximum Equal Frequency",
+    "title_slug": "maximum-equal-frequency",
+    "backend_id": 1344,
+    "content": [
+        [
+            "give",
+            "array",
+            "positive",
+            "integer",
+            "return",
+            "long",
+            "possible",
+            "length",
+            "array",
+            "prefix",
+            "possible",
+            "remove",
+            "exactly",
+            "one",
+            "element",
+            "prefix",
+            "every",
+            "number",
+            "appear",
+            "number",
+            "occurrence"
+        ],
+        [
+            "remove",
+            "one",
+            "element",
+            "remain",
+            "element",
+            "'s",
+            "still",
+            "consider",
+            "every",
+            "appeared",
+            "number",
+            "number",
+            "ocurrences"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 349,
+    "title": "Intersection of Two Arrays",
+    "title_slug": "intersection-of-two-arrays",
+    "backend_id": 349,
+    "content": "<div><p>Given two arrays, write a function to compute their intersection.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong>nums1 = <span id=\"example-input-1-1\">[1,2,2,1]</span>, nums2 = <span id=\"example-input-1-2\">[2,2]</span>\n<strong>Output: </strong><span id=\"example-output-1\">[2]</span>\n</pre>\n\n<div>\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong>nums1 = <span id=\"example-input-2-1\">[4,9,5]</span>, nums2 = <span id=\"example-input-2-2\">[9,4,9,8,4]</span>\n<strong>Output: </strong><span id=\"example-output-2\">[9,4]</span></pre>\n</div>\n\n<p><b>Note:</b></p>\n\n<ul>\n\t<li>Each element in the result must be unique.</li>\n\t<li>The result can be in any order.</li>\n</ul>\n\n<p>&nbsp;</p>\n</div>"
+}

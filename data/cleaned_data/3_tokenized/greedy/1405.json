@@ -1,0 +1,47 @@
+{
+    "id": 1405,
+    "title": "Longest Happy String",
+    "title_slug": "longest-happy-string",
+    "backend_id": 1304,
+    "content": [
+        [
+            "string",
+            "call",
+            "happy",
+            "string",
+            "substring"
+        ],
+        [
+            "give",
+            "three",
+            "integer",
+            "return",
+            "string",
+            "satisfy",
+            "follow",
+            "condition",
+            "happy",
+            "long",
+            "possible"
+        ],
+        [
+            "contain",
+            "occurrence",
+            "letter",
+            "occurrence",
+            "letter",
+            "occurrence",
+            "letter"
+        ],
+        [
+            "contain",
+            "letter"
+        ],
+        [
+            "string",
+            "return",
+            "empty",
+            "string"
+        ]
+    ]
+}

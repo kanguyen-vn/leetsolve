@@ -1,0 +1,45 @@
+{
+    "id": 45,
+    "title": "Jump Game II",
+    "title_slug": "jump-game-ii",
+    "backend_id": 45,
+    "content": [
+        [
+            "give",
+            "array",
+            "non",
+            "negative",
+            "integer",
+            "initially",
+            "position",
+            "first",
+            "index",
+            "array"
+        ],
+        [
+            "element",
+            "array",
+            "represent",
+            "maximum",
+            "jump",
+            "length",
+            "position"
+        ],
+        [
+            "goal",
+            "reach",
+            "last",
+            "index",
+            "minimum",
+            "number",
+            "jump"
+        ],
+        [
+            "assume",
+            "always",
+            "reach",
+            "last",
+            "index"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": 1155,
+    "title": "Number of Dice Rolls With Target Sum",
+    "title_slug": "number-of-dice-rolls-with-target-sum",
+    "backend_id": 1263,
+    "content": [
+        [
+            "dice",
+            "die",
+            "face",
+            "numbered"
+        ],
+        [
+            "return",
+            "number",
+            "possible",
+            "way",
+            "total",
+            "way",
+            "modulo",
+            "roll",
+            "dice",
+            "sum",
+            "face",
+            "number",
+            "equal"
+        ]
+    ]
+}

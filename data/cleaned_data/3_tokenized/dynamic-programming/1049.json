@@ -1,0 +1,59 @@
+{
+    "id": 1049,
+    "title": "Last Stone Weight II",
+    "title_slug": "last-stone-weight-ii",
+    "backend_id": 1130,
+    "content": [
+        [
+            "collection",
+            "rock",
+            "rock",
+            "positive",
+            "integer",
+            "weight"
+        ],
+        [
+            "turn",
+            "choose",
+            "two",
+            "rock",
+            "smash",
+            "together"
+        ],
+        [
+            "suppose",
+            "stone",
+            "weight"
+        ],
+        [
+            "result",
+            "smash",
+            "stone",
+            "totally",
+            "destroy",
+            "stone",
+            "weight",
+            "totally",
+            "destroy",
+            "stone",
+            "weight",
+            "new",
+            "weight"
+        ],
+        [
+            "end",
+            "stone",
+            "leave"
+        ],
+        [
+            "return",
+            "small",
+            "possible",
+            "weight",
+            "stone",
+            "weight",
+            "stone",
+            "leave"
+        ]
+    ]
+}

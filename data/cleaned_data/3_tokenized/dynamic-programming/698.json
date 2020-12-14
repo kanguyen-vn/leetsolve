@@ -1,0 +1,27 @@
+{
+    "id": 698,
+    "title": "Partition to K Equal Sum Subsets",
+    "title_slug": "partition-to-k-equal-sum-subsets",
+    "backend_id": 698,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "positive",
+            "integer",
+            "find",
+            "whether",
+            "'s",
+            "possible",
+            "divide",
+            "array",
+            "non",
+            "empty",
+            "subset",
+            "whose",
+            "sum",
+            "equal"
+        ]
+    ]
+}

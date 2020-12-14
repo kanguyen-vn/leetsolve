@@ -1,0 +1,7 @@
+{
+    "id": 559,
+    "title": "Maximum Depth of N-ary Tree",
+    "title_slug": "maximum-depth-of-n-ary-tree",
+    "backend_id": 774,
+    "content": "Given a n-ary tree, find its maximum depth.\nThe maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.\nNary-Tree input serialization\u00a0is represented in their level order traversal, each group of children is separated by the null value (See examples).\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\nThe depth of the n-ary tree is less than or equal to 1000.\nThe total number of nodes is between .\n\n"
+}

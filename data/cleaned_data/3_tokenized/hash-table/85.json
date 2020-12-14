@@ -1,0 +1,22 @@
+{
+    "id": 85,
+    "title": "Maximal Rectangle",
+    "title_slug": "maximal-rectangle",
+    "backend_id": 85,
+    "content": [
+        [
+            "give",
+            "binary",
+            "fill",
+            "'s",
+            "'s",
+            "find",
+            "large",
+            "rectangle",
+            "contain",
+            "'s",
+            "return",
+            "area"
+        ]
+    ]
+}

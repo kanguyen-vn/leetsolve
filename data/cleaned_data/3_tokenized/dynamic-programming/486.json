@@ -1,0 +1,86 @@
+{
+    "id": 486,
+    "title": "Predict the Winner",
+    "title_slug": "predict-the-winner",
+    "backend_id": 486,
+    "content": [
+        [
+            "give",
+            "array",
+            "score",
+            "non",
+            "negative",
+            "integer"
+        ],
+        [
+            "player",
+            "pick",
+            "one",
+            "number",
+            "either",
+            "end",
+            "array",
+            "follow",
+            "player",
+            "player"
+        ],
+        [
+            "time",
+            "player",
+            "pick",
+            "number",
+            "number",
+            "available",
+            "next",
+            "player"
+        ],
+        [
+            "continue",
+            "score",
+            "choose"
+        ],
+        [
+            "player",
+            "maximum",
+            "score",
+            "win"
+        ],
+        [
+            "give",
+            "array",
+            "score",
+            "predict",
+            "whether",
+            "player",
+            "winner"
+        ],
+        [
+            "assume",
+            "player",
+            "play",
+            "maximize",
+            "score"
+        ],
+        [
+            "length",
+            "array"
+        ],
+        [
+            "score",
+            "give",
+            "array",
+            "non",
+            "negative",
+            "integer",
+            "exceed"
+        ],
+        [
+            "score",
+            "player",
+            "equal",
+            "player",
+            "still",
+            "winner"
+        ]
+    ]
+}

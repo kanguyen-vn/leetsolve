@@ -1,0 +1,7 @@
+{
+    "id": 1130,
+    "title": "Minimum Cost Tree From Leaf Values",
+    "title_slug": "minimum-cost-tree-from-leaf-values",
+    "backend_id": 1228,
+    "content": "Given an array  of positive integers, consider all binary trees such that:\n\nEach node has either 0 or 2 children;\nThe values of  correspond to the values of each\u00a0leaf in an in-order traversal of the tree.\u00a0 (Recall that a node is a leaf if and only if it has 0 children.)\nThe value\u00a0of each non-leaf node is equal to the product of the largest leaf value in its left and right subtree respectively.\n\nAmong all possible binary trees considered,\u00a0return the smallest possible sum of the values of each non-leaf node.\u00a0 It is guaranteed this sum fits into a 32-bit integer.\n\u00a0\n\n\n\u00a0\n\n\n\n\nIt is guaranteed that the answer fits into a 32-bit signed integer (ie.\u00a0it is less than ).\n"
+}

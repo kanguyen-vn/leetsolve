@@ -1,0 +1,53 @@
+{
+    "id": 528,
+    "title": "Random Pick with Weight",
+    "title_slug": "random-pick-with-weight",
+    "backend_id": 912,
+    "content": [
+        [
+            "give",
+            "array",
+            "positive",
+            "integer",
+            "describe",
+            "weight",
+            "index",
+            "index"
+        ],
+        [
+            "need",
+            "call",
+            "function",
+            "randomly",
+            "return",
+            "integer",
+            "range"
+        ],
+        [
+            "return",
+            "integer",
+            "proportional",
+            "weight",
+            "array"
+        ],
+        [
+            "example",
+            "probability",
+            "pick",
+            "index",
+            "probability",
+            "pick",
+            "index"
+        ],
+        [
+            "formally",
+            "probability",
+            "pick",
+            "index"
+        ],
+        [
+            "call",
+            "time"
+        ]
+    ]
+}

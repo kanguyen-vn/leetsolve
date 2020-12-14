@@ -1,0 +1,7 @@
+{
+    "id": 392,
+    "title": "Is Subsequence",
+    "title_slug": "is-subsequence",
+    "backend_id": 392,
+    "content": "<div><p>Given a string <b>s</b> and a string <b>t</b>, check if <b>s</b> is subsequence of <b>t</b>.</p>\n\n<p>A subsequence of a string is a new string which is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (ie, <code>\"ace\"</code> is a subsequence of <code>\"abcde\"</code> while <code>\"aec\"</code> is not).</p>\n\n<p><b>Follow up:</b><br>\nIf there are lots of incoming S, say S1, S2, ... , Sk where k &gt;= 1B, and you want to check one by one to see if T has its subsequence. In this scenario, how would you change your code?</p>\n\n<p><b>Credits:</b><br>\nSpecial thanks to <a href=\"https://leetcode.com/pbrother/\">@pbrother</a> for adding this problem and creating all test cases.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> s = \"abc\", t = \"ahbgdc\"\n<strong>Output:</strong> true\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> s = \"axc\", t = \"ahbgdc\"\n<strong>Output:</strong> false\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= s.length &lt;= 100</code></li>\n\t<li><code>0 &lt;= t.length &lt;= 10^4</code></li>\n\t<li>Both strings consists only of lowercase characters.</li>\n</ul>\n</div>"
+}

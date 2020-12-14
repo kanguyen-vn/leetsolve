@@ -1,0 +1,52 @@
+{
+    "id": 455,
+    "title": "Assign Cookies",
+    "title_slug": "assign-cookies",
+    "backend_id": 455,
+    "content": [
+        [
+            "assume",
+            "awesome",
+            "parent",
+            "want",
+            "give",
+            "child",
+            "cooky"
+        ],
+        [
+            "give",
+            "child",
+            "one",
+            "cookie"
+        ],
+        [
+            "child",
+            "greed",
+            "factor",
+            "minimum",
+            "size",
+            "cookie",
+            "child",
+            "content",
+            "cookie",
+            "size"
+        ],
+        [
+            "assign",
+            "cookie",
+            "child",
+            "child",
+            "content"
+        ],
+        [
+            "goal",
+            "maximize",
+            "number",
+            "content",
+            "child",
+            "output",
+            "maximum",
+            "number"
+        ]
+    ]
+}

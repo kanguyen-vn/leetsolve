@@ -1,0 +1,7 @@
+{
+    "id": 316,
+    "title": "Remove Duplicate Letters",
+    "title_slug": "remove-duplicate-letters",
+    "backend_id": 316,
+    "content": "Given a string , remove duplicate letters so that every letter appears once and only once. You must make sure your result is the smallest in lexicographical order among all possible results."
+}

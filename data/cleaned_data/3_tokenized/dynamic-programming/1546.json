@@ -1,0 +1,27 @@
+{
+    "id": 1546,
+    "title": "Maximum Number of Non-Overlapping Subarrays With Sum Equals Target",
+    "title_slug": "maximum-number-of-non-overlapping-subarrays-with-sum-equals-target",
+    "backend_id": 1649,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer"
+        ],
+        [
+            "return",
+            "maximum",
+            "number",
+            "non",
+            "empty",
+            "non",
+            "overlap",
+            "subarrays",
+            "sum",
+            "value",
+            "subarray",
+            "equal"
+        ]
+    ]
+}

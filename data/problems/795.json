@@ -1,0 +1,7 @@
+{
+    "id": 795,
+    "title": "Number of Subarrays with Bounded Maximum",
+    "title_slug": "number-of-subarrays-with-bounded-maximum",
+    "backend_id": 811,
+    "content": "<div><p>We are given an array <code>A</code> of positive integers, and two positive integers <code>L</code> and <code>R</code> (<code>L &lt;= R</code>).</p>\n\n<p>Return the number of (contiguous, non-empty) subarrays such that the value of the maximum array element in that subarray is at least <code>L</code> and at most <code>R</code>.</p>\n\n<pre><strong>Example :</strong>\n<strong>Input:</strong> \nA = [2, 1, 4, 3]\nL = 2\nR = 3\n<strong>Output:</strong> 3\n<strong>Explanation:</strong> There are three subarrays that meet the requirements: [2], [2, 1], [3].\n</pre>\n\n<p><strong>Note:</strong></p>\n\n<ul>\n\t<li>L, R&nbsp; and <code>A[i]</code> will be an integer in the range <code>[0, 10^9]</code>.</li>\n\t<li>The length of <code>A</code> will be in the range of <code>[1, 50000]</code>.</li>\n</ul>\n</div>"
+}

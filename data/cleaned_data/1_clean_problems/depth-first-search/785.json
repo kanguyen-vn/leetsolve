@@ -1,0 +1,7 @@
+{
+    "id": 785,
+    "title": "Is Graph Bipartite?",
+    "title_slug": "is-graph-bipartite",
+    "backend_id": 801,
+    "content": "Given an undirected , return  if and only if it is bipartite.\nRecall that a graph is bipartite if we can split its set of nodes into two independent subsets A and B, such that every edge in the graph has one node in A and another node in B.\nThe graph is given in the following form:  is a list of indexes  for which the edge between nodes  and  exists.\u00a0 Each node is an integer between 0 and .\u00a0 There are no self edges or parallel edges:  does not contain , and it doesn't contain any element twice.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\nAll the values of  are unique.\nThe graph is guaranteed to be undirected.\u00a0\n\n"
+}

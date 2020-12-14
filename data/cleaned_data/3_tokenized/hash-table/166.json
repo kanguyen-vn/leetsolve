@@ -1,0 +1,43 @@
+{
+    "id": 166,
+    "title": "Fraction to Recurring Decimal",
+    "title_slug": "fraction-to-recurring-decimal",
+    "backend_id": 166,
+    "content": [
+        [
+            "give",
+            "two",
+            "integer",
+            "represent",
+            "fraction",
+            "return",
+            "fraction",
+            "string",
+            "format"
+        ],
+        [
+            "fractional",
+            "part",
+            "repeat",
+            "enclose",
+            "repeat",
+            "part",
+            "parenthesis"
+        ],
+        [
+            "multiple",
+            "answer",
+            "possible",
+            "return"
+        ],
+        [
+            "guarantee",
+            "length",
+            "answer",
+            "string",
+            "less",
+            "give",
+            "input"
+        ]
+    ]
+}

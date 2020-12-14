@@ -1,0 +1,7 @@
+{
+    "id": 345,
+    "title": "Reverse Vowels of a String",
+    "title_slug": "reverse-vowels-of-a-string",
+    "backend_id": 345,
+    "content": "Write a function that takes a string as input and reverse only the vowels of a string.\n\n\n\n"
+}

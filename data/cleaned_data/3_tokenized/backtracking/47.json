@@ -1,0 +1,21 @@
+{
+    "id": 47,
+    "title": "Permutations II",
+    "title_slug": "permutations-ii",
+    "backend_id": 47,
+    "content": [
+        [
+            "give",
+            "collection",
+            "number",
+            "might",
+            "contain",
+            "duplicate",
+            "return",
+            "possible",
+            "unique",
+            "permutation",
+            "order"
+        ]
+    ]
+}

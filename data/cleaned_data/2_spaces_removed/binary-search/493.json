@@ -1,0 +1,7 @@
+{
+    "id": 493,
+    "title": "Reverse Pairs",
+    "title_slug": "reverse-pairs",
+    "backend_id": 493,
+    "content": "Given an array , we call an important reverse pair if and . You need to return the number of important reverse pairs in the given array."
+}

@@ -1,0 +1,49 @@
+{
+    "id": 1397,
+    "title": "Find All Good Strings",
+    "title_slug": "find-all-good-strings",
+    "backend_id": 1513,
+    "content": [
+        [
+            "give",
+            "string",
+            "size",
+            "string"
+        ],
+        [
+            "return",
+            "number",
+            "good",
+            "string"
+        ],
+        [
+            "good",
+            "string",
+            "size",
+            "alphabetically",
+            "great",
+            "equal",
+            "alphabetically",
+            "small",
+            "equal",
+            "contain",
+            "string",
+            "substring"
+        ],
+        [
+            "since",
+            "answer",
+            "huge",
+            "number",
+            "return",
+            "modulo"
+        ],
+        [
+            "string",
+            "consist",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

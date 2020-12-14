@@ -1,0 +1,7 @@
+{
+    "id": 1616,
+    "title": "Split Two Strings to Make Palindrome",
+    "title_slug": "split-two-strings-to-make-palindrome",
+    "backend_id": 1739,
+    "content": "You are given two strings  and  of the same length. Choose an index and split both strings at the same index, splitting  into two strings:  and  where , and splitting  into two strings:  and  where . Check if  or  forms a palindrome.\nWhen you split a string  into  and , either  or  is allowed to be empty. For example, if , then , ,  , and  are valid splits.\nReturn  if it is possible to form a palindrome string, otherwise return .\nNotice that\u00a0 denotes the concatenation of strings  and .\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n and  consist of lowercase English letters\n\n"
+}

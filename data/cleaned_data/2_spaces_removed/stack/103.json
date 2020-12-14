@@ -1,0 +1,7 @@
+{
+    "id": 103,
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "title_slug": "binary-tree-zigzag-level-order-traversal",
+    "backend_id": 103,
+    "content": "Given a binary tree, return the zigzag level order traversal of its nodes' values. (ie, from left to right, then right to left for the next level and alternate between). For example: Given binary tree , return its zigzag level order traversal as:"
+}

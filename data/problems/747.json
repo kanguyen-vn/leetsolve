@@ -1,0 +1,7 @@
+{
+    "id": 747,
+    "title": "Largest Number At Least Twice of Others",
+    "title_slug": "largest-number-at-least-twice-of-others",
+    "backend_id": 748,
+    "content": "<div><p>In a given integer array <code>nums</code>, there is always exactly one largest element.</p>\n\n<p>Find whether the largest element in the array is at least twice as much as every other number in the array.</p>\n\n<p>If it is, return the <strong>index</strong> of the largest element, otherwise return -1.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> nums = [3, 6, 1, 0]\n<strong>Output:</strong> 1\n<strong>Explanation:</strong> 6 is the largest integer, and for every other number in the array x,\n6 is more than twice as big as x.  The index of value 6 is 1, so we return 1.\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> nums = [1, 2, 3, 4]\n<strong>Output:</strong> -1\n<strong>Explanation:</strong> 4 isn't at least as big as twice the value of 3, so we return -1.\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Note:</strong></p>\n\n<ol>\n\t<li><code>nums</code> will have a length in the range <code>[1, 50]</code>.</li>\n\t<li>Every <code>nums[i]</code> will be an integer in the range <code>[0, 99]</code>.</li>\n</ol>\n\n<p>&nbsp;</p>\n</div>"
+}

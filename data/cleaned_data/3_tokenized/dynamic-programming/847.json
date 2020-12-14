@@ -1,0 +1,45 @@
+{
+    "id": 847,
+    "title": "Shortest Path Visiting All Nodes",
+    "title_slug": "shortest-path-visiting-all-nodes",
+    "backend_id": 877,
+    "content": [
+        [
+            "undirected",
+            "connect",
+            "graph",
+            "node",
+            "label",
+            "give"
+        ],
+        [
+            "list",
+            "exactly",
+            "nodes",
+            "connect"
+        ],
+        [
+            "return",
+            "length",
+            "short",
+            "path",
+            "visit",
+            "every",
+            "node"
+        ],
+        [
+            "may",
+            "start",
+            "stop",
+            "node",
+            "may",
+            "revisit",
+            "node",
+            "multiple",
+            "time",
+            "may",
+            "reuse",
+            "edge"
+        ]
+    ]
+}

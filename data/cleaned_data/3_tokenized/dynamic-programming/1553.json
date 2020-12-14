@@ -1,0 +1,52 @@
+{
+    "id": 1553,
+    "title": "Minimum Number of Days to Eat N Oranges",
+    "title_slug": "minimum-number-of-days-to-eat-n-oranges",
+    "backend_id": 1676,
+    "content": [
+        [
+            "orange",
+            "kitchen",
+            "decide",
+            "eat",
+            "orange",
+            "every",
+            "day",
+            "follow",
+            "eat",
+            "one",
+            "orange"
+        ],
+        [
+            "number",
+            "remain",
+            "orange",
+            "divisible",
+            "eat",
+            "orange"
+        ],
+        [
+            "number",
+            "remain",
+            "orange",
+            "divisible",
+            "eat",
+            "orange"
+        ],
+        [
+            "choose",
+            "one",
+            "action",
+            "per",
+            "day"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "day",
+            "eat",
+            "orange"
+        ]
+    ]
+}

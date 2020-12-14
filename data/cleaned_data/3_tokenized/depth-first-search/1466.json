@@ -1,0 +1,77 @@
+{
+    "id": 1466,
+    "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+    "title_slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+    "backend_id": 1576,
+    "content": [
+        [
+            "city",
+            "number",
+            "road",
+            "one",
+            "way",
+            "travel",
+            "two",
+            "different",
+            "city",
+            "network",
+            "form",
+            "tree"
+        ],
+        [
+            "last",
+            "year",
+            "ministry",
+            "transport",
+            "decide",
+            "orient",
+            "road",
+            "one",
+            "direction",
+            "narrow"
+        ],
+        [
+            "road",
+            "represent",
+            "represent",
+            "road",
+            "city"
+        ],
+        [
+            "year",
+            "big",
+            "event",
+            "capital",
+            "city",
+            "many",
+            "people",
+            "want",
+            "travel",
+            "city"
+        ],
+        [
+            "task",
+            "consist",
+            "reorient",
+            "road",
+            "city",
+            "visit",
+            "city"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "edge",
+            "change"
+        ],
+        [
+            "'s",
+            "guarantee",
+            "city",
+            "reach",
+            "city",
+            "reorder"
+        ]
+    ]
+}

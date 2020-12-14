@@ -1,0 +1,7 @@
+{
+    "id": 145,
+    "title": "Binary Tree Postorder Traversal",
+    "title_slug": "binary-tree-postorder-traversal",
+    "backend_id": 145,
+    "content": "Given the  of a\u00a0binary tree, return the postorder traversal of its nodes' values.\n\u00a0\n\n\n\n\n\n\u00a0\n\n\nThe number of the nodes in the tree is in the range .\n\n\n\u00a0\n"
+}

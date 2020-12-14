@@ -1,0 +1,7 @@
+{
+    "id": 718,
+    "title": "Maximum Length of Repeated Subarray",
+    "title_slug": "maximum-length-of-repeated-subarray",
+    "backend_id": 718,
+    "content": "Given two integer arrays  and , return the maximum length of an subarray that appears in both arrays.\n\n\n\u00a0\n"
+}

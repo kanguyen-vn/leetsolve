@@ -1,0 +1,7 @@
+{
+    "id": 1005,
+    "title": "Maximize Sum Of Array After K Negations",
+    "title_slug": "maximize-sum-of-array-after-k-negations",
+    "backend_id": 1047,
+    "content": "Given an array  of integers, we must\u00a0modify the array in the following way: we choose an \u00a0and replace\u00a0 with , and we repeat this process  times in total.\u00a0 (We may choose the same index  multiple times.)\nReturn the largest possible sum of the array after modifying it in this way.\n\u00a0\n\n\n\n\u00a0\n"
+}

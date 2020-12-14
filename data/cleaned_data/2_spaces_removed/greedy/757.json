@@ -1,0 +1,7 @@
+{
+    "id": 757,
+    "title": "Set Intersection Size At Least Two",
+    "title_slug": "set-intersection-size-at-least-two",
+    "backend_id": 759,
+    "content": "An integer interval (for integers ) is a set of all consecutive integers from to , including and . Find the minimum size of a set S such that for every integer interval A in , the intersection of S with A has size at least 2."
+}

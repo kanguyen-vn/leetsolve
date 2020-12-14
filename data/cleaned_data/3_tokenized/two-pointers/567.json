@@ -1,0 +1,48 @@
+{
+    "id": 567,
+    "title": "Permutation in String",
+    "title_slug": "permutation-in-string",
+    "backend_id": 567,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "s1",
+            "s2",
+            "write",
+            "function",
+            "return",
+            "true",
+            "s2",
+            "contain",
+            "permutation",
+            "s1"
+        ],
+        [
+            "word",
+            "one",
+            "first",
+            "string",
+            "'s",
+            "permutation",
+            "substring",
+            "second",
+            "string"
+        ],
+        [
+            "input",
+            "string",
+            "contain",
+            "low",
+            "case",
+            "letter"
+        ],
+        [
+            "length",
+            "give",
+            "string",
+            "range"
+        ]
+    ]
+}

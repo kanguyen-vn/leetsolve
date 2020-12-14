@@ -1,0 +1,54 @@
+{
+    "id": 1110,
+    "title": "Delete Nodes And Return Forest",
+    "title_slug": "delete-nodes-and-return-forest",
+    "backend_id": 1207,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "node",
+            "tree",
+            "distinct",
+            "value"
+        ],
+        [
+            "delete",
+            "node",
+            "value",
+            "leave",
+            "forest",
+            "disjoint",
+            "union",
+            "tree"
+        ],
+        [
+            "return",
+            "root",
+            "tree",
+            "remain",
+            "forest"
+        ],
+        [
+            "may",
+            "return",
+            "result",
+            "order"
+        ],
+        [
+            "number",
+            "node",
+            "give",
+            "tree"
+        ],
+        [
+            "node",
+            "distinct",
+            "value",
+            "contain",
+            "distinct",
+            "value"
+        ]
+    ]
+}

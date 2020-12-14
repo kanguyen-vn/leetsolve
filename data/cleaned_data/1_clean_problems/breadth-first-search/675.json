@@ -1,0 +1,7 @@
+{
+    "id": 675,
+    "title": "Cut Off Trees for Golf Event",
+    "title_slug": "cut-off-trees-for-golf-event",
+    "backend_id": 675,
+    "content": "You are asked to cut off trees in a forest for a golf event. The forest is represented as a non-negative 2D map, in this map:\n\n0 represents the  can't be reached.\n1 represents the  can be walked through.\n represents a  can be walked through, and this positive number represents the tree's height.\n\nIn one step you can walk in any of the four directions , ,  and \u00a0also when standing in a point which is a tree you can decide whether or not to cut off the tree.\nYou are asked to cut off all the trees in this forest in the order of tree's height - always cut off the tree with lowest height first. And after cutting, the original place has the tree will become a grass (value 1).\nYou will start from the point (0, 0) and you should output the minimum steps you need to walk to cut off all the trees. If you can't cut off all the trees, output -1 in that situation.\nYou are guaranteed that no two  have the same height and there is at least one tree needs to be cut off.\n\n\n\u00a0\n\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

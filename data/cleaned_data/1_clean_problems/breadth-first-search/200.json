@@ -1,0 +1,7 @@
+{
+    "id": 200,
+    "title": "Number of Islands",
+    "title_slug": "number-of-islands",
+    "backend_id": 200,
+    "content": "Given an  2d  map of s (land) and s (water), return the number of islands.\nAn island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\n is  or .\n\n"
+}

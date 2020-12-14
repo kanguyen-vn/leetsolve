@@ -1,0 +1,7 @@
+{
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "title_slug": "search-in-rotated-sorted-array",
+    "backend_id": 33,
+    "content": "You are given an integer array sorted in ascending order, and an integer . Suppose that is rotated at some pivot unknown to you beforehand (i.e., might become ). If is found in the array return its index, otherwise, return . All values of are unique. is guranteed to be rotated at some pivot."
+}

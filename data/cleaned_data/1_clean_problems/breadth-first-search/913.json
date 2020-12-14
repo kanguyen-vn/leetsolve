@@ -1,0 +1,7 @@
+{
+    "id": 913,
+    "title": "Cat and Mouse",
+    "title_slug": "cat-and-mouse",
+    "backend_id": 949,
+    "content": "A game on an undirected graph is played by two players, Mouse and Cat, who alternate turns.\nThe graph is given as follows:  is a list of all nodes  such that  is an edge of the graph.\nThe mouse starts at node 1 and goes first, the cat starts at node 2 and goes second, and there is a hole at node 0.\nDuring each player's turn, they must travel along one\u00a0edge of the graph that meets where they are.\u00a0 For example, if the Mouse is at node 1, it must travel to any node in .\nAdditionally, it is not allowed for the Cat to travel to the Hole (node 0.)\nThen, the game can end in three\u00a0ways:\n\nIf ever the Cat occupies the same node as the Mouse, the Cat wins.\nIf ever the Mouse reaches the Hole, the Mouse wins.\nIf ever a position is repeated (i.e., the players are in the same position as a previous turn, and\u00a0it is the same player's turn to move), the game is a draw.\n\nGiven a , and assuming both players play optimally, return\n\n1\u00a0if the mouse wins the game,\n2\u00a0if the cat wins the game, or\n0\u00a0if the game is a draw.\n\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n is unique.\nThe mouse and the cat can always move.\u00a0\n\n"
+}

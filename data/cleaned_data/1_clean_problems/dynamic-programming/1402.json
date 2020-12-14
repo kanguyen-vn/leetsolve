@@ -1,0 +1,7 @@
+{
+    "id": 1402,
+    "title": "Reducing Dishes",
+    "title_slug": "reducing-dishes",
+    "backend_id": 1503,
+    "content": "A chef\u00a0has collected data on the  level of his\u00a0 dishes.\u00a0Chef can cook any dish in 1 unit of time.\nLike-time coefficient\u00a0of a dish is defined as\u00a0the time taken to cook that dish including previous dishes multiplied by its satisfaction level \u00a0i.e.\u00a0 *\nReturn\u00a0the maximum sum of\u00a0Like-time coefficient that the chef can obtain after dishes preparation.\nDishes can be prepared in any order and the chef can discard some dishes to get this maximum value.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1416,
+    "title": "Restore The Array",
+    "title_slug": "restore-the-array",
+    "backend_id": 1517,
+    "content": "A program was supposed to print an array of integers. The program forgot to print whitespaces and the array is printed as a string of digits and all we know is that all integers in the array were in the range\u00a0\u00a0and there are no leading zeros in the array.\nGiven the string  and the integer . There can be multiple ways to restore the array.\nReturn the number of possible array that can be printed as a string \u00a0using the mentioned program.\nThe number of ways could be very large so return it modulo \n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n.\n consists of only digits and doesn't contain leading zeros.\n.\n"
+}

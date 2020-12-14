@@ -1,0 +1,36 @@
+{
+    "id": 992,
+    "title": "Subarrays with K Different Integers",
+    "title_slug": "subarrays-with-k-different-integers",
+    "backend_id": 1034,
+    "content": [
+        [
+            "give",
+            "array",
+            "positive",
+            "integer",
+            "call",
+            "contiguous",
+            "necessarily",
+            "distinct",
+            "subarray",
+            "good",
+            "number",
+            "different",
+            "integer",
+            "subarray",
+            "exactly"
+        ],
+        [
+            "example",
+            "different",
+            "integer"
+        ],
+        [
+            "return",
+            "number",
+            "good",
+            "subarrays"
+        ]
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1510,
+    "title": "Stone Game IV",
+    "title_slug": "stone-game-iv",
+    "backend_id": 1617,
+    "content": [
+        [
+            "alice",
+            "bob",
+            "take",
+            "turn",
+            "play",
+            "game",
+            "alice",
+            "start",
+            "first"
+        ],
+        [
+            "initially",
+            "stone",
+            "pile"
+        ],
+        [
+            "player",
+            "'s",
+            "turn",
+            "player",
+            "make",
+            "move",
+            "consist",
+            "remove",
+            "non",
+            "zero",
+            "square",
+            "number",
+            "stone",
+            "pile"
+        ],
+        [
+            "also",
+            "player",
+            "make",
+            "move",
+            "lose",
+            "game"
+        ],
+        [
+            "give",
+            "positive",
+            "integer"
+        ],
+        [
+            "return",
+            "alice",
+            "win",
+            "game",
+            "otherwise",
+            "return",
+            "assume",
+            "player",
+            "play",
+            "optimally"
+        ]
+    ]
+}

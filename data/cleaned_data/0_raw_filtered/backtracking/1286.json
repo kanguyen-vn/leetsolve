@@ -1,0 +1,7 @@
+{
+    "id": 1286,
+    "title": "Iterator for Combination",
+    "title_slug": "iterator-for-combination",
+    "backend_id": 1211,
+    "content": "<div><p>Design an Iterator class, which has:</p>\n\n<ul>\n\t<li>A constructor that takes a string&nbsp;<code>characters</code>&nbsp;of <strong>sorted distinct</strong> lowercase English letters and a number&nbsp;<code>combinationLength</code> as arguments.</li>\n\t<li>A function <em>next()</em>&nbsp;that returns the next combination of length <code>combinationLength</code>&nbsp;in <strong>lexicographical order</strong>.</li>\n\t<li>A function <em>hasNext()</em> that returns <code>True</code>&nbsp;if and only if&nbsp;there exists a next combination.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><b>Example:</b></p>\n\n<pre>CombinationIterator iterator = new CombinationIterator(\"abc\", 2); // creates the iterator.\n\niterator.next(); // returns \"ab\"\niterator.hasNext(); // returns true\niterator.next(); // returns \"ac\"\niterator.hasNext(); // returns true\niterator.next(); // returns \"bc\"\niterator.hasNext(); // returns false\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= combinationLength &lt;=&nbsp;characters.length &lt;= 15</code></li>\n\t<li>There will be at most <code>10^4</code> function calls per test.</li>\n\t<li>It's guaranteed that all&nbsp;calls&nbsp;of the function <code>next</code>&nbsp;are valid.</li>\n</ul>\n</div>"
+}

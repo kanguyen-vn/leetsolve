@@ -1,0 +1,63 @@
+{
+    "id": 1443,
+    "title": "Minimum Time to Collect All Apples in a Tree",
+    "title_slug": "minimum-time-to-collect-all-apples-in-a-tree",
+    "backend_id": 1554,
+    "content": [
+        [
+            "give",
+            "undirected",
+            "tree",
+            "consist",
+            "vertex",
+            "number",
+            "apple",
+            "vertex"
+        ],
+        [
+            "spend",
+            "second",
+            "walk",
+            "one",
+            "edge",
+            "tree"
+        ],
+        [
+            "return",
+            "minimum",
+            "time",
+            "second",
+            "spend",
+            "collect",
+            "apple",
+            "tree",
+            "start",
+            "vertex",
+            "come",
+            "back",
+            "vertex"
+        ],
+        [
+            "edge",
+            "undirected",
+            "tree",
+            "give",
+            "array",
+            "mean",
+            "exist",
+            "edge",
+            "connect",
+            "vertex"
+        ],
+        [
+            "additionally",
+            "boolean",
+            "array",
+            "mean",
+            "vertex",
+            "apple",
+            "otherwise",
+            "apple"
+        ]
+    ]
+}

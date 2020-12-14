@@ -1,0 +1,7 @@
+{
+    "id": 1189,
+    "title": "Maximum Number of Balloons",
+    "title_slug": "maximum-number-of-balloons",
+    "backend_id": 1297,
+    "content": "Given a string\u00a0, you want to use the characters of\u00a0\u00a0to form as many instances of the word \"balloon\" as possible.\nYou can use each character in  at most once. Return the maximum number of instances that can be formed.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\u00a0consists of lower case English letters only.\n"
+}

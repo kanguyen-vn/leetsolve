@@ -1,0 +1,63 @@
+{
+    "id": 1034,
+    "title": "Coloring A Border",
+    "title_slug": "coloring-a-border",
+    "backend_id": 1104,
+    "content": [
+        [
+            "give",
+            "dimensional",
+            "integer",
+            "value",
+            "grid",
+            "represent",
+            "color",
+            "grid",
+            "square",
+            "location"
+        ],
+        [
+            "two",
+            "square",
+            "belong",
+            "connect",
+            "component",
+            "color",
+            "next",
+            "direction"
+        ],
+        [
+            "border",
+            "connect",
+            "component",
+            "square",
+            "connect",
+            "component",
+            "either",
+            "directionally",
+            "adjacent",
+            "square",
+            "component",
+            "boundary",
+            "grid",
+            "first",
+            "last",
+            "row",
+            "column"
+        ],
+        [
+            "give",
+            "square",
+            "location",
+            "grid",
+            "color",
+            "border",
+            "connect",
+            "component",
+            "square",
+            "give",
+            "return",
+            "final"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1367,
+    "title": "Linked List in Binary Tree",
+    "title_slug": "linked-list-in-binary-tree",
+    "backend_id": 1484,
+    "content": "Given a binary tree and a linked list with as the first node. Return True if all the elements in the linked list starting from the correspond to some downward path connected in the binary tree otherwise return False. In this context downward path means a path that starts at some node and goes downwards. for each node in the linked list and binary tree. The given linked list will contain between 1 and 100 nodes. The given binary tree will contain between 1 and 2500 nodes."
+}

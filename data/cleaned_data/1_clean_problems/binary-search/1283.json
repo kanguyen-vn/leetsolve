@@ -1,0 +1,7 @@
+{
+    "id": 1283,
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "title_slug": "find-the-smallest-divisor-given-a-threshold",
+    "backend_id": 1408,
+    "content": "Given an array of integers  and an integer , we will choose a positive integer divisor and\u00a0divide\u00a0all the array by it and sum the result of the division. Find the smallest divisor such that the result mentioned above is less than\u00a0or equal to .\nEach\u00a0result of\u00a0division is rounded\u00a0to the nearest integer greater than or equal to that element.\u00a0(For example: 7/3 = 3 and 10/2 = 5).\nIt is guaranteed that there will be an answer.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

@@ -1,0 +1,23 @@
+{
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "title_slug": "merge-sorted-array",
+    "backend_id": 88,
+    "content": [
+        [
+            "give",
+            "two",
+            "sorted",
+            "integer",
+            "array",
+            "nums1",
+            "nums2",
+            "merge",
+            "nums2",
+            "nums1",
+            "one",
+            "sort",
+            "array"
+        ]
+    ]
+}

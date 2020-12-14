@@ -1,0 +1,7 @@
+{
+    "id": 140,
+    "title": "Word Break II",
+    "title_slug": "word-break-ii",
+    "backend_id": 140,
+    "content": "<div><p>Given a <strong>non-empty</strong> string <em>s</em> and a dictionary <em>wordDict</em> containing a list of <strong>non-empty</strong> words, add spaces in <em>s</em> to construct a sentence where each word is a valid dictionary word.&nbsp;Return all such possible sentences.</p>\n\n<p><strong>Note:</strong></p>\n\n<ul>\n\t<li>The same word in the dictionary may be reused multiple times in the segmentation.</li>\n\t<li>You may assume the dictionary does not contain duplicate words.</li>\n</ul>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:\n</strong>s = \"<code>catsanddog</code>\"\nwordDict = <code>[\"cat\", \"cats\", \"and\", \"sand\", \"dog\"]</code>\n<strong>Output:\n</strong><code>[\n&nbsp; \"cats and dog\",\n&nbsp; \"cat sand dog\"\n]</code>\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:\n</strong>s = \"pineapplepenapple\"\nwordDict = [\"apple\", \"pen\", \"applepen\", \"pine\", \"pineapple\"]\n<strong>Output:\n</strong>[\n&nbsp; \"pine apple pen apple\",\n&nbsp; \"pineapple pen apple\",\n&nbsp; \"pine applepen apple\"\n]\n<strong>Explanation:</strong> Note that you are allowed to reuse a dictionary word.\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:\n</strong>s = \"catsandog\"\nwordDict = [\"cats\", \"dog\", \"sand\", \"and\", \"cat\"]\n<strong>Output:\n</strong>[]</pre>\n</div>"
+}

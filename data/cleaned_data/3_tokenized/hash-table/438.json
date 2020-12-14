@@ -1,0 +1,33 @@
+{
+    "id": 438,
+    "title": "Find All Anagrams in a String",
+    "title_slug": "find-all-anagrams-in-a-string",
+    "backend_id": 438,
+    "content": [
+        [
+            "give",
+            "string",
+            "non",
+            "empty",
+            "string",
+            "find",
+            "start",
+            "index",
+            "'s",
+            "anagram",
+            "string",
+            "consist",
+            "lowercase",
+            "english",
+            "letter",
+            "length",
+            "string",
+            "large"
+        ],
+        [
+            "order",
+            "output",
+            "matter"
+        ]
+    ]
+}

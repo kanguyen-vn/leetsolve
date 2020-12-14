@@ -1,0 +1,7 @@
+{
+    "id": 763,
+    "title": "Partition Labels",
+    "title_slug": "partition-labels",
+    "backend_id": 768,
+    "content": "A string  of lowercase English letters is given. We want to partition this string into as many parts as possible so that each letter appears in at most one part, and return a list of integers representing the size of these parts.\n\u00a0\n\n\n\u00a0\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1302,
+    "title": "Deepest Leaves Sum",
+    "title_slug": "deepest-leaves-sum",
+    "backend_id": 1254,
+    "content": "<div>Given a binary tree, return the sum of values of its deepest leaves.\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<p><strong><img alt=\"\" src=\"https://assets.leetcode.com/uploads/2019/07/31/1483_ex1.png\" style=\"width: 273px; height: 265px;\"></strong></p>\n\n<pre><strong>Input:</strong> root = [1,2,3,4,5,null,6,7,null,null,null,null,8]\n<strong>Output:</strong> 15\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li>The number of nodes in the tree is between&nbsp;<code>1</code>&nbsp;and&nbsp;<code>10^4</code>.</li>\n\t<li>The value of nodes is between&nbsp;<code>1</code>&nbsp;and&nbsp;<code>100</code>.</li>\n</ul></div>"
+}

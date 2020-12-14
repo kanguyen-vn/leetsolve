@@ -1,0 +1,39 @@
+{
+    "id": 739,
+    "title": "Daily Temperatures",
+    "title_slug": "daily-temperatures",
+    "backend_id": 739,
+    "content": [
+        [
+            "give",
+            "list",
+            "daily",
+            "temperature",
+            "return",
+            "list",
+            "day",
+            "input",
+            "tell",
+            "many",
+            "day",
+            "would",
+            "wait",
+            "warm",
+            "temperature"
+        ],
+        [
+            "future",
+            "day",
+            "possible",
+            "put",
+            "instead"
+        ],
+        [
+            "example",
+            "give",
+            "list",
+            "temperature",
+            "output"
+        ]
+    ]
+}

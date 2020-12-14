@@ -1,0 +1,62 @@
+{
+    "id": 413,
+    "title": "Arithmetic Slices",
+    "title_slug": "arithmetic-slices",
+    "backend_id": 413,
+    "content": [
+        [
+            "sequence",
+            "number",
+            "call",
+            "arithmetic",
+            "consist",
+            "least",
+            "three",
+            "element",
+            "difference",
+            "two",
+            "consecutive",
+            "element"
+        ],
+        [
+            "example",
+            "arithmetic",
+            "sequence",
+            "follow",
+            "sequence",
+            "arithmetic"
+        ],
+        [
+            "zero",
+            "indexed",
+            "array",
+            "consist",
+            "number",
+            "give"
+        ],
+        [
+            "slice",
+            "array",
+            "pair",
+            "integer",
+            "slice",
+            "array",
+            "call",
+            "arithmetic",
+            "sequence",
+            "arithmetic"
+        ],
+        [
+            "particular",
+            "mean"
+        ],
+        [
+            "function",
+            "return",
+            "number",
+            "arithmetic",
+            "slice",
+            "array"
+        ]
+    ]
+}

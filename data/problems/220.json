@@ -1,0 +1,7 @@
+{
+    "id": 220,
+    "title": "Contains Duplicate III",
+    "title_slug": "contains-duplicate-iii",
+    "backend_id": 220,
+    "content": "<div><p>Given an array of integers, find out whether there are two distinct indices <i>i</i> and <i>j</i> in the array such that the <b>absolute</b> difference between <b>nums[i]</b> and <b>nums[j]</b> is at most <i>t</i> and the <b>absolute</b> difference between <i>i</i> and <i>j</i> is at most <i>k</i>.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> nums = [1,2,3,1], k = 3, t = 0\n<strong>Output:</strong> true\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> nums = [1,0,1,1], k = 1, t = 2\n<strong>Output:</strong> true\n</pre><p><strong>Example 3:</strong></p>\n<pre><strong>Input:</strong> nums = [1,5,9,1,5,9], k = 2, t = 3\n<strong>Output:</strong> false\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= nums.length &lt;= 2 * 10<sup>4</sup></code></li>\n\t<li><code>-2<sup>31</sup> &lt;= nums[i]&nbsp;&lt;= 2<sup>31</sup> - 1</code></li>\n\t<li><code>0 &lt;= k &lt;= 10<sup>4</sup></code></li>\n\t<li><code>0 &lt;= t &lt;= 2<sup>31</sup> - 1</code></li>\n</ul>\n</div>"
+}

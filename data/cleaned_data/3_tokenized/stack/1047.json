@@ -1,0 +1,43 @@
+{
+    "id": 1047,
+    "title": "Remove All Adjacent Duplicates In String",
+    "title_slug": "remove-all-adjacent-duplicates-in-string",
+    "backend_id": 1128,
+    "content": [
+        [
+            "give",
+            "string",
+            "lowercase",
+            "letter",
+            "duplicate",
+            "removal",
+            "consist",
+            "choose",
+            "two",
+            "adjacent",
+            "equal",
+            "letter",
+            "remove"
+        ],
+        [
+            "repeatedly",
+            "make",
+            "duplicate",
+            "removal",
+            "longer"
+        ],
+        [
+            "return",
+            "final",
+            "string",
+            "duplicate",
+            "removal",
+            "make"
+        ],
+        [
+            "guarantee",
+            "answer",
+            "unique"
+        ]
+    ]
+}

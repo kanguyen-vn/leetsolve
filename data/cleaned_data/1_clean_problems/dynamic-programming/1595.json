@@ -1,0 +1,7 @@
+{
+    "id": 1595,
+    "title": "Minimum Cost to Connect Two Groups of Points",
+    "title_slug": "minimum-cost-to-connect-two-groups-of-points",
+    "backend_id": 1717,
+    "content": "You are given two groups of points\u00a0where the first group\u00a0has \u00a0points,\u00a0the second group\u00a0has \u00a0points,\u00a0and\u00a0.\nThe  of the connection between any two points\u00a0are given in an\u00a0\u00a0matrix where  is the cost of connecting point  of the first group and point\u00a0 of the second group. The groups are connected if each point in both\u00a0groups is\u00a0connected to one or more points in the opposite\u00a0group. In other words, each\u00a0point in the first group must be connected to at least one point in the second group, and each\u00a0point in the second group must be connected to at least one point in the first group.\nReturn\u00a0the minimum cost it takes to connect the two groups.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n"
+}

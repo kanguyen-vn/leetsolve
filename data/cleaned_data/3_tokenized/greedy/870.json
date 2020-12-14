@@ -1,0 +1,26 @@
+{
+    "id": 870,
+    "title": "Advantage Shuffle",
+    "title_slug": "advantage-shuffle",
+    "backend_id": 901,
+    "content": [
+        [
+            "give",
+            "two",
+            "array",
+            "equal",
+            "size",
+            "advantage",
+            "respect",
+            "number",
+            "index"
+        ],
+        [
+            "return",
+            "permutation",
+            "maximize",
+            "advantage",
+            "respect"
+        ]
+    ]
+}

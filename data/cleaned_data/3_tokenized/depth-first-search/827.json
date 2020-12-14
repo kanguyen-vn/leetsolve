@@ -1,0 +1,25 @@
+{
+    "id": 827,
+    "title": "Making A Large Island",
+    "title_slug": "making-a-large-island",
+    "backend_id": 854,
+    "content": [
+        [
+            "2d",
+            "grid",
+            "change",
+            "one"
+        ],
+        [
+            "size",
+            "large",
+            "island"
+        ],
+        [
+            "island",
+            "directionally",
+            "connect",
+            "group"
+        ]
+    ]
+}

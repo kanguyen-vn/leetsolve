@@ -1,0 +1,7 @@
+{
+    "id": 935,
+    "title": "Knight Dialer",
+    "title_slug": "knight-dialer",
+    "backend_id": 972,
+    "content": "The chess knight has a unique movement,\u00a0it may move two squares vertically and one square horizontally, or two squares horizontally and one square vertically (with both forming the shape of an L). The possible movements of chess knight are shown in this diagaram:\nA chess knight can move as indicated in the chess diagram below:\n\nWe have a chess knight and a phone pad as shown below, the knight can only stand on a numeric cell\u00a0(i.e. blue cell).\n\nGiven an integer , return how many distinct phone numbers of length  we can dial.\nYou are allowed to place the knight on any numeric cell initially and then you should perform  jumps to dial a number of length . All jumps should be valid knight jumps.\nAs the answer may be very large, return the answer modulo .\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

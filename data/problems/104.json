@@ -1,0 +1,7 @@
+{
+    "id": 104,
+    "title": "Maximum Depth of Binary Tree",
+    "title_slug": "maximum-depth-of-binary-tree",
+    "backend_id": 104,
+    "content": "<div><p>Given a binary tree, find its maximum depth.</p>\n\n<p>The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.</p>\n\n<p><strong>Note:</strong>&nbsp;A leaf is a node with no children.</p>\n\n<p><strong>Example:</strong></p>\n\n<p>Given binary tree <code>[3,9,20,null,null,15,7]</code>,</p>\n\n<pre>    3\n   / \\\n  9  20\n    /  \\\n   15   7</pre>\n\n<p>return its depth = 3.</p>\n</div>"
+}

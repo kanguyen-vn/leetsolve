@@ -1,0 +1,57 @@
+{
+    "id": 98,
+    "title": "Validate Binary Search Tree",
+    "title_slug": "validate-binary-search-tree",
+    "backend_id": 98,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "determine",
+            "valid",
+            "binary",
+            "search",
+            "tree",
+            "bst"
+        ],
+        [
+            "assume",
+            "bst",
+            "define",
+            "follow",
+            "leave",
+            "subtree",
+            "node",
+            "contain",
+            "node",
+            "key",
+            "less",
+            "node",
+            "'s",
+            "key"
+        ],
+        [
+            "right",
+            "subtree",
+            "node",
+            "contain",
+            "node",
+            "key",
+            "great",
+            "node",
+            "'s",
+            "key"
+        ],
+        [
+            "left",
+            "right",
+            "subtrees",
+            "must",
+            "also",
+            "binary",
+            "search",
+            "tree"
+        ]
+    ]
+}

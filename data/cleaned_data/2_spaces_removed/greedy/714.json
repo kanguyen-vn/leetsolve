@@ -1,0 +1,7 @@
+{
+    "id": 714,
+    "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+    "title_slug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+    "backend_id": 714,
+    "content": "Your are given an array of integers , for which the -th element is the price of a given stock on day ; and a non-negative integer representing a transaction fee. You may complete as many transactions as you like, but you need to pay the transaction fee for each transaction. You may not buy more than 1 share of a stock at a time (ie. you must sell the stock share before you buy again.) Return the maximum profit you can make."
+}

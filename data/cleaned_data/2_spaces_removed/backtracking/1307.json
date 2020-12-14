@@ -1,0 +1,7 @@
+{
+    "id": 1307,
+    "title": "Verbal Arithmetic Puzzle",
+    "title_slug": "verbal-arithmetic-puzzle",
+    "backend_id": 1429,
+    "content": "Given an equation, represented by on left side and the on right side. You need to check if the equation is solvable under the following rules: Each character is decoded as one digit (0 - 9). Every pair of different characters they must map to different digits. Each and are decoded as one number without leading zeros. Sum of numbers on left side () will equal to the number on right side (). Return if the equation is solvable otherwise return . contains only upper case English letters. Number of different characters used on the expression is at most 10."
+}

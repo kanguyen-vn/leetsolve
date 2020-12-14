@@ -1,0 +1,7 @@
+{
+    "id": 543,
+    "title": "Diameter of Binary Tree",
+    "title_slug": "diameter-of-binary-tree",
+    "backend_id": 543,
+    "content": "<div><p>\nGiven a binary tree, you need to compute the length of the diameter of the tree. The diameter of a binary tree is the length of the <b>longest</b> path between any two nodes in a tree. This path may or may not pass through the root.\n</p>\n\n<p>\n<b>Example:</b><br>\nGiven a binary tree <br>\n</p><pre>          1\n         / \\\n        2   3\n       / \\     \n      4   5    \n</pre>\n<p></p>\n<p>\nReturn <b>3</b>, which is the length of the path [4,2,1,3] or [5,2,1,3].\n</p>\n\n<p><b>Note:</b>\nThe length of path between two nodes is represented by the number of edges between them.\n</p></div>"
+}

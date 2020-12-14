@@ -1,0 +1,50 @@
+{
+    "id": 1278,
+    "title": "Palindrome Partitioning III",
+    "title_slug": "palindrome-partitioning-iii",
+    "backend_id": 1403,
+    "content": [
+        [
+            "give",
+            "string",
+            "contain",
+            "lowercase",
+            "letter",
+            "integer"
+        ],
+        [
+            "need",
+            "first",
+            "change",
+            "character",
+            "lowercase",
+            "english",
+            "letter"
+        ],
+        [
+            "divide",
+            "non",
+            "empty",
+            "disjoint",
+            "substring",
+            "substring",
+            "palindrome"
+        ],
+        [
+            "return",
+            "minimal",
+            "number",
+            "character",
+            "need",
+            "change",
+            "divide",
+            "string"
+        ],
+        [
+            "contain",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

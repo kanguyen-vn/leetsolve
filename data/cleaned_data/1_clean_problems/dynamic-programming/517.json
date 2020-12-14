@@ -1,0 +1,7 @@
+{
+    "id": 517,
+    "title": "Super Washing Machines",
+    "title_slug": "super-washing-machines",
+    "backend_id": 517,
+    "content": "You have n super washing machines on a line. Initially, each washing machine has some dresses or is empty. \n\nFor each move, you could choose any m (1 \u2264 m \u2264 n) washing machines, and pass one dress of each washing machine to one of its adjacent washing machines  at the same time .  \nGiven an integer array representing the number of dresses in each washing machine from left to right on the line, you should find the minimum number of moves to make all the washing machines have the same number of dresses. If it is not possible to do it, return -1.\nExample1\nExample2\nExample3\n"
+}

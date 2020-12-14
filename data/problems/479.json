@@ -1,0 +1,7 @@
+{
+    "id": 479,
+    "title": "Largest Palindrome Product",
+    "title_slug": "largest-palindrome-product",
+    "backend_id": 479,
+    "content": "<div><p>Find the largest palindrome made from the product of two n-digit numbers.</p>\n\n<p>Since the result could be very large, you should return the largest palindrome mod 1337.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Example:</b></p>\n\n<p>Input: 2</p>\n\n<p>Output: 987</p>\n\n<p>Explanation: 99 x 91 = 9009, 9009 % 1337 = 987</p>\n\n<p>&nbsp;</p>\n\n<p><b>Note:</b></p>\n\n<p>The range of n is [1,8].</p>\n</div>"
+}

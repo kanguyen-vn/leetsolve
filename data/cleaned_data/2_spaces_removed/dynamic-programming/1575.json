@@ -1,0 +1,7 @@
+{
+    "id": 1575,
+    "title": "Count All Possible Routes",
+    "title_slug": "count-all-possible-routes",
+    "backend_id": 1680,
+    "content": "You are given an array of distinct positive integers locations where represents the position of city . You are also given integers , and representing the starting city, ending city, and the initial amount of fuel you have, respectively. At each step, if you are at city , you can pick any city such that and and move to city . Moving from city to city reduces the amount of fuel you have by . Please notice that denotes the absolute value of . Notice that cannot become negative at any point in time, and that you are allowed to visit any city more than once (including and ). Return the count of all possible routes from to . Since the answer may be too large, return it modulo . All integers in are distinct."
+}

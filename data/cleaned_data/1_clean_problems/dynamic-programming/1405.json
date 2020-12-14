@@ -1,0 +1,7 @@
+{
+    "id": 1405,
+    "title": "Longest Happy String",
+    "title_slug": "longest-happy-string",
+    "backend_id": 1304,
+    "content": "A string is called happy if it does\u00a0not have any of the strings , \u00a0or \u00a0as a substring.\nGiven three integers ,  and , return any string ,\u00a0which satisfies following conditions:\n\n is happy\u00a0and longest possible.\n contains at most \u00a0occurrences of the letter\u00a0, at most \u00a0occurrences of the letter  and at most  occurrences of the letter .\nwill only contain ,  and \u00a0letters.\n\nIf there is no such string \u00a0return the empty string .\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

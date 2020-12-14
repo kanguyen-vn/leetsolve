@@ -1,0 +1,7 @@
+{
+    "id": 115,
+    "title": "Distinct Subsequences",
+    "title_slug": "distinct-subsequences",
+    "backend_id": 115,
+    "content": "Given two strings and , return the number of distinct subsequences of which equals . A string's subsequence is a new string formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., is a subsequence of while is not). It's guaranteed the answer fits on a 32-bit signed integer. and consist of English letters."
+}

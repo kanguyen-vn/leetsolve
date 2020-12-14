@@ -1,0 +1,7 @@
+{
+    "id": 1315,
+    "title": "Sum of Nodes with Even-Valued Grandparent",
+    "title_slug": "sum-of-nodes-with-even-valued-grandparent",
+    "backend_id": 1243,
+    "content": "Given a binary tree, return the sum of values of nodes with even-valued grandparent.\u00a0 (A grandparent of a node is the parent of its parent, if it exists.)\nIf there are no nodes with an even-valued grandparent, return\u00a00.\n\u00a0\n\n\n\n\u00a0\n\n\nThe number of nodes in the tree is between\u00a01\u00a0and\u00a0.\nThe value of nodes is between\u00a01\u00a0and\u00a0100.\n"
+}

@@ -1,0 +1,42 @@
+{
+    "id": 978,
+    "title": "Longest Turbulent Subarray",
+    "title_slug": "longest-turbulent-subarray",
+    "backend_id": 1020,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "return",
+            "length",
+            "maximum",
+            "size",
+            "turbulent",
+            "subarray"
+        ],
+        [
+            "subarray",
+            "turbulent",
+            "comparison",
+            "sign",
+            "flip",
+            "adjacent",
+            "pair",
+            "element",
+            "subarray"
+        ],
+        [
+            "formally",
+            "subarray",
+            "say",
+            "turbulent",
+            "odd",
+            "even"
+        ],
+        [
+            "even",
+            "odd"
+        ]
+    ]
+}

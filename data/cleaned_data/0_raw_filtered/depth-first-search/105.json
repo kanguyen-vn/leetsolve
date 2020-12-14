@@ -1,0 +1,7 @@
+{
+    "id": 105,
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "title_slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "backend_id": 105,
+    "content": "<div><p>Given preorder and inorder traversal of a tree, construct the binary tree.</p>\n\n<p><strong>Note:</strong><br>\nYou may assume that duplicates do not exist in the tree.</p>\n\n<p>For example, given</p>\n\n<pre>preorder =&nbsp;[3,9,20,15,7]\ninorder = [9,3,15,20,7]</pre>\n\n<p>Return the following binary tree:</p>\n\n<pre>    3\n   / \\\n  9  20\n    /  \\\n   15   7</pre>\n</div>"
+}

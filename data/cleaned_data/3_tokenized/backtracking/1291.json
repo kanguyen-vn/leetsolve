@@ -1,0 +1,28 @@
+{
+    "id": 1291,
+    "title": "Sequential Digits",
+    "title_slug": "sequential-digits",
+    "backend_id": 1212,
+    "content": [
+        [
+            "integer",
+            "sequential",
+            "digit",
+            "digit",
+            "number",
+            "one",
+            "previous",
+            "digit"
+        ],
+        [
+            "return",
+            "sort",
+            "list",
+            "integer",
+            "range",
+            "inclusive",
+            "sequential",
+            "digit"
+        ]
+    ]
+}

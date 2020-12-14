@@ -1,0 +1,7 @@
+{
+    "id": 34,
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "title_slug": "find-first-and-last-position-of-element-in-sorted-array",
+    "backend_id": 34,
+    "content": "Given an array of integers sorted in ascending order, find the starting and ending position of a given value. If is not found in the array, return ."
+}

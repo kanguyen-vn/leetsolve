@@ -1,0 +1,32 @@
+{
+    "id": 977,
+    "title": "Squares of a Sorted Array",
+    "title_slug": "squares-of-a-sorted-array",
+    "backend_id": 1019,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "sort",
+            "non",
+            "decrease",
+            "order",
+            "return",
+            "array",
+            "square",
+            "number",
+            "also",
+            "sort",
+            "non",
+            "decreasing",
+            "order"
+        ],
+        [
+            "sort",
+            "non",
+            "decrease",
+            "order"
+        ]
+    ]
+}

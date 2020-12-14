@@ -1,0 +1,26 @@
+{
+    "id": 112,
+    "title": "Path Sum",
+    "title_slug": "path-sum",
+    "backend_id": 112,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "sum",
+            "determine",
+            "tree",
+            "root",
+            "leaf",
+            "path",
+            "add",
+            "value",
+            "along",
+            "path",
+            "equal",
+            "give",
+            "sum"
+        ]
+    ]
+}

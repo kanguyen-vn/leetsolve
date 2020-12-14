@@ -1,0 +1,35 @@
+{
+    "id": 959,
+    "title": "Regions Cut By Slashes",
+    "title_slug": "regions-cut-by-slashes",
+    "backend_id": 999,
+    "content": [
+        [
+            "composed",
+            "square",
+            "square",
+            "consist",
+            "blank",
+            "space"
+        ],
+        [
+            "character",
+            "divide",
+            "square",
+            "contiguous",
+            "region"
+        ],
+        [
+            "note",
+            "backslash",
+            "character",
+            "escape",
+            "represent"
+        ],
+        [
+            "return",
+            "number",
+            "region"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 753,
+    "title": "Cracking the Safe",
+    "title_slug": "cracking-the-safe",
+    "backend_id": 754,
+    "content": "<div><p>There is a box protected by a password. The password is a sequence of&nbsp;<code>n</code> digits&nbsp;where each digit can be one of the first <code>k</code> digits <code>0, 1, ..., k-1</code>.</p>\n\n<p>While entering a password,&nbsp;the last <code>n</code> digits entered will automatically be matched against the correct password.</p>\n\n<p>For example, assuming the correct password is <code>\"345\"</code>,&nbsp;if you type <code>\"012345\"</code>, the box will open because the correct password matches the suffix of the entered password.</p>\n\n<p>Return any password of <strong>minimum length</strong> that is guaranteed to open the box at some point of entering it.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Example 1:</b></p>\n\n<pre><b>Input:</b> n = 1, k = 2\n<b>Output:</b> \"01\"\n<b>Note:</b> \"10\" will be accepted too.\n</pre>\n\n<p><b>Example 2:</b></p>\n\n<pre><b>Input:</b> n = 2, k = 2\n<b>Output:</b> \"00110\"\n<b>Note:</b> \"01100\", \"10011\", \"11001\" will be accepted too.\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Note:</b></p>\n\n<ol>\n\t<li><code>n</code> will be in the range <code>[1, 4]</code>.</li>\n\t<li><code>k</code> will be in the range <code>[1, 10]</code>.</li>\n\t<li><code>k^n</code> will be at most <code>4096</code>.</li>\n</ol>\n\n<p>&nbsp;</p>\n</div>"
+}

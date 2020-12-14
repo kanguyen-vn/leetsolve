@@ -1,0 +1,7 @@
+{
+    "id": 64,
+    "title": "Minimum Path Sum",
+    "title_slug": "minimum-path-sum",
+    "backend_id": 64,
+    "content": "Given a   filled with non-negative numbers, find a path from top left to bottom right, which minimizes the sum of all numbers along its path.\n"
+}

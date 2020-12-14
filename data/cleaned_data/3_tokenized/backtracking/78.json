@@ -1,0 +1,26 @@
+{
+    "id": 78,
+    "title": "Subsets",
+    "title_slug": "subsets",
+    "backend_id": 78,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "return",
+            "possible",
+            "subset",
+            "power",
+            "set"
+        ],
+        [
+            "solution",
+            "set",
+            "must",
+            "contain",
+            "duplicate",
+            "subset"
+        ]
+    ]
+}

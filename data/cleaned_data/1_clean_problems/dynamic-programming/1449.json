@@ -1,0 +1,7 @@
+{
+    "id": 1449,
+    "title": "Form Largest Integer With Digits That Add up to Target",
+    "title_slug": "form-largest-integer-with-digits-that-add-up-to-target",
+    "backend_id": 1545,
+    "content": "Given an array of integers  and an integer . Return the maximum integer you can paint\u00a0under the following rules:\n\nThe cost of painting a\u00a0digit (i+1) is given by\u00a0\u00a0(0 indexed).\nThe total cost used must\u00a0be equal to .\nInteger does not have digits 0.\n\nSince the answer may be too large, return it as string.\nIf there is no way to paint any integer given the condition, return \"0\".\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

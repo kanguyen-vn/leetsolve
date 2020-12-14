@@ -1,0 +1,41 @@
+{
+    "id": 784,
+    "title": "Letter Case Permutation",
+    "title_slug": "letter-case-permutation",
+    "backend_id": 800,
+    "content": [
+        [
+            "give",
+            "string",
+            "transform",
+            "every",
+            "letter",
+            "individually",
+            "lowercase",
+            "uppercase",
+            "create",
+            "another",
+            "string"
+        ],
+        [
+            "return",
+            "list",
+            "possible",
+            "string",
+            "could",
+            "create"
+        ],
+        [
+            "return",
+            "output",
+            "order"
+        ],
+        [
+            "string",
+            "length",
+            "consist",
+            "letter",
+            "digit"
+        ]
+    ]
+}

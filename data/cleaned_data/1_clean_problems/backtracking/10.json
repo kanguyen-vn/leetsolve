@@ -1,0 +1,7 @@
+{
+    "id": 10,
+    "title": "Regular Expression Matching",
+    "title_slug": "regular-expression-matching",
+    "backend_id": 10,
+    "content": "Given an input string () and a pattern (), implement regular expression matching with support for  and  where:\n\n Matches any single character.\u200b\u200b\u200b\u200b\n Matches zero or more of the preceding element.\n\nThe matching should cover the entire input string (not partial).\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n contains only lowercase English letters.\n contains only lowercase English letters, , and\u00a0.\nIt is guaranteed for each appearance of the character , there will be a previous valid character to match.\n\n"
+}

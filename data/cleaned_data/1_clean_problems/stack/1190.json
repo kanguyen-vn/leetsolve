@@ -1,0 +1,7 @@
+{
+    "id": 1190,
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "title_slug": "reverse-substrings-between-each-pair-of-parentheses",
+    "backend_id": 1298,
+    "content": "You are given a string  that consists of lower case English letters and brackets.\u00a0\nReverse the strings\u00a0in each\u00a0pair of matching parentheses, starting\u00a0from the innermost one.\nYour result should not contain any brackets.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n only contains lower case English characters and parentheses.\nIt's guaranteed that all parentheses are balanced.\n\n"
+}

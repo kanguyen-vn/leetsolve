@@ -1,0 +1,7 @@
+{
+    "id": 205,
+    "title": "Isomorphic Strings",
+    "title_slug": "isomorphic-strings",
+    "backend_id": 205,
+    "content": "<div><p>Given two strings <b><i>s</i></b> and <b><i>t</i></b>, determine if they are isomorphic.</p>\n\n<p>Two strings are isomorphic if the characters in <b><i>s</i></b> can be replaced to get <b><i>t</i></b>.</p>\n\n<p>All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character but a character may map to itself.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> <b><i>s</i></b> = <code>\"egg\", </code><b><i>t = </i></b><code>\"add\"</code>\n<strong>Output:</strong> true\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> <b><i>s</i></b> = <code>\"foo\", </code><b><i>t = </i></b><code>\"bar\"</code>\n<strong>Output:</strong> false</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> <b><i>s</i></b> = <code>\"paper\", </code><b><i>t = </i></b><code>\"title\"</code>\n<strong>Output:</strong> true</pre>\n\n<p><b>Note:</b><br>\nYou may assume both <b><i>s&nbsp;</i></b>and <b><i>t&nbsp;</i></b>have the same length.</p>\n</div>"
+}

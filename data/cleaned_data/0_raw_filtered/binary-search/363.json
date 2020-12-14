@@ -1,0 +1,7 @@
+{
+    "id": 363,
+    "title": "Max Sum of Rectangle No Larger Than K",
+    "title_slug": "max-sum-of-rectangle-no-larger-than-k",
+    "backend_id": 363,
+    "content": "<div><p>Given a non-empty 2D matrix <i>matrix</i> and an integer <i>k</i>, find the max sum of a rectangle in the <i>matrix</i> such that its sum is no larger than <i>k</i>.</p>\n\n<p><strong>Example:</strong></p>\n\n<pre><strong>Input: </strong>matrix = <span id=\"example-input-1-1\">[[1,0,1],[0,-2,3]]</span>, k = <span id=\"example-input-1-2\">2</span>\n<strong>Output: </strong><span id=\"example-output-1\">2 \n<strong>Explanation:</strong></span>&nbsp;Because the sum of rectangle <code>[[0, 1], [-2, 3]]</code> is 2,\n&nbsp;            and 2 is the max number no larger than k (k = 2).</pre>\n\n<p><b>Note:</b></p>\n\n<ol>\n\t<li>The rectangle inside the matrix must have an area &gt; 0.</li>\n\t<li>What if the number of rows is much larger than the number of columns?</li>\n</ol></div>"
+}

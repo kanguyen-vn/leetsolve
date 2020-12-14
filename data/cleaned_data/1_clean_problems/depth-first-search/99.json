@@ -1,0 +1,7 @@
+{
+    "id": 99,
+    "title": "Recover Binary Search Tree",
+    "title_slug": "recover-binary-search-tree",
+    "backend_id": 99,
+    "content": "You are given the  of a binary search tree (BST), where exactly two nodes of the tree were swapped by mistake. Recover the tree without changing its structure.\n"
+}

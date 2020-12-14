@@ -1,0 +1,7 @@
+{
+    "id": 114,
+    "title": "Flatten Binary Tree to Linked List",
+    "title_slug": "flatten-binary-tree-to-linked-list",
+    "backend_id": 114,
+    "content": "Given a binary tree, flatten it to a linked list in-place. For example, given the following tree: The flattened tree should look like:"
+}

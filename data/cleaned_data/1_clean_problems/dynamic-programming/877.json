@@ -1,0 +1,7 @@
+{
+    "id": 877,
+    "title": "Stone Game",
+    "title_slug": "stone-game",
+    "backend_id": 909,
+    "content": "Alex and Lee play a game with piles of stones.\u00a0 There are an even number of\u00a0piles arranged in a row, and each pile has a positive integer number of stones .\nThe objective of the game is to end with the most\u00a0stones.\u00a0 The total number of stones is odd, so there are no ties.\nAlex and Lee take turns, with Alex starting first.\u00a0 Each turn, a player\u00a0takes the entire pile of stones from either the beginning or the end of the row.\u00a0 This continues until there are no more piles left, at which point the person with the most stones wins.\nAssuming Alex and Lee play optimally, return \u00a0if and only if Alex wins the game.\n\u00a0\n\n\n\u00a0\n\n\n\n is even.\n\n is odd.\n\n"
+}

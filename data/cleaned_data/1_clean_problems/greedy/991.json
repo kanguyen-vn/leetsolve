@@ -1,0 +1,7 @@
+{
+    "id": 991,
+    "title": "Broken Calculator",
+    "title_slug": "broken-calculator",
+    "backend_id": 1033,
+    "content": "On a broken calculator that has a number showing on its display, we can perform two operations:\n\nDouble: Multiply the number on the display by 2, or;\nDecrement: Subtract 1 from the number on the display.\n\nInitially, the calculator is displaying the number .\nReturn the minimum number of operations needed to display the number .\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n"
+}

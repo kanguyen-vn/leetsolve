@@ -1,0 +1,7 @@
+{
+    "id": 516,
+    "title": "Longest Palindromic Subsequence",
+    "title_slug": "longest-palindromic-subsequence",
+    "backend_id": 516,
+    "content": "<div><p>Given a string s, find the longest palindromic subsequence's length in s. You may assume that the maximum length of s is 1000.</p>\n\n<p><b>Example 1:</b><br>\nInput:</p>\n\n<pre>\"bbbab\"\n</pre>\nOutput:\n\n<pre>4\n</pre>\nOne possible longest palindromic subsequence is \"bbbb\".\n\n<p>&nbsp;</p>\n\n<p><b>Example 2:</b><br>\nInput:</p>\n\n<pre>\"cbbd\"\n</pre>\nOutput:\n\n<pre>2\n</pre>\nOne possible longest palindromic subsequence is \"bb\".\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= s.length &lt;= 1000</code></li>\n\t<li><code>s</code> consists only of lowercase English letters.</li>\n</ul>\n</div>"
+}

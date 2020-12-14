@@ -1,0 +1,7 @@
+{
+    "id": 879,
+    "title": "Profitable Schemes",
+    "title_slug": "profitable-schemes",
+    "backend_id": 911,
+    "content": "There is a group of members, and a list of various crimes they could commit. The crime generates a and requires members to participate in it. If a member participates in one crime, that member can't participate in another crime. Let's call a profitable scheme any subset of these crimes that generates at least profit, and the total number of members participating in that subset of crimes is at most . How many schemes can be chosen? Since the answer may be very large, return it modulo ."
+}

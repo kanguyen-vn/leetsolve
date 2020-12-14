@@ -1,0 +1,77 @@
+{
+    "id": 1301,
+    "title": "Number of Paths with Max Score",
+    "title_slug": "number-of-paths-with-max-score",
+    "backend_id": 1234,
+    "content": [
+        [
+            "give",
+            "square",
+            "character"
+        ],
+        [
+            "move",
+            "board",
+            "start",
+            "bottom",
+            "right",
+            "square",
+            "mark",
+            "character"
+        ],
+        [
+            "need",
+            "reach",
+            "top",
+            "leave",
+            "square",
+            "marked",
+            "character"
+        ],
+        [
+            "rest",
+            "square",
+            "label",
+            "either",
+            "numeric",
+            "character",
+            "obstacle"
+        ],
+        [
+            "one",
+            "move",
+            "go",
+            "leave",
+            "leave",
+            "diagonally",
+            "obstacle"
+        ],
+        [
+            "return",
+            "list",
+            "two",
+            "integer",
+            "first",
+            "integer",
+            "maximum",
+            "sum",
+            "numeric",
+            "character",
+            "collect",
+            "second",
+            "number",
+            "path",
+            "take",
+            "get",
+            "maximum",
+            "sum",
+            "take",
+            "modulo"
+        ],
+        [
+            "case",
+            "path",
+            "return"
+        ]
+    ]
+}

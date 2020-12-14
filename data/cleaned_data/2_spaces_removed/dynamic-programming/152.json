@@ -1,0 +1,7 @@
+{
+    "id": 152,
+    "title": "Maximum Product Subarray",
+    "title_slug": "maximum-product-subarray",
+    "backend_id": 152,
+    "content": "Given an integer array , find the contiguous subarray within an array (containing at least one number) which has the largest product."
+}

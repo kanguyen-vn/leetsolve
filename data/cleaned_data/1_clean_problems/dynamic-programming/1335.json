@@ -1,0 +1,7 @@
+{
+    "id": 1335,
+    "title": "Minimum Difficulty of a Job Schedule",
+    "title_slug": "minimum-difficulty-of-a-job-schedule",
+    "backend_id": 1457,
+    "content": "You want to schedule a list of jobs in  days. Jobs are dependent (i.e To work on the  job, you have to finish all the jobs  where ).\nYou have to finish at least one task every day. The difficulty of a job schedule is the sum of difficulties of each day of the  days. The difficulty of a day is the maximum difficulty of a job done in that day.\nGiven an array of integers  and an integer . The difficulty of the \u00a0job is\u00a0.\nReturn the minimum difficulty of a job schedule. If you cannot find a schedule for the jobs return -1.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

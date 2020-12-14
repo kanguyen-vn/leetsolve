@@ -1,0 +1,7 @@
+{
+    "id": 1039,
+    "title": "Minimum Score Triangulation of Polygon",
+    "title_slug": "minimum-score-triangulation-of-polygon",
+    "backend_id": 1111,
+    "content": "Given , consider a convex -sided polygon with vertices labelled \u00a0in clockwise order.\nSuppose you triangulate the polygon into  triangles.\u00a0 For each triangle, the value of that triangle is the product\u00a0of the labels of the vertices, and the total score of the triangulation is the sum of these values over all  triangles in the triangulation.\nReturn the smallest possible total score that you can achieve with some triangulation of the polygon.\n\u00a0\n\n\n\n"
+}

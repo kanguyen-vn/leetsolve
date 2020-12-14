@@ -1,0 +1,80 @@
+{
+    "id": 983,
+    "title": "Minimum Cost For Tickets",
+    "title_slug": "minimum-cost-for-tickets",
+    "backend_id": 1025,
+    "content": [
+        [
+            "country",
+            "popular",
+            "train",
+            "travel",
+            "plan",
+            "train",
+            "travel",
+            "one",
+            "year",
+            "advance"
+        ],
+        [
+            "day",
+            "year",
+            "travel",
+            "give",
+            "array"
+        ],
+        [
+            "day",
+            "integer"
+        ],
+        [
+            "train",
+            "ticket",
+            "sell",
+            "different",
+            "way",
+            "day",
+            "pass",
+            "sell",
+            "dollar",
+            "day",
+            "pas",
+            "sell",
+            "dollar",
+            "day",
+            "pas",
+            "sell",
+            "dollar"
+        ],
+        [
+            "pass",
+            "allow",
+            "many",
+            "day",
+            "consecutive",
+            "travel"
+        ],
+        [
+            "example",
+            "get",
+            "day",
+            "pas",
+            "day",
+            "travel",
+            "day",
+            "day"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "dollar",
+            "need",
+            "travel",
+            "every",
+            "day",
+            "give",
+            "list"
+        ]
+    ]
+}

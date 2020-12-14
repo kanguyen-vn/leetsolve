@@ -1,0 +1,27 @@
+{
+    "id": 710,
+    "title": "Random Pick with Blacklist",
+    "title_slug": "random-pick-with-blacklist",
+    "backend_id": 894,
+    "content": [
+        [
+            "give",
+            "blacklist",
+            "contain",
+            "unique",
+            "integer",
+            "write",
+            "function",
+            "return",
+            "uniform",
+            "random",
+            "integer"
+        ],
+        [
+            "optimize",
+            "minimize",
+            "call",
+            "system"
+        ]
+    ]
+}

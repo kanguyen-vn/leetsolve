@@ -1,0 +1,54 @@
+{
+    "id": 1591,
+    "title": "Strange Printer II",
+    "title_slug": "strange-printer-ii",
+    "backend_id": 1696,
+    "content": [
+        [
+            "strange",
+            "printer",
+            "follow",
+            "two",
+            "special",
+            "requirement",
+            "turn",
+            "printer",
+            "print",
+            "solid",
+            "rectangular",
+            "pattern",
+            "single",
+            "color",
+            "grid"
+        ],
+        [
+            "cover",
+            "exist",
+            "color",
+            "rectangle"
+        ],
+        [
+            "printer",
+            "use",
+            "color",
+            "operation",
+            "color",
+            "use"
+        ],
+        [
+            "give",
+            "matrix",
+            "color",
+            "position",
+            "grid"
+        ],
+        [
+            "return",
+            "possible",
+            "print",
+            "matrix",
+            "otherwise",
+            "return"
+        ]
+    ]
+}

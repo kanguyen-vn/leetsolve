@@ -1,0 +1,28 @@
+{
+    "id": 704,
+    "title": "Binary Search",
+    "title_slug": "binary-search",
+    "backend_id": 792,
+    "content": [
+        [
+            "give",
+            "sort",
+            "ascend",
+            "order",
+            "integer",
+            "array",
+            "elements",
+            "value",
+            "write",
+            "function",
+            "search"
+        ],
+        [
+            "exist",
+            "return",
+            "index",
+            "otherwise",
+            "return"
+        ]
+    ]
+}

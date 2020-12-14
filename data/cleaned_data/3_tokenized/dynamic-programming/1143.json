@@ -1,0 +1,65 @@
+{
+    "id": 1143,
+    "title": "Longest Common Subsequence",
+    "title_slug": "longest-common-subsequence",
+    "backend_id": 1250,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "return",
+            "length",
+            "long",
+            "common",
+            "subsequence"
+        ],
+        [
+            "subsequence",
+            "string",
+            "new",
+            "string",
+            "generate",
+            "original",
+            "string",
+            "character",
+            "none",
+            "delete",
+            "without",
+            "change",
+            "relative",
+            "order",
+            "remain",
+            "character"
+        ],
+        [
+            "eg",
+            "ace",
+            "subsequence",
+            "abcde",
+            "aec"
+        ],
+        [
+            "common",
+            "subsequence",
+            "two",
+            "string",
+            "subsequence",
+            "common",
+            "string"
+        ],
+        [
+            "common",
+            "subsequence",
+            "return"
+        ],
+        [
+            "input",
+            "string",
+            "consist",
+            "lowercase",
+            "english",
+            "character"
+        ]
+    ]
+}

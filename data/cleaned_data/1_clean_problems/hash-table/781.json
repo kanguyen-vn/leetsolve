@@ -1,0 +1,7 @@
+{
+    "id": 781,
+    "title": "Rabbits in Forest",
+    "title_slug": "rabbits-in-forest",
+    "backend_id": 797,
+    "content": "In a forest, each rabbit has some color. Some subset of rabbits (possibly all of them) tell you how many other rabbits have the same color as them. Those  are placed in an array.\nReturn the minimum number of rabbits that could be in the forest.\n\n"
+}

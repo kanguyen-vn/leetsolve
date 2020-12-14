@@ -1,0 +1,7 @@
+{
+    "id": 438,
+    "title": "Find All Anagrams in a String",
+    "title_slug": "find-all-anagrams-in-a-string",
+    "backend_id": 438,
+    "content": "Given a string s and a non-empty string p, find all the start indices of p's anagrams in s.\nStrings consists of lowercase English letters only and the length of both strings s and p will not be larger than 20,100.\nThe order of output does not matter.\n\n\n\n"
+}

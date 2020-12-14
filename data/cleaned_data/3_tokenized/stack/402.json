@@ -1,0 +1,24 @@
+{
+    "id": 402,
+    "title": "Remove K Digits",
+    "title_slug": "remove-k-digits",
+    "backend_id": 402,
+    "content": [
+        [
+            "give",
+            "non",
+            "negative",
+            "integer",
+            "num",
+            "represent",
+            "string",
+            "remove",
+            "digit",
+            "number",
+            "new",
+            "number",
+            "small",
+            "possible"
+        ]
+    ]
+}

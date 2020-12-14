@@ -1,0 +1,36 @@
+{
+    "id": 368,
+    "title": "Largest Divisible Subset",
+    "title_slug": "largest-divisible-subset",
+    "backend_id": 368,
+    "content": [
+        [
+            "give",
+            "set",
+            "distinct",
+            "positive",
+            "integer",
+            "find",
+            "large",
+            "subset",
+            "every",
+            "pair",
+            "si",
+            "sj",
+            "element",
+            "subset",
+            "satisfy",
+            "si",
+            "sj",
+            "sj",
+            "si"
+        ],
+        [
+            "multiple",
+            "solution",
+            "return",
+            "subset",
+            "fine"
+        ]
+    ]
+}

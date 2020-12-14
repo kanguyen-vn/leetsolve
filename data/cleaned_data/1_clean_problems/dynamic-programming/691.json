@@ -1,0 +1,7 @@
+{
+    "id": 691,
+    "title": "Stickers to Spell Word",
+    "title_slug": "stickers-to-spell-word",
+    "backend_id": 691,
+    "content": "\nWe are given N different types of stickers.  Each sticker has a lowercase English word on it.\n\nYou would like to spell out the given  string by cutting individual letters from your collection of stickers and rearranging them.\n\nYou can use each sticker more than once if you want, and you have infinite quantities of each sticker.\n\nWhat is the minimum number of stickers that you need to spell out the ?  If the task is impossible, return -1.\n\n\nInput:\nOutput:\nExplanation:\n\nInput:\nOutput:\nExplanation:\n"
+}

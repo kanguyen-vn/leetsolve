@@ -1,0 +1,49 @@
+{
+    "id": 1283,
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "title_slug": "find-the-smallest-divisor-given-a-threshold",
+    "backend_id": 1408,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "integer",
+            "choose",
+            "positive",
+            "integer",
+            "divisor",
+            "divide",
+            "array",
+            "sum",
+            "result",
+            "division"
+        ],
+        [
+            "find",
+            "small",
+            "divisor",
+            "result",
+            "mention",
+            "less",
+            "equal"
+        ],
+        [
+            "result",
+            "division",
+            "round",
+            "near",
+            "integer",
+            "great",
+            "equal",
+            "element"
+        ],
+        [
+            "example"
+        ],
+        [
+            "guarantee",
+            "answer"
+        ]
+    ]
+}

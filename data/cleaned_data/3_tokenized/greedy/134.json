@@ -1,0 +1,55 @@
+{
+    "id": 134,
+    "title": "Gas Station",
+    "title_slug": "gas-station",
+    "backend_id": 134,
+    "content": [
+        [
+            "gas",
+            "station",
+            "along",
+            "circular",
+            "route",
+            "amount",
+            "gas",
+            "station"
+        ],
+        [
+            "car",
+            "unlimited",
+            "gas",
+            "tank",
+            "cost",
+            "gas",
+            "travel",
+            "station",
+            "next",
+            "station",
+            "i+1"
+        ],
+        [
+            "begin",
+            "journey",
+            "empty",
+            "tank",
+            "one",
+            "gas",
+            "station"
+        ],
+        [
+            "return",
+            "start",
+            "gas",
+            "station",
+            "'s",
+            "index",
+            "travel",
+            "around",
+            "circuit",
+            "clockwise",
+            "direction",
+            "otherwise",
+            "return"
+        ]
+    ]
+}

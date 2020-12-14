@@ -1,0 +1,43 @@
+{
+    "id": 1315,
+    "title": "Sum of Nodes with Even-Valued Grandparent",
+    "title_slug": "sum-of-nodes-with-even-valued-grandparent",
+    "backend_id": 1243,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "return",
+            "sum",
+            "value",
+            "node",
+            "even",
+            "value",
+            "grandparent"
+        ],
+        [
+            "grandparent",
+            "node",
+            "parent",
+            "parent",
+            "exist"
+        ],
+        [
+            "node",
+            "even",
+            "value",
+            "grandparent",
+            "return"
+        ],
+        [
+            "number",
+            "node",
+            "tree"
+        ],
+        [
+            "value",
+            "node"
+        ]
+    ]
+}

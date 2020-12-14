@@ -1,0 +1,7 @@
+{
+    "id": 1482,
+    "title": "Minimum Number of Days to Make m Bouquets",
+    "title_slug": "minimum-number-of-days-to-make-m-bouquets",
+    "backend_id": 1605,
+    "content": "Given an integer array , an integer  and an integer .\nWe need to make \u00a0bouquets. To make a bouquet,\u00a0you need to use  adjacent flowers from the garden.\nThe garden consists of  flowers, the  flower will bloom in the \u00a0and then can be used in\u00a0exactly one bouquet.\nReturn the minimum number of days you need to wait to be able to make  bouquets from the garden. If it is impossible to make  bouquets return -1.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n"
+}

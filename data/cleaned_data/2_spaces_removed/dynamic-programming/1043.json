@@ -1,0 +1,7 @@
+{
+    "id": 1043,
+    "title": "Partition Array for Maximum Sum",
+    "title_slug": "partition-array-for-maximum-sum",
+    "backend_id": 1121,
+    "content": "Given an integer array , you should partition the array into (contiguous) subarrays of length at most . After partitioning, each subarray has their values changed to become the maximum value of that subarray. Return the largest sum of the given array after partitioning."
+}

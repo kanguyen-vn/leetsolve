@@ -1,0 +1,7 @@
+{
+    "id": 757,
+    "title": "Set Intersection Size At Least Two",
+    "title_slug": "set-intersection-size-at-least-two",
+    "backend_id": 759,
+    "content": "<div><p>\nAn integer interval <code>[a, b]</code> (for integers <code>a &lt; b</code>) is a set of all consecutive integers from <code>a</code> to <code>b</code>, including <code>a</code> and <code>b</code>.\n</p><p>\nFind the minimum size of a set S such that for every integer interval A in <code>intervals</code>, the intersection of S with A has size at least 2.\n</p>\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> intervals = [[1, 3], [1, 4], [2, 5], [3, 5]]\n<b>Output:</b> 3\n<b>Explanation:</b>\nConsider the set S = {2, 3, 4}.  For each interval, there are at least 2 elements from S in the interval.\nAlso, there isn't a smaller size set that fulfills the above condition.\nThus, we output the size of this set, which is 3.\n</pre>\n<p></p>\n\n<p><b>Example 2:</b><br>\n</p><pre><b>Input:</b> intervals = [[1, 2], [2, 3], [2, 4], [4, 5]]\n<b>Output:</b> 5\n<b>Explanation:</b>\nAn example of a minimum sized set is {1, 2, 3, 4, 5}.\n</pre>\n<p></p>\n\n<p><b>Note:</b><br></p><ol>\n<li><code>intervals</code> will have length in range <code>[1, 3000]</code>.</li>\n<li><code>intervals[i]</code> will have length <code>2</code>, representing some integer interval.</li>\n<li><code>intervals[i][j]</code> will be an integer in <code>[0, 10^8]</code>.</li>\n</ol><p></p></div>"
+}

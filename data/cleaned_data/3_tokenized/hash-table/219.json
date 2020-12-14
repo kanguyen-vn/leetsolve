@@ -1,0 +1,24 @@
+{
+    "id": 219,
+    "title": "Contains Duplicate II",
+    "title_slug": "contains-duplicate-ii",
+    "backend_id": 219,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "integer",
+            "find",
+            "whether",
+            "two",
+            "distinct",
+            "index",
+            "array",
+            "nums",
+            "nums",
+            "absolute",
+            "difference"
+        ]
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 1658,
+    "title": "Minimum Operations to Reduce X to Zero",
+    "title_slug": "minimum-operations-to-reduce-x-to-zero",
+    "backend_id": 1776,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "integer"
+        ],
+        [
+            "one",
+            "operation",
+            "either",
+            "remove",
+            "leftmost",
+            "rightmost",
+            "element",
+            "array",
+            "subtract",
+            "value"
+        ],
+        [
+            "note",
+            "modify",
+            "array",
+            "future",
+            "operation"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "operation",
+            "reduce",
+            "exactly",
+            "'s",
+            "possible",
+            "otherwise",
+            "return"
+        ]
+    ]
+}

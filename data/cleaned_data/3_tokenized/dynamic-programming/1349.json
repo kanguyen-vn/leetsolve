@@ -1,0 +1,67 @@
+{
+    "id": 1349,
+    "title": "Maximum Students Taking Exam",
+    "title_slug": "maximum-students-taking-exam",
+    "backend_id": 1471,
+    "content": [
+        [
+            "give",
+            "matrix",
+            "represent",
+            "seat",
+            "distribution",
+            "classroom"
+        ],
+        [
+            "seat",
+            "break",
+            "denoted",
+            "character",
+            "otherwise",
+            "denoted",
+            "character"
+        ],
+        [
+            "student",
+            "see",
+            "answer",
+            "sit",
+            "next",
+            "left",
+            "right",
+            "upper",
+            "leave",
+            "upper",
+            "right",
+            "see",
+            "answer",
+            "student",
+            "sit",
+            "directly",
+            "front",
+            "behind"
+        ],
+        [
+            "return",
+            "maximum",
+            "number",
+            "student",
+            "take",
+            "exam",
+            "together",
+            "without",
+            "cheat",
+            "possible",
+            "student",
+            "must",
+            "place",
+            "seat",
+            "good",
+            "condition"
+        ],
+        [
+            "contain",
+            "character"
+        ]
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 29,
+    "title": "Divide Two Integers",
+    "title_slug": "divide-two-integers",
+    "backend_id": 29,
+    "content": [
+        [
+            "give",
+            "two",
+            "integer",
+            "divide",
+            "two",
+            "integer",
+            "without",
+            "use",
+            "multiplication",
+            "division",
+            "mod",
+            "operator"
+        ],
+        [
+            "return",
+            "quotient",
+            "divide"
+        ],
+        [
+            "integer",
+            "division",
+            "truncate",
+            "toward",
+            "zero",
+            "mean",
+            "lose",
+            "fractional",
+            "part"
+        ],
+        [
+            "example"
+        ]
+    ]
+}

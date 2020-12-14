@@ -1,0 +1,50 @@
+{
+    "id": 44,
+    "title": "Wildcard Matching",
+    "title_slug": "wildcard-matching",
+    "backend_id": 44,
+    "content": [
+        [
+            "give",
+            "input",
+            "string",
+            "pattern",
+            "implement",
+            "wildcard",
+            "pattern",
+            "match",
+            "support",
+            "match",
+            "single",
+            "character"
+        ],
+        [
+            "match",
+            "sequence",
+            "character",
+            "include",
+            "empty",
+            "sequence"
+        ],
+        [
+            "match",
+            "cover",
+            "entire",
+            "input",
+            "string",
+            "partial"
+        ],
+        [
+            "contain",
+            "lowercase",
+            "english",
+            "letter"
+        ],
+        [
+            "contain",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

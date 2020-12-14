@@ -1,0 +1,20 @@
+{
+    "id": 718,
+    "title": "Maximum Length of Repeated Subarray",
+    "title_slug": "maximum-length-of-repeated-subarray",
+    "backend_id": 718,
+    "content": [
+        [
+            "give",
+            "two",
+            "integer",
+            "array",
+            "return",
+            "maximum",
+            "length",
+            "subarray",
+            "appear",
+            "array"
+        ]
+    ]
+}

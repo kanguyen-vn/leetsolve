@@ -1,0 +1,7 @@
+{
+    "id": 1512,
+    "title": "Number of Good Pairs",
+    "title_slug": "number-of-good-pairs",
+    "backend_id": 1635,
+    "content": "Given an array of integers\u00a0.\nA pair\u00a0\u00a0is called good if\u00a0 ==  and  &lt; .\nReturn the number of good pairs.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

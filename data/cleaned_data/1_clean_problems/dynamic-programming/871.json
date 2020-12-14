@@ -1,0 +1,7 @@
+{
+    "id": 871,
+    "title": "Minimum Number of Refueling Stops",
+    "title_slug": "minimum-number-of-refueling-stops",
+    "backend_id": 902,
+    "content": "A car travels from a starting position to a destination which is  miles east of the starting position.\nAlong the way, there are gas stations.\u00a0 Each \u00a0represents a gas station that is  miles east of the starting position, and has  liters of gas.\nThe car starts with an infinite tank of gas, which initially has\u00a0\u00a0liters of fuel in it.\u00a0 It uses 1 liter of gas per 1 mile that it drives.\nWhen the car\u00a0reaches a gas station, it may stop and refuel, transferring all the gas from the station into the car.\nWhat is the least number of refueling stops the car must make in order to reach its destination?\u00a0 If it cannot reach the destination, return .\nNote that if the car reaches a gas station with 0 fuel left, the car can still refuel there.\u00a0 If the car reaches the destination with 0 fuel left, it is still considered to have arrived.\n\u00a0\n\n"
+}

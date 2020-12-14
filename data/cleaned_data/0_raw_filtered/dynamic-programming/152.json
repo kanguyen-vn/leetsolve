@@ -1,0 +1,7 @@
+{
+    "id": 152,
+    "title": "Maximum Product Subarray",
+    "title_slug": "maximum-product-subarray",
+    "backend_id": 152,
+    "content": "<div><p>Given an integer array&nbsp;<code>nums</code>, find the contiguous subarray within an array (containing at least one number) which has the largest product.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> [2,3,-2,4]\n<strong>Output:</strong> <code>6</code>\n<strong>Explanation:</strong>&nbsp;[2,3] has the largest product 6.\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> [-2,0,-1]\n<strong>Output:</strong> 0\n<strong>Explanation:</strong>&nbsp;The result cannot be 2, because [-2,-1] is not a subarray.</pre>\n</div>"
+}

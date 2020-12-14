@@ -1,0 +1,79 @@
+{
+    "id": 403,
+    "title": "Frog Jump",
+    "title_slug": "frog-jump",
+    "backend_id": 403,
+    "content": [
+        [
+            "frog",
+            "cross",
+            "river"
+        ],
+        [
+            "river",
+            "divide",
+            "unit",
+            "unit",
+            "may",
+            "may",
+            "exist",
+            "stone"
+        ],
+        [
+            "frog",
+            "jump",
+            "stone",
+            "must",
+            "jump",
+            "water"
+        ],
+        [
+            "give",
+            "list",
+            "stone",
+            "position",
+            "unit",
+            "sort",
+            "ascend",
+            "order",
+            "determine",
+            "frog",
+            "able",
+            "cross",
+            "river",
+            "land",
+            "last",
+            "stone"
+        ],
+        [
+            "initially",
+            "frog",
+            "first",
+            "stone",
+            "assume",
+            "first",
+            "jump",
+            "must",
+            "unit"
+        ],
+        [
+            "frog",
+            "'s",
+            "last",
+            "jump",
+            "unit",
+            "next",
+            "jump",
+            "must",
+            "either",
+            "unit"
+        ],
+        [
+            "note",
+            "frog",
+            "jump",
+            "forward",
+            "direction"
+        ]
+    ]
+}

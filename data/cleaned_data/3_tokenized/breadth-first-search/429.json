@@ -1,0 +1,46 @@
+{
+    "id": 429,
+    "title": "N-ary Tree Level Order Traversal",
+    "title_slug": "n-ary-tree-level-order-traversal",
+    "backend_id": 764,
+    "content": [
+        [
+            "give",
+            "ary",
+            "tree",
+            "return",
+            "level",
+            "order",
+            "traversal",
+            "node",
+            "value"
+        ],
+        [
+            "nary",
+            "tree",
+            "input",
+            "serialization",
+            "represent",
+            "level",
+            "order",
+            "traversal",
+            "group",
+            "child",
+            "separate",
+            "null",
+            "value",
+            "see",
+            "example"
+        ],
+        [
+            "height",
+            "ary",
+            "tree",
+            "less",
+            "equal",
+            "total",
+            "number",
+            "node"
+        ]
+    ]
+}

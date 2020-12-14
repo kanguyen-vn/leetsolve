@@ -1,0 +1,7 @@
+{
+    "id": 263,
+    "title": "Ugly Number",
+    "title_slug": "ugly-number",
+    "backend_id": 263,
+    "content": "<div><p>Write a program to check whether a given number is an ugly number.</p>\n\n<p>Ugly numbers are <strong>positive numbers</strong> whose prime factors only include <code>2, 3, 5</code>.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> 6\n<strong>Output:</strong> true\n<strong>Explanation: </strong>6 = 2 \u00d7&nbsp;3</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> 8\n<strong>Output:</strong> true\n<strong>Explanation: </strong>8 = 2 \u00d7 2 \u00d7&nbsp;2\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> 14\n<strong>Output:</strong> false \n<strong>Explanation: </strong><code>14</code> is not ugly since it includes another prime factor <code>7</code>.\n</pre>\n\n<p><strong>Note:</strong></p>\n\n<ol>\n\t<li><code>1</code> is typically treated as an ugly number.</li>\n\t<li>Input is within the 32-bit signed integer range:&nbsp;[\u22122<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>\u2212 1].</li>\n</ol></div>"
+}

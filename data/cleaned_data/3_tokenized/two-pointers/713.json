@@ -1,0 +1,25 @@
+{
+    "id": 713,
+    "title": "Subarray Product Less Than K",
+    "title_slug": "subarray-product-less-than-k",
+    "backend_id": 713,
+    "content": [
+        [
+            "give",
+            "array",
+            "positive",
+            "integer"
+        ],
+        [
+            "count",
+            "print",
+            "number",
+            "contiguous",
+            "subarrays",
+            "product",
+            "element",
+            "subarray",
+            "less"
+        ]
+    ]
+}

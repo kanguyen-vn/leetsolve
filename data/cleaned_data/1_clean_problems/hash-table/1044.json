@@ -1,0 +1,7 @@
+{
+    "id": 1044,
+    "title": "Longest Duplicate Substring",
+    "title_slug": "longest-duplicate-substring",
+    "backend_id": 1122,
+    "content": "Given a string , consider all duplicated substrings: (contiguous) substrings of S that occur 2 or more times.\u00a0 (The occurrences\u00a0may overlap.)\nReturn any duplicated\u00a0substring that has the longest possible length.\u00a0 (If  does not have a duplicated substring, the answer is .)\n\u00a0\n\n\n\n\n\u00a0\n"
+}

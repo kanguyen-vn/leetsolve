@@ -1,0 +1,38 @@
+{
+    "id": 283,
+    "title": "Move Zeroes",
+    "title_slug": "move-zeroes",
+    "backend_id": 283,
+    "content": [
+        [
+            "give",
+            "array",
+            "write",
+            "function",
+            "move",
+            "'s",
+            "end",
+            "maintaining",
+            "relative",
+            "order",
+            "non",
+            "zero",
+            "element"
+        ],
+        [
+            "note",
+            "must",
+            "place",
+            "without",
+            "make",
+            "copy",
+            "array"
+        ],
+        [
+            "minimize",
+            "total",
+            "number",
+            "operation"
+        ]
+    ]
+}

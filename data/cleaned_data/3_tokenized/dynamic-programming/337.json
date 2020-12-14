@@ -1,0 +1,65 @@
+{
+    "id": 337,
+    "title": "House Robber III",
+    "title_slug": "house-robber-iii",
+    "backend_id": 337,
+    "content": [
+        [
+            "thief",
+            "find",
+            "new",
+            "place",
+            "thievery"
+        ],
+        [
+            "one",
+            "entrance",
+            "area",
+            "call",
+            "root"
+        ],
+        [
+            "besides",
+            "root",
+            "house",
+            "one",
+            "one",
+            "parent",
+            "house"
+        ],
+        [
+            "tour",
+            "smart",
+            "thief",
+            "realize",
+            "house",
+            "place",
+            "form",
+            "binary",
+            "tree"
+        ],
+        [
+            "automatically",
+            "contact",
+            "police",
+            "two",
+            "directly",
+            "link",
+            "house",
+            "broken",
+            "night"
+        ],
+        [
+            "determine",
+            "maximum",
+            "amount",
+            "money",
+            "thief",
+            "rob",
+            "tonight",
+            "without",
+            "alert",
+            "police"
+        ]
+    ]
+}

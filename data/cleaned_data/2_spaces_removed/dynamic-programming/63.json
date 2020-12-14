@@ -1,0 +1,7 @@
+{
+    "id": 63,
+    "title": "Unique Paths II",
+    "title_slug": "unique-paths-ii",
+    "backend_id": 63,
+    "content": "A robot is located at the top-left corner of a grid (marked 'Start' in the diagram below). The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below). Now consider if some obstacles are added to the grids. How many unique paths would there be? An obstacle and space is marked as 1 and 0 respectively in the grid. is 0 or 1."
+}

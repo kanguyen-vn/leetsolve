@@ -1,0 +1,7 @@
+{
+    "id": 1300,
+    "title": "Sum of Mutated Array Closest to Target",
+    "title_slug": "sum-of-mutated-array-closest-to-target",
+    "backend_id": 1232,
+    "content": "Given an integer array\u00a0 and a target value , return\u00a0the integer\u00a0\u00a0such that when we change all the integers\u00a0larger than \u00a0in the given array to be equal to\u00a0,\u00a0the sum of the array gets\u00a0as close as possible (in absolute difference) to\u00a0.\nIn case of a tie, return the minimum such integer.\nNotice that the answer is not neccesarilly a number from .\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

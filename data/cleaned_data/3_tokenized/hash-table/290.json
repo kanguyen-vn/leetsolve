@@ -1,0 +1,53 @@
+{
+    "id": 290,
+    "title": "Word Pattern",
+    "title_slug": "word-pattern",
+    "backend_id": 290,
+    "content": [
+        [
+            "give",
+            "string",
+            "find",
+            "follow",
+            "pattern"
+        ],
+        [
+            "follow",
+            "mean",
+            "full",
+            "match",
+            "bijection",
+            "letter",
+            "non",
+            "empty",
+            "word"
+        ],
+        [
+            "contain",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ],
+        [
+            "contain",
+            "low",
+            "case",
+            "english",
+            "letter",
+            "space"
+        ],
+        [
+            "contain",
+            "lead",
+            "trail",
+            "space"
+        ],
+        [
+            "word",
+            "separate",
+            "single",
+            "space"
+        ]
+    ]
+}

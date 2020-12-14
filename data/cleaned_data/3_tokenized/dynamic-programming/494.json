@@ -1,0 +1,58 @@
+{
+    "id": 494,
+    "title": "Target Sum",
+    "title_slug": "target-sum",
+    "backend_id": 494,
+    "content": [
+        [
+            "give",
+            "list",
+            "non",
+            "negative",
+            "integer",
+            "a1",
+            "a2",
+            "target",
+            "symbol"
+        ],
+        [
+            "integer",
+            "choose",
+            "one",
+            "new",
+            "symbol"
+        ],
+        [
+            "find",
+            "many",
+            "way",
+            "assign",
+            "symbol",
+            "make",
+            "sum",
+            "integer",
+            "equal",
+            "target",
+            "length",
+            "give",
+            "array",
+            "positive",
+            "exceed"
+        ],
+        [
+            "sum",
+            "element",
+            "give",
+            "array",
+            "exceed"
+        ],
+        [
+            "output",
+            "answer",
+            "guarantee",
+            "fitted",
+            "bit",
+            "integer"
+        ]
+    ]
+}

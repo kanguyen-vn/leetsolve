@@ -1,0 +1,7 @@
+{
+    "id": 966,
+    "title": "Vowel Spellchecker",
+    "title_slug": "vowel-spellchecker",
+    "backend_id": 1006,
+    "content": "Given a\u00a0, we want to implement a spellchecker that converts a query word into a correct word.\nFor a given  word, the spell checker handles two categories of spelling mistakes:\n\nCapitalization: If the query matches a word in the wordlist (case-insensitive), then the query word is returned with the same case as the case in the wordlist.\n\n\t\nExample: , : \nExample: , : \nExample: , : \n\n\nVowel Errors: If after replacing the vowels ('a', 'e', 'i', 'o', 'u') of the query word with any vowel individually, it matches a word in the wordlist (case-insensitive), then the query word is returned with the same case as the match in the wordlist.\n\t\nExample: , : \nExample: , :  (no match)\nExample: , :  (no match)\n\n\n\nIn addition, the spell checker operates under the following precedence rules:\n\nWhen the query exactly matches a word in the wordlist (case-sensitive), you should return the same word back.\nWhen the query matches a word up to capitlization, you should return the first such match in the wordlist.\nWhen the query matches a word up to vowel errors, you should return the first such match in the wordlist.\nIf the query has no matches in the wordlist, you should return the empty string.\n\nGiven some , return a\u00a0list of words , where \u00a0is\u00a0the correct word for .\n\u00a0\n\n\n\u00a0\n"
+}

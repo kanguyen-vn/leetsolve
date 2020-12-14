@@ -1,0 +1,7 @@
+{
+    "id": 841,
+    "title": "Keys and Rooms",
+    "title_slug": "keys-and-rooms",
+    "backend_id": 871,
+    "content": "There are  rooms and you start in room 0.\u00a0 Each room has a distinct number in , and each room may have\u00a0some keys to access the next room.\u00a0\nFormally, each room \u00a0has a list of keys , and each key  is an integer in  where .\u00a0 A key \u00a0opens the room with number .\nInitially, all the rooms start locked (except for room 0).\u00a0\nYou can walk back and forth between rooms freely.\nReturn \u00a0if and only if you can enter\u00a0every room.\n\n\n\n\n\n\n"
+}

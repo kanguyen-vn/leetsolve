@@ -1,0 +1,35 @@
+{
+    "id": 1338,
+    "title": "Reduce Array Size to The Half",
+    "title_slug": "reduce-array-size-to-the-half",
+    "backend_id": 1464,
+    "content": [
+        [
+            "give",
+            "array"
+        ],
+        [
+            "choose",
+            "set",
+            "integer",
+            "remove",
+            "occurrence",
+            "integer",
+            "array"
+        ],
+        [
+            "return",
+            "minimum",
+            "size",
+            "set",
+            "least",
+            "half",
+            "integer",
+            "array",
+            "remove"
+        ],
+        [
+            "even"
+        ]
+    ]
+}

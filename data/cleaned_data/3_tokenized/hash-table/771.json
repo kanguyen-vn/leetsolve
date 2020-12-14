@@ -1,0 +1,48 @@
+{
+    "id": 771,
+    "title": "Jewels and Stones",
+    "title_slug": "jewels-and-stones",
+    "backend_id": 782,
+    "content": [
+        [
+            "'re",
+            "give",
+            "string",
+            "represent",
+            "type",
+            "stone",
+            "jewel",
+            "represent",
+            "stone"
+        ],
+        [
+            "character",
+            "type",
+            "stone"
+        ],
+        [
+            "want",
+            "know",
+            "many",
+            "stone",
+            "also",
+            "jewel"
+        ],
+        [
+            "letter",
+            "guarantee",
+            "distinct",
+            "character",
+            "letter"
+        ],
+        [
+            "letter",
+            "case",
+            "sensitive",
+            "consider",
+            "different",
+            "type",
+            "stone"
+        ]
+    ]
+}

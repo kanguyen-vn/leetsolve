@@ -1,0 +1,86 @@
+{
+    "id": 1372,
+    "title": "Longest ZigZag Path in a Binary Tree",
+    "title_slug": "longest-zigzag-path-in-a-binary-tree",
+    "backend_id": 1474,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "zigzag",
+            "path",
+            "binary",
+            "tree",
+            "define",
+            "follow",
+            "choose",
+            "node",
+            "binary",
+            "tree",
+            "direction",
+            "right",
+            "leave"
+        ],
+        [
+            "current",
+            "direction",
+            "right",
+            "move",
+            "right",
+            "child",
+            "current",
+            "node",
+            "otherwise",
+            "move",
+            "leave",
+            "child"
+        ],
+        [
+            "change",
+            "direction",
+            "right",
+            "leave",
+            "right",
+            "left"
+        ],
+        [
+            "repeat",
+            "second",
+            "third",
+            "step",
+            "ca",
+            "n't",
+            "move",
+            "tree"
+        ],
+        [
+            "zigzag",
+            "length",
+            "define",
+            "number",
+            "node",
+            "visit"
+        ],
+        [
+            "single",
+            "node",
+            "length"
+        ],
+        [
+            "return",
+            "long",
+            "zigzag",
+            "path",
+            "contain",
+            "tree"
+        ],
+        [
+            "tree",
+            "node",
+            "node",
+            "'s",
+            "value"
+        ]
+    ]
+}

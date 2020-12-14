@@ -1,0 +1,7 @@
+{
+    "id": 51,
+    "title": "N-Queens",
+    "title_slug": "n-queens",
+    "backend_id": 51,
+    "content": "The n-queens puzzle is the problem of placing  queens on an  chessboard such that no two queens attack each other.\nGiven an integer , return all distinct solutions to the n-queens puzzle.\nEach solution contains a distinct board configuration of the n-queens' placement, where  and  both indicate a queen and an empty space, respectively.\n\u00a0\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

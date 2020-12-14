@@ -1,0 +1,7 @@
+{
+    "id": 1003,
+    "title": "Check If Word Is Valid After Substitutions",
+    "title_slug": "check-if-word-is-valid-after-substitutions",
+    "backend_id": 1045,
+    "content": "Given a string , determine if it is valid.\nA string  is valid if, starting with an empty string , you can transform  into  after performing the following operation any number of times:\n\nInsert string  into any position in . More formally,  becomes , where . Note that  and  may be empty.\n\nReturn  if  is a valid string, otherwise, return .\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n consists of letters , , and \n\n"
+}

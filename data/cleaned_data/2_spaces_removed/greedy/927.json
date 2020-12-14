@@ -1,0 +1,7 @@
+{
+    "id": 927,
+    "title": "Three Equal Parts",
+    "title_slug": "three-equal-parts",
+    "backend_id": 963,
+    "content": "Given an array of 0s and 1s, divide the array into 3 non-empty parts such that all of these parts represent the same binary value. If it is possible, return any with , such that: is the first part; is the second part, and is the third part. All three parts have equal binary value. If it is not possible, return . Note that the entire part is used when considering what binary value it represents. For example, represents 6 in decimal, not 3. Also, leading zeros are allowed, so and represent the same value."
+}

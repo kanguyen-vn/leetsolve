@@ -1,0 +1,7 @@
+{
+    "id": 497,
+    "title": "Random Point in Non-overlapping Rectangles",
+    "title_slug": "random-point-in-non-overlapping-rectangles",
+    "backend_id": 914,
+    "content": "Given a list of non-overlapping axis-aligned rectangles , write a function which randomly and uniformily picks an integer point in the space covered by the rectangles."
+}

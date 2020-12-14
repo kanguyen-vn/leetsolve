@@ -1,0 +1,7 @@
+{
+    "id": 1569,
+    "title": "Number of Ways to Reorder Array to Get Same BST",
+    "title_slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+    "backend_id": 1692,
+    "content": "Given an array \u00a0that represents a permutation of integers from\u00a01\u00a0to\u00a0. We are going to construct a binary search tree (BST) by inserting the elements of\u00a0\u00a0in\u00a0order into an initially empty BST. Find the number of different ways to reorder  so that the constructed BST is identical to that formed from the original array\u00a0.\nFor example, given\u00a0, we will have 2 as the root, 1 as a left child, and 3 as a right child. The array\u00a0\u00a0also yields the same BST but\u00a0\u00a0yields a different BST.\nReturn the number of ways to reorder\u00a0\u00a0such that the BST formed is identical to the original BST formed from\u00a0.\nSince the answer may be very large,\u00a0return it modulo\u00a0.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\nAll integers in\u00a0\u00a0are\u00a0distinct.\n\n"
+}

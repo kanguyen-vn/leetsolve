@@ -1,0 +1,7 @@
+{
+    "id": 594,
+    "title": "Longest Harmonious Subsequence",
+    "title_slug": "longest-harmonious-subsequence",
+    "backend_id": 594,
+    "content": "We define a harmonious array as an array where the difference between its maximum value and its minimum value is exactly 1.\nGiven an integer array , return the length of its longest harmonious subsequence among all its possible subsequences.\nA subsequence of array is a sequence that can be derived from the array by deleting some or no elements without changing the order of the remaining elements.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

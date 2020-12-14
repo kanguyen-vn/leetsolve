@@ -1,0 +1,7 @@
+{
+    "id": 139,
+    "title": "Word Break",
+    "title_slug": "word-break",
+    "backend_id": 139,
+    "content": "Given a non-empty string s and a dictionary wordDict containing a list of non-empty words, determine if s can be segmented into a space-separated sequence of one or more dictionary words.\n"
+}

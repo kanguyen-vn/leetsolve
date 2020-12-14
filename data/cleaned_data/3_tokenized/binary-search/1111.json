@@ -1,0 +1,82 @@
+{
+    "id": 1111,
+    "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+    "title_slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+    "backend_id": 1208,
+    "content": [
+        [
+            "string",
+            "valid",
+            "parenthesis",
+            "string",
+            "denoted",
+            "vps",
+            "consist",
+            "character",
+            "empty",
+            "string",
+            "write",
+            "concatenated",
+            "vps",
+            "'s",
+            "write",
+            "vps"
+        ],
+        [
+            "similarly",
+            "define",
+            "nest",
+            "depth",
+            "vps",
+            "follow",
+            "vps",
+            "'s",
+            "vps"
+        ],
+        [
+            "example",
+            "vps",
+            "'s",
+            "nesting",
+            "depth",
+            "vps",
+            "'s"
+        ],
+        [
+            "give",
+            "vps",
+            "split",
+            "two",
+            "disjoint",
+            "subsequence",
+            "vps",
+            "'s"
+        ],
+        [
+            "choose",
+            "minimum",
+            "possible",
+            "value"
+        ],
+        [
+            "return",
+            "array",
+            "length",
+            "encode",
+            "choice",
+            "part",
+            "else"
+        ],
+        [
+            "note",
+            "even",
+            "though",
+            "multiple",
+            "answer",
+            "may",
+            "exist",
+            "may",
+            "return"
+        ]
+    ]
+}

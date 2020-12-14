@@ -1,0 +1,57 @@
+{
+    "id": 1261,
+    "title": "Find Elements in a Contaminated Binary Tree",
+    "title_slug": "find-elements-in-a-contaminated-binary-tree",
+    "backend_id": 1387,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "follow",
+            "rule",
+            "binary",
+            "tree",
+            "contaminate",
+            "mean",
+            "change"
+        ],
+        [
+            "need",
+            "first",
+            "recover",
+            "binary",
+            "tree",
+            "implement",
+            "class",
+            "initialize",
+            "object",
+            "contamined",
+            "binary",
+            "tree",
+            "need",
+            "recover",
+            "first"
+        ],
+        [
+            "return",
+            "value",
+            "exist",
+            "recover",
+            "binary",
+            "tree"
+        ],
+        [
+            "height",
+            "binary",
+            "tree",
+            "less",
+            "equal",
+            "total",
+            "number",
+            "node",
+            "total",
+            "call"
+        ]
+    ]
+}

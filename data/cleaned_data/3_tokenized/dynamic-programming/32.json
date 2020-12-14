@@ -1,0 +1,22 @@
+{
+    "id": 32,
+    "title": "Longest Valid Parentheses",
+    "title_slug": "longest-valid-parentheses",
+    "backend_id": 32,
+    "content": [
+        [
+            "give",
+            "string",
+            "contain",
+            "character",
+            "find",
+            "length",
+            "long",
+            "valid",
+            "well",
+            "form",
+            "parenthesis",
+            "substring"
+        ]
+    ]
+}

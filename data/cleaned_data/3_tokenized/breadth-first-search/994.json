@@ -1,0 +1,56 @@
+{
+    "id": 994,
+    "title": "Rotting Oranges",
+    "title_slug": "rotting-oranges",
+    "backend_id": 1036,
+    "content": [
+        [
+            "give",
+            "grid",
+            "cell",
+            "one",
+            "three",
+            "value",
+            "value",
+            "represent",
+            "empty",
+            "cell",
+            "value",
+            "represent",
+            "fresh",
+            "orange",
+            "value",
+            "represent",
+            "rotten",
+            "orange"
+        ],
+        [
+            "every",
+            "minute",
+            "fresh",
+            "orange",
+            "adjacent",
+            "directionally",
+            "rotten",
+            "orange",
+            "become",
+            "rotten"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "minute",
+            "must",
+            "elapse",
+            "cell",
+            "fresh",
+            "orange"
+        ],
+        [
+            "impossible",
+            "return",
+            "instead"
+        ]
+    ]
+}

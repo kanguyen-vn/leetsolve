@@ -1,0 +1,63 @@
+{
+    "id": 1024,
+    "title": "Video Stitching",
+    "title_slug": "video-stitching",
+    "backend_id": 1081,
+    "content": [
+        [
+            "give",
+            "series",
+            "video",
+            "clip",
+            "sport",
+            "event",
+            "last",
+            "second"
+        ],
+        [
+            "video",
+            "clip",
+            "overlap",
+            "varied",
+            "length"
+        ],
+        [
+            "video",
+            "clip",
+            "interval",
+            "start",
+            "time",
+            "end",
+            "time"
+        ],
+        [
+            "cut",
+            "clip",
+            "segment",
+            "freely",
+            "example",
+            "clip",
+            "cut",
+            "segment"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "clip",
+            "need",
+            "cut",
+            "clips",
+            "segment",
+            "cover",
+            "entire",
+            "sporting",
+            "event"
+        ],
+        [
+            "task",
+            "impossible",
+            "return"
+        ]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": 1078,
+    "title": "Occurrences After Bigram",
+    "title_slug": "occurrences-after-bigram",
+    "backend_id": 1156,
+    "content": [
+        [
+            "give",
+            "word",
+            "consider",
+            "occurrence",
+            "form",
+            "come",
+            "immediately",
+            "come",
+            "immediately"
+        ],
+        [
+            "occurrence",
+            "add",
+            "answer",
+            "return",
+            "answer"
+        ]
+    ]
+}

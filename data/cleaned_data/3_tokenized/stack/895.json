@@ -1,0 +1,44 @@
+{
+    "id": 895,
+    "title": "Maximum Frequency Stack",
+    "title_slug": "maximum-frequency-stack",
+    "backend_id": 931,
+    "content": [
+        [
+            "implement",
+            "class",
+            "simulate",
+            "operation",
+            "stack",
+            "like",
+            "data",
+            "structure"
+        ],
+        [
+            "two",
+            "function",
+            "push",
+            "integer",
+            "onto",
+            "stack"
+        ],
+        [
+            "remove",
+            "return",
+            "frequent",
+            "element",
+            "stack"
+        ],
+        [
+            "tie",
+            "frequent",
+            "element",
+            "element",
+            "close",
+            "top",
+            "stack",
+            "remove",
+            "return"
+        ]
+    ]
+}

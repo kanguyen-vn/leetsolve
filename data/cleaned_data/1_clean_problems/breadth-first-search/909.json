@@ -1,0 +1,7 @@
+{
+    "id": 909,
+    "title": "Snakes and Ladders",
+    "title_slug": "snakes-and-ladders",
+    "backend_id": 945,
+    "content": "On an N x N , the numbers from 1 to  are written\u00a0boustrophedonically\u00a0starting from the bottom\u00a0left of the board, and alternating direction each row.\u00a0 For example, for a 6 x 6 board, the numbers are written as follows:\n\nYou start on square 1 of the board (which is always in the last row and\u00a0first column).\u00a0 Each move, starting from square , consists of the following:\n\nYou choose a destination square  with number\u00a0, , , , , or , provided this\u00a0number is\u00a0.\n\n\t\n(This choice simulates the result of a standard 6-sided die roll: ie., there are always at most 6 destinations, regardless of the size of the board.)\n\n\nIf \u00a0has a snake or ladder, you move to the destination of that snake or ladder.\u00a0 Otherwise, you move to .\n\nA board square on row  and column \u00a0has a \"snake or ladder\" if .\u00a0 The destination of that snake or ladder is .\nNote that you only take a snake or ladder at most once per move: if the destination to a snake or ladder is the start of another\u00a0snake or ladder, you do not continue moving.\u00a0 (For example, if the board is `[[4,-1],[-1,3]]`, and on the first move your destination square is `2`, then you finish your first move at\u00a0`3`, because you do not continue moving to `4`.)\nReturn the least number of moves required to reach square .\u00a0 If it is not possible, return .\n\n\n"
+}

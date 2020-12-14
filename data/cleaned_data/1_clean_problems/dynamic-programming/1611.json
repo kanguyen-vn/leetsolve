@@ -1,0 +1,7 @@
+{
+    "id": 1611,
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "title_slug": "minimum-one-bit-operations-to-make-integers-zero",
+    "backend_id": 1732,
+    "content": "Given an integer , you must transform it into 0 using the following operations any number of times:\n\nChange the rightmost () bit in the binary representation of .\nChange the  bit in the binary representation of  if the  bit is set to 1 and the  through  bits are set to 0.\n\nReturn the minimum number of operations to transform  into 0.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

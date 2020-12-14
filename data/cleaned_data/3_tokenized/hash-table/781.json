@@ -1,0 +1,34 @@
+{
+    "id": 781,
+    "title": "Rabbits in Forest",
+    "title_slug": "rabbits-in-forest",
+    "backend_id": 797,
+    "content": [
+        [
+            "forest",
+            "rabbit",
+            "color"
+        ],
+        [
+            "subset",
+            "rabbit",
+            "possibly",
+            "tell",
+            "many",
+            "rabbit",
+            "color"
+        ],
+        [
+            "place",
+            "array"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "rabbit",
+            "could",
+            "forest"
+        ]
+    ]
+}

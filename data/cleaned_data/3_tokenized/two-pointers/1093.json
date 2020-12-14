@@ -1,0 +1,76 @@
+{
+    "id": 1093,
+    "title": "Statistics from a Large Sample",
+    "title_slug": "statistics-from-a-large-sample",
+    "backend_id": 1183,
+    "content": [
+        [
+            "sample",
+            "integer",
+            "store",
+            "result",
+            "array",
+            "number",
+            "integer",
+            "sample",
+            "equal"
+        ],
+        [
+            "return",
+            "minimum",
+            "maximum",
+            "mean",
+            "median",
+            "mode",
+            "sample",
+            "respectively",
+            "array",
+            "float",
+            "point",
+            "number"
+        ],
+        [
+            "mode",
+            "guarantee",
+            "unique"
+        ],
+        [
+            "recall",
+            "median",
+            "sample",
+            "middle",
+            "element",
+            "element",
+            "sample",
+            "sort",
+            "number",
+            "element",
+            "odd",
+            "average",
+            "middle",
+            "two",
+            "element",
+            "element",
+            "sample",
+            "sort",
+            "number",
+            "element",
+            "even"
+        ],
+        [
+            "mode",
+            "sample",
+            "count",
+            "represent",
+            "unique"
+        ],
+        [
+            "answer",
+            "within",
+            "true",
+            "value",
+            "accept",
+            "correct"
+        ]
+    ]
+}

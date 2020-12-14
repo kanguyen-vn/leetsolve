@@ -1,0 +1,7 @@
+{
+    "id": 984,
+    "title": "String Without AAA or BBB",
+    "title_slug": "string-without-aaa-or-bbb",
+    "backend_id": 1026,
+    "content": "Given two integers  and , return any string  such that:\n\n has length  and contains exactly   letters, and exactly   letters;\nThe substring\u00a0\u00a0does not occur in ;\nThe substring  does not occur in .\n\n\u00a0\n\n\n\n"
+}

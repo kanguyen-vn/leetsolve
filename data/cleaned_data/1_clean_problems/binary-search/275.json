@@ -1,0 +1,7 @@
+{
+    "id": 275,
+    "title": "H-Index II",
+    "title_slug": "h-index-ii",
+    "backend_id": 275,
+    "content": "Given an array of citations sorted\u00a0in ascending order (each citation is a non-negative integer) of a researcher, write a function to compute the researcher's h-index.\nAccording to the\u00a0definition of h-index on Wikipedia: \"A scientist has index\u00a0h\u00a0if\u00a0h\u00a0of his/her\u00a0N\u00a0papers have\u00a0at least\u00a0h\u00a0citations each, and the other\u00a0N \u2212 h\u00a0papers have\u00a0no more than\u00a0h\u00a0citations each.\"\n\n\n"
+}

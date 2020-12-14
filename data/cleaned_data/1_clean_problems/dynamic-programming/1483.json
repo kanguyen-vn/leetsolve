@@ -1,0 +1,7 @@
+{
+    "id": 1483,
+    "title": "Kth Ancestor of a Tree Node",
+    "title_slug": "kth-ancestor-of-a-tree-node",
+    "backend_id": 1296,
+    "content": "You are given a tree with\u00a0\u00a0nodes numbered from\u00a00\u00a0to\u00a0\u00a0in the form of a parent array where \u00a0is the parent of node . The root of the tree is node 0.\nImplement the function\u00a0\u00a0to return the -th ancestor of the given\u00a0. If there is no such ancestor, return\u00a0.\nThe\u00a0k-th\u00a0ancestor\u00a0of a tree node is the -th node\u00a0in the path\u00a0from that node to the root.\n\u00a0\n\n\n\n\u00a0\n\n\n\n\u00a0indicating that\u00a00\u00a0is the root node.\n\u00a0for all\u00a0\n\nThere will be at most  queries.\n"
+}

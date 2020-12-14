@@ -1,0 +1,7 @@
+{
+    "id": 424,
+    "title": "Longest Repeating Character Replacement",
+    "title_slug": "longest-repeating-character-replacement",
+    "backend_id": 424,
+    "content": "<div><p>Given a string <code>s</code>&nbsp;that consists of only uppercase English letters, you can perform at most <code>k</code> operations on that string.</p>\n\n<p>In one operation, you can choose <strong>any</strong> character of the string and change it to any other uppercase English character.</p>\n\n<p>Find the length of the longest sub-string containing all repeating letters you can get after performing the above operations.</p>\n\n<p><b>Note:</b><br>\nBoth the string's length and <i>k</i> will not exceed 10<sup>4</sup>.</p>\n\n<p><b>Example 1:</b></p>\n\n<pre><b>Input:</b>\ns = \"ABAB\", k = 2\n\n<b>Output:</b>\n4\n\n<b>Explanation:</b>\nReplace the two 'A's with two 'B's or vice versa.\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Example 2:</b></p>\n\n<pre><b>Input:</b>\ns = \"AABABBA\", k = 1\n\n<b>Output:</b>\n4\n\n<b>Explanation:</b>\nReplace the one 'A' in the middle with 'B' and form \"AABBBBA\".\nThe substring \"BBBB\" has the longest repeating letters, which is 4.\n</pre>\n\n<p>&nbsp;</p>\n</div>"
+}

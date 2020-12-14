@@ -1,0 +1,38 @@
+{
+    "id": 1092,
+    "title": "Shortest Common Supersequence",
+    "title_slug": "shortest-common-supersequence",
+    "backend_id": 1170,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "return",
+            "short",
+            "string",
+            "subsequence"
+        ],
+        [
+            "multiple",
+            "answer",
+            "exist",
+            "may",
+            "return"
+        ],
+        [
+            "string",
+            "subsequence",
+            "string",
+            "delete",
+            "number",
+            "character",
+            "possibly",
+            "character",
+            "choose",
+            "anywhere",
+            "result",
+            "string"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1562,
+    "title": "Find Latest Group of Size M",
+    "title_slug": "find-latest-group-of-size-m",
+    "backend_id": 1684,
+    "content": "Given an array that represents a permutation of numbers from 1 to . You have a binary string of size that initially has all its bits set to zero. At each step (assuming both the binary string and are 1-indexed) from 1 to , the bit at position is set to 1. You are given an integer and you need to find the latest step at which there exists a group of ones of length . A group of ones is a contiguous substring of 1s such that it cannot be extended in either direction. Return the latest step at which there exists a group of ones of length exactly . If no such group exists, return . All integers in are distinct."
+}

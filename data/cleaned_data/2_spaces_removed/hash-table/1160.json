@@ -1,0 +1,7 @@
+{
+    "id": 1160,
+    "title": "Find Words That Can Be Formed by Characters",
+    "title_slug": "find-words-that-can-be-formed-by-characters",
+    "backend_id": 1112,
+    "content": "You are given an array of strings and a string . A string is good if it can be formed by characters from (each character can only be used once). Return the sum of lengths of all good strings in . All strings contain lowercase English letters only."
+}

@@ -1,0 +1,25 @@
+{
+    "id": 1147,
+    "title": "Longest Chunked Palindrome Decomposition",
+    "title_slug": "longest-chunked-palindrome-decomposition",
+    "backend_id": 1251,
+    "content": [
+        [
+            "return",
+            "large",
+            "possible",
+            "exist",
+            "non",
+            "empty",
+            "string",
+            "concatenation",
+            "equal"
+        ],
+        [
+            "consist",
+            "lowercase",
+            "english",
+            "character"
+        ]
+    ]
+}

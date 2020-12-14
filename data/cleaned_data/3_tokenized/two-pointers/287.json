@@ -1,0 +1,26 @@
+{
+    "id": 287,
+    "title": "Find the Duplicate Number",
+    "title_slug": "find-the-duplicate-number",
+    "backend_id": 287,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "contain",
+            "integer",
+            "integer",
+            "range",
+            "inclusive"
+        ],
+        [
+            "one",
+            "duplicate",
+            "number",
+            "return",
+            "duplicate",
+            "number"
+        ]
+    ]
+}

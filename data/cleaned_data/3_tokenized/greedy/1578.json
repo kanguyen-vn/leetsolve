@@ -1,0 +1,47 @@
+{
+    "id": 1578,
+    "title": "Minimum Deletion Cost to Avoid Repeating Letters",
+    "title_slug": "minimum-deletion-cost-to-avoid-repeating-letters",
+    "backend_id": 1700,
+    "content": [
+        [
+            "give",
+            "string",
+            "array",
+            "integer",
+            "cost",
+            "delete",
+            "character"
+        ],
+        [
+            "return",
+            "minimum",
+            "cost",
+            "deletion",
+            "two",
+            "identical",
+            "letter",
+            "next"
+        ],
+        [
+            "notice",
+            "delete",
+            "chosen",
+            "character",
+            "time",
+            "word",
+            "delete",
+            "character",
+            "cost",
+            "delete",
+            "character",
+            "change"
+        ],
+        [
+            "contain",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

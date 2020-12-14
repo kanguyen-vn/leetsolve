@@ -1,0 +1,7 @@
+{
+    "id": 1123,
+    "title": "Lowest Common Ancestor of Deepest Leaves",
+    "title_slug": "lowest-common-ancestor-of-deepest-leaves",
+    "backend_id": 1218,
+    "content": "Given the of a binary tree, return the lowest common ancestor of its deepest leaves. Recall that: The node of a binary tree is a leaf if and only if it has no children The depth of the root of the tree is 0. if the depth of a node is , the depth of each of its children is . The lowest common ancestor of a set of nodes, is the node with the largest depth such that every node in is in the subtree with root ."
+}

@@ -1,0 +1,7 @@
+{
+    "id": 943,
+    "title": "Find the Shortest Superstring",
+    "title_slug": "find-the-shortest-superstring",
+    "backend_id": 980,
+    "content": "Given an array A of strings, find any\u00a0smallest string that contains each string in  as a\u00a0substring.\nWe may assume that no string in  is substring of another string in .\n\n\n"
+}

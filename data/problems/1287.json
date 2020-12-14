@@ -1,0 +1,7 @@
+{
+    "id": 1287,
+    "title": "Element Appearing More Than 25% In Sorted Array",
+    "title_slug": "element-appearing-more-than-25-in-sorted-array",
+    "backend_id": 1221,
+    "content": "<div><p>Given an&nbsp;integer array&nbsp;<strong>sorted</strong> in non-decreasing order, there is exactly one integer in the array that occurs more than 25% of the time.</p>\n\n<p>Return that integer.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> arr = [1,2,2,6,6,6,6,7,10]\n<strong>Output:</strong> 6\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= arr.length &lt;= 10^4</code></li>\n\t<li><code>0 &lt;= arr[i] &lt;= 10^5</code></li>\n</ul></div>"
+}

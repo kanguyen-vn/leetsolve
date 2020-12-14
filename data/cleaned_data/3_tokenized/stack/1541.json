@@ -1,0 +1,72 @@
+{
+    "id": 1541,
+    "title": "Minimum Insertions to Balance a Parentheses String",
+    "title_slug": "minimum-insertions-to-balance-a-parentheses-string",
+    "backend_id": 1648,
+    "content": [
+        [
+            "give",
+            "parenthesis",
+            "string",
+            "contain",
+            "character"
+        ],
+        [
+            "parenthesis",
+            "string",
+            "balanced",
+            "left",
+            "parenthesis",
+            "must",
+            "correspond",
+            "two",
+            "consecutive",
+            "right",
+            "parenthesis"
+        ],
+        [
+            "left",
+            "parenthesis",
+            "must",
+            "go",
+            "correspond",
+            "two",
+            "consecutive",
+            "right",
+            "parenthesis"
+        ],
+        [
+            "word",
+            "treat",
+            "openning",
+            "parenthesis",
+            "closing",
+            "parenthesis"
+        ],
+        [
+            "example",
+            "balance",
+            "balance"
+        ],
+        [
+            "insert",
+            "character",
+            "position",
+            "string",
+            "balance",
+            "need"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "insertion",
+            "need",
+            "make",
+            "balanced"
+        ],
+        [
+            "consist"
+        ]
+    ]
+}

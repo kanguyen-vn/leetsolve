@@ -1,0 +1,59 @@
+{
+    "id": 993,
+    "title": "Cousins in Binary Tree",
+    "title_slug": "cousins-in-binary-tree",
+    "backend_id": 1035,
+    "content": [
+        [
+            "binary",
+            "tree",
+            "root",
+            "node",
+            "depth",
+            "child",
+            "depth",
+            "node",
+            "depth"
+        ],
+        [
+            "two",
+            "node",
+            "binary",
+            "tree",
+            "cousin",
+            "depth",
+            "different",
+            "parent"
+        ],
+        [
+            "give",
+            "binary",
+            "tree",
+            "unique",
+            "value",
+            "value",
+            "two",
+            "different",
+            "node",
+            "tree"
+        ],
+        [
+            "return",
+            "node",
+            "correspond",
+            "value",
+            "cousin"
+        ],
+        [
+            "number",
+            "node",
+            "tree"
+        ],
+        [
+            "node",
+            "unique",
+            "integer",
+            "value"
+        ]
+    ]
+}

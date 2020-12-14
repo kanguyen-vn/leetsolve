@@ -1,0 +1,7 @@
+{
+    "id": 29,
+    "title": "Divide Two Integers",
+    "title_slug": "divide-two-integers",
+    "backend_id": 29,
+    "content": "Given two integers and , divide two integers without using multiplication, division, and mod operator. Return the quotient after dividing by . The integer division should truncate toward zero, which means losing its fractional part. For example, and ."
+}

@@ -1,0 +1,7 @@
+{
+    "id": 445,
+    "title": "Add Two Numbers II",
+    "title_slug": "add-two-numbers-ii",
+    "backend_id": 445,
+    "content": "<div><p>You are given two <b>non-empty</b> linked lists representing two non-negative integers. The most significant digit comes first and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.</p>\n\n<p>You may assume the two numbers do not contain any leading zero, except the number 0 itself.</p>\n\n<p><b>Follow up:</b><br>\nWhat if you cannot modify the input lists? In other words, reversing the lists is not allowed.\n</p>\n\n<p>\n<b>Example:</b>\n</p><pre><b>Input:</b> (7 -&gt; 2 -&gt; 4 -&gt; 3) + (5 -&gt; 6 -&gt; 4)\n<b>Output:</b> 7 -&gt; 8 -&gt; 0 -&gt; 7\n</pre>\n<p></p></div>"
+}

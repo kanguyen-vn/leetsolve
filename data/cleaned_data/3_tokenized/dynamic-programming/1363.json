@@ -1,0 +1,49 @@
+{
+    "id": 1363,
+    "title": "Largest Multiple of Three",
+    "title_slug": "largest-multiple-of-three",
+    "backend_id": 1277,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "return",
+            "large",
+            "multiple",
+            "three",
+            "form",
+            "concatenate",
+            "give",
+            "digit",
+            "order"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "fit",
+            "integer",
+            "data",
+            "type",
+            "return",
+            "answer",
+            "string"
+        ],
+        [
+            "answer",
+            "return",
+            "empty",
+            "string"
+        ],
+        [
+            "return",
+            "answer",
+            "must",
+            "contain",
+            "unnecessary",
+            "lead",
+            "zero"
+        ]
+    ]
+}

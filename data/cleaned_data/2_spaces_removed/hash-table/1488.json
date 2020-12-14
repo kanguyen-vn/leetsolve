@@ -1,0 +1,7 @@
+{
+    "id": 1488,
+    "title": "Avoid Flood in The City",
+    "title_slug": "avoid-flood-in-the-city",
+    "backend_id": 1612,
+    "content": "Your country has an infinite number of lakes. Initially, all the lakes are empty, but when it rains over the lake, the lake becomes full of water. If it rains over a lake which is full of water, there will be a flood. Your goal is to avoid the flood in any lake. Given an integer array where: means there will be rains over the lake. means there are no rains this day and you can choose one lake this day and dry it. Return an array where: if . is the lake you choose to dry in the day if . If there are multiple valid answers return any of them. If it is impossible to avoid flood return an empty array. Notice that if you chose to dry a full lake, it becomes empty, but if you chose to dry an empty lake, nothing changes. (see example 4)"
+}

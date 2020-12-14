@@ -1,0 +1,7 @@
+{
+    "id": 1002,
+    "title": "Find Common Characters",
+    "title_slug": "find-common-characters",
+    "backend_id": 1044,
+    "content": "<div><p>Given an array&nbsp;<code>A</code> of strings made only from lowercase letters, return a list of all characters that show up in all strings within the list <strong>(including duplicates)</strong>.&nbsp;&nbsp;For example, if a character occurs 3 times&nbsp;in all strings but not 4 times, you need to include that character three times&nbsp;in the final answer.</p>\n\n<p>You may return the answer in any order.</p>\n\n<p>&nbsp;</p>\n\n<div>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-1-1\">[\"bella\",\"label\",\"roller\"]</span>\n<strong>Output: </strong><span id=\"example-output-1\">[\"e\",\"l\",\"l\"]</span>\n</pre>\n\n<div>\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-2-1\">[\"cool\",\"lock\",\"cook\"]</span>\n<strong>Output: </strong><span id=\"example-output-2\">[\"c\",\"o\"]</span>\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong><span>Note:</span></strong></p>\n\n<ol>\n\t<li><code>1 &lt;= A.length &lt;= 100</code></li>\n\t<li><code>1 &lt;= A[i].length &lt;= 100</code></li>\n\t<li><code>A[i][j]</code> is a lowercase letter</li>\n</ol>\n</div>\n</div></div>"
+}

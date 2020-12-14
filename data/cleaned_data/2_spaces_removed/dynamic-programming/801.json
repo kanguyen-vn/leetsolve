@@ -1,0 +1,7 @@
+{
+    "id": 801,
+    "title": "Minimum Swaps To Make Sequences Increasing",
+    "title_slug": "minimum-swaps-to-make-sequences-increasing",
+    "backend_id": 819,
+    "content": "We have two integer sequences and of the same non-zero length. We are allowed to swap elements and . Note that both elements are in the same index position in their respective sequences. At the end of some number of swaps, and are both strictly increasing. (A sequence is strictly increasing if and only if .) Given A and B, return the minimum number of swaps to make both sequences strictly increasing. It is guaranteed that the given input always makes it possible."
+}

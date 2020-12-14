@@ -1,0 +1,7 @@
+{
+    "id": 313,
+    "title": "Super Ugly Number",
+    "title_slug": "super-ugly-number",
+    "backend_id": 313,
+    "content": "<div><p>Write a program to find the <code>n<sup>th</sup></code> super ugly number.</p>\n\n<p>Super ugly numbers are positive numbers whose all prime factors are in the given prime list <code>primes</code> of size <code>k</code>.</p>\n\n<p><b>Example:</b></p>\n\n<pre><b>Input:</b> n = 12, <code>primes</code> = <code>[2,7,13,19]</code>\n<b>Output:</b> 32 \n<strong>Explanation: </strong><code>[1,2,4,7,8,13,14,16,19,26,28,32] </code>is the sequence of the first 12 \n             super ugly numbers given <code>primes</code> = <code>[2,7,13,19]</code> of size 4.</pre>\n\n<p><b>Note:</b></p>\n\n<ul>\n\t<li><code>1</code> is a super ugly number for any given <code>primes</code>.</li>\n\t<li>The given numbers in <code>primes</code> are in ascending order.</li>\n\t<li>0 &lt; <code>k</code> \u2264 100, 0 &lt; <code>n</code> \u2264 10<sup>6</sup>, 0 &lt; <code>primes[i]</code> &lt; 1000.</li>\n\t<li>The n<sup>th</sup> super ugly number is guaranteed to fit in a 32-bit signed integer.</li>\n</ul>\n</div>"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 46,
+    "title": "Permutations",
+    "title_slug": "permutations",
+    "backend_id": 46,
+    "content": "Given an array of distinct integers, return all the possible permutations. You can return the answer in any order. All the integers of are unique."
+}

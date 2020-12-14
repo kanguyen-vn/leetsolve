@@ -1,0 +1,7 @@
+{
+    "id": 1349,
+    "title": "Maximum Students Taking Exam",
+    "title_slug": "maximum-students-taking-exam",
+    "backend_id": 1471,
+    "content": "Given a \u00a0matrix \u00a0\u00a0that represent seats distributions\u00a0in a classroom.\u00a0If a seat\u00a0is\u00a0broken, it is denoted by  character otherwise it is denoted by a  character.\nStudents can see the answers of those sitting next to the left, right, upper left and upper right, but he cannot see the answers of the student sitting\u00a0directly in front or behind him. Return the maximum number of students that can take the exam together\u00a0without any cheating being possible..\nStudents must be placed in seats in good condition.\n\u00a0\n\n\n\n\n\n\n\n\u00a0\n\n\n\u00a0contains only characters\u00a0\n\n\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 817,
+    "title": "Linked List Components",
+    "title_slug": "linked-list-components",
+    "backend_id": 835,
+    "content": "<div><p>We are given&nbsp;<code>head</code>,&nbsp;the head node of a linked list containing&nbsp;<strong>unique integer values</strong>.</p>\n\n<p>We are also given the list&nbsp;<code>G</code>, a subset of the values in the linked list.</p>\n\n<p>Return the number of connected components in <code>G</code>, where two values are connected if they appear consecutively in the linked list.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> \nhead: 0-&gt;1-&gt;2-&gt;3\nG = [0, 1, 3]\n<strong>Output:</strong> 2\n<strong>Explanation:</strong> \n0 and 1 are connected, so [0, 1] and [3] are the two connected components.\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> \nhead: 0-&gt;1-&gt;2-&gt;3-&gt;4\nG = [0, 3, 1, 4]\n<strong>Output:</strong> 2\n<strong>Explanation:</strong> \n0 and 1 are connected, 3 and 4 are connected, so [0, 1] and [3, 4] are the two connected components.\n</pre>\n\n<p><strong>Note: </strong></p>\n\n<ul>\n\t<li>If&nbsp;<code>N</code>&nbsp;is the&nbsp;length of the linked list given by&nbsp;<code>head</code>,&nbsp;<code>1 &lt;= N &lt;= 10000</code>.</li>\n\t<li>The value of each node in the linked list will be in the range<code> [0, N - 1]</code>.</li>\n\t<li><code>1 &lt;= G.length &lt;= 10000</code>.</li>\n\t<li><code>G</code> is a subset of all values in the linked list.</li>\n</ul>\n</div>"
+}

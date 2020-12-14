@@ -1,0 +1,72 @@
+{
+    "id": 1631,
+    "title": "Path With Minimum Effort",
+    "title_slug": "path-with-minimum-effort",
+    "backend_id": 1753,
+    "content": [
+        [
+            "hiker",
+            "prepare",
+            "upcoming",
+            "hike"
+        ],
+        [
+            "give",
+            "2d",
+            "array",
+            "size",
+            "represent",
+            "height",
+            "cell"
+        ],
+        [
+            "situate",
+            "top",
+            "left",
+            "cell",
+            "hope",
+            "travel",
+            "bottom",
+            "right",
+            "cell",
+            "indexed"
+        ],
+        [
+            "move",
+            "leave",
+            "right",
+            "wish",
+            "find",
+            "route",
+            "require",
+            "minimum",
+            "effort"
+        ],
+        [
+            "route",
+            "'s",
+            "effort",
+            "maximum",
+            "absolute",
+            "difference",
+            "height",
+            "two",
+            "consecutive",
+            "cell",
+            "route"
+        ],
+        [
+            "return",
+            "minimum",
+            "effort",
+            "require",
+            "travel",
+            "top",
+            "leave",
+            "cell",
+            "bottom",
+            "right",
+            "cell"
+        ]
+    ]
+}

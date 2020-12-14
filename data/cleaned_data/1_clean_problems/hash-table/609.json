@@ -1,0 +1,7 @@
+{
+    "id": 609,
+    "title": "Find Duplicate File in System",
+    "title_slug": "find-duplicate-file-in-system",
+    "backend_id": 609,
+    "content": "Given a list of directory info including directory path, and all the files with contents in this directory, you need to find out all the groups of duplicate files in the file system in terms of their paths.\nA group of duplicate files consists of at least two files that have exactly the same content.\nA single directory info string in the input list has the following format:\n\nIt means there are n files (,  ...  with content ,  ... , respectively) in directory . Note that n &gt;= 1 and m &gt;= 0. If m = 0, it means the directory is just the root directory.\nThe output is a list of group of duplicate file paths. For each group, it contains all the file paths of the files that have the same content. A file path is a string that has the following format:\n\n\n\n\u00a0\n"
+}

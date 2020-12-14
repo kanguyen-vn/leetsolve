@@ -1,0 +1,40 @@
+{
+    "id": 275,
+    "title": "H-Index II",
+    "title_slug": "h-index-ii",
+    "backend_id": 275,
+    "content": [
+        [
+            "give",
+            "array",
+            "citation",
+            "sort",
+            "ascend",
+            "order",
+            "citation",
+            "non",
+            "negative",
+            "integer",
+            "researcher",
+            "write",
+            "function",
+            "compute",
+            "researcher",
+            "'s",
+            "index"
+        ],
+        [
+            "accord",
+            "definition",
+            "index",
+            "wikipedia",
+            "scientist",
+            "index",
+            "paper",
+            "least",
+            "citation",
+            "paper",
+            "citation"
+        ]
+    ]
+}

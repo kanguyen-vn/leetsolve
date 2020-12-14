@@ -1,0 +1,7 @@
+{
+    "id": 171,
+    "title": "Excel Sheet Column Number",
+    "title_slug": "excel-sheet-column-number",
+    "backend_id": 171,
+    "content": "<div><p>Given a column title as appear in an Excel sheet, return its corresponding column number.</p>\n\n<p>For example:</p>\n\n<pre>    A -&gt; 1\n    B -&gt; 2\n    C -&gt; 3\n    ...\n    Z -&gt; 26\n    AA -&gt; 27\n    AB -&gt; 28 \n    ...\n</pre>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> \"A\"\n<strong>Output:</strong> 1\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong>\"AB\"\n<strong>Output:</strong> 28\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input: </strong>\"ZY\"\n<strong>Output:</strong> 701\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= s.length &lt;= 7</code></li>\n\t<li><code>s</code> consists only of uppercase English letters.</li>\n\t<li><code>s</code> is between \"A\" and \"FXSHRXW\".</li>\n</ul>\n</div>"
+}

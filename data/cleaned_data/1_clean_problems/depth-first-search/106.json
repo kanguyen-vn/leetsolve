@@ -1,0 +1,7 @@
+{
+    "id": 106,
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "title_slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+    "backend_id": 106,
+    "content": "Given inorder and postorder traversal of a tree, construct the binary tree.\n"
+}

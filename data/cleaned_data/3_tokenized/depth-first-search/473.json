@@ -1,0 +1,68 @@
+{
+    "id": 473,
+    "title": "Matchsticks to Square",
+    "title_slug": "matchsticks-to-square",
+    "backend_id": 473,
+    "content": [
+        [
+            "remember",
+            "story",
+            "little",
+            "match",
+            "girl"
+        ],
+        [
+            "know",
+            "exactly",
+            "matchsticks",
+            "little",
+            "match",
+            "girl",
+            "please",
+            "find",
+            "way",
+            "make",
+            "one",
+            "square",
+            "use",
+            "matchstick"
+        ],
+        [
+            "break",
+            "stick",
+            "link",
+            "matchstick",
+            "must",
+            "use",
+            "exactly",
+            "one",
+            "time"
+        ],
+        [
+            "input",
+            "several",
+            "matchstick",
+            "girl",
+            "represent",
+            "stick",
+            "length"
+        ],
+        [
+            "output",
+            "either",
+            "true",
+            "false",
+            "represent",
+            "whether",
+            "could",
+            "make",
+            "one",
+            "square",
+            "use",
+            "matchstick",
+            "little",
+            "match",
+            "girl"
+        ]
+    ]
+}

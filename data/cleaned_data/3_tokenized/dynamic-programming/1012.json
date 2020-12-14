@@ -1,0 +1,22 @@
+{
+    "id": 1012,
+    "title": "Numbers With Repeated Digits",
+    "title_slug": "numbers-with-repeated-digits",
+    "backend_id": 1057,
+    "content": [
+        [
+            "give",
+            "positive",
+            "integer",
+            "return",
+            "number",
+            "positive",
+            "integer",
+            "less",
+            "equal",
+            "least",
+            "repeat",
+            "digit"
+        ]
+    ]
+}

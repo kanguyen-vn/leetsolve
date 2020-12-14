@@ -1,0 +1,17 @@
+{
+    "id": 242,
+    "title": "Valid Anagram",
+    "title_slug": "valid-anagram",
+    "backend_id": 242,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "write",
+            "function",
+            "determine",
+            "anagram"
+        ]
+    ]
+}

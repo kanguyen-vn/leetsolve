@@ -1,0 +1,55 @@
+{
+    "id": 986,
+    "title": "Interval List Intersections",
+    "title_slug": "interval-list-intersections",
+    "backend_id": 1028,
+    "content": [
+        [
+            "give",
+            "two",
+            "list",
+            "close",
+            "interval",
+            "list",
+            "interval",
+            "pairwise",
+            "disjoint",
+            "sort",
+            "order"
+        ],
+        [
+            "return",
+            "intersection",
+            "two",
+            "interval",
+            "list"
+        ],
+        [
+            "formally",
+            "close",
+            "interval",
+            "denote",
+            "set",
+            "real",
+            "number"
+        ],
+        [
+            "intersection",
+            "two",
+            "close",
+            "interval",
+            "set",
+            "real",
+            "number",
+            "either",
+            "empty",
+            "represent",
+            "closed",
+            "interval"
+        ],
+        [
+            "example",
+            "intersection"
+        ]
+    ]
+}

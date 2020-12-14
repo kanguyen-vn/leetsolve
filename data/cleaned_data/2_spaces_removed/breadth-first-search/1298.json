@@ -1,0 +1,7 @@
+{
+    "id": 1298,
+    "title": "Maximum Candies You Can Get from Boxes",
+    "title_slug": "maximum-candies-you-can-get-from-boxes",
+    "backend_id": 1424,
+    "content": "Given boxes, each box is given in the format where: : an integer which is 1 if is open and 0 if is closed. : an integer representing the number of candies in . : an array contains the indices of the boxes you can open with the key in . : an array contains the indices of the boxes found in . You will start with some boxes given in array. You can take all the candies in any open box and you can use the keys in it to open new boxes and you also can use the boxes you find in it. Return the maximum number of candies you can get following the rules above. is 0 or 1. All values in are unique. All values in are unique. Each box is contained in one box at most."
+}

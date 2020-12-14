@@ -1,0 +1,7 @@
+{
+    "id": 84,
+    "title": "Largest Rectangle in Histogram",
+    "title_slug": "largest-rectangle-in-histogram",
+    "backend_id": 84,
+    "content": "Given n non-negative integers representing the histogram's bar height where the width of each bar is 1, find the area of largest rectangle in the histogram."
+}

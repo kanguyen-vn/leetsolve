@@ -1,0 +1,78 @@
+{
+    "id": 1595,
+    "title": "Minimum Cost to Connect Two Groups of Points",
+    "title_slug": "minimum-cost-to-connect-two-groups-of-points",
+    "backend_id": 1717,
+    "content": [
+        [
+            "give",
+            "two",
+            "group",
+            "point",
+            "first",
+            "group",
+            "point",
+            "second",
+            "group",
+            "point"
+        ],
+        [
+            "connection",
+            "two",
+            "point",
+            "give",
+            "matrix",
+            "cost",
+            "connect",
+            "point",
+            "first",
+            "group",
+            "point",
+            "second",
+            "group"
+        ],
+        [
+            "group",
+            "connect",
+            "point",
+            "group",
+            "connect",
+            "one",
+            "point",
+            "opposite",
+            "group"
+        ],
+        [
+            "word",
+            "point",
+            "first",
+            "group",
+            "must",
+            "connect",
+            "least",
+            "one",
+            "point",
+            "second",
+            "group",
+            "point",
+            "second",
+            "group",
+            "must",
+            "connect",
+            "least",
+            "one",
+            "point",
+            "first",
+            "group"
+        ],
+        [
+            "return",
+            "minimum",
+            "cost",
+            "take",
+            "connect",
+            "two",
+            "group"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 646,
+    "title": "Maximum Length of Pair Chain",
+    "title_slug": "maximum-length-of-pair-chain",
+    "backend_id": 646,
+    "content": "<div><p>\nYou are given <code>n</code> pairs of numbers. In every pair, the first number is always smaller than the second number.\n</p>\n\n<p>\nNow, we define a pair <code>(c, d)</code> can follow another pair <code>(a, b)</code> if and only if <code>b &lt; c</code>. Chain of pairs can be formed in this fashion. \n</p>\n\n<p>\nGiven a set of pairs, find the length longest chain which can be formed. You needn't use up all the given pairs. You can select pairs in any order.\n</p>\n\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> [[1,2], [2,3], [3,4]]\n<b>Output:</b> 2\n<b>Explanation:</b> The longest chain is [1,2] -&gt; [3,4]\n</pre>\n<p></p>\n\n<p><b>Note:</b><br>\n</p><ol>\n<li>The number of given pairs will be in the range [1, 1000].</li>\n</ol>\n<p></p></div>"
+}

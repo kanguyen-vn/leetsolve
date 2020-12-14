@@ -1,0 +1,7 @@
+{
+    "id": 127,
+    "title": "Word Ladder",
+    "title_slug": "word-ladder",
+    "backend_id": 127,
+    "content": "Given two words (beginWord and endWord), and a dictionary's word list, find the length of shortest transformation sequence from beginWord to endWord, such that:\n\nOnly one letter can be changed at a time.\nEach transformed word must exist in the word list.\n\n"
+}

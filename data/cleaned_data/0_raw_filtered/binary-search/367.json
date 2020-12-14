@@ -1,0 +1,7 @@
+{
+    "id": 367,
+    "title": "Valid Perfect Square",
+    "title_slug": "valid-perfect-square",
+    "backend_id": 367,
+    "content": "<div><p>Given a <strong>positive</strong> integer <i>num</i>, write a function which returns True if <i>num</i> is a perfect square else False.</p>\n\n<p><b>Follow up:</b> <b>Do not</b> use any built-in library function such as <code>sqrt</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> num = 16\n<strong>Output:</strong> true\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> num = 14\n<strong>Output:</strong> false\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= num &lt;= 2^31 - 1</code></li>\n</ul>\n</div>"
+}

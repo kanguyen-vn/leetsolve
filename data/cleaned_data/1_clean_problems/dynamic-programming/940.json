@@ -1,0 +1,7 @@
+{
+    "id": 940,
+    "title": "Distinct Subsequences II",
+    "title_slug": "distinct-subsequences-ii",
+    "backend_id": 977,
+    "content": "Given a string , count the number of distinct, non-empty subsequences of  .\nSince the result may be large, return the answer modulo .\n\u00a0\n\n\n\n\u00a0\n\u00a0\n"
+}

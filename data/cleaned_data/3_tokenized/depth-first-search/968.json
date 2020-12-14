@@ -1,0 +1,35 @@
+{
+    "id": 968,
+    "title": "Binary Tree Cameras",
+    "title_slug": "binary-tree-cameras",
+    "backend_id": 1008,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "install",
+            "camera",
+            "node",
+            "tree"
+        ],
+        [
+            "camera",
+            "node",
+            "monitor",
+            "parent",
+            "immediate",
+            "child"
+        ],
+        [
+            "calculate",
+            "minimum",
+            "number",
+            "camera",
+            "need",
+            "monitor",
+            "node",
+            "tree"
+        ]
+    ]
+}

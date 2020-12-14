@@ -1,0 +1,7 @@
+{
+    "id": 856,
+    "title": "Score of Parentheses",
+    "title_slug": "score-of-parentheses",
+    "backend_id": 886,
+    "content": "Given a balanced parentheses string , compute the score of the string based on the following rule: has score 1 has score , where A and B are balanced parentheses strings. has score , where A is a balanced parentheses string."
+}

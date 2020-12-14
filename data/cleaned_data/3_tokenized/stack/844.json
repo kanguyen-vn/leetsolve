@@ -1,0 +1,33 @@
+{
+    "id": 844,
+    "title": "Backspace String Compare",
+    "title_slug": "backspace-string-compare",
+    "backend_id": 874,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "return",
+            "equal",
+            "type",
+            "empty",
+            "text",
+            "editor"
+        ],
+        [
+            "mean",
+            "backspace",
+            "character"
+        ],
+        [
+            "note",
+            "backspace",
+            "empty",
+            "text",
+            "text",
+            "continue",
+            "empty"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1521,
+    "title": "Find a Value of a Mysterious Function Closest to Target",
+    "title_slug": "find-a-value-of-a-mysterious-function-closest-to-target",
+    "backend_id": 1645,
+    "content": "\nWinston was given the above mysterious function . He has an integer array  and an integer  and he wants to find the values\u00a0 and \u00a0that make\u00a0the value  minimum possible.\nReturn the minimum possible value of .\nNotice that  should be called with the values\u00a0 and  where .\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

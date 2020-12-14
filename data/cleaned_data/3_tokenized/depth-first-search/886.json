@@ -1,0 +1,50 @@
+{
+    "id": 886,
+    "title": "Possible Bipartition",
+    "title_slug": "possible-bipartition",
+    "backend_id": 922,
+    "content": [
+        [
+            "give",
+            "set",
+            "people",
+            "number",
+            "would",
+            "like",
+            "split",
+            "everyone",
+            "two",
+            "group",
+            "size"
+        ],
+        [
+            "person",
+            "may",
+            "dislike",
+            "people",
+            "go",
+            "group"
+        ],
+        [
+            "formally",
+            "mean",
+            "allow",
+            "put",
+            "people",
+            "number",
+            "group"
+        ],
+        [
+            "return",
+            "possible",
+            "split",
+            "everyone",
+            "two",
+            "group",
+            "way"
+        ],
+        [
+            "exist"
+        ]
+    ]
+}

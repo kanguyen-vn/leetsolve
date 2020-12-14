@@ -1,0 +1,41 @@
+{
+    "id": 20,
+    "title": "Valid Parentheses",
+    "title_slug": "valid-parentheses",
+    "backend_id": 20,
+    "content": [
+        [
+            "give",
+            "string",
+            "contain",
+            "character",
+            "determine",
+            "input",
+            "string",
+            "valid"
+        ],
+        [
+            "input",
+            "string",
+            "valid",
+            "open",
+            "bracket",
+            "must",
+            "close",
+            "type",
+            "bracket"
+        ],
+        [
+            "open",
+            "bracket",
+            "must",
+            "close",
+            "correct",
+            "order"
+        ],
+        [
+            "consist",
+            "parenthesis"
+        ]
+    ]
+}

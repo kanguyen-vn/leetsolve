@@ -1,0 +1,82 @@
+{
+    "id": 1130,
+    "title": "Minimum Cost Tree From Leaf Values",
+    "title_slug": "minimum-cost-tree-from-leaf-values",
+    "backend_id": 1228,
+    "content": [
+        [
+            "give",
+            "array",
+            "positive",
+            "integer",
+            "consider",
+            "binary",
+            "tree",
+            "node",
+            "either",
+            "child",
+            "value",
+            "correspond",
+            "value",
+            "leaf",
+            "order",
+            "traversal",
+            "tree"
+        ],
+        [
+            "recall",
+            "node",
+            "leaf",
+            "child"
+        ],
+        [
+            "value",
+            "non",
+            "leaf",
+            "node",
+            "equal",
+            "product",
+            "large",
+            "leaf",
+            "value",
+            "leave",
+            "right",
+            "subtree",
+            "respectively"
+        ],
+        [
+            "among",
+            "possible",
+            "binary",
+            "tree",
+            "consider",
+            "return",
+            "small",
+            "possible",
+            "sum",
+            "value",
+            "non",
+            "leaf",
+            "node"
+        ],
+        [
+            "guarantee",
+            "sum",
+            "fit",
+            "bit",
+            "integer"
+        ],
+        [
+            "guarantee",
+            "answer",
+            "fit",
+            "bit",
+            "signed",
+            "integer",
+            "ie"
+        ],
+        [
+            "less"
+        ]
+    ]
+}

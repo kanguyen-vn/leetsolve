@@ -1,0 +1,7 @@
+{
+    "id": 640,
+    "title": "Solve the Equation",
+    "title_slug": "solve-the-equation",
+    "backend_id": 640,
+    "content": "<div><p>\nSolve a given equation and return the value of <code>x</code> in the form of string \"x=#value\". The equation contains only '+', '-' operation, the variable <code>x</code> and its coefficient.\n</p>\n\n<p>\nIf there is no solution for the equation, return \"No solution\".\n</p>\n<p>\nIf there are infinite solutions for the equation, return \"Infinite solutions\".\n</p>\n<p>\nIf there is exactly one solution for the equation, we ensure that the value of <code>x</code> is an integer.\n</p>\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> \"x+5-3+x=6+x-2\"\n<b>Output:</b> \"x=2\"\n</pre>\n<p></p>\n\n<p><b>Example 2:</b><br>\n</p><pre><b>Input:</b> \"x=x\"\n<b>Output:</b> \"Infinite solutions\"\n</pre>\n<p></p>\n\n<p><b>Example 3:</b><br>\n</p><pre><b>Input:</b> \"2x=x\"\n<b>Output:</b> \"x=0\"\n</pre>\n<p></p>\n\n<p><b>Example 4:</b><br>\n</p><pre><b>Input:</b> \"2x+3x-6x=x+2\"\n<b>Output:</b> \"x=-1\"\n</pre>\n<p></p>\n\n<p><b>Example 5:</b><br>\n</p><pre><b>Input:</b> \"x=x+2\"\n<b>Output:</b> \"No solution\"\n</pre>\n<p></p></div>"
+}

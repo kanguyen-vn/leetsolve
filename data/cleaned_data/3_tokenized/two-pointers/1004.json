@@ -1,0 +1,23 @@
+{
+    "id": 1004,
+    "title": "Max Consecutive Ones III",
+    "title_slug": "max-consecutive-ones-iii",
+    "backend_id": 1046,
+    "content": [
+        [
+            "give",
+            "array",
+            "may",
+            "change",
+            "value"
+        ],
+        [
+            "return",
+            "length",
+            "long",
+            "contiguous",
+            "subarray",
+            "contain"
+        ]
+    ]
+}

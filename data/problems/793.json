@@ -1,0 +1,7 @@
+{
+    "id": 793,
+    "title": "Preimage Size of Factorial Zeroes Function",
+    "title_slug": "preimage-size-of-factorial-zeroes-function",
+    "backend_id": 809,
+    "content": "<div><p>Let <code>f(x)</code> be the number of zeroes at the end of <code>x!</code>. (Recall that <code>x! = 1 * 2 * 3 * ... * x</code>, and by convention, <code>0! = 1</code>.)</p>\n\n<p>For example, <code>f(3) = 0</code> because 3! = 6 has no zeroes at the end, while <code>f(11) = 2</code> because 11! = 39916800 has 2 zeroes at the end. Given <code>K</code>, find how many non-negative integers <code>x</code> have the property that <code>f(x) = K</code>.</p>\n\n<pre><strong>Example 1:</strong>\n<strong>Input:</strong> K = 0\n<strong>Output:</strong> 5\n<strong>Explanation:</strong> 0!, 1!, 2!, 3!, and 4! end with K = 0 zeroes.\n\n<strong>Example 2:</strong>\n<strong>Input:</strong> K = 5\n<strong>Output:</strong> 0\n<strong>Explanation:</strong> There is no x such that x! ends in K = 5 zeroes.\n</pre>\n\n<p><strong>Note:</strong></p>\n\n<ul>\n\t<li><code>K</code> will be an integer in the range <code>[0, 10^9]</code>.</li>\n</ul>\n</div>"
+}

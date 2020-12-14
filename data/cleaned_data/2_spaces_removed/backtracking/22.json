@@ -1,0 +1,7 @@
+{
+    "id": 22,
+    "title": "Generate Parentheses",
+    "title_slug": "generate-parentheses",
+    "backend_id": 22,
+    "content": "Given pairs of parentheses, write a function to generate all combinations of well-formed parentheses."
+}

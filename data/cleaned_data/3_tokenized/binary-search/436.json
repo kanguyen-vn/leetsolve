@@ -1,0 +1,42 @@
+{
+    "id": 436,
+    "title": "Find Right Interval",
+    "title_slug": "find-right-interval",
+    "backend_id": 436,
+    "content": [
+        [
+            "give",
+            "array",
+            "unique"
+        ],
+        [
+            "right",
+            "interval",
+            "interval",
+            "interval",
+            "minimize"
+        ],
+        [
+            "return",
+            "array",
+            "right",
+            "interval",
+            "index",
+            "interval"
+        ],
+        [
+            "right",
+            "interval",
+            "exist",
+            "interval",
+            "put",
+            "index"
+        ],
+        [
+            "start",
+            "point",
+            "interval",
+            "unique"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": 16,
+    "title": "3Sum Closest",
+    "title_slug": "3sum-closest",
+    "backend_id": 16,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "integer",
+            "find",
+            "three",
+            "integer",
+            "sum",
+            "close"
+        ],
+        [
+            "return",
+            "sum",
+            "three",
+            "integer"
+        ],
+        [
+            "may",
+            "assume",
+            "input",
+            "would",
+            "exactly",
+            "one",
+            "solution"
+        ]
+    ]
+}

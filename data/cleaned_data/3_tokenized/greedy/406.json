@@ -1,0 +1,54 @@
+{
+    "id": 406,
+    "title": "Queue Reconstruction by Height",
+    "title_slug": "queue-reconstruction-by-height",
+    "backend_id": 406,
+    "content": [
+        [
+            "give",
+            "array",
+            "people",
+            "attribute",
+            "people",
+            "queue",
+            "necessarily",
+            "order"
+        ],
+        [
+            "represent",
+            "person",
+            "height",
+            "exactly",
+            "people",
+            "front",
+            "height",
+            "great",
+            "equal"
+        ],
+        [
+            "reconstruct",
+            "return",
+            "queue",
+            "represent",
+            "input",
+            "array"
+        ],
+        [
+            "return",
+            "queue",
+            "formatted",
+            "array",
+            "attribute",
+            "person",
+            "queue",
+            "person",
+            "front",
+            "queue"
+        ],
+        [
+            "guarantee",
+            "queue",
+            "reconstruct"
+        ]
+    ]
+}

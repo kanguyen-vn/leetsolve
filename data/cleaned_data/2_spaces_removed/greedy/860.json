@@ -1,0 +1,7 @@
+{
+    "id": 860,
+    "title": "Lemonade Change",
+    "title_slug": "lemonade-change",
+    "backend_id": 890,
+    "content": "At a lemonade stand, each lemonade costs . Customers are standing in a queue to buy from you, and order one at a time (in the order specified by ). Each customer will only buy one lemonade and pay with either a , , or bill. You must provide the correct change to each customer, so that the net transaction is that the customer pays $5. Note that you don't have any change in hand at first. Return if and only if you can provide every customer with correct change."
+}

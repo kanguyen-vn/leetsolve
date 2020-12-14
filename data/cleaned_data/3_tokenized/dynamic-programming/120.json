@@ -1,0 +1,37 @@
+{
+    "id": 120,
+    "title": "Triangle",
+    "title_slug": "triangle",
+    "backend_id": 120,
+    "content": [
+        [
+            "give",
+            "triangle",
+            "find",
+            "minimum",
+            "path",
+            "sum",
+            "top",
+            "bottom"
+        ],
+        [
+            "step",
+            "may",
+            "move",
+            "adjacent",
+            "number",
+            "row"
+        ],
+        [
+            "example",
+            "give",
+            "follow",
+            "triangle",
+            "minimum",
+            "path",
+            "sum",
+            "top",
+            "bottom"
+        ]
+    ]
+}

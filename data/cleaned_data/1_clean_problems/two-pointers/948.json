@@ -1,0 +1,7 @@
+{
+    "id": 948,
+    "title": "Bag of Tokens",
+    "title_slug": "bag-of-tokens",
+    "backend_id": 985,
+    "content": "You have an initial power of , an initial score of 0, and a bag of  where  is the value of the  token (0-indexed).\nYour goal is to maximize your total score by potentially playing each token in one of two ways:\n\nIf your current power is at least , you may play the  token face up, losing  power and gaining 1 score.\nIf your current score is at least 1, you may play the  token face down, gaining  power and losing 1 score.\n\nEach token may be played at most once and in any order. You do not have to play all the tokens.\nReturn the largest possible score you can achieve after playing any number of tokens.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1201,
+    "title": "Ugly Number III",
+    "title_slug": "ugly-number-iii",
+    "backend_id": 1307,
+    "content": "Write a program to find the -th ugly number. Ugly numbers are positive integers which are divisible by or or . It's guaranteed that the result will be in range"
+}

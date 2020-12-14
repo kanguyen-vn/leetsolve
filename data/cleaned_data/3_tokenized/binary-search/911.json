@@ -1,0 +1,47 @@
+{
+    "id": 911,
+    "title": "Online Election",
+    "title_slug": "online-election",
+    "backend_id": 947,
+    "content": [
+        [
+            "election",
+            "th",
+            "vote",
+            "cast",
+            "time"
+        ],
+        [
+            "would",
+            "like",
+            "implement",
+            "follow",
+            "query",
+            "function",
+            "return",
+            "number",
+            "person",
+            "lead",
+            "election",
+            "time"
+        ],
+        [
+            "vote",
+            "cast",
+            "time",
+            "count",
+            "towards",
+            "query"
+        ],
+        [
+            "case",
+            "tie",
+            "recent",
+            "vote",
+            "among",
+            "tied",
+            "candidate",
+            "win"
+        ]
+    ]
+}

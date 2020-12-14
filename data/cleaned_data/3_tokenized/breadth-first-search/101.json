@@ -1,0 +1,27 @@
+{
+    "id": 101,
+    "title": "Symmetric Tree",
+    "title_slug": "symmetric-tree",
+    "backend_id": 101,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "check",
+            "whether",
+            "mirror",
+            "ie",
+            "symmetric",
+            "around",
+            "center"
+        ],
+        [
+            "example",
+            "binary",
+            "tree",
+            "symmetric",
+            "follow"
+        ]
+    ]
+}

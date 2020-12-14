@@ -1,0 +1,78 @@
+{
+    "id": 1307,
+    "title": "Verbal Arithmetic Puzzle",
+    "title_slug": "verbal-arithmetic-puzzle",
+    "backend_id": 1429,
+    "content": [
+        [
+            "give",
+            "equation",
+            "represent",
+            "leave",
+            "side",
+            "right",
+            "side"
+        ],
+        [
+            "need",
+            "check",
+            "equation",
+            "solvable",
+            "following",
+            "rule",
+            "character",
+            "decode",
+            "one",
+            "digit"
+        ],
+        [
+            "every",
+            "pair",
+            "different",
+            "character",
+            "must",
+            "map",
+            "different",
+            "digit"
+        ],
+        [
+            "decode",
+            "one",
+            "number",
+            "without",
+            "lead",
+            "zero"
+        ],
+        [
+            "sum",
+            "number",
+            "leave",
+            "side",
+            "equal",
+            "number",
+            "right",
+            "side"
+        ],
+        [
+            "return",
+            "equation",
+            "solvable",
+            "otherwise",
+            "return"
+        ],
+        [
+            "contain",
+            "upper",
+            "case",
+            "english",
+            "letter"
+        ],
+        [
+            "number",
+            "different",
+            "character",
+            "use",
+            "expression"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1657,
+    "title": "Determine if Two Strings Are Close",
+    "title_slug": "determine-if-two-strings-are-close",
+    "backend_id": 1777,
+    "content": "Two strings are considered close if you can attain one from the other using the following operations:\n\nOperation 1: Swap any two existing characters.\n\n\t\nFor example, \n\n\nOperation 2: Transform every occurrence of one existing character into another existing character, and do the same with the other character.\n\t\nFor example,  (all 's turn into 's, and all 's turn into 's)\n\n\n\nYou can use the operations on either string as many times as necessary.\nGiven two strings,  and , return  if  and  are close, and  otherwise.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n and  contain\u00a0only lowercase English letters.\n\n"
+}

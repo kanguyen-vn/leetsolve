@@ -1,0 +1,7 @@
+{
+    "id": 1632,
+    "title": "Rank Transform of a Matrix",
+    "title_slug": "rank-transform-of-a-matrix",
+    "backend_id": 1257,
+    "content": "Given an , return a new matrix where is the rank of . The rank is an integer that represents how large an element is compared to other elements. It is calculated using the following rules: The rank is an integer starting from 1. If two elements and are in the same row or column, then: If then If then If then The rank should be as small as possible. It is guaranteed that is unique under the given rules."
+}

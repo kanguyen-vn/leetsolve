@@ -1,0 +1,62 @@
+{
+    "id": 1585,
+    "title": "Check If String Is Transformable With Substring Sort Operations",
+    "title_slug": "check-if-string-is-transformable-with-substring-sort-operations",
+    "backend_id": 1707,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "want",
+            "transform",
+            "string",
+            "string",
+            "use",
+            "follow",
+            "operation",
+            "number",
+            "time",
+            "choose",
+            "non",
+            "empty",
+            "substring",
+            "sort",
+            "place",
+            "character",
+            "ascend",
+            "order"
+        ],
+        [
+            "example",
+            "apply",
+            "operation",
+            "underline",
+            "substring",
+            "result"
+        ],
+        [
+            "return",
+            "possible",
+            "transform",
+            "string",
+            "string"
+        ],
+        [
+            "otherwise",
+            "return"
+        ],
+        [
+            "substring",
+            "contiguous",
+            "sequence",
+            "character",
+            "within",
+            "string"
+        ],
+        [
+            "contain",
+            "digit"
+        ]
+    ]
+}

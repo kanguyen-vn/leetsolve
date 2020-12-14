@@ -1,0 +1,73 @@
+{
+    "id": 375,
+    "title": "Guess Number Higher or Lower II",
+    "title_slug": "guess-number-higher-or-lower-ii",
+    "backend_id": 375,
+    "content": [
+        [
+            "play",
+            "guess",
+            "game"
+        ],
+        [
+            "game",
+            "work",
+            "follow",
+            "pick",
+            "number"
+        ],
+        [
+            "guess",
+            "number"
+        ],
+        [
+            "guess",
+            "right",
+            "number",
+            "win",
+            "game"
+        ],
+        [
+            "guess",
+            "wrong",
+            "number",
+            "tell",
+            "whether",
+            "number",
+            "pick",
+            "high",
+            "low",
+            "continue",
+            "guess"
+        ],
+        [
+            "every",
+            "time",
+            "guess",
+            "wrong",
+            "number",
+            "pay",
+            "dollar"
+        ],
+        [
+            "run",
+            "money",
+            "lose",
+            "game"
+        ],
+        [
+            "give",
+            "particular",
+            "return",
+            "minimum",
+            "amount",
+            "money",
+            "need",
+            "guarantee",
+            "win",
+            "regardless",
+            "number",
+            "pick"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 762,
+    "title": "Prime Number of Set Bits in Binary Representation",
+    "title_slug": "prime-number-of-set-bits-in-binary-representation",
+    "backend_id": 767,
+    "content": "<div><p>\nGiven two integers <code>L</code> and <code>R</code>, find the count of numbers in the range <code>[L, R]</code> (inclusive) having a prime number of set bits in their binary representation.\n</p><p>\n(Recall that the number of set bits an integer has is the number of <code>1</code>s present when written in binary.  For example, <code>21</code> written in binary is <code>10101</code> which has 3 set bits.  Also, 1 is not a prime.)\n</p><p>\n\n</p><p><b>Example 1:</b><br></p><pre><b>Input:</b> L = 6, R = 10\n<b>Output:</b> 4\n<b>Explanation:</b>\n6 -&gt; 110 (2 set bits, 2 is prime)\n7 -&gt; 111 (3 set bits, 3 is prime)\n9 -&gt; 1001 (2 set bits , 2 is prime)\n10-&gt;1010 (2 set bits , 2 is prime)\n</pre><p></p>\n\n<p><b>Example 2:</b><br></p><pre><b>Input:</b> L = 10, R = 15\n<b>Output:</b> 5\n<b>Explanation:</b>\n10 -&gt; 1010 (2 set bits, 2 is prime)\n11 -&gt; 1011 (3 set bits, 3 is prime)\n12 -&gt; 1100 (2 set bits, 2 is prime)\n13 -&gt; 1101 (3 set bits, 3 is prime)\n14 -&gt; 1110 (3 set bits, 3 is prime)\n15 -&gt; 1111 (4 set bits, 4 is not prime)\n</pre><p></p>\n\n<p><b>Note:</b><br></p><ol>\n<li><code>L, R</code> will be integers <code>L &lt;= R</code> in the range <code>[1, 10^6]</code>.</li>\n<li><code>R - L</code> will be at most 10000.</li>\n</ol><p></p></div>"
+}

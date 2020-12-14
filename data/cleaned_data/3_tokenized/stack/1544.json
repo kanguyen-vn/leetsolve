@@ -1,0 +1,81 @@
+{
+    "id": 1544,
+    "title": "Make The String Great",
+    "title_slug": "make-the-string-great",
+    "backend_id": 1666,
+    "content": [
+        [
+            "give",
+            "string",
+            "low",
+            "upper",
+            "case",
+            "english",
+            "letter"
+        ],
+        [
+            "good",
+            "string",
+            "string",
+            "n't",
+            "two",
+            "adjacent",
+            "character",
+            "low",
+            "case",
+            "letter",
+            "letter",
+            "upper",
+            "case",
+            "vice",
+            "versa"
+        ],
+        [
+            "make",
+            "string",
+            "good",
+            "choose",
+            "two",
+            "adjacent",
+            "character",
+            "make",
+            "string",
+            "bad",
+            "remove"
+        ],
+        [
+            "keep",
+            "string",
+            "becomes",
+            "good"
+        ],
+        [
+            "return",
+            "string",
+            "make",
+            "good"
+        ],
+        [
+            "answer",
+            "guarantee",
+            "unique",
+            "give",
+            "constraint"
+        ],
+        [
+            "notice",
+            "empty",
+            "string",
+            "also",
+            "good"
+        ],
+        [
+            "contain",
+            "low",
+            "upper",
+            "case",
+            "english",
+            "letter"
+        ]
+    ]
+}

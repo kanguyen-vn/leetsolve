@@ -1,0 +1,7 @@
+{
+    "id": 844,
+    "title": "Backspace String Compare",
+    "title_slug": "backspace-string-compare",
+    "backend_id": 874,
+    "content": "Given two\u00a0strings\u00a0\u00a0and ,\u00a0return if they are equal when both are typed into empty text editors.  means a backspace character.\nNote that after\u00a0backspacing an empty text, the text will continue empty.\n\n"
+}

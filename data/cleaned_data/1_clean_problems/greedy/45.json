@@ -1,0 +1,7 @@
+{
+    "id": 45,
+    "title": "Jump Game II",
+    "title_slug": "jump-game-ii",
+    "backend_id": 45,
+    "content": "Given an array of non-negative integers , you are initially positioned at the first index of the array.\nEach element in the array represents your maximum jump length at that position.\nYour goal is to reach the last index in the minimum number of jumps.\nYou can assume that you can always reach the last index.\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1047,
+    "title": "Remove All Adjacent Duplicates In String",
+    "title_slug": "remove-all-adjacent-duplicates-in-string",
+    "backend_id": 1128,
+    "content": "Given a string  of lowercase letters, a duplicate removal consists of choosing two adjacent and equal letters, and removing\u00a0them.\nWe repeatedly make duplicate removals on S until we no longer can.\nReturn the final string after all such duplicate removals have been made.\u00a0 It is guaranteed the answer is unique.\n\u00a0\n\n\n\u00a0\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1563,
+    "title": "Stone Game V",
+    "title_slug": "stone-game-v",
+    "backend_id": 1685,
+    "content": "There are several stones\u00a0arranged in a row, and each stone has an associated\u00a0value which is an integer given in the array\u00a0.\nIn each round of the game, Alice divides the row into two non-empty rows (i.e. left row and right row), then Bob calculates the value of each row which is the sum of the values of all the stones in this row. Bob throws away the row which has the maximum value, and\u00a0Alice's score increases by the value of the remaining row. If the value of the two rows are equal, Bob lets Alice decide which row will be thrown away. The next round starts with the remaining row.\nThe game ends when there is only one stone remaining. Alice's is initially zero.\nReturn the maximum score that Alice can obtain.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 467,
+    "title": "Unique Substrings in Wraparound String",
+    "title_slug": "unique-substrings-in-wraparound-string",
+    "backend_id": 467,
+    "content": "Consider the string  to be the infinite wraparound string of \"abcdefghijklmnopqrstuvwxyz\", so  will look like this: \"...zabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcd....\".\nNow we have another string . Your job is to find out how many unique non-empty substrings of  are present in . In particular, your input is the string  and you need to output the number of different non-empty substrings of  in the string .\n"
+}

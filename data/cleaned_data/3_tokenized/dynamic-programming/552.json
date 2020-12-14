@@ -1,0 +1,57 @@
+{
+    "id": 552,
+    "title": "Student Attendance Record II",
+    "title_slug": "student-attendance-record-ii",
+    "backend_id": 552,
+    "content": [
+        [
+            "give",
+            "positive",
+            "integer",
+            "return",
+            "number",
+            "possible",
+            "attendance",
+            "record",
+            "length",
+            "regard",
+            "rewardable"
+        ],
+        [
+            "answer",
+            "may",
+            "large",
+            "return",
+            "mod"
+        ],
+        [
+            "student",
+            "attendance",
+            "record",
+            "string",
+            "contain",
+            "follow",
+            "three",
+            "character",
+            "absent"
+        ],
+        [
+            "late"
+        ],
+        [
+            "present"
+        ],
+        [
+            "record",
+            "regard",
+            "rewardable",
+            "n't",
+            "contain",
+            "one",
+            "absent",
+            "two",
+            "continuous",
+            "late"
+        ]
+    ]
+}

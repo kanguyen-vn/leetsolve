@@ -1,0 +1,7 @@
+{
+    "id": 442,
+    "title": "Find All Duplicates in an Array",
+    "title_slug": "find-all-duplicates-in-an-array",
+    "backend_id": 442,
+    "content": "<div><p>Given an array of integers, 1 \u2264 a[i] \u2264 <i>n</i> (<i>n</i> = size of array), some elements appear <b>twice</b> and others appear <b>once</b>.</p>\n\n<p>Find all the elements that appear <b>twice</b> in this array.</p>\n\n<p>Could you do it without extra space and in O(<i>n</i>) runtime?</p>\n<p></p>\n<p><b>Example:</b><br>\n</p><pre><b>Input:</b>\n[4,3,2,7,8,2,3,1]\n\n<b>Output:</b>\n[2,3]\n</pre></div>"
+}

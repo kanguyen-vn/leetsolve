@@ -1,0 +1,58 @@
+{
+    "id": 706,
+    "title": "Design HashMap",
+    "title_slug": "design-hashmap",
+    "backend_id": 817,
+    "content": [
+        [
+            "design",
+            "hashmap",
+            "without",
+            "use",
+            "build",
+            "hash",
+            "table",
+            "library"
+        ],
+        [
+            "specific",
+            "design",
+            "include",
+            "function",
+            "insert",
+            "key",
+            "value",
+            "pair",
+            "hashmap"
+        ],
+        [
+            "value",
+            "already",
+            "exist",
+            "hashmap",
+            "update",
+            "value"
+        ],
+        [
+            "return",
+            "value",
+            "specify",
+            "key",
+            "map",
+            "map",
+            "contain",
+            "map",
+            "key"
+        ],
+        [
+            "remove",
+            "map",
+            "value",
+            "key",
+            "map",
+            "contain",
+            "map",
+            "key"
+        ]
+    ]
+}

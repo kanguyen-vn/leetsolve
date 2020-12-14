@@ -1,0 +1,7 @@
+{
+    "id": 875,
+    "title": "Koko Eating Bananas",
+    "title_slug": "koko-eating-bananas",
+    "backend_id": 907,
+    "content": "Koko loves to eat bananas. There are piles of bananas, the -th pile has bananas. The guards have gone and will come back in hours. Koko can decide her bananas-per-hour eating speed of . Each hour, she chooses some pile of bananas, and eats K bananas from that pile. If the pile has less than bananas, she eats all of them instead, and won't eat any more bananas during this hour. Koko likes to eat slowly, but still wants to finish eating all the bananas before the guards come back. Return the minimum integer such that she can eat all the bananas within hours."
+}

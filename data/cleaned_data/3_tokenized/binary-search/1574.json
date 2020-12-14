@@ -1,0 +1,33 @@
+{
+    "id": 1574,
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "title_slug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+    "backend_id": 1679,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "remove",
+            "subarray",
+            "empty",
+            "remain",
+            "element",
+            "non",
+            "decrease"
+        ],
+        [
+            "subarray",
+            "contiguous",
+            "subsequence",
+            "array"
+        ],
+        [
+            "return",
+            "length",
+            "short",
+            "subarray",
+            "remove"
+        ]
+    ]
+}

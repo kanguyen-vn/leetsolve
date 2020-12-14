@@ -1,0 +1,7 @@
+{
+    "id": 81,
+    "title": "Search in Rotated Sorted Array II",
+    "title_slug": "search-in-rotated-sorted-array-ii",
+    "backend_id": 81,
+    "content": "Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.\n(i.e.,  might become ).\nYou are given a target value to search. If found in the array return , otherwise return .\n\n\n\n\n"
+}

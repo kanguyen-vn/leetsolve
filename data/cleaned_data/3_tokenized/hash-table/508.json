@@ -1,0 +1,67 @@
+{
+    "id": 508,
+    "title": "Most Frequent Subtree Sum",
+    "title_slug": "most-frequent-subtree-sum",
+    "backend_id": 508,
+    "content": [
+        [
+            "give",
+            "root",
+            "tree",
+            "ask",
+            "find",
+            "frequent",
+            "subtree",
+            "sum"
+        ],
+        [
+            "subtree",
+            "sum",
+            "node",
+            "define",
+            "sum",
+            "node",
+            "value",
+            "form",
+            "subtree",
+            "root",
+            "node",
+            "include",
+            "node"
+        ],
+        [
+            "frequent",
+            "subtree",
+            "sum",
+            "value"
+        ],
+        [
+            "tie",
+            "return",
+            "value",
+            "high",
+            "frequency",
+            "order"
+        ],
+        [
+            "example",
+            "input",
+            "return",
+            "since",
+            "value",
+            "happen",
+            "return",
+            "order"
+        ],
+        [
+            "example",
+            "input",
+            "return",
+            "since",
+            "happen",
+            "twice",
+            "however",
+            "occur"
+        ]
+    ]
+}

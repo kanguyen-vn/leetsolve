@@ -1,0 +1,52 @@
+{
+    "id": 306,
+    "title": "Additive Number",
+    "title_slug": "additive-number",
+    "backend_id": 306,
+    "content": [
+        [
+            "additive",
+            "number",
+            "string",
+            "whose",
+            "digit",
+            "form",
+            "additive",
+            "sequence"
+        ],
+        [
+            "valid",
+            "additive",
+            "sequence",
+            "contain",
+            "least",
+            "three",
+            "number"
+        ],
+        [
+            "except",
+            "first",
+            "two",
+            "number",
+            "subsequent",
+            "number",
+            "sequence",
+            "must",
+            "sum",
+            "precede",
+            "two"
+        ],
+        [
+            "give",
+            "string",
+            "contain",
+            "digit",
+            "write",
+            "function",
+            "determine",
+            "'s",
+            "additive",
+            "number"
+        ]
+    ]
+}

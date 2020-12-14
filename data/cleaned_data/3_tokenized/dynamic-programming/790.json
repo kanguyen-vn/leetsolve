@@ -1,0 +1,59 @@
+{
+    "id": 790,
+    "title": "Domino and Tromino Tiling",
+    "title_slug": "domino-and-tromino-tiling",
+    "backend_id": 806,
+    "content": [
+        [
+            "two",
+            "type",
+            "tile",
+            "2x1",
+            "domino",
+            "shape",
+            "tromino",
+            "shape"
+        ],
+        [
+            "shape",
+            "may",
+            "rotate"
+        ],
+        [
+            "give",
+            "many",
+            "way",
+            "tile",
+            "board"
+        ],
+        [
+            "return",
+            "answer",
+            "modulo"
+        ],
+        [
+            "tile",
+            "every",
+            "square",
+            "must",
+            "cover",
+            "tile"
+        ],
+        [
+            "two",
+            "tiling",
+            "different",
+            "two",
+            "directionally",
+            "adjacent",
+            "cell",
+            "board",
+            "exactly",
+            "one",
+            "tiling",
+            "square",
+            "occupied",
+            "tile"
+        ]
+    ]
+}

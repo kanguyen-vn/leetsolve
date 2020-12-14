@@ -1,0 +1,7 @@
+{
+    "id": 112,
+    "title": "Path Sum",
+    "title_slug": "path-sum",
+    "backend_id": 112,
+    "content": "<div><p>Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.</p>\n\n<p><strong>Note:</strong>&nbsp;A leaf is a node with no children.</p>\n\n<p><strong>Example:</strong></p>\n\n<p>Given the below binary tree and <code>sum = 22</code>,</p>\n\n<pre>      <strong>5</strong>\n     <strong>/</strong> \\\n    <strong>4</strong>   8\n   <strong>/</strong>   / \\\n  <strong>11</strong>  13  4\n /  <strong>\\</strong>      \\\n7    <strong>2</strong>      1\n</pre>\n\n<p>return true, as there exist a root-to-leaf path <code>5-&gt;4-&gt;11-&gt;2</code> which sum is 22.</p>\n</div>"
+}

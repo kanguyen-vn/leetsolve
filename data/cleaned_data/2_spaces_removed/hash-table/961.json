@@ -1,0 +1,7 @@
+{
+    "id": 961,
+    "title": "N-Repeated Element in Size 2N Array",
+    "title_slug": "n-repeated-element-in-size-2n-array",
+    "backend_id": 1001,
+    "content": "In a array of size , there are unique elements, and exactly one of these elements is repeated times. Return the element repeated times."
+}

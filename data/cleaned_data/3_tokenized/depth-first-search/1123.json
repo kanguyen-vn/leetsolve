@@ -1,0 +1,48 @@
+{
+    "id": 1123,
+    "title": "Lowest Common Ancestor of Deepest Leaves",
+    "title_slug": "lowest-common-ancestor-of-deepest-leaves",
+    "backend_id": 1218,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "return",
+            "low",
+            "common",
+            "ancestor",
+            "deep",
+            "leaf"
+        ],
+        [
+            "recall",
+            "node",
+            "binary",
+            "tree",
+            "leaf",
+            "child",
+            "depth",
+            "root",
+            "tree",
+            "depth",
+            "node",
+            "depth",
+            "child"
+        ],
+        [
+            "low",
+            "common",
+            "ancestor",
+            "set",
+            "node",
+            "node",
+            "large",
+            "depth",
+            "every",
+            "node",
+            "subtree",
+            "root"
+        ]
+    ]
+}

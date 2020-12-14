@@ -1,0 +1,7 @@
+{
+    "id": 71,
+    "title": "Simplify Path",
+    "title_slug": "simplify-path",
+    "backend_id": 71,
+    "content": "Given an absolute path for a file (Unix-style), simplify it. Or in other words, convert it to the canonical path.\nIn a UNIX-style file system, a period \u00a0refers to the current directory. Furthermore, a double period \u00a0moves the directory up a level.\nNote that the returned canonical path must always begin\u00a0with a slash , and there must be only a single slash \u00a0between two directory names.\u00a0The last directory name (if it exists) must not\u00a0end with a trailing . Also, the canonical path must be the shortest string\u00a0representing the absolute path.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n consists of English letters, digits, period , slash  or .\n is a valid Unix path.\n\n"
+}

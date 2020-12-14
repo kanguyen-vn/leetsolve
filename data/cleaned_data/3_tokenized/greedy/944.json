@@ -1,0 +1,63 @@
+{
+    "id": 944,
+    "title": "Delete Columns to Make Sorted",
+    "title_slug": "delete-columns-to-make-sorted",
+    "backend_id": 981,
+    "content": [
+        [
+            "give",
+            "array",
+            "lowercase",
+            "letter",
+            "string",
+            "length"
+        ],
+        [
+            "may",
+            "choose",
+            "set",
+            "deletion",
+            "index",
+            "string",
+            "delete",
+            "character",
+            "index"
+        ],
+        [
+            "example",
+            "array",
+            "deletion",
+            "indices",
+            "final",
+            "array",
+            "deletion",
+            "remain",
+            "column"
+        ],
+        [
+            "formally",
+            "th",
+            "column"
+        ],
+        [
+            "suppose",
+            "chose",
+            "set",
+            "deletion",
+            "index",
+            "deletion",
+            "remain",
+            "column",
+            "non",
+            "decrease",
+            "sort",
+            "order"
+        ],
+        [
+            "return",
+            "minimum",
+            "possible",
+            "value"
+        ]
+    ]
+}

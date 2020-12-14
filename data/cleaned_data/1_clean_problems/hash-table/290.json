@@ -1,0 +1,7 @@
+{
+    "id": 290,
+    "title": "Word Pattern",
+    "title_slug": "word-pattern",
+    "backend_id": 290,
+    "content": "Given a  and a string , find if \u00a0follows the same pattern.\nHere follow means a full match, such that there is a bijection between a letter in  and a non-empty word in .\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n contains only lower-case English letters.\n\n contains only lower-case English letters and spaces .\n does not contain any leading or trailing spaces.\nAll the words in  are separated by a single space.\n\n"
+}

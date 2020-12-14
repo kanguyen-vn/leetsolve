@@ -1,0 +1,7 @@
+{
+    "id": 16,
+    "title": "3Sum Closest",
+    "title_slug": "3sum-closest",
+    "backend_id": 16,
+    "content": "<div><p>Given an array <code>nums</code> of <em>n</em> integers and an integer <code>target</code>, find three integers in <code>nums</code>&nbsp;such that the sum is closest to&nbsp;<code>target</code>. Return the sum of the three integers. You may assume that each input would have exactly one solution.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> nums = [-1,2,1,-4], target = 1\n<strong>Output:</strong> 2\n<strong>Explanation:</strong> The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>3 &lt;= nums.length &lt;= 10^3</code></li>\n\t<li><code>-10^3&nbsp;&lt;= nums[i]&nbsp;&lt;= 10^3</code></li>\n\t<li><code>-10^4&nbsp;&lt;= target&nbsp;&lt;= 10^4</code></li>\n</ul>\n</div>"
+}

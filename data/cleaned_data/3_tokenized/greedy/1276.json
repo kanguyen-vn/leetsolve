@@ -1,0 +1,49 @@
+{
+    "id": 1276,
+    "title": "Number of Burgers with No Waste of Ingredients",
+    "title_slug": "number-of-burgers-with-no-waste-of-ingredients",
+    "backend_id": 1401,
+    "content": [
+        [
+            "give",
+            "two",
+            "integer"
+        ],
+        [
+            "ingredient",
+            "different",
+            "burger",
+            "follow",
+            "jumbo",
+            "burger",
+            "tomato",
+            "slice",
+            "cheese",
+            "slice"
+        ],
+        [
+            "small",
+            "burger",
+            "tomato",
+            "slice",
+            "cheese",
+            "slice"
+        ],
+        [
+            "return",
+            "number",
+            "remain",
+            "equal",
+            "number",
+            "remain",
+            "equal"
+        ],
+        [
+            "possible",
+            "make",
+            "remain",
+            "equal",
+            "return"
+        ]
+    ]
+}

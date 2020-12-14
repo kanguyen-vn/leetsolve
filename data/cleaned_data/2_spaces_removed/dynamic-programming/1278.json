@@ -1,0 +1,7 @@
+{
+    "id": 1278,
+    "title": "Palindrome Partitioning III",
+    "title_slug": "palindrome-partitioning-iii",
+    "backend_id": 1403,
+    "content": "You are given a string containing lowercase letters and an integer . You need to : First, change some characters of to other lowercase English letters. Then divide into non-empty disjoint substrings such that each substring is palindrome. Return the minimal number of characters that you need to change to divide the string. . only contains lowercase English letters."
+}

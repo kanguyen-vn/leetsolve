@@ -1,0 +1,20 @@
+{
+    "id": 525,
+    "title": "Contiguous Array",
+    "title_slug": "contiguous-array",
+    "backend_id": 525,
+    "content": [
+        [
+            "give",
+            "binary",
+            "array",
+            "find",
+            "maximum",
+            "length",
+            "contiguous",
+            "subarray",
+            "equal",
+            "number"
+        ]
+    ]
+}

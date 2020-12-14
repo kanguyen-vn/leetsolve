@@ -1,0 +1,45 @@
+{
+    "id": 1458,
+    "title": "Max Dot Product of Two Subsequences",
+    "title_slug": "max-dot-product-of-two-subsequences",
+    "backend_id": 1569,
+    "content": [
+        [
+            "give",
+            "two",
+            "array",
+            "return",
+            "maximum",
+            "dot",
+            "product",
+            "non",
+            "empty",
+            "subsequence",
+            "nums1",
+            "nums2",
+            "length"
+        ],
+        [
+            "subsequence",
+            "array",
+            "new",
+            "array",
+            "form",
+            "original",
+            "array",
+            "delete",
+            "none",
+            "character",
+            "without",
+            "disturb",
+            "relative",
+            "position",
+            "remain",
+            "character"
+        ],
+        [
+            "ie",
+            "subsequence"
+        ]
+    ]
+}

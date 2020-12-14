@@ -1,0 +1,7 @@
+{
+    "id": 1444,
+    "title": "Number of Ways of Cutting a Pizza",
+    "title_slug": "number-of-ways-of-cutting-a-pizza",
+    "backend_id": 1555,
+    "content": "Given a rectangular pizza represented as a \u00a0matrix containing the following characters:  (an apple) and  (empty cell) and given the integer . You have to cut the pizza into  pieces using  cuts.\u00a0\nFor each cut you choose the direction: vertical or horizontal, then you choose a cut position at the cell boundary and cut the pizza into two pieces. If you cut the pizza vertically, give the left part of the pizza to a person. If you cut the pizza horizontally, give the upper part of the pizza to a person. Give the last piece of pizza to the last person.\nReturn the number of ways of cutting the pizza such that each piece contains at least one apple.\u00a0Since the answer can be a huge number, return this modulo 10^9 + 7.\n\u00a0\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n consists of characters \u00a0and  only.\n"
+}

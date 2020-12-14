@@ -1,0 +1,7 @@
+{
+    "id": 818,
+    "title": "Race Car",
+    "title_slug": "race-car",
+    "backend_id": 836,
+    "content": "<div><p>Your car starts at position 0 and speed +1 on an infinite number line.&nbsp; (Your car can go into negative positions.)</p>\n\n<p>Your car drives automatically according to a sequence of instructions A (accelerate) and R (reverse).</p>\n\n<p>When you get an instruction \"A\", your car does the following:&nbsp;<code>position += speed, speed *= 2</code>.</p>\n\n<p>When you get an instruction \"R\", your car does the following: if your speed is positive then&nbsp;<code>speed = -1</code>&nbsp;, otherwise&nbsp;<code>speed = 1</code>.&nbsp; (Your position stays the same.)</p>\n\n<p>For example, after commands \"AAR\", your car goes to positions 0-&gt;1-&gt;3-&gt;3, and your speed goes to 1-&gt;2-&gt;4-&gt;-1.</p>\n\n<p>Now for some target position, say the <strong>length</strong> of the shortest sequence of instructions to get there.</p>\n\n<pre><strong>Example 1:</strong>\n<strong>Input:</strong> \ntarget = 3\n<strong>Output:</strong> 2\n<strong>Explanation:</strong> \nThe shortest instruction sequence is \"AA\".\nYour position goes from 0-&gt;1-&gt;3.\n</pre>\n\n<pre><strong>Example 2:</strong>\n<strong>Input:</strong> \ntarget = 6\n<strong>Output:</strong> 5\n<strong>Explanation:</strong> \nThe shortest instruction sequence is \"AAARA\".\nYour position goes from 0-&gt;1-&gt;3-&gt;7-&gt;7-&gt;6.\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Note: </strong></p>\n\n<ul>\n\t<li><code>1 &lt;= target &lt;= 10000</code>.</li>\n</ul>\n</div>"
+}

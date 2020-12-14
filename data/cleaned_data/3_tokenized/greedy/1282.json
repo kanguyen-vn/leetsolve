@@ -1,0 +1,69 @@
+{
+    "id": 1282,
+    "title": "Group the People Given the Group Size They Belong To",
+    "title_slug": "group-the-people-given-the-group-size-they-belong-to",
+    "backend_id": 1407,
+    "content": [
+        [
+            "people",
+            "split",
+            "unknown",
+            "number",
+            "group"
+        ],
+        [
+            "person",
+            "label",
+            "unique",
+            "id"
+        ],
+        [
+            "give",
+            "integer",
+            "array",
+            "size",
+            "group",
+            "person"
+        ],
+        [
+            "example",
+            "person",
+            "must",
+            "group",
+            "size"
+        ],
+        [
+            "return",
+            "list",
+            "group",
+            "person",
+            "group",
+            "size"
+        ],
+        [
+            "person",
+            "appear",
+            "exactly",
+            "one",
+            "group",
+            "every",
+            "person",
+            "must",
+            "group"
+        ],
+        [
+            "multiple",
+            "answer",
+            "return"
+        ],
+        [
+            "guarantee",
+            "least",
+            "one",
+            "valid",
+            "solution",
+            "give",
+            "input"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1249,
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "title_slug": "minimum-remove-to-make-valid-parentheses",
+    "backend_id": 1371,
+    "content": "Given a string \u00a0of\u00a0\u00a0,\u00a0\u00a0and lowercase English characters.\u00a0\nYour task is to remove the minimum number of parentheses (\u00a0\u00a0or\u00a0,\u00a0in any positions ) so that the resulting parentheses string is valid and return any valid string.\nFormally, a parentheses string is valid if and only if:\n\nIt is the empty string, contains only lowercase characters, or\nIt can be written as\u00a0\u00a0(\u00a0concatenated with\u00a0), where\u00a0\u00a0and\u00a0\u00a0are valid strings, or\nIt can be written as\u00a0, where\u00a0\u00a0is a valid string.\n\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\u00a0is one\u00a0of\u00a0\u00a0 ,  and\u00a0lowercase English letters\n"
+}

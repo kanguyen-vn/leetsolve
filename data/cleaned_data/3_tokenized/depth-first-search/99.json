@@ -1,0 +1,28 @@
+{
+    "id": 99,
+    "title": "Recover Binary Search Tree",
+    "title_slug": "recover-binary-search-tree",
+    "backend_id": 99,
+    "content": [
+        [
+            "give",
+            "binary",
+            "search",
+            "tree",
+            "bst",
+            "exactly",
+            "two",
+            "node",
+            "tree",
+            "swap",
+            "mistake"
+        ],
+        [
+            "recover",
+            "tree",
+            "without",
+            "change",
+            "structure"
+        ]
+    ]
+}

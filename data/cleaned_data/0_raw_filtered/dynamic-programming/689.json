@@ -1,0 +1,7 @@
+{
+    "id": 689,
+    "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+    "title_slug": "maximum-sum-of-3-non-overlapping-subarrays",
+    "backend_id": 689,
+    "content": "<div><p>In a given array <code>nums</code> of positive integers, find three non-overlapping subarrays with maximum sum.</p>\n\n<p>Each subarray will be of size <code>k</code>, and we want to maximize the sum of all <code>3*k</code> entries.</p>\n\n<p>Return the result as a list of indices representing the starting position of each interval (0-indexed). If there are multiple answers, return the lexicographically smallest one.</p>\n\n<p><b>Example:</b></p>\n\n<pre><b>Input:</b> [1,2,1,2,6,7,5,1], 2\n<b>Output:</b> [0, 3, 5]\n<b>Explanation:</b> Subarrays [1, 2], [2, 6], [7, 5] correspond to the starting indices [0, 3, 5].\nWe could have also taken [2, 1], but an answer of [1, 3, 5] would be lexicographically larger.\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Note:</b></p>\n\n<ul>\n\t<li><code>nums.length</code> will be between 1 and 20000.</li>\n\t<li><code>nums[i]</code> will be between 1 and 65535.</li>\n\t<li><code>k</code> will be between 1 and floor(nums.length / 3).</li>\n</ul>\n\n<p>&nbsp;</p>\n</div>"
+}

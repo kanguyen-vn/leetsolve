@@ -1,0 +1,7 @@
+{
+    "id": 508,
+    "title": "Most Frequent Subtree Sum",
+    "title_slug": "most-frequent-subtree-sum",
+    "backend_id": 508,
+    "content": "<div><p>\nGiven the root of a tree, you are asked to find the most frequent subtree sum. The subtree sum of a node is defined as the sum of all the node values formed by the subtree rooted at that node (including the node itself). So what is the most frequent subtree sum value? If there is a tie, return all the values with the highest frequency in any order.\n</p>\n\n<p><b>Examples 1</b><br>\nInput:\n</p><pre>  5\n /  \\\n2   -3\n</pre>\nreturn [2, -3, 4], since all the values happen only once, return all of them in any order.\n<p></p>\n\n<p><b>Examples 2</b><br>\nInput:\n</p><pre>  5\n /  \\\n2   -5\n</pre>\nreturn [2], since 2 happens twice, however -5 only occur once.\n<p></p>\n\n<p><b>Note:</b>\nYou may assume the sum of values in any subtree is in the range of 32-bit signed integer.\n</p></div>"
+}

@@ -1,0 +1,56 @@
+{
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "title_slug": "insert-delete-getrandom-o1",
+    "backend_id": 380,
+    "content": [
+        [
+            "implement",
+            "class",
+            "insert",
+            "item",
+            "set",
+            "present"
+        ],
+        [
+            "return",
+            "item",
+            "present",
+            "otherwise"
+        ],
+        [
+            "remove",
+            "item",
+            "set",
+            "present"
+        ],
+        [
+            "return",
+            "item",
+            "present",
+            "otherwise"
+        ],
+        [
+            "return",
+            "random",
+            "element",
+            "current",
+            "set",
+            "element",
+            "'s",
+            "guarantee",
+            "least",
+            "one",
+            "element",
+            "exist",
+            "method",
+            "call"
+        ],
+        [
+            "element",
+            "must",
+            "probability",
+            "return"
+        ]
+    ]
+}

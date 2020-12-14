@@ -1,0 +1,7 @@
+{
+    "id": 144,
+    "title": "Binary Tree Preorder Traversal",
+    "title_slug": "binary-tree-preorder-traversal",
+    "backend_id": 144,
+    "content": "Given the  of a binary tree, return the preorder traversal of its nodes' values.\n\u00a0\n\n\n\n\n\n\u00a0\n\n\nThe number of nodes in the tree is in the range .\n\n\n\u00a0\n"
+}

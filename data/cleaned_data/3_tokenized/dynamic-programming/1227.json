@@ -1,0 +1,43 @@
+{
+    "id": 1227,
+    "title": "Airplane Seat Assignment Probability",
+    "title_slug": "airplane-seat-assignment-probability",
+    "backend_id": 1362,
+    "content": [
+        [
+            "passenger",
+            "board",
+            "airplane",
+            "exactly",
+            "seat"
+        ],
+        [
+            "first",
+            "passenger",
+            "lose",
+            "ticket",
+            "pick",
+            "seat",
+            "randomly"
+        ],
+        [
+            "rest",
+            "passenger",
+            "take",
+            "seat",
+            "still",
+            "available",
+            "pick",
+            "seat",
+            "randomly",
+            "find",
+            "seat",
+            "occupied",
+            "probability",
+            "th",
+            "person",
+            "get",
+            "seat"
+        ]
+    ]
+}

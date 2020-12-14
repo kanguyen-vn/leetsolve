@@ -1,0 +1,7 @@
+{
+    "id": 496,
+    "title": "Next Greater Element I",
+    "title_slug": "next-greater-element-i",
+    "backend_id": 496,
+    "content": "You are given two arrays (without duplicates) and where s elements are subset of . Find all the next greater numbers for 's elements in the corresponding places of . The Next Greater Number of a number x in is the first greater number to its right in . If it does not exist, output -1 for this number."
+}

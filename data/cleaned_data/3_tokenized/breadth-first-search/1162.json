@@ -1,0 +1,44 @@
+{
+    "id": 1162,
+    "title": "As Far from Land as Possible",
+    "title_slug": "as-far-from-land-as-possible",
+    "backend_id": 1117,
+    "content": [
+        [
+            "give",
+            "contain",
+            "value",
+            "represent",
+            "water",
+            "represent",
+            "land",
+            "find",
+            "water",
+            "cell",
+            "distance",
+            "near",
+            "land",
+            "cell",
+            "maximize",
+            "return",
+            "distance"
+        ],
+        [
+            "distance",
+            "use",
+            "problem",
+            "manhattan",
+            "distance",
+            "distance",
+            "two",
+            "cell"
+        ],
+        [
+            "land",
+            "water",
+            "exist",
+            "grid",
+            "return"
+        ]
+    ]
+}

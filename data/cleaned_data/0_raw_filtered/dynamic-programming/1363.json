@@ -1,0 +1,7 @@
+{
+    "id": 1363,
+    "title": "Largest Multiple of Three",
+    "title_slug": "largest-multiple-of-three",
+    "backend_id": 1277,
+    "content": "<div><p>Given an integer array of <code>digits</code>,&nbsp;return the largest multiple of <strong>three</strong> that can be formed by concatenating some of the given digits in any order.</p>\n\n<p>Since the answer may not fit in an integer data type, return the answer as a string.</p>\n\n<p>If there is no answer return an empty string.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> digits = [8,1,9]\n<strong>Output:</strong> \"981\"\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> digits = [8,6,7,1,0]\n<strong>Output:</strong> \"8760\"\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> digits = [1]\n<strong>Output:</strong> \"\"\n</pre>\n\n<p><strong>Example 4:</strong></p>\n\n<pre><strong>Input:</strong> digits = [0,0,0,0,0,0]\n<strong>Output:</strong> \"0\"\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= digits.length &lt;= 10^4</code></li>\n\t<li><code>0 &lt;= digits[i] &lt;= 9</code></li>\n\t<li>The returning answer must not contain unnecessary leading zeros.</li>\n</ul>\n</div>"
+}

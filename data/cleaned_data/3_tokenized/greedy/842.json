@@ -1,0 +1,56 @@
+{
+    "id": 842,
+    "title": "Split Array into Fibonacci Sequence",
+    "title_slug": "split-array-into-fibonacci-sequence",
+    "backend_id": 872,
+    "content": [
+        [
+            "give",
+            "string",
+            "digit",
+            "split",
+            "fibonacci",
+            "like",
+            "sequence",
+            "formally",
+            "fibonacci",
+            "like",
+            "sequence",
+            "list",
+            "non",
+            "negative",
+            "integer",
+            "integer",
+            "fit",
+            "bit",
+            "signed",
+            "integer",
+            "type",
+            "andfor"
+        ],
+        [
+            "also",
+            "note",
+            "split",
+            "string",
+            "piece",
+            "piece",
+            "must",
+            "extra",
+            "lead",
+            "zero",
+            "except",
+            "piece",
+            "number"
+        ],
+        [
+            "return",
+            "fibonacci",
+            "like",
+            "sequence",
+            "split",
+            "return",
+            "do"
+        ]
+    ]
+}

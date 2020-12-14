@@ -1,0 +1,7 @@
+{
+    "id": 981,
+    "title": "Time Based Key-Value Store",
+    "title_slug": "time-based-key-value-store",
+    "backend_id": 1023,
+    "content": "Create a timebased key-value store class\u00a0, that supports two operations.\n1. \n\nStores the  and , along with the given .\n\n2. \n\nReturns a value such that  was called previously, with .\nIf there are multiple such values, it returns the one with the largest .\nIf there are no values, it returns the empty string ().\n\n\u00a0\n\n\u00a0\n"
+}

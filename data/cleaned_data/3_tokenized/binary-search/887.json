@@ -1,0 +1,64 @@
+{
+    "id": 887,
+    "title": "Super Egg Drop",
+    "title_slug": "super-egg-drop",
+    "backend_id": 923,
+    "content": [
+        [
+            "give",
+            "egg",
+            "access",
+            "building",
+            "floor"
+        ],
+        [
+            "egg",
+            "identical",
+            "function",
+            "egg",
+            "break",
+            "drop"
+        ],
+        [
+            "know",
+            "exist",
+            "floor",
+            "egg",
+            "drop",
+            "floor",
+            "high",
+            "break",
+            "egg",
+            "drop",
+            "floor",
+            "break"
+        ],
+        [
+            "move",
+            "may",
+            "take",
+            "egg",
+            "unbroken",
+            "one",
+            "drop",
+            "floor"
+        ],
+        [
+            "goal",
+            "know",
+            "certainty",
+            "value"
+        ],
+        [
+            "minimum",
+            "number",
+            "move",
+            "need",
+            "know",
+            "certainty",
+            "regardless",
+            "initial",
+            "value"
+        ]
+    ]
+}

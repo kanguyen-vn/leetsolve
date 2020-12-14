@@ -1,0 +1,56 @@
+{
+    "id": 210,
+    "title": "Course Schedule II",
+    "title_slug": "course-schedule-ii",
+    "backend_id": 210,
+    "content": [
+        [
+            "total",
+            "course",
+            "take",
+            "label"
+        ],
+        [
+            "course",
+            "may",
+            "example",
+            "mean",
+            "must",
+            "take",
+            "course",
+            "course"
+        ],
+        [
+            "give",
+            "total",
+            "number",
+            "course",
+            "list",
+            "pair",
+            "return",
+            "order",
+            "course",
+            "take",
+            "finish",
+            "course"
+        ],
+        [
+            "many",
+            "valid",
+            "answer",
+            "return"
+        ],
+        [
+            "impossible",
+            "finish",
+            "course",
+            "return",
+            "empty",
+            "array"
+        ],
+        [
+            "pair",
+            "distinct"
+        ]
+    ]
+}

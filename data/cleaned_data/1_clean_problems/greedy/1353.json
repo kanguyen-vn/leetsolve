@@ -1,0 +1,7 @@
+{
+    "id": 1353,
+    "title": "Maximum Number of Events That Can Be Attended",
+    "title_slug": "maximum-number-of-events-that-can-be-attended",
+    "backend_id": 1478,
+    "content": "Given an array of  where . Every event  starts at\u00a0\u00a0and ends at\u00a0.\nYou can attend an event \u00a0at any day\u00a0 where\u00a0. Notice that you can only attend one event at any time .\nReturn the maximum number of events\u00a0you can attend.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

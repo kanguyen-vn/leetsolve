@@ -1,0 +1,85 @@
+{
+    "id": 721,
+    "title": "Accounts Merge",
+    "title_slug": "accounts-merge",
+    "backend_id": 721,
+    "content": [
+        [
+            "give",
+            "list",
+            "element",
+            "list",
+            "string",
+            "first",
+            "element",
+            "name",
+            "rest",
+            "element",
+            "email",
+            "represent",
+            "email",
+            "account"
+        ],
+        [
+            "would",
+            "like",
+            "merge",
+            "account"
+        ],
+        [
+            "two",
+            "account",
+            "definitely",
+            "belong",
+            "person",
+            "email",
+            "common",
+            "account"
+        ],
+        [
+            "note",
+            "even",
+            "two",
+            "account",
+            "name",
+            "may",
+            "belong",
+            "different",
+            "people",
+            "people",
+            "could",
+            "name"
+        ],
+        [
+            "person",
+            "number",
+            "account",
+            "initially",
+            "account",
+            "definitely",
+            "name"
+        ],
+        [
+            "merge",
+            "account",
+            "return",
+            "account",
+            "follow",
+            "format",
+            "first",
+            "element",
+            "account",
+            "name",
+            "rest",
+            "element",
+            "emails",
+            "sort",
+            "order"
+        ],
+        [
+            "account",
+            "return",
+            "order"
+        ]
+    ]
+}

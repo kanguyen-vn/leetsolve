@@ -1,0 +1,7 @@
+{
+    "id": 1574,
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "title_slug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+    "backend_id": 1679,
+    "content": "Given an integer array\u00a0, remove a\u00a0subarray (can be empty) from\u00a0\u00a0such that the remaining elements in \u00a0are non-decreasing.\nA subarray is a contiguous\u00a0subsequence of the array.\nReturn\u00a0the length of the shortest subarray to remove.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

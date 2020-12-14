@@ -1,0 +1,7 @@
+{
+    "id": 1593,
+    "title": "Split a String Into the Max Number of Unique Substrings",
+    "title_slug": "split-a-string-into-the-max-number-of-unique-substrings",
+    "backend_id": 1715,
+    "content": "Given a string return the maximum number of unique substrings that the given string can be split into. You can split string into any list of non-empty substrings, where the concatenation of the substrings forms the original string. However, you must split the substrings such that all of them are unique. A substring is a contiguous sequence of characters within a string. contains only lower case English letters."
+}

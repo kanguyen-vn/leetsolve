@@ -1,0 +1,7 @@
+{
+    "id": 1354,
+    "title": "Construct Target Array With Multiple Sums",
+    "title_slug": "construct-target-array-with-multiple-sums",
+    "backend_id": 1479,
+    "content": "Given an array of integers . From a starting array, consisting of all 1's, you may perform the following procedure : let be the sum of all elements currently in your array. choose index , such that and set the value of at index to . You may repeat this procedure as many times as needed. Return True if it is possible to construct the array from otherwise return False."
+}

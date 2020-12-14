@@ -1,0 +1,7 @@
+{
+    "id": 1288,
+    "title": "Remove Covered Intervals",
+    "title_slug": "remove-covered-intervals",
+    "backend_id": 1222,
+    "content": "Given a list of , remove all intervals that are covered by another interval in the list. Interval is covered by interval if and only if and . After doing so, return the number of remaining intervals. All the intervals are unique."
+}

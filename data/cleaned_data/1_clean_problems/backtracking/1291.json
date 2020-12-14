@@ -1,0 +1,7 @@
+{
+    "id": 1291,
+    "title": "Sequential Digits",
+    "title_slug": "sequential-digits",
+    "backend_id": 1212,
+    "content": "An\u00a0integer has sequential digits if and only if each digit in the number is one more than the previous digit.\nReturn a sorted list of all the integers\u00a0in the range \u00a0inclusive that have sequential digits.\n\u00a0\n\n\n\n\u00a0\n\n\n\n\n"
+}

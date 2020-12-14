@@ -1,0 +1,7 @@
+{
+    "id": 954,
+    "title": "Array of Doubled Pairs",
+    "title_slug": "array-of-doubled-pairs",
+    "backend_id": 991,
+    "content": "Given an array of integers with even length, return if and only if it is possible to reorder it such that for every . is even."
+}

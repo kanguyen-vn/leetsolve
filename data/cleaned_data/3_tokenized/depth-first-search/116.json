@@ -1,0 +1,47 @@
+{
+    "id": 116,
+    "title": "Populating Next Right Pointers in Each Node",
+    "title_slug": "populating-next-right-pointers-in-each-node",
+    "backend_id": 116,
+    "content": [
+        [
+            "give",
+            "perfect",
+            "binary",
+            "tree",
+            "leaf",
+            "level",
+            "every",
+            "parent",
+            "two",
+            "child"
+        ],
+        [
+            "binary",
+            "tree",
+            "follow",
+            "definition",
+            "populate",
+            "next",
+            "pointer",
+            "point",
+            "next",
+            "right",
+            "node"
+        ],
+        [
+            "next",
+            "right",
+            "node",
+            "next",
+            "pointer",
+            "set"
+        ],
+        [
+            "initially",
+            "next",
+            "pointer",
+            "set"
+        ]
+    ]
+}

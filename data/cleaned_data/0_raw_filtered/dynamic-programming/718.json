@@ -1,0 +1,7 @@
+{
+    "id": 718,
+    "title": "Maximum Length of Repeated Subarray",
+    "title_slug": "maximum-length-of-repeated-subarray",
+    "backend_id": 718,
+    "content": "<div><p>Given two integer arrays <code>A</code> and <code>B</code>, return the maximum length of an subarray that appears in both arrays.</p>\n\n<p><b>Example 1:</b></p>\n\n<pre><b>Input:</b>\nA: [1,2,3,2,1]\nB: [3,2,1,4,7]\n<b>Output:</b> 3\n<b>Explanation:</b> \nThe repeated subarray with maximum length is [3, 2, 1].\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Note:</b></p>\n\n<ol>\n\t<li>1 &lt;= len(A), len(B) &lt;= 1000</li>\n\t<li>0 &lt;= A[i], B[i] &lt; 100</li>\n</ol>\n\n<p>&nbsp;</p>\n</div>"
+}

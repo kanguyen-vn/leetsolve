@@ -1,0 +1,28 @@
+{
+    "id": 150,
+    "title": "Evaluate Reverse Polish Notation",
+    "title_slug": "evaluate-reverse-polish-notation",
+    "backend_id": 150,
+    "content": [
+        [
+            "evaluate",
+            "value",
+            "arithmetic",
+            "expression",
+            "reverse",
+            "polish",
+            "notation"
+        ],
+        [
+            "valid",
+            "operator"
+        ],
+        [
+            "operand",
+            "may",
+            "integer",
+            "another",
+            "expression"
+        ]
+    ]
+}

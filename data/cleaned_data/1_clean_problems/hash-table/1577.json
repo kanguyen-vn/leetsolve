@@ -1,0 +1,7 @@
+{
+    "id": 1577,
+    "title": "Number of Ways Where Square of Number Is Equal to Product of Two Numbers",
+    "title_slug": "number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers",
+    "backend_id": 1699,
+    "content": "Given two arrays of integers\u00a0 and , return the number of triplets formed (type 1 and type 2) under the following rules:\n\nType 1: Triplet (i, j, k)\u00a0if  where  and .\nType 2:\u00a0Triplet (i, j, k) if  where  and .\n\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

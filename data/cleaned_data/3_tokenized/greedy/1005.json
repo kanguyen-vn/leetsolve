@@ -1,0 +1,40 @@
+{
+    "id": 1005,
+    "title": "Maximize Sum Of Array After K Negations",
+    "title_slug": "maximize-sum-of-array-after-k-negations",
+    "backend_id": 1047,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "must",
+            "modify",
+            "array",
+            "follow",
+            "way",
+            "choose",
+            "replace",
+            "repeat",
+            "process",
+            "time",
+            "total"
+        ],
+        [
+            "may",
+            "choose",
+            "index",
+            "multiple",
+            "time"
+        ],
+        [
+            "return",
+            "large",
+            "possible",
+            "sum",
+            "array",
+            "modify",
+            "way"
+        ]
+    ]
+}

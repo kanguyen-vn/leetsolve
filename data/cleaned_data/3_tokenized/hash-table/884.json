@@ -1,0 +1,48 @@
+{
+    "id": 884,
+    "title": "Uncommon Words from Two Sentences",
+    "title_slug": "uncommon-words-from-two-sentences",
+    "backend_id": 920,
+    "content": [
+        [
+            "give",
+            "two",
+            "sentence"
+        ],
+        [
+            "sentence",
+            "string",
+            "space",
+            "separate",
+            "word"
+        ],
+        [
+            "word",
+            "consist",
+            "lowercase",
+            "letter"
+        ],
+        [
+            "word",
+            "uncommon",
+            "appear",
+            "exactly",
+            "one",
+            "sentence",
+            "appear",
+            "sentence"
+        ],
+        [
+            "return",
+            "list",
+            "uncommon",
+            "word"
+        ],
+        [
+            "may",
+            "return",
+            "list",
+            "order"
+        ]
+    ]
+}

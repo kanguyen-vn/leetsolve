@@ -1,0 +1,43 @@
+{
+    "id": 424,
+    "title": "Longest Repeating Character Replacement",
+    "title_slug": "longest-repeating-character-replacement",
+    "backend_id": 424,
+    "content": [
+        [
+            "give",
+            "string",
+            "consist",
+            "uppercase",
+            "english",
+            "letter",
+            "perform",
+            "operation",
+            "string"
+        ],
+        [
+            "one",
+            "operation",
+            "choose",
+            "character",
+            "string",
+            "change",
+            "uppercase",
+            "english",
+            "character"
+        ],
+        [
+            "find",
+            "length",
+            "long",
+            "sub",
+            "string",
+            "contain",
+            "repeat",
+            "letter",
+            "get",
+            "perform",
+            "operation"
+        ]
+    ]
+}

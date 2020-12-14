@@ -1,0 +1,72 @@
+{
+    "id": 1626,
+    "title": "Best Team With No Conflicts",
+    "title_slug": "best-team-with-no-conflicts",
+    "backend_id": 1748,
+    "content": [
+        [
+            "manager",
+            "basketball",
+            "team"
+        ],
+        [
+            "upcoming",
+            "tournament",
+            "want",
+            "choose",
+            "team",
+            "high",
+            "overall",
+            "score"
+        ],
+        [
+            "score",
+            "team",
+            "sum",
+            "score",
+            "player",
+            "team"
+        ],
+        [
+            "however",
+            "basketball",
+            "team",
+            "allow",
+            "conflict"
+        ],
+        [
+            "conflict",
+            "exist",
+            "young",
+            "player",
+            "strictly",
+            "high",
+            "score",
+            "old",
+            "player"
+        ],
+        [
+            "conflict",
+            "occur",
+            "player",
+            "age"
+        ],
+        [
+            "give",
+            "two",
+            "list",
+            "represent",
+            "score",
+            "age",
+            "player",
+            "respectively",
+            "return",
+            "high",
+            "overall",
+            "score",
+            "possible",
+            "basketball",
+            "team"
+        ]
+    ]
+}

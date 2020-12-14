@@ -1,0 +1,7 @@
+{
+    "id": 1433,
+    "title": "Check If a String Can Break Another String",
+    "title_slug": "check-if-a-string-can-break-another-string",
+    "backend_id": 1530,
+    "content": "Given two strings: and with the same size, check if some permutation of string can break some permutation of string or vice-versa. In other words can break or vice-versa. A string can break string (both of size ) if (in alphabetical order) for all between 0 and . All strings consist of lowercase English letters."
+}

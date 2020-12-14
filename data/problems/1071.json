@@ -1,0 +1,7 @@
+{
+    "id": 1071,
+    "title": "Greatest Common Divisor of Strings",
+    "title_slug": "greatest-common-divisor-of-strings",
+    "backend_id": 1146,
+    "content": "<div><p>For two strings <code>s</code> and <code>t</code>, we say \"<code>t</code> divides <code>s</code>\" if and only if <code>s = t + ... + t</code>&nbsp; (<code>t</code> concatenated with itself 1 or more times)</p>\n\n<p>Given two strings str1 and str2, return the largest string <code>x</code> such that <code>x</code> divides both&nbsp;<code><font face=\"monospace\">str1</font></code>&nbsp;and <code><font face=\"monospace\">str2</font></code>.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> str1 = \"ABCABC\", str2 = \"ABC\"\n<strong>Output:</strong> \"ABC\"\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> str1 = \"ABABAB\", str2 = \"ABAB\"\n<strong>Output:</strong> \"AB\"\n</pre><p><strong>Example 3:</strong></p>\n<pre><strong>Input:</strong> str1 = \"LEET\", str2 = \"CODE\"\n<strong>Output:</strong> \"\"\n</pre><p><strong>Example 4:</strong></p>\n<pre><strong>Input:</strong> str1 = \"ABCDEF\", str2 = \"ABC\"\n<strong>Output:</strong> \"\"\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= str1.length &lt;= 1000</code></li>\n\t<li><code>1 &lt;= str2.length &lt;= 1000</code></li>\n\t<li><code>str1</code>&nbsp;and <code>str2</code>&nbsp;consist of&nbsp;English uppercase letters.</li>\n</ul>\n</div>"
+}

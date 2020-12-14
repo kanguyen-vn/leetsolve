@@ -1,0 +1,54 @@
+{
+    "id": 1457,
+    "title": "Pseudo-Palindromic Paths in a Binary Tree",
+    "title_slug": "pseudo-palindromic-paths-in-a-binary-tree",
+    "backend_id": 1568,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "node",
+            "value",
+            "digit"
+        ],
+        [
+            "path",
+            "binary",
+            "tree",
+            "say",
+            "pseudo",
+            "palindromic",
+            "least",
+            "one",
+            "permutation",
+            "node",
+            "value",
+            "path",
+            "palindrome"
+        ],
+        [
+            "return",
+            "number",
+            "pseudo",
+            "palindromic",
+            "path",
+            "go",
+            "root",
+            "node",
+            "leaf",
+            "node"
+        ],
+        [
+            "give",
+            "binary",
+            "tree",
+            "node"
+        ],
+        [
+            "node",
+            "value",
+            "digit"
+        ]
+    ]
+}

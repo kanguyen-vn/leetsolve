@@ -1,0 +1,7 @@
+{
+    "id": 392,
+    "title": "Is Subsequence",
+    "title_slug": "is-subsequence",
+    "backend_id": 392,
+    "content": "Given a string s and a string t, check if s is subsequence of t.\nA subsequence of a string is a new string which is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (ie,  is a subsequence of  while  is not).\n"
+}

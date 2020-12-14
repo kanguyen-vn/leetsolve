@@ -1,0 +1,65 @@
+{
+    "id": 309,
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "title_slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+    "backend_id": 309,
+    "content": [
+        [
+            "say",
+            "array",
+            "element",
+            "price",
+            "give",
+            "stock",
+            "day"
+        ],
+        [
+            "design",
+            "algorithm",
+            "find",
+            "maximum",
+            "profit"
+        ],
+        [
+            "may",
+            "complete",
+            "many",
+            "transaction",
+            "like",
+            "ie",
+            "buy",
+            "one",
+            "sell",
+            "one",
+            "share",
+            "stock",
+            "multiple",
+            "time",
+            "follow",
+            "restriction",
+            "may",
+            "engage",
+            "multiple",
+            "transaction",
+            "time",
+            "ie",
+            "must",
+            "sell",
+            "stock",
+            "buy"
+        ],
+        [
+            "sell",
+            "stock",
+            "buy",
+            "stock",
+            "next",
+            "day"
+        ],
+        [
+            "ie",
+            "cooldown",
+            "day"
+        ]
+    ]
+}

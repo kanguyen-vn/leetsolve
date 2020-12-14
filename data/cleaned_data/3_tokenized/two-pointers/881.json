@@ -1,0 +1,43 @@
+{
+    "id": 881,
+    "title": "Boats to Save People",
+    "title_slug": "boats-to-save-people",
+    "backend_id": 917,
+    "content": [
+        [
+            "th",
+            "person",
+            "weight",
+            "boat",
+            "carry",
+            "maximum",
+            "weight"
+        ],
+        [
+            "boat",
+            "carry",
+            "people",
+            "time",
+            "provide",
+            "sum",
+            "weight",
+            "people"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "boat",
+            "carry",
+            "every",
+            "give",
+            "person"
+        ],
+        [
+            "guarantee",
+            "person",
+            "carry",
+            "boat"
+        ]
+    ]
+}

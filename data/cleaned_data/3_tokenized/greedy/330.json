@@ -1,0 +1,35 @@
+{
+    "id": 330,
+    "title": "Patching Array",
+    "title_slug": "patching-array",
+    "backend_id": 330,
+    "content": [
+        [
+            "give",
+            "sort",
+            "positive",
+            "integer",
+            "array",
+            "nums",
+            "integer",
+            "add",
+            "patch",
+            "element",
+            "array",
+            "number",
+            "range",
+            "inclusive",
+            "form",
+            "sum",
+            "element",
+            "array"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "patch",
+            "require"
+        ]
+    ]
+}

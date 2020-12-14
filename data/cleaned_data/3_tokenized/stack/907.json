@@ -1,0 +1,28 @@
+{
+    "id": 907,
+    "title": "Sum of Subarray Minimums",
+    "title_slug": "sum-of-subarray-minimums",
+    "backend_id": 943,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "find",
+            "sum",
+            "range",
+            "every",
+            "contiguous",
+            "subarray"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "answer",
+            "modulo"
+        ]
+    ]
+}

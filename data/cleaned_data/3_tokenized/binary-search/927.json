@@ -1,0 +1,65 @@
+{
+    "id": 927,
+    "title": "Three Equal Parts",
+    "title_slug": "three-equal-parts",
+    "backend_id": 963,
+    "content": [
+        [
+            "give",
+            "array",
+            "divide",
+            "array",
+            "non",
+            "empty",
+            "part",
+            "part",
+            "represent",
+            "binary",
+            "value"
+        ],
+        [
+            "possible",
+            "return",
+            "first",
+            "part",
+            "second",
+            "part",
+            "third",
+            "part"
+        ],
+        [
+            "three",
+            "part",
+            "equal",
+            "binary",
+            "value"
+        ],
+        [
+            "possible",
+            "return"
+        ],
+        [
+            "note",
+            "entire",
+            "part",
+            "use",
+            "consider",
+            "binary",
+            "value",
+            "represent"
+        ],
+        [
+            "example",
+            "represent",
+            "decimal"
+        ],
+        [
+            "also",
+            "lead",
+            "zero",
+            "allow",
+            "represent",
+            "value"
+        ]
+    ]
+}

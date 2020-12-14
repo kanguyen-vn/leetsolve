@@ -1,0 +1,7 @@
+{
+    "id": 1223,
+    "title": "Dice Roll Simulation",
+    "title_slug": "dice-roll-simulation",
+    "backend_id": 1343,
+    "content": "A die simulator generates a random number from 1 to 6 for each roll.\u00a0You introduced a constraint to the generator such that it cannot roll the number  more than  (1-indexed) consecutive times.\u00a0\nGiven an array of integers\u00a0\u00a0and an integer\u00a0, return the number of distinct sequences that can be obtained with exact  rolls.\nTwo sequences are considered different if at least one element differs from each other. Since the answer\u00a0may be too large,\u00a0return it modulo .\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

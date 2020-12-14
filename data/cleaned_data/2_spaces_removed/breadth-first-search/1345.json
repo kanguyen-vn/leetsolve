@@ -1,0 +1,7 @@
+{
+    "id": 1345,
+    "title": "Jump Game IV",
+    "title_slug": "jump-game-iv",
+    "backend_id": 1447,
+    "content": "Given an array of integers , you are initially positioned at the first index of the array. In one step you can jump from index to index: where: . where: . where: and . Return the minimum number of steps to reach the last index of the array. Notice that you can not jump outside of the array at any time."
+}

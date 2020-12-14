@@ -1,0 +1,7 @@
+{
+    "id": 724,
+    "title": "Find Pivot Index",
+    "title_slug": "find-pivot-index",
+    "backend_id": 724,
+    "content": "<div><p>Given an array of integers <code>nums</code>, write a method that returns the \"pivot\" index of this array.</p>\n\n<p>We define the pivot index as the index where the sum of all the numbers to the left of the index is equal to the sum of all the numbers to the right of the index.</p>\n\n<p>If no such index exists, we should return -1. If there are multiple pivot indexes, you should return the left-most pivot index.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> nums = [1,7,3,6,5,6]\n<strong>Output:</strong> 3\n<strong>Explanation:</strong>\nThe sum of the numbers to the left of index 3 (nums[3] = 6) is equal to the sum of numbers to the right of index 3.\nAlso, 3 is the first index where this occurs.\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> nums = [1,2,3]\n<strong>Output:</strong> -1\n<strong>Explanation:</strong>\nThere is no index that satisfies the conditions in the problem statement.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li>The length of <code>nums</code> will be in the range <code>[0, 10000]</code>.</li>\n\t<li>Each element <code>nums[i]</code> will be an integer in the range <code>[-1000, 1000]</code>.</li>\n</ul>\n</div>"
+}

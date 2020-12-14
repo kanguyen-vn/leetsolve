@@ -1,0 +1,32 @@
+{
+    "id": 132,
+    "title": "Palindrome Partitioning II",
+    "title_slug": "palindrome-partitioning-ii",
+    "backend_id": 132,
+    "content": [
+        [
+            "give",
+            "string",
+            "partition",
+            "every",
+            "substring",
+            "partition",
+            "palindrome"
+        ],
+        [
+            "return",
+            "minimum",
+            "cut",
+            "need",
+            "palindrome",
+            "partitioning"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ]
+    ]
+}

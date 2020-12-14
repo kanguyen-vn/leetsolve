@@ -1,0 +1,36 @@
+{
+    "id": 74,
+    "title": "Search a 2D Matrix",
+    "title_slug": "search-a-2d-matrix",
+    "backend_id": 74,
+    "content": [
+        [
+            "write",
+            "efficient",
+            "algorithm",
+            "search",
+            "value",
+            "matrix"
+        ],
+        [
+            "matrix",
+            "follow",
+            "property",
+            "integer",
+            "row",
+            "sort",
+            "leave",
+            "right"
+        ],
+        [
+            "first",
+            "integer",
+            "row",
+            "great",
+            "last",
+            "integer",
+            "previous",
+            "row"
+        ]
+    ]
+}

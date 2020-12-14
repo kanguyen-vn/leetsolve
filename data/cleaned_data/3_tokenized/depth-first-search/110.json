@@ -1,0 +1,28 @@
+{
+    "id": 110,
+    "title": "Balanced Binary Tree",
+    "title_slug": "balanced-binary-tree",
+    "backend_id": 110,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "determine",
+            "height",
+            "balance"
+        ],
+        [
+            "problem",
+            "height",
+            "balance",
+            "binary",
+            "tree",
+            "define",
+            "number",
+            "node",
+            "tree",
+            "range"
+        ]
+    ]
+}

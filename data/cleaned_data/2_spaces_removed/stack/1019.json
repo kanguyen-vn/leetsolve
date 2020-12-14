@@ -1,0 +1,7 @@
+{
+    "id": 1019,
+    "title": "Next Greater Node In Linked List",
+    "title_slug": "next-greater-node-in-linked-list",
+    "backend_id": 1072,
+    "content": "We are given a linked list with as the first node. Let's number the nodes in the list: etc. Each node may have a next larger value: for , is the such that , , and is the smallest possible choice. If such a does not exist, the next larger value is 0. Return an array of integers , where . Note that in the example inputs (not outputs) below, arrays such as represent the serialization of a linked list with a head node value of 2, second node value of 1, and third node value of 5."
+}

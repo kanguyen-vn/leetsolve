@@ -1,0 +1,57 @@
+{
+    "id": 1223,
+    "title": "Dice Roll Simulation",
+    "title_slug": "dice-roll-simulation",
+    "backend_id": 1343,
+    "content": [
+        [
+            "die",
+            "simulator",
+            "generate",
+            "random",
+            "number",
+            "roll"
+        ],
+        [
+            "introduce",
+            "constraint",
+            "generator",
+            "roll",
+            "number",
+            "indexed",
+            "consecutive",
+            "time"
+        ],
+        [
+            "give",
+            "array",
+            "integer",
+            "integer",
+            "return",
+            "number",
+            "distinct",
+            "sequence",
+            "obtain",
+            "exact",
+            "roll"
+        ],
+        [
+            "two",
+            "sequence",
+            "consider",
+            "different",
+            "least",
+            "one",
+            "element",
+            "differ"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "modulo"
+        ]
+    ]
+}

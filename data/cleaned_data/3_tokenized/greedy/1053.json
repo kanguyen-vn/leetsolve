@@ -1,0 +1,34 @@
+{
+    "id": 1053,
+    "title": "Previous Permutation With One Swap",
+    "title_slug": "previous-permutation-with-one-swap",
+    "backend_id": 1139,
+    "content": [
+        [
+            "give",
+            "array",
+            "positive",
+            "integer",
+            "necessarily",
+            "distinct",
+            "return",
+            "lexicographically",
+            "large",
+            "permutation",
+            "small",
+            "make",
+            "one",
+            "swap",
+            "swap",
+            "exchange",
+            "position",
+            "two",
+            "number"
+        ],
+        [
+            "do",
+            "return",
+            "array"
+        ]
+    ]
+}

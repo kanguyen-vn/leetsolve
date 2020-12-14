@@ -1,0 +1,7 @@
+{
+    "id": 1433,
+    "title": "Check If a String Can Break Another String",
+    "title_slug": "check-if-a-string-can-break-another-string",
+    "backend_id": 1530,
+    "content": "Given two strings:  and  with the same\u00a0size, check if some\u00a0permutation of string  can break\u00a0some\u00a0permutation of string  or vice-versa. In other words  can break \u00a0or vice-versa.\nA string \u00a0can break\u00a0string \u00a0(both of size ) if \u00a0(in alphabetical order)\u00a0for all \u00a0between 0 and .\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\nAll strings consist of lowercase English letters.\n\n"
+}

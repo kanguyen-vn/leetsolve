@@ -1,0 +1,7 @@
+{
+    "id": 886,
+    "title": "Possible Bipartition",
+    "title_slug": "possible-bipartition",
+    "backend_id": 922,
+    "content": "Given a set of \u00a0people (numbered ), we would like to split everyone into two groups of any size.\nEach person may dislike some other people, and they should not go into the same group.\u00a0\nFormally, if , it means it is not allowed to put the people numbered  and  into the same group.\nReturn \u00a0if and only if it is possible to split everyone into two groups in this way.\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n\n\nThere does not exist  for which .\n"
+}

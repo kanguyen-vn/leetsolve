@@ -1,0 +1,7 @@
+{
+    "id": 242,
+    "title": "Valid Anagram",
+    "title_slug": "valid-anagram",
+    "backend_id": 242,
+    "content": "Given two strings s and t\u00a0, write a function to determine if t is an anagram of s.\n\n\n\n\n"
+}

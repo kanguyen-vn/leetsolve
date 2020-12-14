@@ -1,0 +1,43 @@
+{
+    "id": 1,
+    "title": "Two Sum",
+    "title_slug": "two-sum",
+    "backend_id": 1,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "integer",
+            "return",
+            "index",
+            "two",
+            "number",
+            "add"
+        ],
+        [
+            "may",
+            "assume",
+            "input",
+            "would",
+            "exactly",
+            "one",
+            "solution",
+            "may",
+            "use",
+            "element",
+            "twice"
+        ],
+        [
+            "return",
+            "answer",
+            "order"
+        ],
+        [
+            "one",
+            "valid",
+            "answer",
+            "exist"
+        ]
+    ]
+}

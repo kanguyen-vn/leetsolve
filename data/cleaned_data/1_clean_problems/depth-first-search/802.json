@@ -1,0 +1,7 @@
+{
+    "id": 802,
+    "title": "Find Eventual Safe States",
+    "title_slug": "find-eventual-safe-states",
+    "backend_id": 820,
+    "content": "In a directed graph, we start at some node and every turn, walk along a directed edge of the graph.\u00a0 If we reach a node that is terminal (that is, it has no outgoing directed edges), we stop.\nNow, say our starting node is eventually safe\u00a0if and only if we must eventually walk to a terminal node.\u00a0 More specifically, there exists a natural number  so that for any choice of where to walk, we must have stopped at a terminal node in less than  steps.\nWhich nodes are eventually safe?\u00a0 Return them as an array in sorted order.\nThe directed graph has  nodes with labels , where  is the length of .\u00a0 The\u00a0graph is given in the following form:  is a list of labels  such that  is a directed edge of the graph.\n\n\n"
+}

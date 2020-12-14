@@ -1,0 +1,7 @@
+{
+    "id": 217,
+    "title": "Contains Duplicate",
+    "title_slug": "contains-duplicate",
+    "backend_id": 217,
+    "content": "<div><p>Given an array of integers, find if the array contains any duplicates.</p>\n\n<p>Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> [1,2,3,1]\n<strong>Output:</strong> true</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong>[1,2,3,4]\n<strong>Output:</strong> false</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input: </strong>[1,1,1,3,3,4,3,2,4,2]\n<strong>Output:</strong> true</pre>\n</div>"
+}

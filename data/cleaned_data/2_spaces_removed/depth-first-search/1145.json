@@ -1,0 +1,7 @@
+{
+    "id": 1145,
+    "title": "Binary Tree Coloring Game",
+    "title_slug": "binary-tree-coloring-game",
+    "backend_id": 1248,
+    "content": "Two players play a turn based game on a binary tree. We are given the of this binary tree, and the number of nodes in the tree. is odd, and each node has a distinct value from 1 to . Initially, the first player names a value with , and the second player names a value with and . The first player colors the node with value red, and the second player colors the node with value blue. Then, the players take turns starting with the first player. In each turn, that player chooses a node of their color (red if player 1, blue if player 2) and colors an uncolored neighbor of the chosen node (either the left child, right child, or parent of the chosen node.) If (and only if) a player cannot choose such a node in this way, they must pass their turn. If both players pass their turn, the game ends, and the winner is the player that colored more nodes. You are the second player. If it is possible to choose such a to ensure you win the game, return . If it is not possible, return . is the root of a binary tree with nodes and distinct node values from 1 to . is odd."
+}

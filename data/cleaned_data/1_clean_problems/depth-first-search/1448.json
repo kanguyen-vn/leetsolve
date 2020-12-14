@@ -1,0 +1,7 @@
+{
+    "id": 1448,
+    "title": "Count Good Nodes in Binary Tree",
+    "title_slug": "count-good-nodes-in-binary-tree",
+    "backend_id": 1544,
+    "content": "Given a binary tree , a node X in the tree is named\u00a0good if in the path from root to X there are no nodes with a value greater than X.\nReturn the number of good nodes in the binary tree.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\nThe number of nodes in the binary tree is in the range\u00a0.\nEach node's value is between .\n"
+}

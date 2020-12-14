@@ -1,0 +1,48 @@
+{
+    "id": 1234,
+    "title": "Replace the Substring for Balanced String",
+    "title_slug": "replace-the-substring-for-balanced-string",
+    "backend_id": 1351,
+    "content": [
+        [
+            "give",
+            "string",
+            "contain",
+            "kind",
+            "character"
+        ],
+        [
+            "string",
+            "say",
+            "balanced",
+            "character",
+            "appear",
+            "time",
+            "length",
+            "string"
+        ],
+        [
+            "return",
+            "minimum",
+            "length",
+            "substring",
+            "replace",
+            "string",
+            "length",
+            "make",
+            "original",
+            "string",
+            "balance"
+        ],
+        [
+            "return",
+            "string",
+            "already",
+            "balance"
+        ],
+        [
+            "multiple",
+            "contain"
+        ]
+    ]
+}

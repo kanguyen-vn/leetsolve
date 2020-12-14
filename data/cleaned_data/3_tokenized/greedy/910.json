@@ -1,0 +1,32 @@
+{
+    "id": 910,
+    "title": "Smallest Range II",
+    "title_slug": "smallest-range-ii",
+    "backend_id": 946,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "integer",
+            "need",
+            "choose",
+            "either",
+            "add"
+        ],
+        [
+            "process",
+            "array"
+        ],
+        [
+            "return",
+            "small",
+            "possible",
+            "difference",
+            "maximum",
+            "value",
+            "minimum",
+            "value"
+        ]
+    ]
+}

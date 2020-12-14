@@ -1,0 +1,27 @@
+{
+    "id": 940,
+    "title": "Distinct Subsequences II",
+    "title_slug": "distinct-subsequences-ii",
+    "backend_id": 977,
+    "content": [
+        [
+            "give",
+            "string",
+            "count",
+            "number",
+            "distinct",
+            "non",
+            "empty",
+            "subsequence"
+        ],
+        [
+            "since",
+            "result",
+            "may",
+            "large",
+            "return",
+            "answer",
+            "modulo"
+        ]
+    ]
+}

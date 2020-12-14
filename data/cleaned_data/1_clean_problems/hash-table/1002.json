@@ -1,0 +1,7 @@
+{
+    "id": 1002,
+    "title": "Find Common Characters",
+    "title_slug": "find-common-characters",
+    "backend_id": 1044,
+    "content": "Given an array\u00a0 of strings made only from lowercase letters, return a list of all characters that show up in all strings within the list (including duplicates).\u00a0\u00a0For example, if a character occurs 3 times\u00a0in all strings but not 4 times, you need to include that character three times\u00a0in the final answer.\nYou may return the answer in any order.\n\u00a0\n"
+}

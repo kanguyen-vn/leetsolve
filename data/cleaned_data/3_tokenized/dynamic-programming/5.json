@@ -1,0 +1,26 @@
+{
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "title_slug": "longest-palindromic-substring",
+    "backend_id": 5,
+    "content": [
+        [
+            "give",
+            "string",
+            "return",
+            "long",
+            "palindromic",
+            "substring"
+        ],
+        [
+            "consist",
+            "digit",
+            "english",
+            "letter",
+            "low",
+            "case",
+            "upper",
+            "case"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 944,
+    "title": "Delete Columns to Make Sorted",
+    "title_slug": "delete-columns-to-make-sorted",
+    "backend_id": 981,
+    "content": "We are given an array\u00a0 of  lowercase letter strings, all of the same length.\nNow, we may choose any set of deletion indices, and for each string, we delete all the characters in those indices.\nFor example, if we have an array  and deletion indices , then the final array after deletions is ,\u00a0and the remaining columns of  are\u00a0, , and .\u00a0 (Formally, the -th column is ).\nSuppose we chose a set of deletion indices  such that after deletions, each remaining column in A is in non-decreasing sorted order.\nReturn the minimum possible value of .\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1641,
+    "title": "Count Sorted Vowel Strings",
+    "title_slug": "count-sorted-vowel-strings",
+    "backend_id": 1761,
+    "content": "Given an integer , return the number of strings of length that consist only of vowels (, , , , ) and are lexicographically sorted. A string is lexicographically sorted if for all valid , is the same as or comes before in the alphabet."
+}

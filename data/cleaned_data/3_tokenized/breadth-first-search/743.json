@@ -1,0 +1,48 @@
+{
+    "id": 743,
+    "title": "Network Delay Time",
+    "title_slug": "network-delay-time",
+    "backend_id": 744,
+    "content": [
+        [
+            "network",
+            "node",
+            "label"
+        ],
+        [
+            "give",
+            "list",
+            "travel",
+            "time",
+            "direct",
+            "edge",
+            "source",
+            "node",
+            "target",
+            "node",
+            "time",
+            "take",
+            "signal",
+            "travel",
+            "source",
+            "target"
+        ],
+        [
+            "send",
+            "signal",
+            "certain",
+            "node"
+        ],
+        [
+            "long",
+            "take",
+            "node",
+            "receive",
+            "signal"
+        ],
+        [
+            "impossible",
+            "return"
+        ]
+    ]
+}

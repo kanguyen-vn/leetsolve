@@ -1,0 +1,23 @@
+{
+    "id": 923,
+    "title": "3Sum With Multiplicity",
+    "title_slug": "3sum-with-multiplicity",
+    "backend_id": 959,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "integer",
+            "return",
+            "number",
+            "tuples"
+        ],
+        [
+            "answer",
+            "large",
+            "return",
+            "modulo"
+        ]
+    ]
+}

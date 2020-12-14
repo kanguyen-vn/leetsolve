@@ -1,0 +1,7 @@
+{
+    "id": 475,
+    "title": "Heaters",
+    "title_slug": "heaters",
+    "backend_id": 475,
+    "content": "Winter is coming! During the contest, your first job is to design a standard heater with a fixed warm radius to warm all the houses.\nEvery house can be warmed, as long as the house is within the heater's warm radius range.\u00a0\nGiven the positions of  and  on a horizontal line, return the minimum radius standard of heaters\u00a0so that those heaters could cover all houses.\nNotice that\u00a0all the  follow your radius standard, and the warm radius will the same.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

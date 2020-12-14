@@ -1,0 +1,7 @@
+{
+    "id": 19,
+    "title": "Remove Nth Node From End of List",
+    "title_slug": "remove-nth-node-from-end-of-list",
+    "backend_id": 19,
+    "content": "Given the of a linked list, remove the node from the end of the list and return its head."
+}

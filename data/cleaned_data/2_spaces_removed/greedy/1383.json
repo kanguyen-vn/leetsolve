@@ -1,0 +1,7 @@
+{
+    "id": 1383,
+    "title": "Maximum Performance of a Team",
+    "title_slug": "maximum-performance-of-a-team",
+    "backend_id": 1499,
+    "content": "There are engineers numbered from 1 to and two arrays: and , where and represent the speed and efficiency for the i-th engineer respectively. Return the maximum performance of a team composed of at most engineers, since the answer can be a huge number, return this modulo 10^9 + 7. The performance of a team is the sum of their engineers' speeds multiplied by the minimum efficiency among their engineers."
+}

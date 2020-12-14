@@ -1,0 +1,40 @@
+{
+    "id": 1414,
+    "title": "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K",
+    "title_slug": "find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k",
+    "backend_id": 1515,
+    "content": [
+        [
+            "give",
+            "integer",
+            "return",
+            "minimum",
+            "number",
+            "fibonacci",
+            "number",
+            "whose",
+            "sum",
+            "equal"
+        ],
+        [
+            "fibonacci",
+            "number",
+            "use",
+            "multiple",
+            "time"
+        ],
+        [
+            "fibonacci",
+            "number",
+            "define",
+            "guaranteed",
+            "give",
+            "constraint",
+            "always",
+            "find",
+            "fibonacci",
+            "number",
+            "sum"
+        ]
+    ]
+}

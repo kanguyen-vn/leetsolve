@@ -1,0 +1,59 @@
+{
+    "id": 664,
+    "title": "Strange Printer",
+    "title_slug": "strange-printer",
+    "backend_id": 664,
+    "content": [
+        [
+            "strange",
+            "printer",
+            "follow",
+            "two",
+            "special",
+            "requirement",
+            "printer",
+            "print",
+            "sequence",
+            "character",
+            "time"
+        ],
+        [
+            "turn",
+            "printer",
+            "print",
+            "new",
+            "character",
+            "start",
+            "end",
+            "place",
+            "cover",
+            "original",
+            "exist",
+            "character"
+        ],
+        [
+            "give",
+            "string",
+            "consist",
+            "low",
+            "english",
+            "letter",
+            "job",
+            "count",
+            "minimum",
+            "number",
+            "turn",
+            "printer",
+            "need",
+            "order",
+            "print"
+        ],
+        [
+            "hint",
+            "length",
+            "give",
+            "string",
+            "exceed"
+        ]
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 227,
+    "title": "Basic Calculator II",
+    "title_slug": "basic-calculator-ii",
+    "backend_id": 227,
+    "content": [
+        [
+            "implement",
+            "basic",
+            "calculator",
+            "evaluate",
+            "simple",
+            "expression",
+            "string"
+        ],
+        [
+            "expression",
+            "string",
+            "contain",
+            "non",
+            "negative",
+            "integer",
+            "operator",
+            "empty",
+            "space"
+        ],
+        [
+            "integer",
+            "division",
+            "truncate",
+            "toward",
+            "zero"
+        ]
+    ]
+}

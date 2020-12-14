@@ -1,0 +1,38 @@
+{
+    "id": 472,
+    "title": "Concatenated Words",
+    "title_slug": "concatenated-words",
+    "backend_id": 472,
+    "content": [
+        [
+            "give",
+            "list",
+            "word",
+            "without",
+            "duplicate",
+            "please",
+            "write",
+            "program",
+            "return",
+            "concatenate",
+            "word",
+            "give",
+            "list",
+            "word"
+        ],
+        [
+            "concatenate",
+            "word",
+            "define",
+            "string",
+            "comprise",
+            "entirely",
+            "least",
+            "two",
+            "short",
+            "word",
+            "give",
+            "array"
+        ]
+    ]
+}

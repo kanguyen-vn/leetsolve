@@ -1,0 +1,23 @@
+{
+    "id": 61,
+    "title": "Rotate List",
+    "title_slug": "rotate-list",
+    "backend_id": 61,
+    "content": [
+        [
+            "give",
+            "link",
+            "list",
+            "rotate",
+            "list",
+            "right",
+            "place"
+        ],
+        [
+            "number",
+            "node",
+            "list",
+            "range"
+        ]
+    ]
+}

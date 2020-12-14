@@ -1,0 +1,60 @@
+{
+    "id": 207,
+    "title": "Course Schedule",
+    "title_slug": "course-schedule",
+    "backend_id": 207,
+    "content": [
+        [
+            "total",
+            "course",
+            "take",
+            "label"
+        ],
+        [
+            "course",
+            "may",
+            "prerequisites",
+            "example",
+            "take",
+            "course",
+            "first",
+            "take",
+            "course",
+            "express",
+            "pair",
+            "give",
+            "total",
+            "number",
+            "course",
+            "list",
+            "prerequisite",
+            "pair",
+            "possible",
+            "finish",
+            "course"
+        ],
+        [
+            "input",
+            "prerequisite",
+            "graph",
+            "represent",
+            "list",
+            "edge",
+            "adjacency",
+            "matrix"
+        ],
+        [
+            "read",
+            "graph",
+            "represent"
+        ],
+        [
+            "may",
+            "assume",
+            "duplicate",
+            "edge",
+            "input",
+            "prerequisite"
+        ]
+    ]
+}

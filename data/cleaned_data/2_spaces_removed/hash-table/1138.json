@@ -1,0 +1,7 @@
+{
+    "id": 1138,
+    "title": "Alphabet Board Path",
+    "title_slug": "alphabet-board-path",
+    "backend_id": 1238,
+    "content": "On an alphabet board, we start at position , corresponding to character . Here, , as shown in the diagram below. We may make the following moves: moves our position up one row, if the position exists on the board; moves our position down one row, if the position exists on the board; moves our position left one column, if the position exists on the board; moves our position right one column, if the position exists on the board; adds the character at our current position to the answer. (Here, the only positions that exist on the board are positions with letters on them.) Return a sequence of moves that makes our answer equal to in the minimum number of moves. You may return any path that does so. consists only of English lowercase letters."
+}

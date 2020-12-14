@@ -1,0 +1,7 @@
+{
+    "id": 125,
+    "title": "Valid Palindrome",
+    "title_slug": "valid-palindrome",
+    "backend_id": 125,
+    "content": "<div><p>Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.</p>\n\n<p><strong>Note:</strong>&nbsp;For the purpose of this problem, we define empty string as valid palindrome.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> \"A man, a plan, a canal: Panama\"\n<strong>Output:</strong> true\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> \"race a car\"\n<strong>Output:</strong> false\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>s</code> consists only of printable ASCII characters.</li>\n</ul>\n</div>"
+}

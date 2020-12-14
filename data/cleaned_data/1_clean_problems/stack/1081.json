@@ -1,0 +1,7 @@
+{
+    "id": 1081,
+    "title": "Smallest Subsequence of Distinct Characters",
+    "title_slug": "smallest-subsequence-of-distinct-characters",
+    "backend_id": 1159,
+    "content": "Return the lexicographically smallest subsequence of  that contains all the distinct characters of  exactly once.\n"
+}

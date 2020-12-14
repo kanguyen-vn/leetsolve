@@ -1,0 +1,67 @@
+{
+    "id": 1237,
+    "title": "Find Positive Integer Solution for a Given Equation",
+    "title_slug": "find-positive-integer-solution-for-a-given-equation",
+    "backend_id": 1358,
+    "content": [
+        [
+            "give",
+            "function",
+            "value",
+            "return",
+            "positive",
+            "integer",
+            "pair"
+        ],
+        [
+            "function",
+            "constantly",
+            "increase"
+        ],
+        [
+            "function",
+            "interface",
+            "define",
+            "like",
+            "custom",
+            "test",
+            "purpose",
+            "'re",
+            "give",
+            "integer",
+            "target",
+            "input",
+            "represent",
+            "one",
+            "function",
+            "secret",
+            "internal",
+            "list",
+            "example",
+            "'ll",
+            "know",
+            "two",
+            "function",
+            "list"
+        ],
+        [
+            "may",
+            "return",
+            "solution",
+            "order"
+        ],
+        [
+            "'s",
+            "guaranteed",
+            "solution",
+            "range",
+            "'s",
+            "also",
+            "guarantee",
+            "fit",
+            "bit",
+            "sign",
+            "integer"
+        ]
+    ]
+}

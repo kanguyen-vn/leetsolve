@@ -1,0 +1,80 @@
+{
+    "id": 1520,
+    "title": "Maximum Number of Non-Overlapping Substrings",
+    "title_slug": "maximum-number-of-non-overlapping-substrings",
+    "backend_id": 1644,
+    "content": [
+        [
+            "give",
+            "string",
+            "lowercase",
+            "letter",
+            "need",
+            "find",
+            "maximum",
+            "number",
+            "non",
+            "empty",
+            "substring",
+            "meet",
+            "following",
+            "condition",
+            "substring",
+            "overlap",
+            "two",
+            "substring",
+            "either",
+            "true"
+        ],
+        [
+            "substring",
+            "contain",
+            "certain",
+            "character",
+            "must",
+            "also",
+            "contain",
+            "occurrence"
+        ],
+        [
+            "find",
+            "maximum",
+            "number",
+            "substring",
+            "meet",
+            "condition"
+        ],
+        [
+            "multiple",
+            "solution",
+            "number",
+            "substring",
+            "return",
+            "one",
+            "minimum",
+            "total",
+            "length"
+        ],
+        [
+            "show",
+            "exist",
+            "unique",
+            "solution",
+            "minimum",
+            "total",
+            "length"
+        ],
+        [
+            "notice",
+            "return",
+            "substring",
+            "order"
+        ],
+        [
+            "contain",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

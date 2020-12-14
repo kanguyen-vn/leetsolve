@@ -1,0 +1,7 @@
+{
+    "id": 1139,
+    "title": "Largest 1-Bordered Square",
+    "title_slug": "largest-1-bordered-square",
+    "backend_id": 1239,
+    "content": "Given a 2D  of 0s and 1s, return the number of elements in\u00a0the largest square\u00a0subgrid that has all 1s on its border, or 0 if such a subgrid\u00a0doesn't exist in the .\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n is 0 or 1\n"
+}

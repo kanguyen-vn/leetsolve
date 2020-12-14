@@ -1,0 +1,7 @@
+{
+    "id": 1192,
+    "title": "Critical Connections in a Network",
+    "title_slug": "critical-connections-in-a-network",
+    "backend_id": 1300,
+    "content": "There are\u00a0 servers numbered from\u00a00\u00a0to\u00a0 connected by\u00a0undirected server-to-server  forming a network where \u00a0represents a connection between servers \u00a0and . Any server can reach any other server directly or indirectly through the network.\nA critical connection\u00a0is a connection that, if removed, will make some server unable to reach some other server.\nReturn all critical connections in the network in any order.\n\u00a0\n\n\n\n\u00a0\n\n\n\n\n\nThere are no repeated connections.\n\n"
+}

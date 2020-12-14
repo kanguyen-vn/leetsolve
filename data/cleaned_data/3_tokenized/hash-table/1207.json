@@ -1,0 +1,21 @@
+{
+    "id": 1207,
+    "title": "Unique Number of Occurrences",
+    "title_slug": "unique-number-of-occurrences",
+    "backend_id": 1319,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "write",
+            "function",
+            "return",
+            "number",
+            "occurrences",
+            "value",
+            "array",
+            "unique"
+        ]
+    ]
+}

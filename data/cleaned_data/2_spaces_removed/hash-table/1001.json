@@ -1,0 +1,7 @@
+{
+    "id": 1001,
+    "title": "Grid Illumination",
+    "title_slug": "grid-illumination",
+    "backend_id": 1043,
+    "content": "You are given a of size , and each cell of this grid has a lamp that is initially turned off. You are also given an array of lamp positions , where indicates that the lamp at is turned on. When a lamp is turned on, it illuminates its cell and all other cells in the same row, column, or diagonal. Finally, you are given a query array , where . For the query, determine whether is illuminated or not. After answering the query, turn off the lamp at and its 8 adjacent lamps if they exist. A lamp is adjacent if its cell shares either a side or corner with . Return an array of integers , where should be 1 if the lamp in the query was illuminated, or 0 if the lamp was not."
+}

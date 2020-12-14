@@ -1,0 +1,84 @@
+{
+    "id": 839,
+    "title": "Similar String Groups",
+    "title_slug": "similar-string-groups",
+    "backend_id": 869,
+    "content": [
+        [
+            "two",
+            "string",
+            "similar",
+            "swap",
+            "two",
+            "letter",
+            "different",
+            "position",
+            "equal"
+        ],
+        [
+            "also",
+            "two",
+            "string",
+            "similar",
+            "equal"
+        ],
+        [
+            "example",
+            "similar",
+            "swap",
+            "position",
+            "similar",
+            "similar"
+        ],
+        [
+            "together",
+            "form",
+            "two",
+            "connect",
+            "group",
+            "similarity"
+        ],
+        [
+            "notice",
+            "group",
+            "even",
+            "though",
+            "similar"
+        ],
+        [
+            "formally",
+            "group",
+            "word",
+            "group",
+            "similar",
+            "least",
+            "one",
+            "word",
+            "group"
+        ],
+        [
+            "give",
+            "list",
+            "string",
+            "every",
+            "string",
+            "anagram",
+            "every",
+            "string"
+        ],
+        [
+            "many",
+            "group"
+        ],
+        [
+            "consist",
+            "lowercase",
+            "letter"
+        ],
+        [
+            "word",
+            "length",
+            "anagram"
+        ]
+    ]
+}

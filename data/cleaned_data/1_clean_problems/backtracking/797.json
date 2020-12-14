@@ -1,0 +1,7 @@
+{
+    "id": 797,
+    "title": "All Paths From Source to Target",
+    "title_slug": "all-paths-from-source-to-target",
+    "backend_id": 813,
+    "content": "Given a directed\u00a0acyclic graph (DAG) of  nodes labeled from 0 to n - 1,\u00a0find all possible paths from node 0 to node , and return them in any order.\nThe graph is given as follows:\u00a0 is a list of all nodes you can visit from node \u00a0(i.e., there is a directed edge from node  to node ).\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n (i.e., there will be no self-loops).\nThe input graph is guaranteed to be a DAG.\n\n"
+}

@@ -1,0 +1,57 @@
+{
+    "id": 650,
+    "title": "2 Keys Keyboard",
+    "title_slug": "2-keys-keyboard",
+    "backend_id": 650,
+    "content": [
+        [
+            "initially",
+            "notepad",
+            "one",
+            "character",
+            "present"
+        ],
+        [
+            "perform",
+            "two",
+            "operation",
+            "notepad",
+            "step",
+            "copy",
+            "character",
+            "present",
+            "notepad",
+            "partial",
+            "copy",
+            "allow"
+        ],
+        [
+            "paste",
+            "character",
+            "copy",
+            "last",
+            "time"
+        ],
+        [
+            "give",
+            "number"
+        ],
+        [
+            "get",
+            "exactly",
+            "notepad",
+            "perform",
+            "minimum",
+            "number",
+            "step",
+            "permit"
+        ],
+        [
+            "output",
+            "minimum",
+            "number",
+            "step",
+            "get"
+        ]
+    ]
+}

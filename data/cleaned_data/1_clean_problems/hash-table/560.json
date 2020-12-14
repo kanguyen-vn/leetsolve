@@ -1,0 +1,7 @@
+{
+    "id": 560,
+    "title": "Subarray Sum Equals K",
+    "title_slug": "subarray-sum-equals-k",
+    "backend_id": 560,
+    "content": "Given an array of integers  and an integer , return the total number of continuous subarrays whose sum equals to .\n\u00a0\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

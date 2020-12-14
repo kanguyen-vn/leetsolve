@@ -1,0 +1,73 @@
+{
+    "id": 464,
+    "title": "Can I Win",
+    "title_slug": "can-i-win",
+    "backend_id": 464,
+    "content": [
+        [
+            "game",
+            "two",
+            "player",
+            "take",
+            "turn",
+            "add",
+            "run",
+            "total",
+            "integer"
+        ],
+        [
+            "player",
+            "first",
+            "cause",
+            "run",
+            "total",
+            "reach",
+            "exceed",
+            "win"
+        ],
+        [
+            "change",
+            "game",
+            "player",
+            "use",
+            "integer"
+        ],
+        [
+            "example",
+            "two",
+            "player",
+            "might",
+            "take",
+            "turn",
+            "draw",
+            "common",
+            "pool",
+            "number",
+            "without",
+            "replacement",
+            "reach",
+            "total"
+        ],
+        [
+            "give",
+            "two",
+            "integer",
+            "maxchoosableinteger",
+            "desiredtotal",
+            "return",
+            "first",
+            "player",
+            "move",
+            "force",
+            "win",
+            "otherwise",
+            "return"
+        ],
+        [
+            "assume",
+            "player",
+            "play",
+            "optimally"
+        ]
+    ]
+}

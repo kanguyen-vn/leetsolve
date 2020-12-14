@@ -1,0 +1,7 @@
+{
+    "id": 1329,
+    "title": "Sort the Matrix Diagonally",
+    "title_slug": "sort-the-matrix-diagonally",
+    "backend_id": 1253,
+    "content": "<div><p>Given a <code>m * n</code> matrix <code>mat</code>&nbsp;of integers, sort it diagonally in ascending order from the top-left to the bottom-right then return the sorted array.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2020/01/21/1482_example_1_2.png\" style=\"width: 500px; height: 198px;\">\n<pre><strong>Input:</strong> mat = [[3,3,1,1],[2,2,1,2],[1,1,1,2]]\n<strong>Output:</strong> [[1,1,1,1],[1,2,2,2],[1,2,3,3]]\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>m ==&nbsp;mat.length</code></li>\n\t<li><code>n ==&nbsp;mat[i].length</code></li>\n\t<li><code>1 &lt;= m, n&nbsp;&lt;= 100</code></li>\n\t<li><code>1 &lt;= mat[i][j] &lt;= 100</code></li>\n</ul></div>"
+}

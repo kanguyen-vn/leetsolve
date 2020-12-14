@@ -1,0 +1,7 @@
+{
+    "id": 648,
+    "title": "Replace Words",
+    "title_slug": "replace-words",
+    "backend_id": 648,
+    "content": "In English, we have a concept called root, which can be followed by some other word to form another longer word - let's call this word successor. For example, when the root is followed by the successor word , we can form a new word . Given a consisting of many roots and a consisting of words separated by spaces, replace all the successors in the sentence with the root forming it. If a successor can be replaced by more than one root, replace it with the root that has the shortest length. Return the after the replacement. consists of only lower-case letters. consists of only lower-case letters and spaces. The number of words in is in the range The length of each word in is in the range Each two consecutive words in will be separated by exactly one space. does not have leading or trailing spaces."
+}

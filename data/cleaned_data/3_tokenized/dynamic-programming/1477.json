@@ -1,0 +1,51 @@
+{
+    "id": 1477,
+    "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+    "title_slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+    "backend_id": 1573,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "integer"
+        ],
+        [
+            "find",
+            "two",
+            "non",
+            "overlap",
+            "sub",
+            "array",
+            "sum",
+            "equal"
+        ],
+        [
+            "multiple",
+            "answer",
+            "find",
+            "answer",
+            "sum",
+            "length",
+            "two",
+            "sub",
+            "array",
+            "minimum"
+        ],
+        [
+            "return",
+            "minimum",
+            "sum",
+            "length",
+            "two",
+            "require",
+            "sub",
+            "array",
+            "return",
+            "find",
+            "two",
+            "sub",
+            "array"
+        ]
+    ]
+}

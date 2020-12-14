@@ -1,0 +1,7 @@
+{
+    "id": 410,
+    "title": "Split Array Largest Sum",
+    "title_slug": "split-array-largest-sum",
+    "backend_id": 410,
+    "content": "<div><p>Given an array <code>nums</code> which consists of non-negative integers and an integer <code>m</code>, you can split the array into <code>m</code> non-empty continuous subarrays.</p>\n\n<p>Write an algorithm to minimize the largest sum among these <code>m</code> subarrays.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> nums = [7,2,5,10,8], m = 2\n<strong>Output:</strong> 18\n<strong>Explanation:</strong>\nThere are four ways to split nums into two subarrays.\nThe best way is to split it into [7,2,5] and [10,8],\nwhere the largest sum among the two subarrays is only 18.\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> nums = [1,2,3,4,5], m = 2\n<strong>Output:</strong> 9\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> nums = [1,4,4], m = 3\n<strong>Output:</strong> 4\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= nums.length &lt;= 1000</code></li>\n\t<li><code>0 &lt;= nums[i] &lt;= 10<sup>6</sup></code></li>\n\t<li><code>1 &lt;= m &lt;= min(50, nums.length)</code></li>\n</ul>\n</div>"
+}

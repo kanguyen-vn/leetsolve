@@ -1,0 +1,7 @@
+{
+    "id": 130,
+    "title": "Surrounded Regions",
+    "title_slug": "surrounded-regions",
+    "backend_id": 130,
+    "content": "Given a 2D board containing  and  (the letter O), capture all regions surrounded by .\nA region is captured by flipping all s into s in that surrounded region.\n\n\nAfter running your function, the board should be:\n\nExplanation:\nSurrounded regions shouldn\u2019t be on the border, which means that any \u00a0on the border of the board are not flipped to . Any \u00a0that is not on the border and it is not connected to an \u00a0on the border will be flipped to . Two cells are connected if they are adjacent cells connected horizontally or vertically.\n"
+}

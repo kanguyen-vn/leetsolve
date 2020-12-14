@@ -1,0 +1,32 @@
+{
+    "id": 18,
+    "title": "4Sum",
+    "title_slug": "4sum",
+    "backend_id": 18,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "integer",
+            "element"
+        ],
+        [
+            "find",
+            "unique",
+            "quadruplet",
+            "array",
+            "give",
+            "sum"
+        ],
+        [
+            "notice",
+            "solution",
+            "set",
+            "must",
+            "contain",
+            "duplicate",
+            "quadruplet"
+        ]
+    ]
+}

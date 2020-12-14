@@ -1,0 +1,7 @@
+{
+    "id": 225,
+    "title": "Implement Stack using Queues",
+    "title_slug": "implement-stack-using-queues",
+    "backend_id": 225,
+    "content": "Implement a last in first out (LIFO) stack using only two queues. The implemented stack should support all the functions of a normal queue (, , , and ).\nImplement the  class:\n\n Pushes element x to the top of the stack.\n Removes the element on the top of the stack and returns it.\n Returns the element on the top of the stack.\n Returns  if the stack is empty,  otherwise.\n\n"
+}

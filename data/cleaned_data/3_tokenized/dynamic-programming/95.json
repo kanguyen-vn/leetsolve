@@ -1,0 +1,22 @@
+{
+    "id": 95,
+    "title": "Unique Binary Search Trees II",
+    "title_slug": "unique-binary-search-trees-ii",
+    "backend_id": 95,
+    "content": [
+        [
+            "give",
+            "integer",
+            "generate",
+            "structurally",
+            "unique",
+            "bst",
+            "'s",
+            "binary",
+            "search",
+            "tree",
+            "store",
+            "value"
+        ]
+    ]
+}

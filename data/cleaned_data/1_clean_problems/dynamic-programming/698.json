@@ -1,0 +1,7 @@
+{
+    "id": 698,
+    "title": "Partition to K Equal Sum Subsets",
+    "title_slug": "partition-to-k-equal-sum-subsets",
+    "backend_id": 698,
+    "content": "Given an array of integers  and a positive integer , find whether it's possible to divide this array into  non-empty subsets whose sums are all equal.\n\u00a0\n\n\n\u00a0\n"
+}

@@ -1,0 +1,38 @@
+{
+    "id": 793,
+    "title": "Preimage Size of Factorial Zeroes Function",
+    "title_slug": "preimage-size-of-factorial-zeroes-function",
+    "backend_id": 809,
+    "content": [
+        [
+            "let",
+            "number",
+            "zero",
+            "end"
+        ],
+        [
+            "recall",
+            "convention"
+        ],
+        [
+            "example"
+        ],
+        [
+            "zero",
+            "end"
+        ],
+        [
+            "zero",
+            "end"
+        ],
+        [
+            "give",
+            "find",
+            "many",
+            "non",
+            "negative",
+            "integer",
+            "property"
+        ]
+    ]
+}

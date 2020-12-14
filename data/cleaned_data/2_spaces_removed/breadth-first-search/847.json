@@ -1,0 +1,7 @@
+{
+    "id": 847,
+    "title": "Shortest Path Visiting All Nodes",
+    "title_slug": "shortest-path-visiting-all-nodes",
+    "backend_id": 877,
+    "content": "An undirected, connected graph of N nodes (labeled ) is given as . , and is in the list exactly once, if and only if nodes and are connected. Return the length of the shortest path that visits every node. You may start and stop at any node, you may revisit nodes multiple times, and you may reuse edges."
+}

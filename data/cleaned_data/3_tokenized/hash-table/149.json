@@ -1,0 +1,39 @@
+{
+    "id": 149,
+    "title": "Max Points on a Line",
+    "title_slug": "max-points-on-a-line",
+    "backend_id": 149,
+    "content": [
+        [
+            "give",
+            "point",
+            "2d",
+            "plane",
+            "find",
+            "maximum",
+            "number",
+            "point",
+            "lie",
+            "straight",
+            "line"
+        ],
+        [
+            "note",
+            "input",
+            "type",
+            "change",
+            "april"
+        ],
+        [
+            "please",
+            "reset",
+            "default",
+            "code",
+            "definition",
+            "get",
+            "new",
+            "method",
+            "signature"
+        ]
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 996,
+    "title": "Number of Squareful Arrays",
+    "title_slug": "number-of-squareful-arrays",
+    "backend_id": 1038,
+    "content": [
+        [
+            "give",
+            "array",
+            "non",
+            "negative",
+            "integer",
+            "array",
+            "squareful",
+            "every",
+            "pair",
+            "adjacent",
+            "element",
+            "sum",
+            "perfect",
+            "square"
+        ],
+        [
+            "return",
+            "number",
+            "permutation",
+            "squareful"
+        ],
+        [
+            "two",
+            "permutation",
+            "differ",
+            "index"
+        ]
+    ]
+}

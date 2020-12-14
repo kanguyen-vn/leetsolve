@@ -1,0 +1,51 @@
+{
+    "id": 1192,
+    "title": "Critical Connections in a Network",
+    "title_slug": "critical-connections-in-a-network",
+    "backend_id": 1300,
+    "content": [
+        [
+            "server",
+            "number",
+            "connect",
+            "undirected",
+            "server",
+            "server",
+            "form",
+            "network",
+            "represent",
+            "connection",
+            "server"
+        ],
+        [
+            "server",
+            "reach",
+            "server",
+            "directly",
+            "indirectly",
+            "network"
+        ],
+        [
+            "critical",
+            "connection",
+            "connection",
+            "remove",
+            "make",
+            "server",
+            "unable",
+            "reach",
+            "server"
+        ],
+        [
+            "return",
+            "critical",
+            "connection",
+            "network",
+            "order"
+        ],
+        [
+            "repeat",
+            "connection"
+        ]
+    ]
+}

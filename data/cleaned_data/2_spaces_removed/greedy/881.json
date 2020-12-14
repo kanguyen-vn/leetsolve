@@ -1,0 +1,7 @@
+{
+    "id": 881,
+    "title": "Boats to Save People",
+    "title_slug": "boats-to-save-people",
+    "backend_id": 917,
+    "content": "The -th person has weight , and each boat can carry a maximum weight of . Each boat carries at most 2 people at the same time, provided the sum of the weight of those people is at most . Return the minimum number of boats to carry every given person. (It is guaranteed each person can be carried by a boat.)"
+}

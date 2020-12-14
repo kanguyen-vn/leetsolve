@@ -1,0 +1,54 @@
+{
+    "id": 1249,
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "title_slug": "minimum-remove-to-make-valid-parentheses",
+    "backend_id": 1371,
+    "content": [
+        [
+            "give",
+            "string",
+            "lowercase",
+            "english",
+            "character"
+        ],
+        [
+            "task",
+            "remove",
+            "minimum",
+            "number",
+            "parenthesis",
+            "position",
+            "result",
+            "parenthesis",
+            "string",
+            "valid",
+            "return",
+            "valid",
+            "string"
+        ],
+        [
+            "formally",
+            "parentheses",
+            "string",
+            "valid",
+            "empty",
+            "string",
+            "contain",
+            "lowercase",
+            "character",
+            "write",
+            "concatenated",
+            "valid",
+            "string",
+            "write",
+            "valid",
+            "string"
+        ],
+        [
+            "one",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

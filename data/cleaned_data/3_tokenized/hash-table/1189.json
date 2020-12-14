@@ -1,0 +1,39 @@
+{
+    "id": 1189,
+    "title": "Maximum Number of Balloons",
+    "title_slug": "maximum-number-of-balloons",
+    "backend_id": 1297,
+    "content": [
+        [
+            "give",
+            "string",
+            "want",
+            "use",
+            "character",
+            "form",
+            "many",
+            "instance",
+            "word",
+            "balloon",
+            "possible"
+        ],
+        [
+            "use",
+            "character"
+        ],
+        [
+            "return",
+            "maximum",
+            "number",
+            "instance",
+            "form"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ]
+    ]
+}

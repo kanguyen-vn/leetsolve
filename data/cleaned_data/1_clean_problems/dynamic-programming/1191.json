@@ -1,0 +1,7 @@
+{
+    "id": 1191,
+    "title": "K-Concatenation Maximum Sum",
+    "title_slug": "k-concatenation-maximum-sum",
+    "backend_id": 1299,
+    "content": "Given an integer array \u00a0and an integer , modify the array by repeating it  times.\nFor example, if  and then the modified array will be .\nReturn the maximum sub-array sum in the modified array. Note that the length of the sub-array can be 0\u00a0and its sum in that case is 0.\nAs the answer can be very large, return the answer\u00a0modulo\u00a0.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

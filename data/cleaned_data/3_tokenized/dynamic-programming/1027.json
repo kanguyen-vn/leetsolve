@@ -1,0 +1,26 @@
+{
+    "id": 1027,
+    "title": "Longest Arithmetic Subsequence",
+    "title_slug": "longest-arithmetic-subsequence",
+    "backend_id": 1087,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "return",
+            "length",
+            "long",
+            "arithmetic",
+            "subsequence"
+        ],
+        [
+            "recall",
+            "subsequence",
+            "list",
+            "sequence",
+            "arithmetic",
+            "value"
+        ]
+    ]
+}

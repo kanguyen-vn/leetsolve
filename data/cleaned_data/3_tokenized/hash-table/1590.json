@@ -1,0 +1,47 @@
+{
+    "id": 1590,
+    "title": "Make Sum Divisible by P",
+    "title_slug": "make-sum-divisible-by-p",
+    "backend_id": 1694,
+    "content": [
+        [
+            "give",
+            "array",
+            "positive",
+            "integer",
+            "remove",
+            "small",
+            "subarray",
+            "possibly",
+            "empty",
+            "sum",
+            "remain",
+            "element",
+            "divisible"
+        ],
+        [
+            "allow",
+            "remove",
+            "whole",
+            "array"
+        ],
+        [
+            "return",
+            "length",
+            "small",
+            "subarray",
+            "need",
+            "remove",
+            "'s",
+            "impossible"
+        ],
+        [
+            "subarray",
+            "define",
+            "contiguous",
+            "block",
+            "element",
+            "array"
+        ]
+    ]
+}

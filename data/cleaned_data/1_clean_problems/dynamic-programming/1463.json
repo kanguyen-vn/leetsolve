@@ -1,0 +1,7 @@
+{
+    "id": 1463,
+    "title": "Cherry Pickup II",
+    "title_slug": "cherry-pickup-ii",
+    "backend_id": 1559,
+    "content": "Given a  matrix  representing a field of cherries.\u00a0Each cell in\u00a0\u00a0represents the number of cherries that you can collect.\nYou have two\u00a0robots that can collect cherries for you, Robot #1 is located at the top-left corner (0,0) , and Robot #2 is located at the top-right corner (0, cols-1) of the grid.\nReturn the maximum number of cherries collection using both robots\u00a0 by following the rules below:\n\nFrom a cell (i,j), robots can move to cell (i+1, j-1) , (i+1, j) or (i+1, j+1).\nWhen any robot is passing through a cell, It picks it up all cherries, and the cell becomes an empty cell (0).\nWhen both robots stay on the same cell, only one of them takes the cherries.\nBoth robots cannot move outside of the grid at\u00a0any moment.\nBoth robots should reach the bottom row in the .\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n"
+}

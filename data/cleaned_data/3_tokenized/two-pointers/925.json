@@ -1,0 +1,47 @@
+{
+    "id": 925,
+    "title": "Long Pressed Name",
+    "title_slug": "long-pressed-name",
+    "backend_id": 961,
+    "content": [
+        [
+            "friend",
+            "type",
+            "keyboard"
+        ],
+        [
+            "sometimes",
+            "type",
+            "character",
+            "key",
+            "might",
+            "get",
+            "long",
+            "pressed",
+            "character",
+            "type",
+            "time"
+        ],
+        [
+            "examine",
+            "character",
+            "keyboard"
+        ],
+        [
+            "return",
+            "possible",
+            "friend",
+            "name",
+            "character",
+            "possibly",
+            "none",
+            "long",
+            "pressed"
+        ],
+        [
+            "character",
+            "lowercase",
+            "letter"
+        ]
+    ]
+}

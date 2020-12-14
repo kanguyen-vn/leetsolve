@@ -1,0 +1,7 @@
+{
+    "id": 1653,
+    "title": "Minimum Deletions to Make String Balanced",
+    "title_slug": "minimum-deletions-to-make-string-balanced",
+    "backend_id": 1756,
+    "content": "You are given a string consisting only of characters and . You can delete any number of characters in to make balanced. is balanced if there is no pair of indices such that and and . Return the minimum number of deletions needed to make balanced. is or ."
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1046,
+    "title": "Last Stone Weight",
+    "title_slug": "last-stone-weight",
+    "backend_id": 1127,
+    "content": "We have a collection of stones, each stone\u00a0has a positive integer weight.\nEach turn, we choose the two heaviest\u00a0stones\u00a0and smash them together.\u00a0 Suppose the stones have weights  and  with .\u00a0 The result of this smash is:\n\nIf , both stones are totally destroyed;\nIf , the stone of weight  is totally destroyed, and the stone of weight  has new weight .\n\nAt the end, there is at most 1 stone left.\u00a0 Return the weight of this stone (or 0 if there are no stones left.)\n\u00a0\n\n\n\u00a0\n"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 1080,
+    "title": "Insufficient Nodes in Root to Leaf Paths",
+    "title_slug": "insufficient-nodes-in-root-to-leaf-paths",
+    "backend_id": 1157,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "consider",
+            "root",
+            "leaf",
+            "path",
+            "path",
+            "root",
+            "leaf"
+        ],
+        [
+            "leaf",
+            "node",
+            "child"
+        ],
+        [
+            "insufficient",
+            "every",
+            "root",
+            "leaf",
+            "path",
+            "intersect",
+            "sum",
+            "strictly",
+            "less"
+        ],
+        [
+            "delete",
+            "insufficient",
+            "node",
+            "simultaneously",
+            "return",
+            "root",
+            "result",
+            "binary",
+            "tree"
+        ]
+    ]
+}

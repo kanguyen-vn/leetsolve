@@ -1,0 +1,32 @@
+{
+    "id": 532,
+    "title": "K-diff Pairs in an Array",
+    "title_slug": "k-diff-pairs-in-an-array",
+    "backend_id": 532,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "integer",
+            "return",
+            "number",
+            "unique",
+            "diff",
+            "pair",
+            "array"
+        ],
+        [
+            "diff",
+            "pair",
+            "integer",
+            "pair",
+            "follow",
+            "true",
+            "notice",
+            "denote",
+            "absolute",
+            "value"
+        ]
+    ]
+}

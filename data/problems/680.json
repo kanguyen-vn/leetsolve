@@ -1,0 +1,7 @@
+{
+    "id": 680,
+    "title": "Valid Palindrome II",
+    "title_slug": "valid-palindrome-ii",
+    "backend_id": 680,
+    "content": "<div><p>\nGiven a non-empty string <code>s</code>, you may delete <b>at most</b> one character.  Judge whether you can make it a palindrome.\n</p>\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> \"aba\"\n<b>Output:</b> True\n</pre>\n<p></p>\n\n<p><b>Example 2:</b><br>\n</p><pre><b>Input:</b> \"abca\"\n<b>Output:</b> True\n<b>Explanation:</b> You could delete the character 'c'.\n</pre>\n<p></p>\n\n<p><b>Note:</b><br>\n</p><ol>\n<li>The string will only contain lowercase characters a-z.\nThe maximum length of the string is 50000.</li>\n</ol>\n<p></p></div>"
+}

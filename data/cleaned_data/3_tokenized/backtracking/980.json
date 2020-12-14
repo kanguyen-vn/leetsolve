@@ -1,0 +1,60 @@
+{
+    "id": 980,
+    "title": "Unique Paths III",
+    "title_slug": "unique-paths-iii",
+    "backend_id": 1022,
+    "content": [
+        [
+            "dimensional",
+            "type",
+            "square",
+            "represent",
+            "start",
+            "square"
+        ],
+        [
+            "exactly",
+            "one",
+            "start",
+            "square"
+        ],
+        [
+            "represent",
+            "end",
+            "square"
+        ],
+        [
+            "exactly",
+            "one",
+            "end",
+            "square"
+        ],
+        [
+            "represent",
+            "empty",
+            "square",
+            "walk"
+        ],
+        [
+            "represent",
+            "obstacle",
+            "walk"
+        ],
+        [
+            "return",
+            "number",
+            "directional",
+            "walk",
+            "start",
+            "square",
+            "end",
+            "square",
+            "walk",
+            "every",
+            "non",
+            "obstacle",
+            "square",
+            "exactly"
+        ]
+    ]
+}

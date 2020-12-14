@@ -1,0 +1,7 @@
+{
+    "id": 309,
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "title_slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+    "backend_id": 309,
+    "content": "Say you have an array for which the i element is the price of a given stock on day i.\nDesign an algorithm to find the maximum profit. You may complete as many transactions as you like (ie, buy one and sell one share of the stock multiple times) with the following restrictions:\n\nYou may not engage in multiple transactions at the same time (ie, you must sell the stock before you buy again).\nAfter you sell your stock, you cannot buy stock on next day. (ie, cooldown 1 day)\n\n\n"
+}

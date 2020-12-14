@@ -1,0 +1,7 @@
+{
+    "id": 1540,
+    "title": "Can Convert String in K Moves",
+    "title_slug": "can-convert-string-in-k-moves",
+    "backend_id": 1647,
+    "content": "Given two strings and , your goal is to convert into in moves or less. During the (move you can: Choose any index (1-indexed) from , such that and has not been chosen in any previous move, and shift the character at that index times. Do nothing. Shifting a character means replacing it by the next letter in the alphabet (wrapping around so that becomes ). Shifting a character by means applying the shift operations times. Remember that any index can be picked at most once. Return if it's possible to convert into in no more than moves, otherwise return . , contain only lowercase English letters."
+}

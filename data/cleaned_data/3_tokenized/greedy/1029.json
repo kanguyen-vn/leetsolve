@@ -1,0 +1,42 @@
+{
+    "id": 1029,
+    "title": "Two City Scheduling",
+    "title_slug": "two-city-scheduling",
+    "backend_id": 1095,
+    "content": [
+        [
+            "company",
+            "plan",
+            "interview",
+            "people"
+        ],
+        [
+            "give",
+            "array",
+            "cost",
+            "fly",
+            "person",
+            "city",
+            "cost",
+            "fly",
+            "person",
+            "city"
+        ],
+        [
+            "return",
+            "minimum",
+            "cost",
+            "fly",
+            "every",
+            "person",
+            "city",
+            "exactly",
+            "people",
+            "arrive",
+            "city"
+        ],
+        [
+            "even"
+        ]
+    ]
+}

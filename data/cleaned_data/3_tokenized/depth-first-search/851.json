@@ -1,0 +1,66 @@
+{
+    "id": 851,
+    "title": "Loud and Rich",
+    "title_slug": "loud-and-rich",
+    "backend_id": 881,
+    "content": [
+        [
+            "group",
+            "people",
+            "label",
+            "person",
+            "different",
+            "amount",
+            "money",
+            "different",
+            "level",
+            "quietness"
+        ],
+        [
+            "convenience",
+            "'ll",
+            "call",
+            "person",
+            "label",
+            "simply",
+            "person"
+        ],
+        [
+            "'ll",
+            "say",
+            "person",
+            "definitely",
+            "money",
+            "person"
+        ],
+        [
+            "note",
+            "may",
+            "subset",
+            "valid",
+            "observation"
+        ],
+        [
+            "also",
+            "'ll",
+            "say",
+            "person",
+            "quietness"
+        ],
+        [
+            "return",
+            "least",
+            "quiet",
+            "person",
+            "person",
+            "small",
+            "value",
+            "among",
+            "people",
+            "definitely",
+            "equal",
+            "money",
+            "person"
+        ]
+    ]
+}

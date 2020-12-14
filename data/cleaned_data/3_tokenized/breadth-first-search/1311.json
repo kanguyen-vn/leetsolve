@@ -1,0 +1,73 @@
+{
+    "id": 1311,
+    "title": "Get Watched Videos by Your Friends",
+    "title_slug": "get-watched-videos-by-your-friends",
+    "backend_id": 1436,
+    "content": [
+        [
+            "people",
+            "person",
+            "unique",
+            "id"
+        ],
+        [
+            "give",
+            "array",
+            "contain",
+            "list",
+            "watch",
+            "videos",
+            "list",
+            "friend",
+            "respectively",
+            "person"
+        ],
+        [
+            "level",
+            "video",
+            "watch",
+            "videos",
+            "friend",
+            "level",
+            "video",
+            "watch",
+            "videos",
+            "friend",
+            "friend"
+        ],
+        [
+            "general",
+            "level",
+            "video",
+            "watch",
+            "videos",
+            "people",
+            "shortest",
+            "path",
+            "exactly",
+            "equal"
+        ],
+        [
+            "give",
+            "video",
+            "return",
+            "list",
+            "video",
+            "order",
+            "frequency",
+            "increase"
+        ],
+        [
+            "videos",
+            "frequency",
+            "order",
+            "alphabetically",
+            "least",
+            "great"
+        ],
+        [
+            "contain",
+            "contain"
+        ]
+    ]
+}

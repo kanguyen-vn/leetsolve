@@ -1,0 +1,7 @@
+{
+    "id": 974,
+    "title": "Subarray Sums Divisible by K",
+    "title_slug": "subarray-sums-divisible-by-k",
+    "backend_id": 1016,
+    "content": "Given an array  of integers, return the number of (contiguous, non-empty) subarrays that have a sum divisible by .\n\u00a0\n"
+}

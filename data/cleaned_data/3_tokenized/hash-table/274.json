@@ -1,0 +1,37 @@
+{
+    "id": 274,
+    "title": "H-Index",
+    "title_slug": "h-index",
+    "backend_id": 274,
+    "content": [
+        [
+            "give",
+            "array",
+            "citation",
+            "citation",
+            "non",
+            "negative",
+            "integer",
+            "researcher",
+            "write",
+            "function",
+            "compute",
+            "researcher",
+            "'s",
+            "index"
+        ],
+        [
+            "accord",
+            "definition",
+            "index",
+            "wikipedia",
+            "scientist",
+            "index",
+            "paper",
+            "least",
+            "citation",
+            "paper",
+            "citation"
+        ]
+    ]
+}

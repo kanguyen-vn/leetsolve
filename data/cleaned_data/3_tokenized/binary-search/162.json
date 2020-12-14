@@ -1,0 +1,42 @@
+{
+    "id": 162,
+    "title": "Find Peak Element",
+    "title_slug": "find-peak-element",
+    "backend_id": 162,
+    "content": [
+        [
+            "peak",
+            "element",
+            "element",
+            "great",
+            "neighbor"
+        ],
+        [
+            "give",
+            "input",
+            "array",
+            "find",
+            "peak",
+            "element",
+            "return",
+            "index"
+        ],
+        [
+            "array",
+            "may",
+            "contain",
+            "multiple",
+            "peak",
+            "case",
+            "return",
+            "index",
+            "one",
+            "peak",
+            "fine"
+        ],
+        [
+            "may",
+            "imagine"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 315,
+    "title": "Count of Smaller Numbers After Self",
+    "title_slug": "count-of-smaller-numbers-after-self",
+    "backend_id": 315,
+    "content": "You are given an integer array nums and you have to return a new counts array. The counts array has the property where  is the number of smaller elements to the right of .\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n"
+}

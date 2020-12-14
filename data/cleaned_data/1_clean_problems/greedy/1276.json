@@ -1,0 +1,7 @@
+{
+    "id": 1276,
+    "title": "Number of Burgers with No Waste of Ingredients",
+    "title_slug": "number-of-burgers-with-no-waste-of-ingredients",
+    "backend_id": 1401,
+    "content": "Given two integers \u00a0and . The ingredients of different burgers are as follows:\n\nJumbo Burger: 4 tomato slices\u00a0and 1 cheese slice.\nSmall Burger: 2 Tomato slices\u00a0and 1 cheese slice.\n\nReturn  so that the number of remaining \u00a0equal to 0 and the number of remaining  equal to 0. If it is not possible to make the remaining \u00a0and  equal to 0 return .\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

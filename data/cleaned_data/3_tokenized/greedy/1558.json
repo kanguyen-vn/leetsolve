@@ -1,0 +1,34 @@
+{
+    "id": 1558,
+    "title": "Minimum Numbers of Function Calls to Make Target Array",
+    "title_slug": "minimum-numbers-of-function-calls-to-make-target-array",
+    "backend_id": 1662,
+    "content": [
+        [
+            "task",
+            "form",
+            "integer",
+            "array",
+            "initial",
+            "array",
+            "zero",
+            "size"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "function",
+            "call",
+            "make"
+        ],
+        [
+            "answer",
+            "guarantee",
+            "fit",
+            "bit",
+            "sign",
+            "integer"
+        ]
+    ]
+}

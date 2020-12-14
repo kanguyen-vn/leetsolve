@@ -1,0 +1,7 @@
+{
+    "id": 368,
+    "title": "Largest Divisible Subset",
+    "title_slug": "largest-divisible-subset",
+    "backend_id": 368,
+    "content": "Given a set of distinct positive integers, find the largest subset such that every pair (Si, Sj) of elements in this subset satisfies:\nSi % Sj = 0 or Sj % Si = 0.\nIf there are multiple solutions, return any subset is fine.\n\n"
+}

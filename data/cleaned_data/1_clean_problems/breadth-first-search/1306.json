@@ -1,0 +1,7 @@
+{
+    "id": 1306,
+    "title": "Jump Game III",
+    "title_slug": "jump-game-iii",
+    "backend_id": 1428,
+    "content": "Given an array of non-negative integers , you are initially positioned at \u00a0index of the array. When you are at index , you can jump\u00a0to  or , check if you can reach to any index with value 0.\nNotice that you can not jump outside of the array at any time.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

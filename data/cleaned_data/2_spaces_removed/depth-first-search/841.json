@@ -1,0 +1,7 @@
+{
+    "id": 841,
+    "title": "Keys and Rooms",
+    "title_slug": "keys-and-rooms",
+    "backend_id": 871,
+    "content": "There are rooms and you start in room 0. Each room has a distinct number in , and each room may have some keys to access the next room. Formally, each room has a list of keys , and each key is an integer in where . A key opens the room with number . Initially, all the rooms start locked (except for room 0). You can walk back and forth between rooms freely. Return if and only if you can enter every room."
+}

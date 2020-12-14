@@ -1,0 +1,48 @@
+{
+    "id": 240,
+    "title": "Search a 2D Matrix II",
+    "title_slug": "search-a-2d-matrix-ii",
+    "backend_id": 240,
+    "content": [
+        [
+            "write",
+            "efficient",
+            "algorithm",
+            "search",
+            "value",
+            "matrix"
+        ],
+        [
+            "matrix",
+            "follow",
+            "property",
+            "integer",
+            "row",
+            "sort",
+            "ascending",
+            "leave",
+            "right"
+        ],
+        [
+            "integer",
+            "column",
+            "sort",
+            "ascend",
+            "top",
+            "bottom"
+        ],
+        [
+            "consider",
+            "follow",
+            "matrix",
+            "give",
+            "target",
+            "return"
+        ],
+        [
+            "give",
+            "target",
+            "return"
+        ]
+    ]
+}

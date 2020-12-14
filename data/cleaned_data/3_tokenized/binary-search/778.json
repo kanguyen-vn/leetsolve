@@ -1,0 +1,66 @@
+{
+    "id": 778,
+    "title": "Swim in Rising Water",
+    "title_slug": "swim-in-rising-water",
+    "backend_id": 794,
+    "content": [
+        [
+            "square",
+            "represent",
+            "elevation",
+            "point"
+        ],
+        [
+            "rain",
+            "start",
+            "fall"
+        ],
+        [
+            "time",
+            "depth",
+            "water",
+            "everywhere"
+        ],
+        [
+            "swim",
+            "square",
+            "another",
+            "directionally",
+            "adjacent",
+            "square",
+            "elevation",
+            "square",
+            "individually"
+        ],
+        [
+            "swim",
+            "infinite",
+            "distance",
+            "zero",
+            "time"
+        ],
+        [
+            "course",
+            "must",
+            "stay",
+            "within",
+            "boundary",
+            "grid",
+            "swim"
+        ],
+        [
+            "start",
+            "top",
+            "left",
+            "square"
+        ],
+        [
+            "least",
+            "time",
+            "reach",
+            "bottom",
+            "right",
+            "square"
+        ]
+    ]
+}

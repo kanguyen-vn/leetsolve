@@ -1,0 +1,7 @@
+{
+    "id": 815,
+    "title": "Bus Routes",
+    "title_slug": "bus-routes",
+    "backend_id": 833,
+    "content": "We have a list of bus routes. Each  is a bus route that the i-th bus\u00a0repeats forever. For example if , this means that the first\u00a0bus (0-th indexed) travels in the sequence 1-&gt;5-&gt;7-&gt;1-&gt;5-&gt;7-&gt;1-&gt;... forever.\nWe start at bus stop  (initially not on a bus), and we want to go to bus stop . Travelling by buses only, what is the least number of buses we must take to reach our destination? Return -1 if it is not possible.\n\n\u00a0\n\n\n.\n.\n.\n\n"
+}

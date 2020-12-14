@@ -1,0 +1,36 @@
+{
+    "id": 35,
+    "title": "Search Insert Position",
+    "title_slug": "search-insert-position",
+    "backend_id": 35,
+    "content": [
+        [
+            "give",
+            "sort",
+            "array",
+            "distinct",
+            "integer",
+            "target",
+            "value",
+            "return",
+            "index",
+            "target",
+            "find"
+        ],
+        [
+            "return",
+            "index",
+            "would",
+            "insert",
+            "order"
+        ],
+        [
+            "contain",
+            "distinct",
+            "value",
+            "sort",
+            "ascend",
+            "order"
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 1589,
+    "title": "Maximum Sum Obtained of Any Permutation",
+    "title_slug": "maximum-sum-obtained-of-any-permutation",
+    "backend_id": 1695,
+    "content": [
+        [
+            "array",
+            "integer",
+            "array"
+        ],
+        [
+            "request",
+            "ask",
+            "sum"
+        ],
+        [
+            "indexed"
+        ],
+        [
+            "return",
+            "maximum",
+            "total",
+            "sum",
+            "request",
+            "among",
+            "permutation"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "modulo"
+        ]
+    ]
+}

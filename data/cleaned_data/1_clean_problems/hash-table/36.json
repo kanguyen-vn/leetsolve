@@ -1,0 +1,7 @@
+{
+    "id": 36,
+    "title": "Valid Sudoku",
+    "title_slug": "valid-sudoku",
+    "backend_id": 36,
+    "content": "Determine if a\u00a0 Sudoku board\u00a0is valid.\u00a0Only the filled cells need to be validated\u00a0according to the following rules:\n\nEach row\u00a0must contain the\u00a0digits\u00a0 without repetition.\nEach column must contain the digits\u00a0\u00a0without repetition.\nEach of the nine\u00a0 sub-boxes of the grid must contain the digits\u00a0\u00a0without repetition.\n\n"
+}

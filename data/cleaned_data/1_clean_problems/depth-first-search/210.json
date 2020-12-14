@@ -1,0 +1,7 @@
+{
+    "id": 210,
+    "title": "Course Schedule II",
+    "title_slug": "course-schedule-ii",
+    "backend_id": 210,
+    "content": "There are a total of  courses you have to take labelled from 0 to .\nSome courses may have , for example, if\u00a0\u00a0this means you must take the course  before the course .\nGiven the total number of courses\u00a0 and a list of the  pairs, return the ordering of courses you should take to finish all courses.\nIf there are many valid answers, return any of them.\u00a0If it is impossible to finish all courses, return an empty array.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\nAll the pairs  are distinct.\n\n"
+}

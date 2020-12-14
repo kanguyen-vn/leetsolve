@@ -1,0 +1,40 @@
+{
+    "id": 329,
+    "title": "Longest Increasing Path in a Matrix",
+    "title_slug": "longest-increasing-path-in-a-matrix",
+    "backend_id": 329,
+    "content": [
+        [
+            "give",
+            "integer",
+            "matrix",
+            "find",
+            "length",
+            "long",
+            "increase",
+            "path"
+        ],
+        [
+            "cell",
+            "either",
+            "move",
+            "four",
+            "direction",
+            "leave",
+            "right"
+        ],
+        [
+            "may",
+            "move",
+            "diagonally",
+            "move",
+            "outside",
+            "boundary"
+        ],
+        [
+            "wrap",
+            "around",
+            "allow"
+        ]
+    ]
+}

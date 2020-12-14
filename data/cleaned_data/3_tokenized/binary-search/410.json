@@ -1,0 +1,32 @@
+{
+    "id": 410,
+    "title": "Split Array Largest Sum",
+    "title_slug": "split-array-largest-sum",
+    "backend_id": 410,
+    "content": [
+        [
+            "give",
+            "array",
+            "consist",
+            "non",
+            "negative",
+            "integer",
+            "integer",
+            "split",
+            "array",
+            "non",
+            "empty",
+            "continuous",
+            "subarrays"
+        ],
+        [
+            "write",
+            "algorithm",
+            "minimize",
+            "large",
+            "sum",
+            "among",
+            "subarrays"
+        ]
+    ]
+}

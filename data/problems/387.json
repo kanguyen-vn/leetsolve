@@ -1,0 +1,7 @@
+{
+    "id": 387,
+    "title": "First Unique Character in a String",
+    "title_slug": "first-unique-character-in-a-string",
+    "backend_id": 387,
+    "content": "<div><p>Given a string, find the first non-repeating character in it and return its index. If it doesn't exist, return -1.</p>\n\n<p><b>Examples:</b></p>\n\n<pre>s = \"leetcode\"\nreturn 0.\n\ns = \"loveleetcode\"\nreturn 2.\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Note:</b> You may assume the string contains only lowercase English letters.</p>\n</div>"
+}

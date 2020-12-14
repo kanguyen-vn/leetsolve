@@ -1,0 +1,37 @@
+{
+    "id": 474,
+    "title": "Ones and Zeroes",
+    "title_slug": "ones-and-zeroes",
+    "backend_id": 474,
+    "content": [
+        [
+            "give",
+            "array",
+            "binary",
+            "string",
+            "two",
+            "integer"
+        ],
+        [
+            "return",
+            "size",
+            "large",
+            "subset",
+            "'s",
+            "'s",
+            "subset"
+        ],
+        [
+            "set",
+            "subset",
+            "set",
+            "element",
+            "also",
+            "element"
+        ],
+        [
+            "consist",
+            "digit"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1262,
+    "title": "Greatest Sum Divisible by Three",
+    "title_slug": "greatest-sum-divisible-by-three",
+    "backend_id": 1388,
+    "content": "Given an array of integers, we need to find the maximum possible sum of elements of the array such that it is divisible by three."
+}

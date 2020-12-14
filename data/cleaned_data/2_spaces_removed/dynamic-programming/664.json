@@ -1,0 +1,7 @@
+{
+    "id": 664,
+    "title": "Strange Printer",
+    "title_slug": "strange-printer",
+    "backend_id": 664,
+    "content": "There is a strange printer with the following two special requirements: The printer can only print a sequence of the same character each time. At each turn, the printer can print new characters starting from and ending at any places, and will cover the original existing characters. Given a string consists of lower English letters only, your job is to count the minimum number of turns the printer needed in order to print it. Hint: Length of the given string will not exceed 100."
+}

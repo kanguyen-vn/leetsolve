@@ -1,0 +1,41 @@
+{
+    "id": 103,
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "title_slug": "binary-tree-zigzag-level-order-traversal",
+    "backend_id": 103,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "return",
+            "zigzag",
+            "level",
+            "order",
+            "traversal",
+            "node",
+            "value"
+        ],
+        [
+            "ie",
+            "leave",
+            "right",
+            "right",
+            "leave",
+            "next",
+            "level",
+            "alternate"
+        ],
+        [
+            "example",
+            "give",
+            "binary",
+            "tree",
+            "return",
+            "zigzag",
+            "level",
+            "order",
+            "traversal"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 700,
+    "title": "Search in a Binary Search Tree",
+    "title_slug": "search-in-a-binary-search-tree",
+    "backend_id": 783,
+    "content": "<div><p>Given the root node of a binary search tree (BST) and a value. You need to find the node in the BST that the node's value equals the given value. Return the subtree rooted with that node. If such node doesn't exist, you should return NULL.</p>\n\n<p>For example,&nbsp;</p>\n\n<pre>Given the tree:\n        4\n       / \\\n      2   7\n     / \\\n    1   3\n\nAnd the value to search: 2\n</pre>\n\n<p>You should return this subtree:</p>\n\n<pre>      2     \n     / \\   \n    1   3\n</pre>\n\n<p>In the example above, if we want to search the value <code>5</code>, since there is no node with value <code>5</code>, we should return <code>NULL</code>.</p>\n\n<p>Note that an empty tree is represented by <code>NULL</code>, therefore you would see the expected output (serialized tree format) as&nbsp;<code>[]</code>, not <code>null</code>.</p>\n</div>"
+}

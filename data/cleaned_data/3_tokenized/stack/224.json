@@ -1,0 +1,34 @@
+{
+    "id": 224,
+    "title": "Basic Calculator",
+    "title_slug": "basic-calculator",
+    "backend_id": 224,
+    "content": [
+        [
+            "implement",
+            "basic",
+            "calculator",
+            "evaluate",
+            "simple",
+            "expression",
+            "string"
+        ],
+        [
+            "expression",
+            "string",
+            "may",
+            "contain",
+            "open",
+            "closing",
+            "parenthesis",
+            "plus",
+            "minus",
+            "sign",
+            "non",
+            "negative",
+            "integer",
+            "empty",
+            "space"
+        ]
+    ]
+}

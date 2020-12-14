@@ -1,0 +1,7 @@
+{
+    "id": 1296,
+    "title": "Divide Array in Sets of K Consecutive Numbers",
+    "title_slug": "divide-array-in-sets-of-k-consecutive-numbers",
+    "backend_id": 1422,
+    "content": "Given an array of integers\u00a0\u00a0and a positive integer\u00a0, find whether it's possible to divide this array into\u00a0sets of  consecutive numbers\nReturn\u00a0\u00a0if its possible\u00a0otherwise\u00a0return\u00a0.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

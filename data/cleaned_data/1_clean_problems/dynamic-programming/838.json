@@ -1,0 +1,7 @@
+{
+    "id": 838,
+    "title": "Push Dominoes",
+    "title_slug": "push-dominoes",
+    "backend_id": 868,
+    "content": "There are dominoes in a line, and we place each domino vertically upright.\nIn the beginning, we simultaneously push\u00a0some of the dominoes either to the left or to the right.\n\nAfter each second, each domino that is falling to the left pushes the adjacent domino on the left.\nSimilarly, the dominoes falling to the right push their adjacent dominoes standing on the right.\nWhen a vertical domino has dominoes falling on it from both sides, it stays still due to the balance of the forces.\nFor the purposes of this question, we will consider that a falling domino\u00a0expends no additional force to a falling or already fallen domino.\nGiven a string \"S\" representing the initial state.\u00a0, if the i-th domino has been pushed to the left; , if the i-th domino has been pushed to the right; ,\u00a0if the -th domino has not been pushed.\nReturn a string representing the final state.\u00a0\n\n\n\n\n"
+}

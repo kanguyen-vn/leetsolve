@@ -1,0 +1,7 @@
+{
+    "id": 630,
+    "title": "Course Schedule III",
+    "title_slug": "course-schedule-iii",
+    "backend_id": 630,
+    "content": "There are different online courses numbered from 1 to . Each course has some duration(course length) and closed on day. A course should be taken continuously for days and must be finished before or on the day. You will start at the day. Given online courses represented by pairs , your task is to find the maximal number of courses that can be taken."
+}

@@ -1,0 +1,7 @@
+{
+    "id": 153,
+    "title": "Find Minimum in Rotated Sorted Array",
+    "title_slug": "find-minimum-in-rotated-sorted-array",
+    "backend_id": 153,
+    "content": "Suppose an array of length  sorted in ascending order is rotated between 1 and  times. For example, the array  might become:\n\n if it was rotated 4 times.\n if it was rotated 7 times.\n\nNotice that rotating an array  1 time results in the array .\nGiven the sorted rotated array , return the minimum element of this array.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\nAll the integers of  are unique.\n is sorted and rotated between 1 and  times.\n\n"
+}

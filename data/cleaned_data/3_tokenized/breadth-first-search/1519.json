@@ -1,0 +1,76 @@
+{
+    "id": 1519,
+    "title": "Number of Nodes in the Sub-Tree With the Same Label",
+    "title_slug": "number-of-nodes-in-the-sub-tree-with-the-same-label",
+    "backend_id": 1643,
+    "content": [
+        [
+            "give",
+            "tree"
+        ],
+        [
+            "connect",
+            "undirected",
+            "graph",
+            "cycle",
+            "consist",
+            "node",
+            "number",
+            "exactly"
+        ],
+        [
+            "root",
+            "tree",
+            "node",
+            "node",
+            "tree",
+            "label",
+            "low",
+            "case",
+            "character",
+            "give",
+            "string"
+        ],
+        [
+            "node",
+            "number",
+            "label"
+        ],
+        [
+            "array",
+            "give",
+            "form",
+            "mean",
+            "edge",
+            "node",
+            "tree"
+        ],
+        [
+            "return",
+            "array",
+            "size",
+            "number",
+            "node",
+            "subtree",
+            "node",
+            "label",
+            "node"
+        ],
+        [
+            "subtree",
+            "tree",
+            "tree",
+            "consist",
+            "node",
+            "descendant",
+            "node"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 321,
+    "title": "Create Maximum Number",
+    "title_slug": "create-maximum-number",
+    "backend_id": 321,
+    "content": [
+        [
+            "give",
+            "two",
+            "array",
+            "length",
+            "digit",
+            "represent",
+            "two",
+            "number"
+        ],
+        [
+            "create",
+            "maximum",
+            "number",
+            "length",
+            "digits",
+            "two"
+        ],
+        [
+            "relative",
+            "order",
+            "digit",
+            "array",
+            "must",
+            "preserve"
+        ],
+        [
+            "return",
+            "array",
+            "digit"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 911,
+    "title": "Online Election",
+    "title_slug": "online-election",
+    "backend_id": 947,
+    "content": "In an election, the -th\u00a0vote was cast for  at time .\nNow, we would like to implement the following query function:  will return the number of the person that was leading the election at time .\u00a0\u00a0\nVotes cast at time  will count towards our query.\u00a0 In the case of a tie, the most recent vote (among tied candidates) wins.\n\u00a0\n\n\n\n\u00a0\n"
+}

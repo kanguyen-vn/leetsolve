@@ -1,0 +1,7 @@
+{
+    "id": 1237,
+    "title": "Find Positive Integer Solution for a Given Equation",
+    "title_slug": "find-positive-integer-solution-for-a-given-equation",
+    "backend_id": 1358,
+    "content": "Given a function and a value , return all positive integer pairs and where . The function is constantly increasing, i.e.: The function interface is defined like this: For custom testing purposes you're given an integer and a target as input, where represent one function from an secret internal list, on the examples you'll know only two functions from the list. You may return the solutions in any order. It's guaranteed that the solutions of will be on the range It's also guaranteed that will fit in 32 bit signed integer if"
+}

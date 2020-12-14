@@ -1,0 +1,7 @@
+{
+    "id": 100,
+    "title": "Same Tree",
+    "title_slug": "same-tree",
+    "backend_id": 100,
+    "content": "<div><p>Given two binary trees, write a function to check if they are the same or not.</p>\n\n<p>Two binary trees are considered the same if they are structurally identical and the nodes have the same value.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong>     1         1\n          / \\       / \\\n         2   3     2   3\n\n        [1,2,3],   [1,2,3]\n\n<strong>Output:</strong> true\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong>     1         1\n          /           \\\n         2             2\n\n        [1,2],     [1,null,2]\n\n<strong>Output:</strong> false\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong>     1         1\n          / \\       / \\\n         2   1     1   2\n\n        [1,2,1],   [1,1,2]\n\n<strong>Output:</strong> false\n</pre>\n</div>"
+}

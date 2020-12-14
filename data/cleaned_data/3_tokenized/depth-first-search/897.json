@@ -1,0 +1,36 @@
+{
+    "id": 897,
+    "title": "Increasing Order Search Tree",
+    "title_slug": "increasing-order-search-tree",
+    "backend_id": 933,
+    "content": [
+        [
+            "give",
+            "binary",
+            "search",
+            "tree",
+            "rearrange",
+            "tree",
+            "order",
+            "leftmost",
+            "node",
+            "tree",
+            "root",
+            "tree",
+            "every",
+            "node",
+            "leave",
+            "child",
+            "one",
+            "right",
+            "child"
+        ],
+        [
+            "number",
+            "node",
+            "give",
+            "tree",
+            "range"
+        ]
+    ]
+}

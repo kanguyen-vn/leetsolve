@@ -1,0 +1,55 @@
+{
+    "id": 1483,
+    "title": "Kth Ancestor of a Tree Node",
+    "title_slug": "kth-ancestor-of-a-tree-node",
+    "backend_id": 1296,
+    "content": [
+        [
+            "give",
+            "tree",
+            "node",
+            "number",
+            "form",
+            "parent",
+            "array",
+            "parent",
+            "node"
+        ],
+        [
+            "root",
+            "tree",
+            "node"
+        ],
+        [
+            "implement",
+            "function",
+            "return",
+            "th",
+            "ancestor",
+            "give"
+        ],
+        [
+            "ancestor",
+            "return"
+        ],
+        [
+            "th",
+            "ancestor",
+            "tree",
+            "node",
+            "th",
+            "node",
+            "path",
+            "node",
+            "root"
+        ],
+        [
+            "indicate",
+            "root",
+            "node"
+        ],
+        [
+            "query"
+        ]
+    ]
+}

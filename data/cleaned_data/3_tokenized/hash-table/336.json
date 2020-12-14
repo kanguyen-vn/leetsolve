@@ -1,0 +1,31 @@
+{
+    "id": 336,
+    "title": "Palindrome Pairs",
+    "title_slug": "palindrome-pairs",
+    "backend_id": 336,
+    "content": [
+        [
+            "give",
+            "list",
+            "unique",
+            "word",
+            "return",
+            "pair",
+            "distinct",
+            "index",
+            "give",
+            "list",
+            "concatenation",
+            "two",
+            "word",
+            "palindrome"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ]
+    ]
+}

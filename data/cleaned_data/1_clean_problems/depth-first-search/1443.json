@@ -1,0 +1,7 @@
+{
+    "id": 1443,
+    "title": "Minimum Time to Collect All Apples in a Tree",
+    "title_slug": "minimum-time-to-collect-all-apples-in-a-tree",
+    "backend_id": 1554,
+    "content": "Given an undirected tree consisting of  vertices numbered from 0 to , which has some apples in their vertices. You spend 1 second to walk over one edge of the tree. Return the minimum time in seconds you have to spend to collect all apples in the tree, starting at vertex 0 and coming back to this vertex.\nThe edges of the undirected tree are given in the array , where  means that exists an edge connecting the vertices  and . Additionally, there is a boolean array , where  means that vertex  has an apple; otherwise, it does not have any apple.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n"
+}

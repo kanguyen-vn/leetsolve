@@ -1,0 +1,7 @@
+{
+    "id": 1289,
+    "title": "Minimum Falling Path Sum II",
+    "title_slug": "minimum-falling-path-sum-ii",
+    "backend_id": 1224,
+    "content": "Given a square grid\u00a0of integers\u00a0, a falling path with non-zero shifts\u00a0is a choice of\u00a0exactly one element from each row of , such that no two elements chosen in adjacent rows are in\u00a0the same column.\nReturn the\u00a0minimum\u00a0sum of a falling path with non-zero shifts.\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n"
+}

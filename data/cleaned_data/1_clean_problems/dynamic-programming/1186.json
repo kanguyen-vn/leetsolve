@@ -1,0 +1,7 @@
+{
+    "id": 1186,
+    "title": "Maximum Subarray Sum with One Deletion",
+    "title_slug": "maximum-subarray-sum-with-one-deletion",
+    "backend_id": 1288,
+    "content": "Given an array of integers, return the maximum sum for a non-empty\u00a0subarray (contiguous elements) with at most one element deletion.\u00a0In other words, you want to choose a subarray and optionally delete one element from it so that there is still at least one element left and the\u00a0sum of the remaining elements is maximum possible.\nNote that the subarray needs to be non-empty after deleting one element.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

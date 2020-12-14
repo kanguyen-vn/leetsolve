@@ -1,0 +1,7 @@
+{
+    "id": 211,
+    "title": "Design Add and Search Words Data Structure",
+    "title_slug": "design-add-and-search-words-data-structure",
+    "backend_id": 211,
+    "content": "Design a data structure that supports adding new words and finding if a string matches any previously added string.\nImplement the  class:\n\n\u00a0Initializes the object.\n Adds  to the data structure, it can be matched later.\n\u00a0Returns  if there is any string in the data structure that matches \u00a0or  otherwise.  may contain dots  where dots can be matched with any letter.\n\n\u00a0\n\n\n\u00a0\n\n\n\n in  consists lower-case English letters.\n in  consist of\u00a0  or lower-case English letters.\nAt most 50000\u00a0calls will be made to \u00a0and .\n\n"
+}

@@ -1,0 +1,52 @@
+{
+    "id": 401,
+    "title": "Binary Watch",
+    "title_slug": "binary-watch",
+    "backend_id": 401,
+    "content": [
+        [
+            "binary",
+            "watch",
+            "led",
+            "top",
+            "represent",
+            "hour",
+            "leds",
+            "bottom",
+            "represent",
+            "minute"
+        ],
+        [
+            "lead",
+            "represent",
+            "zero",
+            "one",
+            "least",
+            "significant",
+            "bit",
+            "right"
+        ],
+        [
+            "example",
+            "binary",
+            "watch",
+            "read"
+        ],
+        [
+            "give",
+            "non",
+            "negative",
+            "integer",
+            "represent",
+            "number",
+            "led",
+            "currently",
+            "return",
+            "possible",
+            "time",
+            "watch",
+            "could",
+            "represent"
+        ]
+    ]
+}

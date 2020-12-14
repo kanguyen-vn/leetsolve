@@ -1,0 +1,74 @@
+{
+    "id": 87,
+    "title": "Scramble String",
+    "title_slug": "scramble-string",
+    "backend_id": 87,
+    "content": [
+        [
+            "scramble",
+            "string",
+            "get",
+            "string",
+            "use",
+            "follow",
+            "algorithm",
+            "length",
+            "string",
+            "stop"
+        ],
+        [
+            "length",
+            "string",
+            "follow",
+            "split",
+            "string",
+            "two",
+            "non",
+            "empty",
+            "substring",
+            "random",
+            "index",
+            "string",
+            "divide"
+        ],
+        [
+            "randomly",
+            "decide",
+            "swap",
+            "two",
+            "substring",
+            "keep",
+            "order"
+        ],
+        [
+            "step",
+            "may",
+            "become"
+        ],
+        [
+            "apply",
+            "step",
+            "recursively",
+            "two",
+            "substring"
+        ],
+        [
+            "give",
+            "two",
+            "string",
+            "length",
+            "return",
+            "scramble",
+            "string",
+            "otherwise",
+            "return"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter"
+        ]
+    ]
+}

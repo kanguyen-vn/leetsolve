@@ -1,0 +1,7 @@
+{
+    "id": 1558,
+    "title": "Minimum Numbers of Function Calls to Make Target Array",
+    "title_slug": "minimum-numbers-of-function-calls-to-make-target-array",
+    "backend_id": 1662,
+    "content": "\nYour task is to form\u00a0an integer array  from an initial array of zeros\u00a0 that is the\u00a0same size\u00a0as .\nReturn the minimum number of\u00a0function calls to make  from .\nThe answer is guaranteed to fit in a 32-bit signed integer.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1253,
+    "title": "Reconstruct a 2-Row Binary Matrix",
+    "title_slug": "reconstruct-a-2-row-binary-matrix",
+    "backend_id": 1379,
+    "content": "Given the following details of a matrix with  columns and 2 rows :\n\nThe matrix is a binary matrix, which means each element in the matrix can be 0 or 1.\nThe sum of elements of the 0-th(upper) row is given as .\nThe sum of elements of the 1-st(lower) row is given as .\nThe sum of elements in the i-th column(0-indexed) is , where  is given as an integer array with length .\n\nYour task is to reconstruct the matrix with ,  and .\nReturn it as a 2-D integer array.\nIf there are more than one valid solution, any of them will be accepted.\nIf no valid solution exists, return an empty 2-D array.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

@@ -1,0 +1,29 @@
+{
+    "id": 878,
+    "title": "Nth Magical Number",
+    "title_slug": "nth-magical-number",
+    "backend_id": 910,
+    "content": [
+        [
+            "positive",
+            "integer",
+            "magical",
+            "divisible",
+            "either"
+        ],
+        [
+            "return",
+            "th",
+            "magical",
+            "number"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "modulo"
+        ]
+    ]
+}

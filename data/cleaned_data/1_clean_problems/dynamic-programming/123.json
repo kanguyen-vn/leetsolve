@@ -1,0 +1,7 @@
+{
+    "id": 123,
+    "title": "Best Time to Buy and Sell Stock III",
+    "title_slug": "best-time-to-buy-and-sell-stock-iii",
+    "backend_id": 123,
+    "content": "Say you have an array for which the i element is the price of a given stock on day i.\nDesign an algorithm to find the maximum profit. You may complete at most two transactions.\n"
+}

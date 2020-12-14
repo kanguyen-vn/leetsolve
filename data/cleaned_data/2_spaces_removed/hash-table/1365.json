@@ -1,0 +1,7 @@
+{
+    "id": 1365,
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "title_slug": "how-many-numbers-are-smaller-than-the-current-number",
+    "backend_id": 1482,
+    "content": "Given the array , for each find out how many numbers in the array are smaller than it. That is, for each you have to count the number of valid such that and . Return the answer in an array."
+}

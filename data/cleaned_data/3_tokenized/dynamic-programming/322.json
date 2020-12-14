@@ -1,0 +1,45 @@
+{
+    "id": 322,
+    "title": "Coin Change",
+    "title_slug": "coin-change",
+    "backend_id": 322,
+    "content": [
+        [
+            "give",
+            "coin",
+            "different",
+            "denomination",
+            "total",
+            "amount",
+            "money",
+            "amount"
+        ],
+        [
+            "write",
+            "function",
+            "compute",
+            "few",
+            "number",
+            "coin",
+            "need",
+            "make",
+            "amount"
+        ],
+        [
+            "amount",
+            "money",
+            "make",
+            "combination",
+            "coin",
+            "return"
+        ],
+        [
+            "may",
+            "assume",
+            "infinite",
+            "number",
+            "kind",
+            "coin"
+        ]
+    ]
+}

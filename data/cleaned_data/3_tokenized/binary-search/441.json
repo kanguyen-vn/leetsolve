@@ -1,0 +1,43 @@
+{
+    "id": 441,
+    "title": "Arranging Coins",
+    "title_slug": "arranging-coins",
+    "backend_id": 441,
+    "content": [
+        [
+            "total",
+            "coin",
+            "want",
+            "form",
+            "staircase",
+            "shape",
+            "every",
+            "th",
+            "row",
+            "must",
+            "exactly",
+            "coin"
+        ],
+        [
+            "give",
+            "find",
+            "total",
+            "number",
+            "full",
+            "staircase",
+            "row",
+            "form"
+        ],
+        [
+            "non",
+            "negative",
+            "integer",
+            "fit",
+            "within",
+            "range",
+            "bit",
+            "sign",
+            "integer"
+        ]
+    ]
+}

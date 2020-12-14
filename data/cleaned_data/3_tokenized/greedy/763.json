@@ -1,0 +1,33 @@
+{
+    "id": 763,
+    "title": "Partition Labels",
+    "title_slug": "partition-labels",
+    "backend_id": 768,
+    "content": [
+        [
+            "string",
+            "lowercase",
+            "english",
+            "letter",
+            "give"
+        ],
+        [
+            "want",
+            "partition",
+            "string",
+            "many",
+            "part",
+            "possible",
+            "letter",
+            "appear",
+            "one",
+            "part",
+            "return",
+            "list",
+            "integer",
+            "represent",
+            "size",
+            "part"
+        ]
+    ]
+}

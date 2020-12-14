@@ -1,0 +1,7 @@
+{
+    "id": 1400,
+    "title": "Construct K Palindrome Strings",
+    "title_slug": "construct-k-palindrome-strings",
+    "backend_id": 1502,
+    "content": "Given a string and an integer . You should construct non-empty palindrome strings using all the characters in . Return True if you can use all the characters in to construct palindrome strings or False otherwise. All characters in are lower-case English letters."
+}

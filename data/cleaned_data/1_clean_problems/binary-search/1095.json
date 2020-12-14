@@ -1,0 +1,7 @@
+{
+    "id": 1095,
+    "title": "Find in Mountain Array",
+    "title_slug": "find-in-mountain-array",
+    "backend_id": 1185,
+    "content": "(This problem is an\u00a0interactive problem.)\nYou may recall that an array\u00a0 is a mountain array if and only if:\n\n\nThere exists some\u00a0\u00a0with\u00a0\u00a0such that:\n\t\n\n\n\n\n\nGiven a mountain\u00a0array , return the minimum\u00a0 such that .\u00a0 If such an \u00a0doesn't exist, return .\nYou can't access the mountain array directly.\u00a0 You may only access the array using a\u00a0\u00a0interface:\n\n returns the element of the array at index \u00a0(0-indexed).\n\u00a0returns the length of the array.\n\nSubmissions making more than 100 calls to\u00a0\u00a0will be judged Wrong Answer.\u00a0 Also, any solutions that attempt to circumvent the judge\u00a0will result in disqualification.\n\n\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

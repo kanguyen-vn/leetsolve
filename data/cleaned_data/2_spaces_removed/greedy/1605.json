@@ -1,0 +1,7 @@
+{
+    "id": 1605,
+    "title": "Find Valid Matrix Given Row and Column Sums",
+    "title_slug": "find-valid-matrix-given-row-and-column-sums",
+    "backend_id": 1711,
+    "content": "You are given two arrays and of non-negative integers where is the sum of the elements in the row and is the sum of the elements of the column of a 2D matrix. In other words, you do not know the elements of the matrix, but you do know the sums of each row and column. Find any matrix of non-negative integers of size that satisfies the and requirements. Return a 2D array representing any matrix that fulfills the requirements. It's guaranteed that at least one matrix that fulfills the requirements exists."
+}

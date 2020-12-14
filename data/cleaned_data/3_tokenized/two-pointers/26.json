@@ -1,0 +1,66 @@
+{
+    "id": 26,
+    "title": "Remove Duplicates from Sorted Array",
+    "title_slug": "remove-duplicates-from-sorted-array",
+    "backend_id": 26,
+    "content": [
+        [
+            "give",
+            "sort",
+            "array",
+            "nums",
+            "remove",
+            "duplicate",
+            "place",
+            "element",
+            "appear",
+            "return",
+            "new",
+            "length"
+        ],
+        [
+            "allocate",
+            "extra",
+            "space",
+            "another",
+            "array",
+            "must",
+            "modify",
+            "input",
+            "array",
+            "place",
+            "extra",
+            "memory"
+        ],
+        [
+            "clarification",
+            "confuse",
+            "return",
+            "value",
+            "integer",
+            "answer",
+            "array"
+        ],
+        [
+            "note",
+            "input",
+            "array",
+            "pass",
+            "reference",
+            "mean",
+            "modification",
+            "input",
+            "array",
+            "know",
+            "caller",
+            "well"
+        ],
+        [
+            "internally",
+            "think",
+            "sort",
+            "ascend",
+            "order"
+        ]
+    ]
+}

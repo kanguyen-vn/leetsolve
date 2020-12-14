@@ -1,0 +1,7 @@
+{
+    "id": 457,
+    "title": "Circular Array Loop",
+    "title_slug": "circular-array-loop",
+    "backend_id": 457,
+    "content": "You are given a circular array of positive and negative integers. If a number k at an index is positive, then move forward k steps. Conversely, if it's negative (-k), move backward k steps. Since the array is circular, you may assume that the last element's next element is the first element, and the first element's previous element is the last element. Determine if there is a loop (or a cycle) in . A cycle must start and end at the same index and the cycle's length &gt; 1. Furthermore, movements in a cycle must all follow a single direction. In other words, a cycle must not consist of both forward and backward movements."
+}

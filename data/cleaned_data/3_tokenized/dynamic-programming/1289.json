@@ -1,0 +1,40 @@
+{
+    "id": 1289,
+    "title": "Minimum Falling Path Sum II",
+    "title_slug": "minimum-falling-path-sum-ii",
+    "backend_id": 1224,
+    "content": [
+        [
+            "give",
+            "square",
+            "grid",
+            "integer",
+            "fall",
+            "path",
+            "non",
+            "zero",
+            "shifts",
+            "choice",
+            "exactly",
+            "one",
+            "element",
+            "row",
+            "two",
+            "element",
+            "choose",
+            "adjacent",
+            "row",
+            "column"
+        ],
+        [
+            "return",
+            "minimum",
+            "sum",
+            "fall",
+            "path",
+            "non",
+            "zero",
+            "shift"
+        ]
+    ]
+}

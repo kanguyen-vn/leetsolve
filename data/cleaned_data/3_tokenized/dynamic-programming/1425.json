@@ -1,0 +1,43 @@
+{
+    "id": 1425,
+    "title": "Constrained Subsequence Sum",
+    "title_slug": "constrained-subsequence-sum",
+    "backend_id": 1286,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "integer",
+            "return",
+            "maximum",
+            "sum",
+            "non",
+            "empty",
+            "subsequence",
+            "array",
+            "every",
+            "two",
+            "consecutive",
+            "integer",
+            "subsequence",
+            "condition",
+            "satisfy"
+        ],
+        [
+            "subsequence",
+            "array",
+            "obtain",
+            "delete",
+            "number",
+            "element",
+            "zero",
+            "array",
+            "leave",
+            "remain",
+            "element",
+            "original",
+            "order"
+        ]
+    ]
+}

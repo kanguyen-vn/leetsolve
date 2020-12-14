@@ -1,0 +1,42 @@
+{
+    "id": 1448,
+    "title": "Count Good Nodes in Binary Tree",
+    "title_slug": "count-good-nodes-in-binary-tree",
+    "backend_id": 1544,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "node",
+            "tree",
+            "name",
+            "good",
+            "path",
+            "root",
+            "node",
+            "value",
+            "great"
+        ],
+        [
+            "return",
+            "number",
+            "good",
+            "node",
+            "binary",
+            "tree"
+        ],
+        [
+            "number",
+            "node",
+            "binary",
+            "tree",
+            "range"
+        ],
+        [
+            "node",
+            "'s",
+            "value"
+        ]
+    ]
+}

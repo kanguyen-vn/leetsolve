@@ -1,0 +1,66 @@
+{
+    "id": 1178,
+    "title": "Number of Valid Words for Each Puzzle",
+    "title_slug": "number-of-valid-words-for-each-puzzle",
+    "backend_id": 1282,
+    "content": [
+        [
+            "respect",
+            "give",
+            "string",
+            "valid",
+            "following",
+            "condition",
+            "satisfy",
+            "contain",
+            "first",
+            "letter"
+        ],
+        [
+            "letter",
+            "letter"
+        ],
+        [
+            "example",
+            "puzzle",
+            "abcdefg",
+            "valid",
+            "word",
+            "face",
+            "cabbage",
+            "baggage",
+            "invalid",
+            "word",
+            "beef",
+            "n't",
+            "include",
+            "base",
+            "include",
+            "n't",
+            "puzzle"
+        ],
+        [
+            "return",
+            "array",
+            "number",
+            "word",
+            "give",
+            "word",
+            "list",
+            "valid",
+            "respect",
+            "puzzle"
+        ],
+        [
+            "english",
+            "lowercase",
+            "letter"
+        ],
+        [
+            "n't",
+            "contain",
+            "repeated",
+            "character"
+        ]
+    ]
+}

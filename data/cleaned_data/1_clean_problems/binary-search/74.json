@@ -1,0 +1,7 @@
+{
+    "id": 74,
+    "title": "Search a 2D Matrix",
+    "title_slug": "search-a-2d-matrix",
+    "backend_id": 74,
+    "content": "Write an efficient algorithm that searches for a value in an  matrix. This matrix has the following properties:\n\nIntegers in each row are sorted from left to right.\nThe first integer of each row is greater than the last integer of the previous row.\n\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 713,
+    "title": "Subarray Product Less Than K",
+    "title_slug": "subarray-product-less-than-k",
+    "backend_id": 713,
+    "content": "Your are given an array of positive integers .\nCount and print the number of (contiguous) subarrays where the product of all the elements in the subarray is less than .\n\n\n"
+}

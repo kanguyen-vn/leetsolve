@@ -1,0 +1,36 @@
+{
+    "id": 1043,
+    "title": "Partition Array for Maximum Sum",
+    "title_slug": "partition-array-for-maximum-sum",
+    "backend_id": 1121,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "partition",
+            "array",
+            "contiguous",
+            "subarrays",
+            "length"
+        ],
+        [
+            "partition",
+            "subarray",
+            "value",
+            "change",
+            "become",
+            "maximum",
+            "value",
+            "subarray"
+        ],
+        [
+            "return",
+            "large",
+            "sum",
+            "give",
+            "array",
+            "partition"
+        ]
+    ]
+}

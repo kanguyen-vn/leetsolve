@@ -1,0 +1,7 @@
+{
+    "id": 1420,
+    "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+    "title_slug": "build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+    "backend_id": 1535,
+    "content": "Given three integers ,  and . Consider the following algorithm to find the maximum element of an array of positive integers:\n\nYou should build the array arr which has the following properties:\n\n has exactly  integers.\n where .\nAfter applying the mentioned algorithm to , the value  is equal to .\n\nReturn the number of ways to build the array  under the mentioned conditions.\u00a0As the answer may grow large, the answer\u00a0must be\u00a0computed modulo\u00a0.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

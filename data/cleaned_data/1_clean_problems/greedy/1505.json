@@ -1,0 +1,7 @@
+{
+    "id": 1505,
+    "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+    "title_slug": "minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits",
+    "backend_id": 1629,
+    "content": "Given a string  representing the digits of\u00a0a very large integer and an integer .\nYou are allowed to swap any two adjacent digits of the integer at most  times.\nReturn the minimum integer you can obtain also as a string.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n contains digits only and doesn't have leading zeros.\n\n\n"
+}

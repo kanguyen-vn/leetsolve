@@ -1,0 +1,7 @@
+{
+    "id": 1129,
+    "title": "Shortest Path with Alternating Colors",
+    "title_slug": "shortest-path-with-alternating-colors",
+    "backend_id": 1229,
+    "content": "Consider a directed graph, with nodes labelled .\u00a0 In this graph, each edge is either red or blue, and there could\u00a0be self-edges or parallel edges.\nEach  in  denotes a red directed edge from node  to node .\u00a0 Similarly, each  in  denotes a blue directed edge from node  to node .\nReturn an array \u00a0of length ,\u00a0where each\u00a0\u00a0is\u00a0the length of the shortest path from node 0\u00a0to node \u00a0such that the edge colors alternate along the path (or  if such a path doesn't exist).\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n"
+}

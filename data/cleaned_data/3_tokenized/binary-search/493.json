@@ -1,0 +1,26 @@
+{
+    "id": 493,
+    "title": "Reverse Pairs",
+    "title_slug": "reverse-pairs",
+    "backend_id": 493,
+    "content": [
+        [
+            "give",
+            "array",
+            "call",
+            "important",
+            "reverse",
+            "pair"
+        ],
+        [
+            "need",
+            "return",
+            "number",
+            "important",
+            "reverse",
+            "pair",
+            "give",
+            "array"
+        ]
+    ]
+}

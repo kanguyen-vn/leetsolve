@@ -1,0 +1,18 @@
+{
+    "id": 381,
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "title_slug": "insert-delete-getrandom-o1-duplicates-allowed",
+    "backend_id": 381,
+    "content": [
+        [
+            "design",
+            "data",
+            "structure",
+            "support",
+            "follow",
+            "operation",
+            "average",
+            "time"
+        ]
+    ]
+}

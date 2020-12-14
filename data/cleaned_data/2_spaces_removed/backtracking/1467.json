@@ -1,0 +1,7 @@
+{
+    "id": 1467,
+    "title": "Probability of a Two Boxes Having The Same Number of Distinct Balls",
+    "title_slug": "probability-of-a-two-boxes-having-the-same-number-of-distinct-balls",
+    "backend_id": 1577,
+    "content": "Given balls of distinct colors. You will be given an integer array of size where is the number of balls of color . All the balls will be shuffled uniformly at random, then we will distribute the first balls to the first box and the remaining balls to the other box (Please read the explanation of the second example carefully). Please note that the two boxes are considered different. For example, if we have two balls of colors and , and two boxes and , then the distribution is considered different than the distribution (Please read the explanation of the first example carefully). We want to calculate the probability that the two boxes have the same number of distinct balls. is even. Answers within of the actual value will be accepted as correct."
+}

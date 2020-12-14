@@ -1,0 +1,67 @@
+{
+    "id": 141,
+    "title": "Linked List Cycle",
+    "title_slug": "linked-list-cycle",
+    "backend_id": 141,
+    "content": [
+        [
+            "give",
+            "head",
+            "link",
+            "list",
+            "determine",
+            "link",
+            "list",
+            "cycle"
+        ],
+        [
+            "cycle",
+            "link",
+            "list",
+            "node",
+            "list",
+            "reach",
+            "continuously",
+            "follow",
+            "pointer"
+        ],
+        [
+            "internally",
+            "use",
+            "denote",
+            "index",
+            "node",
+            "tail",
+            "'s",
+            "pointer",
+            "connect"
+        ],
+        [
+            "note",
+            "pass",
+            "parameter"
+        ],
+        [
+            "return",
+            "cycle",
+            "link",
+            "list"
+        ],
+        [
+            "otherwise",
+            "return"
+        ],
+        [
+            "number",
+            "node",
+            "list",
+            "range"
+        ],
+        [
+            "valid",
+            "index",
+            "link",
+            "list"
+        ]
+    ]
+}

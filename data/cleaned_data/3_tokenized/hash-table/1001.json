@@ -1,0 +1,76 @@
+{
+    "id": 1001,
+    "title": "Grid Illumination",
+    "title_slug": "grid-illumination",
+    "backend_id": 1043,
+    "content": [
+        [
+            "give",
+            "size",
+            "cell",
+            "grid",
+            "lamp",
+            "initially",
+            "turn"
+        ],
+        [
+            "also",
+            "give",
+            "array",
+            "lamp",
+            "position",
+            "indicate",
+            "lamp",
+            "turn"
+        ],
+        [
+            "lamp",
+            "turn",
+            "illuminate",
+            "cell",
+            "cell",
+            "row",
+            "column",
+            "diagonal"
+        ],
+        [
+            "finally",
+            "give",
+            "query",
+            "array"
+        ],
+        [
+            "query",
+            "determine",
+            "whether",
+            "illuminated"
+        ],
+        [
+            "answer",
+            "query",
+            "turn",
+            "lamp",
+            "adjacent",
+            "lamp",
+            "exist"
+        ],
+        [
+            "lamp",
+            "adjacent",
+            "cell",
+            "share",
+            "either",
+            "side",
+            "corner"
+        ],
+        [
+            "return",
+            "array",
+            "integer",
+            "lamp",
+            "query",
+            "illuminate",
+            "lamp"
+        ]
+    ]
+}

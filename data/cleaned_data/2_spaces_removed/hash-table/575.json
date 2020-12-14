@@ -1,0 +1,7 @@
+{
+    "id": 575,
+    "title": "Distribute Candies",
+    "title_slug": "distribute-candies",
+    "backend_id": 575,
+    "content": "Alice has candies, where the candy is of type . Alice noticed that she started to gain weight, that is why she visited a doctor. The doctor advised Alice to only eat of the candies she has ( is always even). Alice likes her candies very much. She wants to eat the maximum number of different types of candies. Given the integer array of length , return the maximum number of different types of candies she can eat, achieving the doctor's advice. is even."
+}

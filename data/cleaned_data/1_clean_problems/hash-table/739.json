@@ -1,0 +1,7 @@
+{
+    "id": 739,
+    "title": "Daily Temperatures",
+    "title_slug": "daily-temperatures",
+    "backend_id": 739,
+    "content": "\nGiven a list of daily temperatures , return a list such that, for each day in the input, tells you how many days you would have to wait until a warmer temperature.  If there is no future day for which this is possible, put 0 instead.\n\nFor example, given the list of temperatures , your output should be .\n\n"
+}

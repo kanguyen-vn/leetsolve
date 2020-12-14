@@ -1,0 +1,7 @@
+{
+    "id": 347,
+    "title": "Top K Frequent Elements",
+    "title_slug": "top-k-frequent-elements",
+    "backend_id": 347,
+    "content": "<div><p>Given a non-empty array of integers, return the <b><i>k</i></b> most frequent elements.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong>nums = <span id=\"example-input-1-1\">[1,1,1,2,2,3]</span>, k = <span id=\"example-input-1-2\">2</span>\n<strong>Output: </strong><span id=\"example-output-1\">[1,2]</span>\n</pre>\n\n<div>\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong>nums = <span id=\"example-input-2-1\">[1]</span>, k = <span id=\"example-input-2-2\">1</span>\n<strong>Output: </strong><span id=\"example-output-2\">[1]</span></pre>\n</div>\n\n<p><b>Note: </b></p>\n\n<ul>\n\t<li>You may assume <i>k</i> is always valid, 1 \u2264 <i>k</i> \u2264 number of unique elements.</li>\n\t<li>Your algorithm's time complexity <b>must be</b> better than O(<i>n</i> log <i>n</i>), where <i>n</i> is the array's size.</li>\n\t<li>It's guaranteed that the answer is unique, in other words the set of the top k frequent elements is unique.</li>\n\t<li>You can return the answer in any order.</li>\n</ul>\n</div>"
+}

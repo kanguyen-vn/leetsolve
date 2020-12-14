@@ -1,0 +1,7 @@
+{
+    "id": 95,
+    "title": "Unique Binary Search Trees II",
+    "title_slug": "unique-binary-search-trees-ii",
+    "backend_id": 95,
+    "content": "Given an integer , generate all structurally unique BST's (binary search trees) that store values 1 ... n."
+}

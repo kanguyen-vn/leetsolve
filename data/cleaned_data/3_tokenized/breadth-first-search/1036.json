@@ -1,0 +1,44 @@
+{
+    "id": 1036,
+    "title": "Escape a Large Maze",
+    "title_slug": "escape-a-large-maze",
+    "backend_id": 1106,
+    "content": [
+        [
+            "million",
+            "million",
+            "grid",
+            "coordinate",
+            "grid",
+            "square"
+        ],
+        [
+            "start",
+            "square",
+            "want",
+            "reach",
+            "square"
+        ],
+        [
+            "move",
+            "walk",
+            "directionally",
+            "adjacent",
+            "square",
+            "grid",
+            "n't",
+            "give",
+            "list",
+            "square"
+        ],
+        [
+            "return",
+            "possible",
+            "reach",
+            "target",
+            "square",
+            "sequence",
+            "move"
+        ]
+    ]
+}

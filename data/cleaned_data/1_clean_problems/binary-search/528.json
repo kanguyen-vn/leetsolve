@@ -1,0 +1,7 @@
+{
+    "id": 528,
+    "title": "Random Pick with Weight",
+    "title_slug": "random-pick-with-weight",
+    "backend_id": 912,
+    "content": "You are given an array of positive integers  where  describes the weight of index (0-indexed).\nWe need to call the function\u00a0 which randomly returns an integer in the range .\u00a0\u00a0should return the integer\u00a0proportional to its weight in the  array. For example, for , the probability of picking the index 0 is  (i.e 25%)\u00a0while the probability of picking the index 1 is  (i.e 75%).\nMore formally, the probability of picking index  is .\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\u00a0will be called at most 10000 times.\n\n"
+}

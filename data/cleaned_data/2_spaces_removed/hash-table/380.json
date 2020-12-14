@@ -1,0 +1,7 @@
+{
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "title_slug": "insert-delete-getrandom-o1",
+    "backend_id": 380,
+    "content": "Implement the class: Inserts an item into the set if not present. Returns if the item was not present, otherwise. Removes an item from the set if present. Returns if the item was present, otherwise. Returns a random element from the current set of elements (it's guaranteed that at least one element exists when this method is called). Each element must have the same probability of being returned."
+}

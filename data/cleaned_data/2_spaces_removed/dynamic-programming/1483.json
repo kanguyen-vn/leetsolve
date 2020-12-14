@@ -1,0 +1,7 @@
+{
+    "id": 1483,
+    "title": "Kth Ancestor of a Tree Node",
+    "title_slug": "kth-ancestor-of-a-tree-node",
+    "backend_id": 1296,
+    "content": "You are given a tree with nodes numbered from 0 to in the form of a parent array where is the parent of node . The root of the tree is node 0. Implement the function to return the -th ancestor of the given . If there is no such ancestor, return . The k-th ancestor of a tree node is the -th node in the path from that node to the root. indicating that 0 is the root node. for all There will be at most queries."
+}

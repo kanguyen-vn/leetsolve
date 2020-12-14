@@ -1,0 +1,7 @@
+{
+    "id": 1540,
+    "title": "Can Convert String in K Moves",
+    "title_slug": "can-convert-string-in-k-moves",
+    "backend_id": 1647,
+    "content": "Given two strings\u00a0\u00a0and\u00a0, your goal is to convert\u00a0\u00a0into\u00a0\u00a0in\u00a0\u00a0moves or less.\nDuring the\u00a0\u00a0(move you can:\n\nChoose any index\u00a0\u00a0(1-indexed) from\u00a0, such that\u00a0\u00a0and \u00a0has not been chosen in any previous move,\u00a0and shift the character at that index\u00a0\u00a0times.\nDo nothing.\n\nShifting a character means replacing it by the next letter in the alphabet\u00a0(wrapping around so that\u00a0\u00a0becomes\u00a0). Shifting a character by\u00a0\u00a0means applying the shift operations\u00a0\u00a0times.\nRemember that any index\u00a0\u00a0can be picked at most once.\nReturn\u00a0\u00a0if it's possible to convert\u00a0\u00a0into\u00a0\u00a0in no more than\u00a0\u00a0moves, otherwise return\u00a0.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n,  contain\u00a0only lowercase English letters.\n\n"
+}

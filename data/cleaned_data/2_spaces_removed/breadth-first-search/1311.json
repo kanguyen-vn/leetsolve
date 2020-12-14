@@ -1,0 +1,7 @@
+{
+    "id": 1311,
+    "title": "Get Watched Videos by Your Friends",
+    "title_slug": "get-watched-videos-by-your-friends",
+    "backend_id": 1436,
+    "content": "There are people, each person has a unique id between 0 and . Given the arrays and , where and contain the list of watched videos and the list of friends respectively for the person with . Level 1 of videos are all watched videos by your friends, level 2 of videos are all watched videos by the friends of your friends and so on. In general, the level of videos are all watched videos by people with the shortest path exactly equal to with you. Given your and the of videos, return the list of videos ordered by their frequencies (increasing). For videos with the same frequency order them alphabetically from least to greatest. if contains , then contains"
+}

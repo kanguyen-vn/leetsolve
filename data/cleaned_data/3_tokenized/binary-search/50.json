@@ -1,0 +1,15 @@
+{
+    "id": 50,
+    "title": "Pow(x, n)",
+    "title_slug": "powx-n",
+    "backend_id": 50,
+    "content": [
+        [
+            "implement",
+            "pow",
+            "calculate",
+            "raise",
+            "power"
+        ]
+    ]
+}

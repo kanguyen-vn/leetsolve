@@ -1,0 +1,7 @@
+{
+    "id": 343,
+    "title": "Integer Break",
+    "title_slug": "integer-break",
+    "backend_id": 343,
+    "content": "<div><p>Given a positive integer <i>n</i>, break it into the sum of <b>at least</b> two positive integers and maximize the product of those integers. Return the maximum product you can get.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<div>\n<pre><strong>Input: </strong><span id=\"example-input-1-1\">2</span>\n<strong>Output: </strong><span id=\"example-output-1\">1</span>\n<strong>Explanation: </strong>2 = 1 + 1, 1 \u00d7 1 = 1.</pre>\n\n<div>\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-2-1\">10</span>\n<strong>Output: </strong><span id=\"example-output-2\">36</span>\n<strong>Explanation: </strong>10 = 3 + 3 + 4, 3 \u00d7&nbsp;3 \u00d7&nbsp;4 = 36.</pre>\n\n<p><b>Note</b>: You may assume that <i>n</i> is not less than 2 and not larger than 58.</p>\n</div>\n</div></div>"
+}

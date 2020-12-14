@@ -1,0 +1,7 @@
+{
+    "id": 282,
+    "title": "Expression Add Operators",
+    "title_slug": "expression-add-operators",
+    "backend_id": 282,
+    "content": "<div><p>Given a string that contains only digits <code>0-9</code> and a target value, return all possibilities to add <b>binary</b> operators (not unary) <code>+</code>, <code>-</code>, or <code>*</code> between the digits so they evaluate to the target value.</p>\n\n<p><b>Example 1:</b></p>\n\n<pre><b>Input:</b> <code><em>num</em> = </code>\"123\", <em>target</em> = 6\n<b>Output: </b>[\"1+2+3\", \"1*2*3\"] \n</pre>\n\n<p><b>Example 2:</b></p>\n\n<pre><b>Input:</b> <code><em>num</em> = </code>\"232\", <em>target</em> = 8\n<b>Output: </b>[\"2*3+2\", \"2+3*2\"]</pre>\n\n<p><b>Example 3:</b></p>\n\n<pre><b>Input:</b> <code><em>num</em> = </code>\"105\", <em>target</em> = 5\n<b>Output: </b>[\"1*0+5\",\"10-5\"]</pre>\n\n<p><b>Example 4:</b></p>\n\n<pre><b>Input:</b> <code><em>num</em> = </code>\"00\", <em>target</em> = 0\n<b>Output: </b>[\"0+0\", \"0-0\", \"0*0\"]\n</pre>\n\n<p><b>Example 5:</b></p>\n\n<pre><b>Input:</b> <code><em>num</em> = </code>\"3456237490\", <em>target</em> = 9191\n<b>Output: </b>[]\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= num.length &lt;= 10</code></li>\n\t<li><code>num</code> only contain&nbsp;digits.</li>\n</ul>\n</div>"
+}

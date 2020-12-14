@@ -1,0 +1,63 @@
+{
+    "id": 735,
+    "title": "Asteroid Collision",
+    "title_slug": "asteroid-collision",
+    "backend_id": 735,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "represent",
+            "asteroid",
+            "row"
+        ],
+        [
+            "asteroid",
+            "absolute",
+            "value",
+            "represent",
+            "size",
+            "sign",
+            "represent",
+            "direction",
+            "positive",
+            "meaning",
+            "right",
+            "negative",
+            "meaning",
+            "leave"
+        ],
+        [
+            "asteroid",
+            "move",
+            "speed"
+        ],
+        [
+            "find",
+            "state",
+            "asteroid",
+            "collision"
+        ],
+        [
+            "two",
+            "asteroid",
+            "meet",
+            "small",
+            "one",
+            "explode"
+        ],
+        [
+            "size",
+            "explode"
+        ],
+        [
+            "two",
+            "asteroid",
+            "move",
+            "direction",
+            "never",
+            "meet"
+        ]
+    ]
+}

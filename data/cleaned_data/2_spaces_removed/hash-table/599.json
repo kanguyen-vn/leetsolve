@@ -1,0 +1,7 @@
+{
+    "id": 599,
+    "title": "Minimum Index Sum of Two Lists",
+    "title_slug": "minimum-index-sum-of-two-lists",
+    "backend_id": 599,
+    "content": "Suppose Andy and Doris want to choose a restaurant for dinner, and they both have a list of favorite restaurants represented by strings. You need to help them find out their common interest with the least list index sum. If there is a choice tie between answers, output all of them with no order requirement. You could assume there always exists an answer. and consist of spaces and English letters. All the stings of are unique. All the stings of are unique."
+}

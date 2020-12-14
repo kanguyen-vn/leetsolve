@@ -1,0 +1,7 @@
+{
+    "id": 224,
+    "title": "Basic Calculator",
+    "title_slug": "basic-calculator",
+    "backend_id": 224,
+    "content": "<div><p>Implement a basic calculator to evaluate a simple expression string.</p>\n\n<p>The expression string may contain open <code>(</code> and closing parentheses <code>)</code>, the plus <code>+</code> or minus sign <code>-</code>, <b>non-negative</b> integers and empty spaces <code> </code>.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> \"1 + 1\"\n<strong>Output:</strong> 2\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> \" 2-1 + 2 \"\n<strong>Output:</strong> 3</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> \"(1+(4+5+2)-3)+(6+8)\"\n<strong>Output:</strong> 23</pre>\n<b>Note:</b>\n\n<ul>\n\t<li>You may assume that the given expression is always valid.</li>\n\t<li><b>Do not</b> use the <code>eval</code> built-in library function.</li>\n</ul>\n</div>"
+}

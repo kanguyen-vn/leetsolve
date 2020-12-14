@@ -1,0 +1,7 @@
+{
+    "id": 382,
+    "title": "Linked List Random Node",
+    "title_slug": "linked-list-random-node",
+    "backend_id": 382,
+    "content": "<div><p>Given a singly linked list, return a random node's value from the linked list. Each node must have the <b>same probability</b> of being chosen.</p>\n\n<p><b>Follow up:</b><br>\nWhat if the linked list is extremely large and its length is unknown to you? Could you solve this efficiently without using extra space?\n</p>\n\n<p><b>Example:</b>\n</p><pre>// Init a singly linked list [1,2,3].\nListNode head = new ListNode(1);\nhead.next = new ListNode(2);\nhead.next.next = new ListNode(3);\nSolution solution = new Solution(head);\n\n// getRandom() should return either 1, 2, or 3 randomly. Each element should have equal probability of returning.\nsolution.getRandom();\n</pre>\n<p></p></div>"
+}

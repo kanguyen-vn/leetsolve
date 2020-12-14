@@ -1,0 +1,44 @@
+{
+    "id": 344,
+    "title": "Reverse String",
+    "title_slug": "reverse-string",
+    "backend_id": 344,
+    "content": [
+        [
+            "write",
+            "function",
+            "revers",
+            "string"
+        ],
+        [
+            "input",
+            "string",
+            "give",
+            "array",
+            "character"
+        ],
+        [
+            "allocate",
+            "extra",
+            "space",
+            "another",
+            "array",
+            "must",
+            "modify",
+            "input",
+            "array",
+            "place",
+            "extra",
+            "memory"
+        ],
+        [
+            "may",
+            "assume",
+            "character",
+            "consist",
+            "printable",
+            "ascii",
+            "character"
+        ]
+    ]
+}

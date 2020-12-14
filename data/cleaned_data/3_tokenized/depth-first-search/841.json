@@ -1,0 +1,59 @@
+{
+    "id": 841,
+    "title": "Keys and Rooms",
+    "title_slug": "keys-and-rooms",
+    "backend_id": 871,
+    "content": [
+        [
+            "room",
+            "start",
+            "room"
+        ],
+        [
+            "room",
+            "distinct",
+            "number",
+            "room",
+            "may",
+            "key",
+            "access",
+            "next",
+            "room"
+        ],
+        [
+            "formally",
+            "room",
+            "list",
+            "key",
+            "key",
+            "integer"
+        ],
+        [
+            "key",
+            "open",
+            "room",
+            "number"
+        ],
+        [
+            "initially",
+            "room",
+            "start",
+            "lock",
+            "except",
+            "room"
+        ],
+        [
+            "walk",
+            "back",
+            "forth",
+            "room",
+            "freely"
+        ],
+        [
+            "return",
+            "enter",
+            "every",
+            "room"
+        ]
+    ]
+}

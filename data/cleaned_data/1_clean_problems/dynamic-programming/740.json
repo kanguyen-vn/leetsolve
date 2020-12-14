@@ -1,0 +1,7 @@
+{
+    "id": 740,
+    "title": "Delete and Earn",
+    "title_slug": "delete-and-earn",
+    "backend_id": 740,
+    "content": "Given an array  of integers, you can perform operations on the array.\nIn each operation, you pick any  and delete it to earn  points. After, you must delete every element equal to  or .\nYou start with 0 points. Return the maximum number of points you can earn by applying such operations.\n\n\n\u00a0\n\n\n\u00a0\n"
+}

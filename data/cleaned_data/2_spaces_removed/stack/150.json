@@ -1,0 +1,7 @@
+{
+    "id": 150,
+    "title": "Evaluate Reverse Polish Notation",
+    "title_slug": "evaluate-reverse-polish-notation",
+    "backend_id": 150,
+    "content": "Evaluate the value of an arithmetic expression in Reverse Polish Notation. Valid operators are , , , . Each operand may be an integer or another expression."
+}

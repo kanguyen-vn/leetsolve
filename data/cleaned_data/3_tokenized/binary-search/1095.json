@@ -1,0 +1,73 @@
+{
+    "id": 1095,
+    "title": "Find in Mountain Array",
+    "title_slug": "find-in-mountain-array",
+    "backend_id": 1185,
+    "content": [
+        [
+            "problem",
+            "interactive",
+            "problem"
+        ],
+        [
+            "may",
+            "recall",
+            "array",
+            "mountain",
+            "array",
+            "exist",
+            "give",
+            "mountain",
+            "array",
+            "return",
+            "minimum"
+        ],
+        [
+            "n't",
+            "exist",
+            "return"
+        ],
+        [
+            "ca",
+            "n't",
+            "access",
+            "mountain",
+            "array",
+            "directly"
+        ],
+        [
+            "may",
+            "access",
+            "array",
+            "use",
+            "interface",
+            "return",
+            "element",
+            "array",
+            "index",
+            "index"
+        ],
+        [
+            "return",
+            "length",
+            "array"
+        ],
+        [
+            "submission",
+            "make",
+            "call",
+            "judge",
+            "wrong",
+            "answer"
+        ],
+        [
+            "also",
+            "solution",
+            "attempt",
+            "circumvent",
+            "judge",
+            "result",
+            "disqualification"
+        ]
+    ]
+}

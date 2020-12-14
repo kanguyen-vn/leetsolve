@@ -1,0 +1,47 @@
+{
+    "id": 861,
+    "title": "Score After Flipping Matrix",
+    "title_slug": "score-after-flipping-matrix",
+    "backend_id": 891,
+    "content": [
+        [
+            "two",
+            "dimensional",
+            "matrix",
+            "value"
+        ],
+        [
+            "move",
+            "consist",
+            "choose",
+            "row",
+            "column",
+            "toggle",
+            "value",
+            "row",
+            "column",
+            "change"
+        ],
+        [
+            "make",
+            "number",
+            "move",
+            "every",
+            "row",
+            "matrix",
+            "interpret",
+            "binary",
+            "number",
+            "score",
+            "matrix",
+            "sum",
+            "number"
+        ],
+        [
+            "return",
+            "high",
+            "possible",
+            "score"
+        ]
+    ]
+}

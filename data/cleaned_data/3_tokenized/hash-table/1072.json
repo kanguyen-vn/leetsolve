@@ -1,0 +1,38 @@
+{
+    "id": 1072,
+    "title": "Flip Columns For Maximum Number of Equal Rows",
+    "title_slug": "flip-columns-for-maximum-number-of-equal-rows",
+    "backend_id": 1147,
+    "content": [
+        [
+            "give",
+            "consist",
+            "may",
+            "choose",
+            "number",
+            "column",
+            "matrix",
+            "flip",
+            "every",
+            "cell",
+            "column"
+        ],
+        [
+            "flip",
+            "cell",
+            "change",
+            "value",
+            "cell"
+        ],
+        [
+            "return",
+            "maximum",
+            "number",
+            "row",
+            "value",
+            "equal",
+            "number",
+            "flip"
+        ]
+    ]
+}

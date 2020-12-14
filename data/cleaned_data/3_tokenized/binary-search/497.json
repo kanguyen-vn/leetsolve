@@ -1,0 +1,27 @@
+{
+    "id": 497,
+    "title": "Random Point in Non-overlapping Rectangles",
+    "title_slug": "random-point-in-non-overlapping-rectangles",
+    "backend_id": 914,
+    "content": [
+        [
+            "give",
+            "list",
+            "non",
+            "overlap",
+            "axis",
+            "align",
+            "rectangle",
+            "write",
+            "function",
+            "randomly",
+            "uniformily",
+            "pick",
+            "integer",
+            "point",
+            "space",
+            "cover",
+            "rectangle"
+        ]
+    ]
+}

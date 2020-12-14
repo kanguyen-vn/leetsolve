@@ -1,0 +1,7 @@
+{
+    "id": 135,
+    "title": "Candy",
+    "title_slug": "candy",
+    "backend_id": 135,
+    "content": "<div><p>There are <em>N</em> children standing in a line. Each child is assigned a rating value.</p>\n\n<p>You are giving candies to these children subjected to the following requirements:</p>\n\n<ul>\n\t<li>Each child must have at least one candy.</li>\n\t<li>Children with a higher rating get more candies than their neighbors.</li>\n</ul>\n\n<p>What is the minimum candies you must give?</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> [1,0,2]\n<strong>Output:</strong> 5\n<strong>Explanation:</strong> You can allocate to the first, second and third child with 2, 1, 2 candies respectively.\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> [1,2,2]\n<strong>Output:</strong> 4\n<strong>Explanation:</strong> You can allocate to the first, second and third child with 1, 2, 1 candies respectively.\n             The third child gets 1 candy because it satisfies the above two conditions.\n</pre>\n</div>"
+}

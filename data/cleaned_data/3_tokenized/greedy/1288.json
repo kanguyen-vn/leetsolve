@@ -1,0 +1,33 @@
+{
+    "id": 1288,
+    "title": "Remove Covered Intervals",
+    "title_slug": "remove-covered-intervals",
+    "backend_id": 1222,
+    "content": [
+        [
+            "give",
+            "list",
+            "remove",
+            "interval",
+            "cover",
+            "another",
+            "interval",
+            "list"
+        ],
+        [
+            "interval",
+            "cover",
+            "interval"
+        ],
+        [
+            "return",
+            "number",
+            "remain",
+            "interval"
+        ],
+        [
+            "interval",
+            "unique"
+        ]
+    ]
+}

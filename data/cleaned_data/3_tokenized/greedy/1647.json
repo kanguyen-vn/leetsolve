@@ -1,0 +1,48 @@
+{
+    "id": 1647,
+    "title": "Minimum Deletions to Make Character Frequencies Unique",
+    "title_slug": "minimum-deletions-to-make-character-frequencies-unique",
+    "backend_id": 1770,
+    "content": [
+        [
+            "string",
+            "call",
+            "good",
+            "two",
+            "different",
+            "character",
+            "frequency"
+        ],
+        [
+            "give",
+            "string",
+            "return",
+            "minimum",
+            "number",
+            "character",
+            "need",
+            "delete",
+            "make",
+            "good"
+        ],
+        [
+            "frequency",
+            "character",
+            "string",
+            "number",
+            "time",
+            "appear",
+            "string"
+        ],
+        [
+            "example",
+            "string",
+            "frequency",
+            "frequency",
+            "contain",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

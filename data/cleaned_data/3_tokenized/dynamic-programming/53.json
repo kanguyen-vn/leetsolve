@@ -1,0 +1,24 @@
+{
+    "id": 53,
+    "title": "Maximum Subarray",
+    "title_slug": "maximum-subarray",
+    "backend_id": 53,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "find",
+            "contiguous",
+            "subarray",
+            "contain",
+            "least",
+            "one",
+            "number",
+            "large",
+            "sum",
+            "return",
+            "sum"
+        ]
+    ]
+}

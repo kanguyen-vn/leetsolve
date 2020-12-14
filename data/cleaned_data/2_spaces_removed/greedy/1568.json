@@ -1,0 +1,7 @@
+{
+    "id": 1568,
+    "title": "Minimum Number of Days to Disconnect Island",
+    "title_slug": "minimum-number-of-days-to-disconnect-island",
+    "backend_id": 1691,
+    "content": "Given a 2D consisting of 1s (land) and 0s (water). An island is a maximal 4-directionally (horizontal or vertical) connected group of 1s. The grid is said to be connected if we have exactly one island, otherwise is said disconnected. In one day, we are allowed to change any single land cell into a water cell . Return the minimum number of days to disconnect the grid. is 0 or 1."
+}

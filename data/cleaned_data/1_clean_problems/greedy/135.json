@@ -1,0 +1,7 @@
+{
+    "id": 135,
+    "title": "Candy",
+    "title_slug": "candy",
+    "backend_id": 135,
+    "content": "There are N children standing in a line. Each child is assigned a rating value.\nYou are giving candies to these children subjected to the following requirements:\n\nEach child must have at least one candy.\nChildren with a higher rating get more candies than their neighbors.\n\nWhat is the minimum candies you must give?\n\n\n\n\n"
+}

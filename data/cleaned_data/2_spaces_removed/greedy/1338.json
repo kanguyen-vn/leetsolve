@@ -1,0 +1,7 @@
+{
+    "id": 1338,
+    "title": "Reduce Array Size to The Half",
+    "title_slug": "reduce-array-size-to-the-half",
+    "backend_id": 1464,
+    "content": "Given an array . You can choose a set of integers and remove all the occurrences of these integers in the array. Return the minimum size of the set so that at least half of the integers of the array are removed. is even."
+}

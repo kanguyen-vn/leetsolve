@@ -1,0 +1,7 @@
+{
+    "id": 1524,
+    "title": "Number of Sub-arrays With Odd Sum",
+    "title_slug": "number-of-sub-arrays-with-odd-sum",
+    "backend_id": 1631,
+    "content": "<div><p>Given an array of integers <code>arr</code>. Return <em>the number of sub-arrays</em> with <strong>odd</strong> sum.</p>\n\n<p>As the answer may grow large, the answer&nbsp;<strong>must be</strong>&nbsp;computed modulo&nbsp;<code>10^9 + 7</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> arr = [1,3,5]\n<strong>Output:</strong> 4\n<strong>Explanation:</strong> All sub-arrays are [[1],[1,3],[1,3,5],[3],[3,5],[5]]\nAll sub-arrays sum are [1,4,9,3,8,5].\nOdd sums are [1,9,3,5] so the answer is 4.\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> arr = [2,4,6]\n<strong>Output:</strong> 0\n<strong>Explanation:</strong> All sub-arrays are [[2],[2,4],[2,4,6],[4],[4,6],[6]]\nAll sub-arrays sum are [2,6,12,4,10,6].\nAll sub-arrays have even sum and the answer is 0.\n</pre>\n\n<p><strong>Example 3:</strong></p>\n\n<pre><strong>Input:</strong> arr = [1,2,3,4,5,6,7]\n<strong>Output:</strong> 16\n</pre>\n\n<p><strong>Example 4:</strong></p>\n\n<pre><strong>Input:</strong> arr = [100,100,99,99]\n<strong>Output:</strong> 4\n</pre>\n\n<p><strong>Example 5:</strong></p>\n\n<pre><strong>Input:</strong> arr = [7]\n<strong>Output:</strong> 1\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= arr.length &lt;= 10^5</code></li>\n\t<li><code>1 &lt;= arr[i] &lt;= 100</code></li>\n</ul></div>"
+}

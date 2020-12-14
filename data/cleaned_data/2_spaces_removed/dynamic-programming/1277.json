@@ -1,0 +1,7 @@
+{
+    "id": 1277,
+    "title": "Count Square Submatrices with All Ones",
+    "title_slug": "count-square-submatrices-with-all-ones",
+    "backend_id": 1402,
+    "content": "Given a matrix of ones and zeros, return how many square submatrices have all ones."
+}

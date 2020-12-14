@@ -1,0 +1,7 @@
+{
+    "id": 904,
+    "title": "Fruit Into Baskets",
+    "title_slug": "fruit-into-baskets",
+    "backend_id": 940,
+    "content": "In a row of trees, the -th tree\u00a0produces\u00a0fruit with type\u00a0.\nYou start at any tree\u00a0of your choice, then repeatedly perform the following steps:\n\nAdd one piece of fruit from this tree to your baskets.\u00a0 If you cannot, stop.\nMove to the next tree to the right of the current tree.\u00a0 If there is no tree to the right, stop.\n\nNote that you do not have any choice after the initial choice of starting tree:\u00a0you must perform step 1, then step 2, then back to step 1, then step 2, and so on until you stop.\nYou have two baskets, and each basket can carry any quantity of fruit, but you want each basket to only carry one type of fruit each.\nWhat is the total amount of fruit you can collect with this procedure?\n\u00a0\n\n\n\n"
+}

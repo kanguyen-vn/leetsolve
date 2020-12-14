@@ -1,0 +1,7 @@
+{
+    "id": 85,
+    "title": "Maximal Rectangle",
+    "title_slug": "maximal-rectangle",
+    "backend_id": 85,
+    "content": "Given a \u00a0binary  filled with 0's and 1's, find the largest rectangle containing only 1's and return its area.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n is  or .\n\n"
+}

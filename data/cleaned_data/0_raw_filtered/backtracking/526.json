@@ -1,0 +1,7 @@
+{
+    "id": 526,
+    "title": "Beautiful Arrangement",
+    "title_slug": "beautiful-arrangement",
+    "backend_id": 526,
+    "content": "<div><p>Suppose you have <b>N</b> integers from 1 to N. We define a beautiful arrangement as an array that is constructed by these <b>N</b> numbers successfully if one of the following is true for the i<sub>th</sub> position (1 &lt;= i &lt;= N) in this array:</p>\n\n<ol>\n\t<li>The number at the i<sub>th</sub> position is divisible by <b>i</b>.</li>\n\t<li><b>i</b> is divisible by the number at the i<sub>th</sub> position.</li>\n</ol>\n\n<p>&nbsp;</p>\n\n<p>Now given N, how many beautiful arrangements can you construct?</p>\n\n<p><b>Example 1:</b></p>\n\n<pre><b>Input:</b> 2\n<b>Output:</b> 2\n<b>Explanation:</b> \n\nThe first beautiful arrangement is [1, 2]:\n\nNumber at the 1st position (i=1) is 1, and 1 is divisible by i (i=1).\n\nNumber at the 2nd position (i=2) is 2, and 2 is divisible by i (i=2).\n\nThe second beautiful arrangement is [2, 1]:\n\nNumber at the 1st position (i=1) is 2, and 2 is divisible by i (i=1).\n\nNumber at the 2nd position (i=2) is 1, and i (i=2) is divisible by 1.\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Note:</b></p>\n\n<ol>\n\t<li><b>N</b> is a positive integer and will not exceed 15.</li>\n</ol>\n\n<p>&nbsp;</p>\n</div>"
+}

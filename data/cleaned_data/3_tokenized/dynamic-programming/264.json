@@ -1,0 +1,26 @@
+{
+    "id": 264,
+    "title": "Ugly Number II",
+    "title_slug": "ugly-number-ii",
+    "backend_id": 264,
+    "content": [
+        [
+            "write",
+            "program",
+            "find",
+            "th",
+            "ugly",
+            "number"
+        ],
+        [
+            "ugly",
+            "number",
+            "positive",
+            "number",
+            "whose",
+            "prime",
+            "factor",
+            "include"
+        ]
+    ]
+}

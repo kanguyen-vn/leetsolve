@@ -1,0 +1,48 @@
+{
+    "id": 36,
+    "title": "Valid Sudoku",
+    "title_slug": "valid-sudoku",
+    "backend_id": 36,
+    "content": [
+        [
+            "determine",
+            "sudoku",
+            "board",
+            "valid"
+        ],
+        [
+            "fill",
+            "cell",
+            "need",
+            "validate",
+            "accord",
+            "follow",
+            "rule",
+            "row",
+            "must",
+            "contain",
+            "digit",
+            "without",
+            "repetition"
+        ],
+        [
+            "column",
+            "must",
+            "contain",
+            "digit",
+            "without",
+            "repetition"
+        ],
+        [
+            "nine",
+            "sub",
+            "box",
+            "grid",
+            "must",
+            "contain",
+            "digit",
+            "without",
+            "repetition"
+        ]
+    ]
+}

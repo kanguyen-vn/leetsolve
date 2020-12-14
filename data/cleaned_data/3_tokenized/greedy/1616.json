@@ -1,0 +1,65 @@
+{
+    "id": 1616,
+    "title": "Split Two Strings to Make Palindrome",
+    "title_slug": "split-two-strings-to-make-palindrome",
+    "backend_id": 1739,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "length"
+        ],
+        [
+            "choose",
+            "index",
+            "split",
+            "string",
+            "index",
+            "split",
+            "two",
+            "string",
+            "split",
+            "two",
+            "string"
+        ],
+        [
+            "check",
+            "form",
+            "palindrome"
+        ],
+        [
+            "split",
+            "string",
+            "either",
+            "allow",
+            "empty"
+        ],
+        [
+            "example",
+            "valid",
+            "split"
+        ],
+        [
+            "return",
+            "possible",
+            "form",
+            "palindrome",
+            "string",
+            "otherwise",
+            "return"
+        ],
+        [
+            "notice",
+            "denote",
+            "concatenation",
+            "string"
+        ],
+        [
+            "consist",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

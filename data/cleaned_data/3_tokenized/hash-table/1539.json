@@ -1,0 +1,26 @@
+{
+    "id": 1539,
+    "title": "Kth Missing Positive Number",
+    "title_slug": "kth-missing-positive-number",
+    "backend_id": 1646,
+    "content": [
+        [
+            "give",
+            "array",
+            "positive",
+            "integer",
+            "sort",
+            "strictly",
+            "increase",
+            "order",
+            "integer"
+        ],
+        [
+            "find",
+            "positive",
+            "integer",
+            "miss",
+            "array"
+        ]
+    ]
+}

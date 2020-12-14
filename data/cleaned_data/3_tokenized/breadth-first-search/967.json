@@ -1,0 +1,46 @@
+{
+    "id": 967,
+    "title": "Numbers With Same Consecutive Differences",
+    "title_slug": "numbers-with-same-consecutive-differences",
+    "backend_id": 1007,
+    "content": [
+        [
+            "return",
+            "non",
+            "negative",
+            "integer",
+            "length",
+            "absolute",
+            "difference",
+            "every",
+            "two",
+            "consecutive",
+            "digit"
+        ],
+        [
+            "note",
+            "every",
+            "number",
+            "answer",
+            "must",
+            "lead",
+            "zero",
+            "except",
+            "number"
+        ],
+        [
+            "example",
+            "one",
+            "leading",
+            "zero",
+            "invalid",
+            "valid"
+        ],
+        [
+            "may",
+            "return",
+            "answer",
+            "order"
+        ]
+    ]
+}

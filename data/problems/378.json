@@ -1,0 +1,7 @@
+{
+    "id": 378,
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "title_slug": "kth-smallest-element-in-a-sorted-matrix",
+    "backend_id": 378,
+    "content": "<div><p>Given a <i>n</i> x <i>n</i> matrix where each of the rows and columns are sorted in ascending order, find the kth smallest element in the matrix.</p>\n\n<p>\nNote that it is the kth smallest element in the sorted order, not the kth distinct element.\n</p>\n\n<p><b>Example:</b>\n</p><pre>matrix = [\n   [ 1,  5,  9],\n   [10, 11, 13],\n   [12, 13, 15]\n],\nk = 8,\n\nreturn 13.\n</pre>\n<p></p>\n\n<p><b>Note: </b><br>\nYou may assume k is always valid, 1 \u2264 k \u2264 n<sup>2</sup>.</p></div>"
+}

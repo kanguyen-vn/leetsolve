@@ -1,0 +1,30 @@
+{
+    "id": 767,
+    "title": "Reorganize String",
+    "title_slug": "reorganize-string",
+    "backend_id": 778,
+    "content": [
+        [
+            "give",
+            "string",
+            "check",
+            "letter",
+            "rearrange",
+            "two",
+            "character",
+            "adjacent"
+        ],
+        [
+            "possible",
+            "output",
+            "possible",
+            "result"
+        ],
+        [
+            "possible",
+            "return",
+            "empty",
+            "string"
+        ]
+    ]
+}

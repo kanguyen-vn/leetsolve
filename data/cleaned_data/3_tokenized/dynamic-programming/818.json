@@ -1,0 +1,72 @@
+{
+    "id": 818,
+    "title": "Race Car",
+    "title_slug": "race-car",
+    "backend_id": 836,
+    "content": [
+        [
+            "car",
+            "start",
+            "position",
+            "speed",
+            "infinite",
+            "number",
+            "line"
+        ],
+        [
+            "car",
+            "go",
+            "negative",
+            "position"
+        ],
+        [
+            "car",
+            "drive",
+            "automatically",
+            "accord",
+            "sequence",
+            "instruction",
+            "accelerate",
+            "reverse"
+        ],
+        [
+            "get",
+            "instruction",
+            "car",
+            "follow"
+        ],
+        [
+            "get",
+            "instruction",
+            "car",
+            "follow",
+            "speed",
+            "positive",
+            "otherwise"
+        ],
+        [
+            "position",
+            "stay"
+        ],
+        [
+            "example",
+            "command",
+            "aar",
+            "car",
+            "go",
+            "position",
+            "speed",
+            "go"
+        ],
+        [
+            "target",
+            "position",
+            "say",
+            "length",
+            "short",
+            "sequence",
+            "instruction",
+            "get"
+        ]
+    ]
+}

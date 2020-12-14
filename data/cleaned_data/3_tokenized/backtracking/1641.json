@@ -1,0 +1,28 @@
+{
+    "id": 1641,
+    "title": "Count Sorted Vowel Strings",
+    "title_slug": "count-sorted-vowel-strings",
+    "backend_id": 1761,
+    "content": [
+        [
+            "give",
+            "integer",
+            "return",
+            "number",
+            "string",
+            "length",
+            "consist",
+            "vowel",
+            "lexicographically",
+            "sort"
+        ],
+        [
+            "string",
+            "lexicographically",
+            "sort",
+            "valid",
+            "come",
+            "alphabet"
+        ]
+    ]
+}

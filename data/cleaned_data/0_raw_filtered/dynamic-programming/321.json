@@ -1,0 +1,7 @@
+{
+    "id": 321,
+    "title": "Create Maximum Number",
+    "title_slug": "create-maximum-number",
+    "backend_id": 321,
+    "content": "<div><p>Given two arrays of length <code>m</code> and <code>n</code> with digits <code>0-9</code> representing two numbers. Create the maximum number of length <code>k &lt;= m + n</code> from digits of the two. The relative order of the digits from the same array must be preserved. Return an array of the <code>k</code> digits.</p>\n\n<p><strong>Note: </strong>You should try to optimize your time and space complexity.</p>\n\n<p><b>Example 1:</b></p>\n\n<pre><strong>Input:</strong>\nnums1 = <code>[3, 4, 6, 5]</code>\nnums2 = <code>[9, 1, 2, 5, 8, 3]</code>\nk = <code>5</code>\n<strong>Output:</strong>\n<code>[9, 8, 6, 5, 3]</code></pre>\n\n<p><b>Example 2:</b></p>\n\n<pre><strong>Input:</strong>\nnums1 = <code>[6, 7]</code>\nnums2 = <code>[6, 0, 4]</code>\nk = <code>5</code>\n<strong>Output:</strong>\n<code>[6, 7, 6, 0, 4]</code></pre>\n\n<p><b>Example 3:</b></p>\n\n<pre><strong>Input:</strong>\nnums1 = <code>[3, 9]</code>\nnums2 = <code>[8, 9]</code>\nk = <code>3</code>\n<strong>Output:</strong>\n<code>[9, 8, 9]</code>\n</pre></div>"
+}

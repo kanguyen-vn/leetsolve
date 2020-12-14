@@ -1,0 +1,7 @@
+{
+    "id": 1220,
+    "title": "Count Vowels Permutation",
+    "title_slug": "count-vowels-permutation",
+    "backend_id": 1332,
+    "content": "Given an integer , your task is to count how many strings of length  can be formed under the following rules:\n\nEach character is a lower case vowel\u00a0(, , , , )\nEach vowel\u00a0 may only be followed by an .\nEach vowel\u00a0 may only be followed by an \u00a0or an .\nEach vowel\u00a0 may not be followed by another .\nEach vowel\u00a0 may only be followed by an  or a\u00a0.\nEach vowel\u00a0 may only be followed by an \n\nSince the answer\u00a0may be too large,\u00a0return it modulo \n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

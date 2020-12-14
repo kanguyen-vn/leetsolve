@@ -1,0 +1,7 @@
+{
+    "id": 1372,
+    "title": "Longest ZigZag Path in a Binary Tree",
+    "title_slug": "longest-zigzag-path-in-a-binary-tree",
+    "backend_id": 1474,
+    "content": "Given a binary tree , a\u00a0ZigZag path for a binary tree is defined as follow:\n\nChoose any node in the binary tree and a direction (right or left).\nIf the current direction is right then move to the right child of the current node otherwise move to the left child.\nChange the direction from right to left or right to left.\nRepeat the second and third step until you can't move in the tree.\n\nZigzag length is defined as the number of nodes visited - 1. (A single node has a length of 0).\nReturn\u00a0the longest ZigZag path contained in that tree.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\nEach tree has at most 50000 nodes..\nEach node's value is between .\n"
+}

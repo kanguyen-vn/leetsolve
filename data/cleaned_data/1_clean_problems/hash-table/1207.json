@@ -1,0 +1,7 @@
+{
+    "id": 1207,
+    "title": "Unique Number of Occurrences",
+    "title_slug": "unique-number-of-occurrences",
+    "backend_id": 1319,
+    "content": "Given an array of integers ,\u00a0write a function that returns  if and only if the number of occurrences of each value in the array is unique.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

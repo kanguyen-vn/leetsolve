@@ -1,0 +1,7 @@
+{
+    "id": 1161,
+    "title": "Maximum Level Sum of a Binary Tree",
+    "title_slug": "maximum-level-sum-of-a-binary-tree",
+    "backend_id": 1116,
+    "content": "Given the  of a binary tree, the level of its root is 1,\u00a0the level of its children is 2,\u00a0and so on.\nReturn the smallest level  such that the sum of all the values of nodes at level  is maximal.\n\u00a0\n\n\n\n\n\n\u00a0\n\n\nThe number of nodes in the tree is in the range .\n\n\n"
+}

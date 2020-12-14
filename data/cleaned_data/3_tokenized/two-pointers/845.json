@@ -1,0 +1,31 @@
+{
+    "id": 845,
+    "title": "Longest Mountain in Array",
+    "title_slug": "longest-mountain-in-array",
+    "backend_id": 875,
+    "content": [
+        [
+            "may",
+            "recall",
+            "array",
+            "mountain",
+            "array",
+            "exist",
+            "index",
+            "index",
+            "give",
+            "integer",
+            "array",
+            "return",
+            "length",
+            "long",
+            "subarray",
+            "mountain"
+        ],
+        [
+            "return",
+            "mountain",
+            "subarray"
+        ]
+    ]
+}

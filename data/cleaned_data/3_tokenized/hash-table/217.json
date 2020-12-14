@@ -1,0 +1,32 @@
+{
+    "id": 217,
+    "title": "Contains Duplicate",
+    "title_slug": "contains-duplicate",
+    "backend_id": 217,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "find",
+            "array",
+            "contain",
+            "duplicate"
+        ],
+        [
+            "function",
+            "return",
+            "true",
+            "value",
+            "appear",
+            "least",
+            "twice",
+            "array",
+            "return",
+            "false",
+            "every",
+            "element",
+            "distinct"
+        ]
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": 1335,
+    "title": "Minimum Difficulty of a Job Schedule",
+    "title_slug": "minimum-difficulty-of-a-job-schedule",
+    "backend_id": 1457,
+    "content": [
+        [
+            "want",
+            "schedule",
+            "list",
+            "job",
+            "day"
+        ],
+        [
+            "job",
+            "dependent",
+            "work",
+            "job",
+            "finish",
+            "job"
+        ],
+        [
+            "finish",
+            "least",
+            "one",
+            "task",
+            "every",
+            "day"
+        ],
+        [
+            "difficulty",
+            "job",
+            "schedule",
+            "sum",
+            "difficulty",
+            "day",
+            "day"
+        ],
+        [
+            "difficulty",
+            "day",
+            "maximum",
+            "difficulty",
+            "job",
+            "do",
+            "day"
+        ],
+        [
+            "give",
+            "array",
+            "integer",
+            "integer"
+        ],
+        [
+            "difficulty",
+            "job"
+        ],
+        [
+            "return",
+            "minimum",
+            "difficulty",
+            "job",
+            "schedule"
+        ],
+        [
+            "find",
+            "schedule",
+            "job",
+            "return"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 763,
+    "title": "Partition Labels",
+    "title_slug": "partition-labels",
+    "backend_id": 768,
+    "content": "<div><p>A string <code>S</code> of lowercase English letters is given. We want to partition this string into as many parts as possible so that each letter appears in at most one part, and return a list of integers representing the size of these parts.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Example 1:</b></p>\n\n<pre><b>Input:</b> S = \"ababcbacadefegdehijhklij\"\n<b>Output:</b> [9,7,8]\n<b>Explanation:</b>\nThe partition is \"ababcbaca\", \"defegde\", \"hijhklij\".\nThis is a partition so that each letter appears in at most one part.\nA partition like \"ababcbacadefegde\", \"hijhklij\" is incorrect, because it splits S into less parts.\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Note:</b></p>\n\n<ul>\n\t<li><code>S</code> will have length in range <code>[1, 500]</code>.</li>\n\t<li><code>S</code> will consist of lowercase English&nbsp;letters (<code>'a'</code> to <code>'z'</code>) only.</li>\n</ul>\n\n<p>&nbsp;</p>\n</div>"
+}

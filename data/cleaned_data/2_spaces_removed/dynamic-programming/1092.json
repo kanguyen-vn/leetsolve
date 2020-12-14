@@ -1,0 +1,7 @@
+{
+    "id": 1092,
+    "title": "Shortest Common Supersequence",
+    "title_slug": "shortest-common-supersequence",
+    "backend_id": 1170,
+    "content": "Given two strings and , return the shortest string that has both and as subsequences. If multiple answers exist, you may return any of them. (A string S is a subsequence of string T if deleting some number of characters from T (possibly 0, and the characters are chosen anywhere from T) results in the string S.)"
+}

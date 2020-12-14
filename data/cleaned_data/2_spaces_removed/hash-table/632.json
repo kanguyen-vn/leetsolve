@@ -1,0 +1,7 @@
+{
+    "id": 632,
+    "title": "Smallest Range Covering Elements from K Lists",
+    "title_slug": "smallest-range-covering-elements-from-k-lists",
+    "backend_id": 632,
+    "content": "You have lists of sorted integers in non-decreasing order. Find the smallest range that includes at least one number from each of the lists. We define the range is smaller than range if or if . is sorted in non-decreasing order."
+}

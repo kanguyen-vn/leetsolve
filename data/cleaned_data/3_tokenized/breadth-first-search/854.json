@@ -1,0 +1,32 @@
+{
+    "id": 854,
+    "title": "K-Similar Strings",
+    "title_slug": "k-similar-strings",
+    "backend_id": 884,
+    "content": [
+        [
+            "string",
+            "similar",
+            "non",
+            "negative",
+            "integer",
+            "swap",
+            "position",
+            "two",
+            "letter",
+            "exactly",
+            "time",
+            "result",
+            "string",
+            "equal"
+        ],
+        [
+            "give",
+            "two",
+            "anagram",
+            "return",
+            "small",
+            "similar"
+        ]
+    ]
+}

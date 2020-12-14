@@ -1,0 +1,7 @@
+{
+    "id": 815,
+    "title": "Bus Routes",
+    "title_slug": "bus-routes",
+    "backend_id": 833,
+    "content": "<div><p>We have a list of bus routes. Each <code>routes[i]</code> is a bus route that the i-th bus&nbsp;repeats forever. For example if <code>routes[0] = [1, 5, 7]</code>, this means that the first&nbsp;bus (0-th indexed) travels in the sequence 1-&gt;5-&gt;7-&gt;1-&gt;5-&gt;7-&gt;1-&gt;... forever.</p>\n\n<p>We start at bus stop <code>S</code> (initially not on a bus), and we want to go to bus stop <code>T</code>. Travelling by buses only, what is the least number of buses we must take to reach our destination? Return -1 if it is not possible.</p>\n\n<pre><strong>Example:</strong>\n<strong>Input:</strong> \nroutes = [[1, 2, 7], [3, 6, 7]]\nS = 1\nT = 6\n<strong>Output:</strong> 2\n<strong>Explanation:</strong> \nThe best strategy is take the first bus to the bus stop 7, then take the second bus to the bus stop 6.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= routes.length &lt;= 500</code>.</li>\n\t<li><code>1 &lt;= routes[i].length &lt;= 10^5</code>.</li>\n\t<li><code>0 &lt;= routes[i][j] &lt; 10 ^ 6</code>.</li>\n</ul>\n</div>"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1049,
+    "title": "Last Stone Weight II",
+    "title_slug": "last-stone-weight-ii",
+    "backend_id": 1130,
+    "content": "We have a collection of rocks, each rock has a positive integer weight. Each turn, we choose any two rocks and smash them together. Suppose the stones have weights and with . The result of this smash is: If , both stones are totally destroyed; If , the stone of weight is totally destroyed, and the stone of weight has new weight . At the end, there is at most 1 stone left. Return the smallest possible weight of this stone (the weight is 0 if there are no stones left.)"
+}

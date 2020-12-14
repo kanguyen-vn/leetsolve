@@ -1,0 +1,16 @@
+{
+    "id": 234,
+    "title": "Palindrome Linked List",
+    "title_slug": "palindrome-linked-list",
+    "backend_id": 234,
+    "content": [
+        [
+            "give",
+            "singly",
+            "link",
+            "list",
+            "determine",
+            "palindrome"
+        ]
+    ]
+}

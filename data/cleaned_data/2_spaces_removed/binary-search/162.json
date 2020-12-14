@@ -1,0 +1,7 @@
+{
+    "id": 162,
+    "title": "Find Peak Element",
+    "title_slug": "find-peak-element",
+    "backend_id": 162,
+    "content": "A peak element is an element that is greater than its neighbors. Given an input array , where , find a peak element and return its index. The array may contain multiple peaks, in that case return the index to any one of the peaks is fine. You may imagine that ."
+}

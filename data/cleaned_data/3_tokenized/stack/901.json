@@ -1,0 +1,57 @@
+{
+    "id": 901,
+    "title": "Online Stock Span",
+    "title_slug": "online-stock-span",
+    "backend_id": 937,
+    "content": [
+        [
+            "write",
+            "class",
+            "collect",
+            "daily",
+            "price",
+            "quote",
+            "stock",
+            "return",
+            "span",
+            "stock",
+            "'s",
+            "price",
+            "current",
+            "day"
+        ],
+        [
+            "span",
+            "stock",
+            "'s",
+            "price",
+            "today",
+            "define",
+            "maximum",
+            "number",
+            "consecutive",
+            "day",
+            "start",
+            "today",
+            "go",
+            "backwards",
+            "price",
+            "stock",
+            "less",
+            "equal",
+            "today",
+            "'s",
+            "price"
+        ],
+        [
+            "example",
+            "price",
+            "stock",
+            "next",
+            "day",
+            "stock",
+            "span",
+            "would"
+        ]
+    ]
+}

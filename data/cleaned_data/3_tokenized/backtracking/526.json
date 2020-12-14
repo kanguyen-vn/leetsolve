@@ -1,0 +1,40 @@
+{
+    "id": 526,
+    "title": "Beautiful Arrangement",
+    "title_slug": "beautiful-arrangement",
+    "backend_id": 526,
+    "content": [
+        [
+            "suppose",
+            "integer",
+            "define",
+            "beautiful",
+            "arrangement",
+            "array",
+            "construct",
+            "number",
+            "successfully",
+            "one",
+            "follow",
+            "true",
+            "ith",
+            "position",
+            "array",
+            "number",
+            "ith",
+            "position",
+            "divisible",
+            "divisible",
+            "number",
+            "ith",
+            "position"
+        ],
+        [
+            "give",
+            "many",
+            "beautiful",
+            "arrangement",
+            "construct"
+        ]
+    ]
+}

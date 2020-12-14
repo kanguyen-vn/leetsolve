@@ -1,0 +1,59 @@
+{
+    "id": 753,
+    "title": "Cracking the Safe",
+    "title_slug": "cracking-the-safe",
+    "backend_id": 754,
+    "content": [
+        [
+            "box",
+            "protect",
+            "password"
+        ],
+        [
+            "password",
+            "sequence",
+            "digit",
+            "digit",
+            "one",
+            "first",
+            "digit"
+        ],
+        [
+            "enter",
+            "password",
+            "last",
+            "digit",
+            "enter",
+            "automatically",
+            "match",
+            "correct",
+            "password"
+        ],
+        [
+            "example",
+            "assume",
+            "correct",
+            "password",
+            "type",
+            "box",
+            "open",
+            "correct",
+            "password",
+            "match",
+            "suffix",
+            "enter",
+            "password"
+        ],
+        [
+            "return",
+            "password",
+            "minimum",
+            "length",
+            "guarantee",
+            "open",
+            "box",
+            "point",
+            "enter"
+        ]
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 76,
+    "title": "Minimum Window Substring",
+    "title_slug": "minimum-window-substring",
+    "backend_id": 76,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "return",
+            "minimum",
+            "window",
+            "contain",
+            "character"
+        ],
+        [
+            "window",
+            "cover",
+            "character",
+            "return",
+            "empty",
+            "string"
+        ],
+        [
+            "note",
+            "window",
+            "guarantee",
+            "always",
+            "one",
+            "unique",
+            "minimum",
+            "window"
+        ],
+        [
+            "consist",
+            "english",
+            "letter"
+        ]
+    ]
+}

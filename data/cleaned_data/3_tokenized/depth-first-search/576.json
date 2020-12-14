@@ -1,0 +1,50 @@
+{
+    "id": 576,
+    "title": "Out of Boundary Paths",
+    "title_slug": "out-of-boundary-paths",
+    "backend_id": 576,
+    "content": [
+        [
+            "grid",
+            "ball"
+        ],
+        [
+            "give",
+            "start",
+            "coordinate",
+            "ball",
+            "move",
+            "ball",
+            "adjacent",
+            "cell",
+            "cross",
+            "grid",
+            "boundary",
+            "four",
+            "direction",
+            "leave",
+            "right"
+        ],
+        [
+            "however",
+            "move",
+            "time"
+        ],
+        [
+            "find",
+            "number",
+            "path",
+            "move",
+            "ball",
+            "grid",
+            "boundary"
+        ],
+        [
+            "answer",
+            "may",
+            "large",
+            "return",
+            "mod"
+        ]
+    ]
+}

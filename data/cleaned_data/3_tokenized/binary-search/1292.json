@@ -1,0 +1,25 @@
+{
+    "id": 1292,
+    "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "title_slug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+    "backend_id": 1413,
+    "content": [
+        [
+            "give",
+            "matrix",
+            "integer"
+        ],
+        [
+            "return",
+            "maximum",
+            "side",
+            "length",
+            "square",
+            "sum",
+            "less",
+            "equal",
+            "return",
+            "square"
+        ]
+    ]
+}

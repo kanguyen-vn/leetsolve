@@ -1,0 +1,7 @@
+{
+    "id": 44,
+    "title": "Wildcard Matching",
+    "title_slug": "wildcard-matching",
+    "backend_id": 44,
+    "content": "Given an input string () and a pattern (), implement wildcard pattern matching with support for and where: Matches any single character. Matches any sequence of characters (including the empty sequence). The matching should cover the entire input string (not partial). contains only lowercase English letters. contains only lowercase English letters, or ."
+}

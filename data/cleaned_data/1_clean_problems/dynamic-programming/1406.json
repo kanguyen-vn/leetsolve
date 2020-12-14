@@ -1,0 +1,7 @@
+{
+    "id": 1406,
+    "title": "Stone Game III",
+    "title_slug": "stone-game-iii",
+    "backend_id": 1522,
+    "content": "Alice and Bob continue their\u00a0games with piles of stones. There are several stones\u00a0arranged in a row, and each stone has an associated\u00a0value which is an integer given in the array\u00a0.\nAlice and Bob take turns, with Alice starting first. On each player's turn, that player\u00a0can take 1, 2 or 3 stones\u00a0from\u00a0the first remaining stones in the row.\nThe score of each player is the sum of values of the stones taken. The score of each player is 0\u00a0initially.\nThe objective of the game is to end with the highest score, and the winner is the player with the highest score and there could be a tie. The game continues until all the stones have been taken.\nAssume\u00a0Alice\u00a0and Bob\u00a0play optimally.\nReturn \"Alice\" if\u00a0Alice will win, \"Bob\" if Bob will win or \"Tie\" if they end the game with the same score.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 37,
+    "title": "Sudoku Solver",
+    "title_slug": "sudoku-solver",
+    "backend_id": 37,
+    "content": "Write a program to solve a Sudoku puzzle by filling the empty cells.\nA\u00a0sudoku solution must satisfy all of\u00a0the following rules:\n\nEach of the digits\u00a0 must occur exactly\u00a0once in each row.\nEach of the digits\u00a0\u00a0must occur\u00a0exactly once in each column.\nEach of the digits\u00a0 must occur exactly once in each of the 9  sub-boxes of the grid.\n\nThe  character indicates empty cells.\n\u00a0\n\n\n\n\u00a0\n\n\n\n\n is a digit or .\nIt is guaranteed that the input board has only one solution.\n\n"
+}

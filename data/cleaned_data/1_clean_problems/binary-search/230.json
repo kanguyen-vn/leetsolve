@@ -1,0 +1,7 @@
+{
+    "id": 230,
+    "title": "Kth Smallest Element in a BST",
+    "title_slug": "kth-smallest-element-in-a-bst",
+    "backend_id": 230,
+    "content": "Given a binary search tree, write a function  to find the kth smallest element in it.\n\u00a0\n\n\n\n\n"
+}

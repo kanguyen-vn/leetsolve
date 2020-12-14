@@ -1,0 +1,65 @@
+{
+    "id": 138,
+    "title": "Copy List with Random Pointer",
+    "title_slug": "copy-list-with-random-pointer",
+    "backend_id": 138,
+    "content": [
+        [
+            "link",
+            "list",
+            "give",
+            "node",
+            "contain",
+            "additional",
+            "random",
+            "pointer",
+            "could",
+            "point",
+            "node",
+            "list",
+            "null"
+        ],
+        [
+            "return",
+            "deep",
+            "copy",
+            "list"
+        ],
+        [
+            "link",
+            "list",
+            "represent",
+            "input",
+            "output",
+            "list",
+            "node"
+        ],
+        [
+            "node",
+            "represent",
+            "pair",
+            "integer",
+            "represent",
+            "index",
+            "node",
+            "range",
+            "random",
+            "pointer",
+            "point",
+            "point",
+            "node"
+        ],
+        [
+            "null",
+            "point",
+            "node",
+            "link",
+            "list"
+        ],
+        [
+            "number",
+            "node",
+            "exceed"
+        ]
+    ]
+}

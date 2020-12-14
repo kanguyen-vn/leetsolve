@@ -1,0 +1,58 @@
+{
+    "id": 63,
+    "title": "Unique Paths II",
+    "title_slug": "unique-paths-ii",
+    "backend_id": 63,
+    "content": [
+        [
+            "robot",
+            "locate",
+            "top",
+            "left",
+            "corner",
+            "grid",
+            "mark",
+            "'start",
+            "diagram"
+        ],
+        [
+            "robot",
+            "move",
+            "either",
+            "right",
+            "point",
+            "time"
+        ],
+        [
+            "robot",
+            "try",
+            "reach",
+            "bottom",
+            "right",
+            "corner",
+            "grid",
+            "mark",
+            "'finish",
+            "diagram"
+        ],
+        [
+            "consider",
+            "obstacle",
+            "add",
+            "grid"
+        ],
+        [
+            "many",
+            "unique",
+            "path",
+            "would"
+        ],
+        [
+            "obstacle",
+            "space",
+            "mark",
+            "respectively",
+            "grid"
+        ]
+    ]
+}

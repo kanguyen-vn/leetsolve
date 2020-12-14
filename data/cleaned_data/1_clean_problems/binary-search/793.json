@@ -1,0 +1,7 @@
+{
+    "id": 793,
+    "title": "Preimage Size of Factorial Zeroes Function",
+    "title_slug": "preimage-size-of-factorial-zeroes-function",
+    "backend_id": 809,
+    "content": "Let  be the number of zeroes at the end of . (Recall that , and by convention, .)\nFor example,  because 3! = 6 has no zeroes at the end, while  because 11! = 39916800 has 2 zeroes at the end. Given , find how many non-negative integers  have the property that .\n\n"
+}

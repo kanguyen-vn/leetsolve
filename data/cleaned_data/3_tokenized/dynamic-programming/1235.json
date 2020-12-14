@@ -1,0 +1,44 @@
+{
+    "id": 1235,
+    "title": "Maximum Profit in Job Scheduling",
+    "title_slug": "maximum-profit-in-job-scheduling",
+    "backend_id": 1352,
+    "content": [
+        [
+            "job",
+            "every",
+            "job",
+            "schedule",
+            "do",
+            "obtaining",
+            "profit"
+        ],
+        [
+            "'re",
+            "give",
+            "array",
+            "need",
+            "output",
+            "maximum",
+            "profit",
+            "take",
+            "job",
+            "subset",
+            "overlapping",
+            "time",
+            "range"
+        ],
+        [
+            "choose",
+            "job",
+            "end",
+            "time",
+            "able",
+            "start",
+            "another",
+            "job",
+            "start",
+            "time"
+        ]
+    ]
+}

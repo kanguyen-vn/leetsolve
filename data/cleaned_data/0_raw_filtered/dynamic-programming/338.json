@@ -1,0 +1,7 @@
+{
+    "id": 338,
+    "title": "Counting Bits",
+    "title_slug": "counting-bits",
+    "backend_id": 338,
+    "content": "<div><p>Given a non negative integer number <b>num</b>. For every numbers <b>i</b> in the range <b>0 \u2264 i \u2264 num</b> calculate the number of 1's in their binary representation and return them as an array.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-1-1\">2</span>\n<strong>Output: </strong><span id=\"example-output-1\">[0,1,1]</span></pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong><span id=\"example-input-1-1\">5</span>\n<strong>Output: </strong><code>[0,1,1,2,1,2]</code>\n</pre>\n\n<p><b>Follow up:</b></p>\n\n<ul>\n\t<li>It is very easy to come up with a solution with run time <b>O(n*sizeof(integer))</b>. But can you do it in linear time <b>O(n)</b> /possibly in a single pass?</li>\n\t<li>Space complexity should be <b>O(n)</b>.</li>\n\t<li>Can you do it like a boss? Do it without using any builtin function like <b>__builtin_popcount</b> in c++ or in any other language.</li>\n</ul></div>"
+}

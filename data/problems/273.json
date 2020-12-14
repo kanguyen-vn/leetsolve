@@ -1,0 +1,7 @@
+{
+    "id": 273,
+    "title": "Integer to English Words",
+    "title_slug": "integer-to-english-words",
+    "backend_id": 273,
+    "content": "<div><p>Convert a non-negative integer <code>num</code> to its English words representation.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> num = 123\n<strong>Output:</strong> \"One Hundred Twenty Three\"\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> num = 12345\n<strong>Output:</strong> \"Twelve Thousand Three Hundred Forty Five\"\n</pre><p><strong>Example 3:</strong></p>\n<pre><strong>Input:</strong> num = 1234567\n<strong>Output:</strong> \"One Million Two Hundred Thirty Four Thousand Five Hundred Sixty Seven\"\n</pre><p><strong>Example 4:</strong></p>\n<pre><strong>Input:</strong> num = 1234567891\n<strong>Output:</strong> \"One Billion Two Hundred Thirty Four Million Five Hundred Sixty Seven Thousand Eight Hundred Ninety One\"\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= num &lt;= 2<sup>31</sup> - 1</code></li>\n</ul>\n</div>"
+}

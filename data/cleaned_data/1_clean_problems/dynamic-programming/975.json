@@ -1,0 +1,7 @@
+{
+    "id": 975,
+    "title": "Odd Even Jump",
+    "title_slug": "odd-even-jump",
+    "backend_id": 1017,
+    "content": "You are given an integer array . From some starting index, you can make a series of jumps. The (1st, 3rd, 5th, ...) jumps in the series are called odd-numbered jumps, and the (2nd, 4th, 6th, ...) jumps in the series are called even-numbered jumps. Note that the jumps are numbered, not the indices.\nYou may jump forward from index  to index  (with ) in the following way:\n\nDuring odd-numbered jumps (i.e., jumps 1, 3, 5, ...), you jump to the index  such that  and  is the smallest possible value. If there are multiple such indices , you can only jump to the smallest such index .\nDuring even-numbered jumps (i.e., jumps 2, 4, 6, ...), you jump to the index  such that  and  is the largest possible value. If there are multiple such indices , you can only jump to the smallest such index .\nIt may be the case that for some index , there are no legal jumps.\n\nA starting index is good if, starting from that index, you can reach the end of the array (index ) by jumping some number of times (possibly 0 or more than once).\nReturn the number of good starting indices.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

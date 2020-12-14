@@ -1,0 +1,7 @@
+{
+    "id": 335,
+    "title": "Self Crossing",
+    "title_slug": "self-crossing",
+    "backend_id": 335,
+    "content": "<div><p>You are given an array <i>x</i> of <code>n</code> positive numbers. You start at point <code>(0,0)</code> and moves <code>x[0]</code> metres to the north, then <code>x[1]</code> metres to the west, <code>x[2]</code> metres to the south, <code>x[3]</code> metres to the east and so on. In other words, after each move your direction changes counter-clockwise.</p>\n\n<p>Write a one-pass algorithm with <code>O(1)</code> extra space to determine, if your path crosses itself, or not.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Example 1:</b></p>\n\n<pre><strong>\u250c\u2500\u2500\u2500\u2510\n\u2502 &nbsp; \u2502\n\u2514\u2500\u2500\u2500\u253c\u2500\u2500&gt;\n&nbsp; &nbsp; \u2502\n\nInput: </strong><code>[2,1,1,2]</code>\n<strong>Output: </strong>true\n</pre>\n\n<p><b>Example 2:</b></p>\n\n<pre><strong>\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502 &nbsp; &nbsp; &nbsp;\u2502\n\u2502\n\u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500&gt;\n\nInput:</strong> <code>[1,2,3,4]</code>\n<strong>Output: </strong>false \n</pre>\n\n<p><b>Example 3:</b></p>\n\n<pre><strong>\u250c\u2500\u2500\u2500\u2510\n\u2502 &nbsp; \u2502\n\u2514\u2500\u2500\u2500\u253c&gt;\n\nInput:</strong> <code>[1,1,1,1]</code>\n<strong>Output:</strong> true \n</pre>\n</div>"
+}

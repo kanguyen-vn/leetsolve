@@ -1,0 +1,7 @@
+{
+    "id": 676,
+    "title": "Implement Magic Dictionary",
+    "title_slug": "implement-magic-dictionary",
+    "backend_id": 676,
+    "content": "Design a data structure that is initialized with a list of different words. Provided a string, you should determine if you can change exactly one character in this string to match any word in the data structure.\nImplement the\u00a0\u00a0class:\n\n\u00a0Initializes the object.\n\u00a0Sets the data structure\u00a0with an array of distinct strings .\n Returns  if you can change exactly one character in  to match any string in the data structure, otherwise returns .\n\n\u00a0\n\n\n\u00a0\n\n\n\n\n consists of only lower-case English letters.\nAll the strings in\u00a0\u00a0are distinct.\n\n\u00a0consists of only lower-case English letters.\n\u00a0will be called only once before .\nAt most 100 calls will be made to .\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1110,
+    "title": "Delete Nodes And Return Forest",
+    "title_slug": "delete-nodes-and-return-forest",
+    "backend_id": 1207,
+    "content": "Given the \u00a0of a binary tree, each node in the tree has a distinct value.\nAfter deleting\u00a0all nodes with a value in , we are left with a forest (a\u00a0disjoint union of trees).\nReturn the roots of the trees in the remaining forest.\u00a0 You may return the result in any order.\n\u00a0\n\n\n\n\u00a0\n\n\nThe number of nodes in the given tree is at most 1000.\nEach node has a distinct value between 1 and 1000.\n\n contains distinct values between 1 and 1000.\n"
+}

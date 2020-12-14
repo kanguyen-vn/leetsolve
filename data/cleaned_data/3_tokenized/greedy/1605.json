@@ -1,0 +1,63 @@
+{
+    "id": 1605,
+    "title": "Find Valid Matrix Given Row and Column Sums",
+    "title_slug": "find-valid-matrix-given-row-and-column-sums",
+    "backend_id": 1711,
+    "content": [
+        [
+            "give",
+            "two",
+            "array",
+            "non",
+            "negative",
+            "integer",
+            "sum",
+            "element",
+            "row",
+            "sum",
+            "element",
+            "column",
+            "2d",
+            "matrix"
+        ],
+        [
+            "word",
+            "know",
+            "element",
+            "matrix",
+            "know",
+            "sum",
+            "row",
+            "column"
+        ],
+        [
+            "find",
+            "matrix",
+            "non",
+            "negative",
+            "integer",
+            "size",
+            "satisfy",
+            "requirement"
+        ],
+        [
+            "return",
+            "2d",
+            "array",
+            "represent",
+            "matrix",
+            "fulfill",
+            "requirement"
+        ],
+        [
+            "'s",
+            "guarantee",
+            "least",
+            "one",
+            "matrix",
+            "fulfill",
+            "requirement",
+            "exist"
+        ]
+    ]
+}

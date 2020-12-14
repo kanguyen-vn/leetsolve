@@ -1,0 +1,7 @@
+{
+    "id": 1209,
+    "title": "Remove All Adjacent Duplicates in String II",
+    "title_slug": "remove-all-adjacent-duplicates-in-string-ii",
+    "backend_id": 1320,
+    "content": "Given a string\u00a0, a k\u00a0duplicate removal\u00a0consists of choosing \u00a0adjacent and equal letters from\u00a0 and removing\u00a0them causing the left and the right side of the deleted substring to concatenate together.\nWe repeatedly make  duplicate removals on  until we no longer can.\nReturn the final string after all such duplicate removals have been made.\nIt is guaranteed that the answer is unique.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n only contains lower case English letters.\n\n"
+}

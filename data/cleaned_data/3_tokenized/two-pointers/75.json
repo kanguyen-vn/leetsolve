@@ -1,0 +1,37 @@
+{
+    "id": 75,
+    "title": "Sort Colors",
+    "title_slug": "sort-colors",
+    "backend_id": 75,
+    "content": [
+        [
+            "give",
+            "array",
+            "object",
+            "color",
+            "red",
+            "white",
+            "blue",
+            "sort",
+            "place",
+            "object",
+            "color",
+            "adjacent",
+            "color",
+            "order",
+            "red",
+            "white",
+            "blue"
+        ],
+        [
+            "use",
+            "integer",
+            "represent",
+            "color",
+            "red",
+            "white",
+            "blue",
+            "respectively"
+        ]
+    ]
+}

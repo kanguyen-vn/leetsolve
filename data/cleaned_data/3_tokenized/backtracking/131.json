@@ -1,0 +1,23 @@
+{
+    "id": 131,
+    "title": "Palindrome Partitioning",
+    "title_slug": "palindrome-partitioning",
+    "backend_id": 131,
+    "content": [
+        [
+            "give",
+            "string",
+            "partition",
+            "every",
+            "substring",
+            "partition",
+            "palindrome"
+        ],
+        [
+            "return",
+            "possible",
+            "palindrome",
+            "partitioning"
+        ]
+    ]
+}

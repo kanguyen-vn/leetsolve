@@ -1,0 +1,7 @@
+{
+    "id": 279,
+    "title": "Perfect Squares",
+    "title_slug": "perfect-squares",
+    "backend_id": 279,
+    "content": "<div><p>Given a positive integer <i>n</i>, find the least number of perfect square numbers (for example, <code>1, 4, 9, 16, ...</code>) which sum to <i>n</i>.</p>\n\n<p><b>Example 1:</b></p>\n\n<pre><b>Input:</b> <i>n</i> = <code>12</code>\n<b>Output:</b> 3 \n<strong>Explanation: </strong><code>12 = 4 + 4 + 4.</code></pre>\n\n<p><b>Example 2:</b></p>\n\n<pre><b>Input:</b> <i>n</i> = <code>13</code>\n<b>Output:</b> 2\n<strong>Explanation: </strong><code>13 = 4 + 9.</code></pre></div>"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 957,
+    "title": "Prison Cells After N Days",
+    "title_slug": "prison-cells-after-n-days",
+    "backend_id": 994,
+    "content": "There are 8 prison cells in a row, and each cell is either occupied or vacant.\nEach day, whether the cell is occupied or vacant changes according to the following rules:\n\nIf a cell has two adjacent neighbors that are both occupied or both vacant,\u00a0then the cell becomes occupied.\nOtherwise, it becomes vacant.\n\n(Note that because the prison is a row, the first and the last cells in the row can't have two adjacent neighbors.)\nWe describe the current state of the prison\u00a0in the following way:\u00a0 if the -th cell is occupied, else .\nGiven the initial state of the prison, return the state of the prison after  days (and  such changes described above.)\n\u00a0\n\n\n"
+}

@@ -1,0 +1,85 @@
+{
+    "id": 880,
+    "title": "Decoded String at Index",
+    "title_slug": "decoded-string-at-index",
+    "backend_id": 916,
+    "content": [
+        [
+            "encoded",
+            "string",
+            "give"
+        ],
+        [
+            "find",
+            "write",
+            "decoded",
+            "string",
+            "tape",
+            "encode",
+            "string",
+            "read",
+            "one",
+            "character",
+            "time",
+            "follow",
+            "step",
+            "take",
+            "character",
+            "read",
+            "letter",
+            "letter",
+            "write",
+            "onto",
+            "tape"
+        ],
+        [
+            "character",
+            "read",
+            "digit",
+            "say",
+            "entire",
+            "current",
+            "tape",
+            "repeatedly",
+            "write",
+            "time",
+            "total"
+        ],
+        [
+            "encode",
+            "string",
+            "index",
+            "find",
+            "return",
+            "th",
+            "letter",
+            "indexed",
+            "decode",
+            "string"
+        ],
+        [
+            "contain",
+            "lowercase",
+            "letter",
+            "digits",
+            "start",
+            "letter"
+        ],
+        [
+            "'s",
+            "guarantee",
+            "less",
+            "equal",
+            "length",
+            "decode",
+            "string"
+        ],
+        [
+            "decode",
+            "string",
+            "guaranteed",
+            "less",
+            "letter"
+        ]
+    ]
+}

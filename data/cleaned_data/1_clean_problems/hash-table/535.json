@@ -1,0 +1,7 @@
+{
+    "id": 535,
+    "title": "Encode and Decode TinyURL",
+    "title_slug": "encode-and-decode-tinyurl",
+    "backend_id": 535,
+    "content": "\nTinyURL is a URL shortening service where you enter a URL such as  and it returns a short URL such as .\nDesign the  and  methods for the TinyURL service. There is no restriction on how your encode/decode algorithm should work. You just need to ensure that a URL can be encoded to a tiny URL and the tiny URL can be decoded to the original URL.\n"
+}

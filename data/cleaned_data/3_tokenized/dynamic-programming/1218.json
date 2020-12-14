@@ -1,0 +1,25 @@
+{
+    "id": 1218,
+    "title": "Longest Arithmetic Subsequence of Given Difference",
+    "title_slug": "longest-arithmetic-subsequence-of-given-difference",
+    "backend_id": 1330,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "integer",
+            "return",
+            "length",
+            "long",
+            "subsequence",
+            "arithmetic",
+            "sequence",
+            "difference",
+            "adjacent",
+            "element",
+            "subsequence",
+            "equal"
+        ]
+    ]
+}

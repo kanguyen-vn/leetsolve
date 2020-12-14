@@ -1,0 +1,68 @@
+{
+    "id": 1638,
+    "title": "Count Substrings That Differ by One Character",
+    "title_slug": "count-substrings-that-differ-by-one-character",
+    "backend_id": 1743,
+    "content": [
+        [
+            "give",
+            "two",
+            "string",
+            "find",
+            "number",
+            "way",
+            "choose",
+            "non",
+            "empty",
+            "substring",
+            "replace",
+            "single",
+            "character",
+            "different",
+            "character",
+            "result",
+            "substring",
+            "substring"
+        ],
+        [
+            "word",
+            "find",
+            "number",
+            "substring",
+            "differ",
+            "substring",
+            "exactly",
+            "one",
+            "character"
+        ],
+        [
+            "example",
+            "underlined",
+            "substring",
+            "differ",
+            "valid",
+            "way"
+        ],
+        [
+            "return",
+            "number",
+            "substring",
+            "satisfy",
+            "condition"
+        ],
+        [
+            "substring",
+            "contiguous",
+            "sequence",
+            "character",
+            "within",
+            "string"
+        ],
+        [
+            "consist",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

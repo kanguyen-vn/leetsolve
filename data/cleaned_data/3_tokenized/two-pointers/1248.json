@@ -1,0 +1,29 @@
+{
+    "id": 1248,
+    "title": "Count Number of Nice Subarrays",
+    "title_slug": "count-number-of-nice-subarrays",
+    "backend_id": 1370,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "integer"
+        ],
+        [
+            "continuous",
+            "subarray",
+            "call",
+            "nice",
+            "odd",
+            "number"
+        ],
+        [
+            "return",
+            "number",
+            "nice",
+            "sub",
+            "array"
+        ]
+    ]
+}

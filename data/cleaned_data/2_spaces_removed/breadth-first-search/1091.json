@@ -1,0 +1,7 @@
+{
+    "id": 1091,
+    "title": "Shortest Path in Binary Matrix",
+    "title_slug": "shortest-path-in-binary-matrix",
+    "backend_id": 1171,
+    "content": "In an N by N square grid, each cell is either empty (0) or blocked (1). A clear path from top-left to bottom-right has length if and only if it is composed of cells such that: Adjacent cells and are connected 8-directionally (ie., they are different and share an edge or corner) is at location (ie. has value ) is at location (ie. has value ) If is located at , then is empty (ie. ). Return the length of the shortest such clear path from top-left to bottom-right. If such a path does not exist, return -1."
+}

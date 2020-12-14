@@ -1,0 +1,65 @@
+{
+    "id": 1091,
+    "title": "Shortest Path in Binary Matrix",
+    "title_slug": "shortest-path-in-binary-matrix",
+    "backend_id": 1171,
+    "content": [
+        [
+            "square",
+            "grid",
+            "cell",
+            "either",
+            "empty",
+            "block"
+        ],
+        [
+            "clear",
+            "path",
+            "top",
+            "leave",
+            "bottom",
+            "right",
+            "length",
+            "compose",
+            "cell",
+            "adjacent",
+            "cell",
+            "connect",
+            "directionally",
+            "ie",
+            "different",
+            "share",
+            "edge",
+            "corner",
+            "location",
+            "ie"
+        ],
+        [
+            "value",
+            "location",
+            "ie"
+        ],
+        [
+            "value",
+            "locate",
+            "empty",
+            "ie"
+        ],
+        [
+            "return",
+            "length",
+            "short",
+            "clear",
+            "path",
+            "top",
+            "leave",
+            "bottom",
+            "right"
+        ],
+        [
+            "path",
+            "exist",
+            "return"
+        ]
+    ]
+}

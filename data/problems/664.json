@@ -1,0 +1,7 @@
+{
+    "id": 664,
+    "title": "Strange Printer",
+    "title_slug": "strange-printer",
+    "backend_id": 664,
+    "content": "<div><p>\nThere is a strange printer with the following two special requirements:\n\n</p><ol>\n<li>The printer can only print a sequence of the same character each time.</li>\n<li>At each turn, the printer can print new characters starting from and ending at any places, and will cover the original existing characters.</li>\n</ol>\n\n<p></p>\n\n<p>\nGiven a string consists of lower English letters only, your job is to count the minimum number of turns the printer needed in order to print it.\n</p>\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> \"aaabbb\"\n<b>Output:</b> 2\n<b>Explanation:</b> Print \"aaa\" first and then print \"bbb\".\n</pre>\n<p></p>\n\n<p><b>Example 2:</b><br>\n</p><pre><b>Input:</b> \"aba\"\n<b>Output:</b> 2\n<b>Explanation:</b> Print \"aaa\" first and then print \"b\" from the second place of the string, which will cover the existing character 'a'.\n</pre>\n<p></p>\n\n<p><b>Hint</b>: Length of the given string will not exceed 100.</p></div>"
+}

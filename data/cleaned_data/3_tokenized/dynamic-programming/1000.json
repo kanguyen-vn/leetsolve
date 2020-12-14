@@ -1,0 +1,50 @@
+{
+    "id": 1000,
+    "title": "Minimum Cost to Merge Stones",
+    "title_slug": "minimum-cost-to-merge-stones",
+    "backend_id": 1042,
+    "content": [
+        [
+            "pile",
+            "stone",
+            "arrange",
+            "row"
+        ],
+        [
+            "th",
+            "pile",
+            "stone"
+        ],
+        [
+            "move",
+            "consist",
+            "merge",
+            "exactly",
+            "consecutive",
+            "pile",
+            "one",
+            "pile",
+            "cost",
+            "move",
+            "equal",
+            "total",
+            "number",
+            "stone",
+            "pile"
+        ],
+        [
+            "find",
+            "minimum",
+            "cost",
+            "merge",
+            "pile",
+            "stone",
+            "one",
+            "pile"
+        ],
+        [
+            "impossible",
+            "return"
+        ]
+    ]
+}

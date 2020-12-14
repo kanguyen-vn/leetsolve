@@ -1,0 +1,7 @@
+{
+    "id": 423,
+    "title": "Reconstruct Original Digits from English",
+    "title_slug": "reconstruct-original-digits-from-english",
+    "backend_id": 423,
+    "content": "<div><p>Given a <b>non-empty</b> string containing an out-of-order English representation of digits <code>0-9</code>, output the digits in ascending order.</p>\n\n<p><b>Note:</b><br>\n</p><ol>\n<li>Input contains only lowercase English letters.</li>\n<li>Input is guaranteed to be valid and can be transformed to its original digits. That means invalid inputs such as \"abc\" or \"zerone\" are not permitted.</li>\n<li>Input length is less than 50,000.</li>\n</ol>\n<p></p>\n\n<p><b>Example 1:</b><br>\n</p><pre>Input: \"owoztneoer\"\n\nOutput: \"012\"\n</pre>\n<p></p>\n\n<p><b>Example 2:</b><br>\n</p><pre>Input: \"fviefuro\"\n\nOutput: \"45\"\n</pre>\n<p></p></div>"
+}

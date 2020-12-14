@@ -1,0 +1,7 @@
+{
+    "id": 1217,
+    "title": "Minimum Cost to Move Chips to The Same Position",
+    "title_slug": "minimum-cost-to-move-chips-to-the-same-position",
+    "backend_id": 1329,
+    "content": "We have  chips, where the position of the  chip is .\nWe need to move all the chips to the same position. In one step, we can change the position of the  chip from  to:\n\n or  with .\n or  with .\n\nReturn the minimum cost needed to move all the chips to the same position.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

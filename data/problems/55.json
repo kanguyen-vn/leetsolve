@@ -1,0 +1,7 @@
+{
+    "id": 55,
+    "title": "Jump Game",
+    "title_slug": "jump-game",
+    "backend_id": 55,
+    "content": "<div><p>Given an array of non-negative integers, you are initially positioned at the first index of the array.</p>\n\n<p>Each element in the array represents your maximum jump length at that position.</p>\n\n<p>Determine if you are able to reach the last index.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> nums = [2,3,1,1,4]\n<strong>Output:</strong> true\n<strong>Explanation:</strong> Jump 1 step from index 0 to 1, then 3 steps to the last index.\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> nums = [3,2,1,0,4]\n<strong>Output:</strong> false\n<strong>Explanation:</strong> You will always arrive at index 3 no matter what. Its maximum jump length is 0, which makes it impossible to reach the last index.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= nums.length &lt;= 3 * 10^4</code></li>\n\t<li><code>0 &lt;= nums[i][j] &lt;= 10^5</code></li>\n</ul>\n</div>"
+}

@@ -1,0 +1,43 @@
+{
+    "id": 920,
+    "title": "Number of Music Playlists",
+    "title_slug": "number-of-music-playlists",
+    "backend_id": 956,
+    "content": [
+        [
+            "music",
+            "player",
+            "contain",
+            "different",
+            "song",
+            "want",
+            "listen",
+            "necessarily",
+            "different",
+            "song",
+            "trip"
+        ],
+        [
+            "create",
+            "playlist",
+            "every",
+            "song",
+            "play",
+            "least",
+            "song",
+            "played",
+            "song",
+            "play",
+            "return",
+            "number",
+            "possible",
+            "playlist"
+        ],
+        [
+            "answer",
+            "large",
+            "return",
+            "modulo"
+        ]
+    ]
+}

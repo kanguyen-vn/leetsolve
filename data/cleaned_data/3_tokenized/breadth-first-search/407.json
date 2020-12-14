@@ -1,0 +1,46 @@
+{
+    "id": 407,
+    "title": "Trapping Rain Water II",
+    "title_slug": "trapping-rain-water-ii",
+    "backend_id": 407,
+    "content": [
+        [
+            "give",
+            "matrix",
+            "positive",
+            "integer",
+            "represent",
+            "height",
+            "unit",
+            "cell",
+            "2d",
+            "elevation",
+            "map",
+            "compute",
+            "volume",
+            "water",
+            "able",
+            "trap",
+            "rain"
+        ],
+        [
+            "image",
+            "represent",
+            "elevation",
+            "map",
+            "rain"
+        ],
+        [
+            "rain",
+            "water",
+            "trap",
+            "block"
+        ],
+        [
+            "total",
+            "volume",
+            "water",
+            "trap"
+        ]
+    ]
+}

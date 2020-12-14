@@ -1,0 +1,76 @@
+{
+    "id": 1642,
+    "title": "Furthest Building You Can Reach",
+    "title_slug": "furthest-building-you-can-reach",
+    "backend_id": 1762,
+    "content": [
+        [
+            "give",
+            "integer",
+            "array",
+            "represent",
+            "height",
+            "building"
+        ],
+        [
+            "start",
+            "journey",
+            "build",
+            "move",
+            "next",
+            "building",
+            "possibly",
+            "use",
+            "brick",
+            "ladder"
+        ],
+        [
+            "move",
+            "building",
+            "building",
+            "indexed",
+            "current",
+            "building",
+            "'s",
+            "height",
+            "great",
+            "equal",
+            "next",
+            "building",
+            "'s",
+            "height",
+            "need",
+            "ladder",
+            "brick"
+        ],
+        [
+            "current",
+            "building",
+            "'s",
+            "height",
+            "le",
+            "next",
+            "building",
+            "'s",
+            "height",
+            "either",
+            "use",
+            "one",
+            "ladder",
+            "brick"
+        ],
+        [
+            "return",
+            "furthest",
+            "building",
+            "index",
+            "index",
+            "reach",
+            "use",
+            "give",
+            "ladder",
+            "brick",
+            "optimally"
+        ]
+    ]
+}

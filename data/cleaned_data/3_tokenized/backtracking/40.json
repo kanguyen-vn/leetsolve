@@ -1,0 +1,28 @@
+{
+    "id": 40,
+    "title": "Combination Sum II",
+    "title_slug": "combination-sum-ii",
+    "backend_id": 40,
+    "content": [
+        [
+            "give",
+            "collection",
+            "candidate",
+            "number",
+            "target",
+            "number",
+            "find",
+            "unique",
+            "combination",
+            "candidate",
+            "number",
+            "sum"
+        ],
+        [
+            "number",
+            "may",
+            "use",
+            "combination"
+        ]
+    ]
+}

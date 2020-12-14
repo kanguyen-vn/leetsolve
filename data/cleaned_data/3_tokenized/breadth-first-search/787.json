@@ -1,0 +1,67 @@
+{
+    "id": 787,
+    "title": "Cheapest Flights Within K Stops",
+    "title_slug": "cheapest-flights-within-k-stops",
+    "backend_id": 803,
+    "content": [
+        [
+            "city",
+            "connect",
+            "flight"
+        ],
+        [
+            "flight",
+            "start",
+            "city",
+            "arrive",
+            "price"
+        ],
+        [
+            "give",
+            "city",
+            "flight",
+            "together",
+            "start",
+            "city",
+            "destination",
+            "task",
+            "find",
+            "cheap",
+            "price",
+            "stop"
+        ],
+        [
+            "route",
+            "output"
+        ],
+        [
+            "number",
+            "node",
+            "range",
+            "node",
+            "label"
+        ],
+        [
+            "size",
+            "range"
+        ],
+        [
+            "format",
+            "flight"
+        ],
+        [
+            "price",
+            "flight",
+            "range"
+        ],
+        [
+            "range"
+        ],
+        [
+            "duplicate",
+            "flight",
+            "self",
+            "cycle"
+        ]
+    ]
+}

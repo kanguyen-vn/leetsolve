@@ -1,0 +1,7 @@
+{
+    "id": 1425,
+    "title": "Constrained Subsequence Sum",
+    "title_slug": "constrained-subsequence-sum",
+    "backend_id": 1286,
+    "content": "Given an integer array and an integer , return the maximum sum of a non-empty subsequence of that array such that for every two consecutive integers in the subsequence, and , where , the condition is satisfied. A subsequence of an array is obtained by deleting some number of elements (can be zero) from the array, leaving the remaining elements in their original order."
+}

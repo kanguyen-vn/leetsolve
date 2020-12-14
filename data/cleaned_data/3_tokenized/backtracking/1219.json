@@ -1,0 +1,70 @@
+{
+    "id": 1219,
+    "title": "Path with Maximum Gold",
+    "title_slug": "path-with-maximum-gold",
+    "backend_id": 1331,
+    "content": [
+        [
+            "gold",
+            "mine",
+            "size",
+            "cell",
+            "mine",
+            "integer",
+            "represent",
+            "amount",
+            "gold",
+            "cell",
+            "empty"
+        ],
+        [
+            "return",
+            "maximum",
+            "amount",
+            "gold",
+            "collect",
+            "condition",
+            "every",
+            "time",
+            "locate",
+            "cell",
+            "collect",
+            "gold",
+            "cell"
+        ],
+        [
+            "position",
+            "walk",
+            "one",
+            "step",
+            "leave",
+            "right"
+        ],
+        [
+            "ca",
+            "n't",
+            "visit",
+            "cell"
+        ],
+        [
+            "never",
+            "visit",
+            "cell",
+            "gold"
+        ],
+        [
+            "start",
+            "stop",
+            "collect",
+            "gold",
+            "position",
+            "grid",
+            "gold"
+        ],
+        [
+            "cell",
+            "contain",
+            "gold"
+        ]
+    ]
+}

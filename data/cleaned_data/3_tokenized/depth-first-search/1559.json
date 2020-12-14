@@ -1,0 +1,77 @@
+{
+    "id": 1559,
+    "title": "Detect Cycles in 2D Grid",
+    "title_slug": "detect-cycles-in-2d-grid",
+    "backend_id": 1663,
+    "content": [
+        [
+            "give",
+            "2d",
+            "array",
+            "character",
+            "size",
+            "need",
+            "find",
+            "exists",
+            "cycle",
+            "consist",
+            "value"
+        ],
+        [
+            "cycle",
+            "path",
+            "length",
+            "grid",
+            "start",
+            "end",
+            "cell"
+        ],
+        [
+            "give",
+            "cell",
+            "move",
+            "one",
+            "cell",
+            "adjacent",
+            "one",
+            "four",
+            "direction",
+            "leave",
+            "right",
+            "value",
+            "current",
+            "cell"
+        ],
+        [
+            "also",
+            "move",
+            "cell",
+            "visit",
+            "last",
+            "move"
+        ],
+        [
+            "example",
+            "cycle",
+            "invalid",
+            "visit",
+            "last",
+            "visited",
+            "cell"
+        ],
+        [
+            "return",
+            "cycle",
+            "value",
+            "exist",
+            "otherwise",
+            "return"
+        ],
+        [
+            "consist",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

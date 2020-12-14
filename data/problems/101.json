@@ -1,0 +1,7 @@
+{
+    "id": 101,
+    "title": "Symmetric Tree",
+    "title_slug": "symmetric-tree",
+    "backend_id": 101,
+    "content": "<div><p>Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).</p>\n\n<p>For example, this binary tree <code>[1,2,2,3,4,4,3]</code> is symmetric:</p>\n\n<pre>    1\n   / \\\n  2   2\n / \\ / \\\n3  4 4  3\n</pre>\n\n<p>&nbsp;</p>\n\n<p>But the following <code>[1,2,2,null,3,null,3]</code> is not:</p>\n\n<pre>    1\n   / \\\n  2   2\n   \\   \\\n   3    3\n</pre>\n\n<p>&nbsp;</p>\n\n<p><b>Follow up:</b> Solve it both recursively and iteratively.</p>\n</div>"
+}

@@ -1,0 +1,57 @@
+{
+    "id": 837,
+    "title": "New 21 Game",
+    "title_slug": "new-21-game",
+    "backend_id": 867,
+    "content": [
+        [
+            "alice",
+            "play",
+            "follow",
+            "game",
+            "loosely",
+            "base",
+            "card",
+            "game"
+        ],
+        [
+            "alice",
+            "start",
+            "point",
+            "draws",
+            "number",
+            "less",
+            "point"
+        ],
+        [
+            "draw",
+            "gain",
+            "integer",
+            "number",
+            "point",
+            "randomly",
+            "range",
+            "integer"
+        ],
+        [
+            "draw",
+            "independent",
+            "outcome",
+            "equal",
+            "probability"
+        ],
+        [
+            "alice",
+            "stop",
+            "draw",
+            "number",
+            "get",
+            "point"
+        ],
+        [
+            "probability",
+            "less",
+            "point"
+        ]
+    ]
+}

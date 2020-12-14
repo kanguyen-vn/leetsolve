@@ -1,0 +1,69 @@
+{
+    "id": 1487,
+    "title": "Making File Names Unique",
+    "title_slug": "making-file-names-unique",
+    "backend_id": 1611,
+    "content": [
+        [
+            "give",
+            "array",
+            "string",
+            "size"
+        ],
+        [
+            "create",
+            "folder",
+            "file",
+            "system",
+            "minute",
+            "create",
+            "folder",
+            "name"
+        ],
+        [
+            "since",
+            "two",
+            "file",
+            "name",
+            "enter",
+            "folder",
+            "name",
+            "previously",
+            "use",
+            "system",
+            "suffix",
+            "addition",
+            "name",
+            "form",
+            "small",
+            "positive",
+            "integer",
+            "obtain",
+            "name",
+            "remain",
+            "unique"
+        ],
+        [
+            "return",
+            "array",
+            "string",
+            "length",
+            "actual",
+            "name",
+            "system",
+            "assign",
+            "folder",
+            "create"
+        ],
+        [
+            "consist",
+            "low",
+            "case",
+            "english",
+            "letter",
+            "digit",
+            "round",
+            "bracket"
+        ]
+    ]
+}

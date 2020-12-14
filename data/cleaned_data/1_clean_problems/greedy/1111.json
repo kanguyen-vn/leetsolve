@@ -1,0 +1,7 @@
+{
+    "id": 1111,
+    "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+    "title_slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+    "backend_id": 1208,
+    "content": "A string is a valid parentheses string\u00a0(denoted VPS) if and only if it consists of  and  characters only, and:\n\nIt is the empty string, or\nIt can be written as\u00a0\u00a0(\u00a0concatenated with\u00a0), where\u00a0\u00a0and\u00a0\u00a0are VPS's, or\nIt can be written as\u00a0, where\u00a0\u00a0is a VPS.\n\nWe can\u00a0similarly define the nesting depth  of any VPS  as follows:\n\n\n, where  and  are VPS's\n, where  is a VPS.\n\nFor example,\u00a0 ,\u00a0, and\u00a0\u00a0are VPS's (with nesting depths 0, 1, and 2), and  and  are not VPS's.\n\u00a0\nGiven a VPS , split it into two disjoint subsequences  and , such that\u00a0 and  are VPS's (and\u00a0).\nNow choose any such  and  such that\u00a0 is the minimum possible value.\nReturn an  array (of length ) that encodes such a\u00a0choice of  and :\u00a0  if  is part of , else .\u00a0 Note that even though multiple answers may exist, you may return any of them.\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

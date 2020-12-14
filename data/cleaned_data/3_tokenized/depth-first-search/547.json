@@ -1,0 +1,63 @@
+{
+    "id": 547,
+    "title": "Friend Circles",
+    "title_slug": "friend-circles",
+    "backend_id": 547,
+    "content": [
+        [
+            "student",
+            "class"
+        ],
+        [
+            "friend"
+        ],
+        [
+            "friendship",
+            "transitive",
+            "nature"
+        ],
+        [
+            "example",
+            "direct",
+            "friend",
+            "direct",
+            "friend",
+            "indirect",
+            "friend",
+            "define",
+            "friend",
+            "circle",
+            "group",
+            "student",
+            "direct",
+            "indirect",
+            "friend"
+        ],
+        [
+            "give",
+            "matrix",
+            "represent",
+            "friend",
+            "relationship",
+            "student",
+            "class"
+        ],
+        [
+            "ith",
+            "jth",
+            "student",
+            "direct",
+            "friend",
+            "otherwise"
+        ],
+        [
+            "output",
+            "total",
+            "number",
+            "friend",
+            "circle",
+            "among",
+            "student"
+        ]
+    ]
+}

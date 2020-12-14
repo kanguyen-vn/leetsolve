@@ -1,0 +1,7 @@
+{
+    "id": 406,
+    "title": "Queue Reconstruction by Height",
+    "title_slug": "queue-reconstruction-by-height",
+    "backend_id": 406,
+    "content": "You are given an array of people, , which are the attributes of some people in a queue (not necessarily in order). Each represents the person of height with exactly other people in front who have a height greater than or equal to . Reconstruct and return the queue that is represented by the input array . The returned queue should be formatted as an array , where is the attributes of the person in the queue ( is the person at the front of the queue). It is guaranteed that the queue can be reconstructed."
+}

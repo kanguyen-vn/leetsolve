@@ -1,0 +1,31 @@
+{
+    "id": 856,
+    "title": "Score of Parentheses",
+    "title_slug": "score-of-parentheses",
+    "backend_id": 886,
+    "content": [
+        [
+            "give",
+            "balanced",
+            "parenthesis",
+            "string",
+            "compute",
+            "score",
+            "string",
+            "base",
+            "follow",
+            "rule",
+            "score",
+            "score",
+            "balanced",
+            "parenthesis",
+            "string"
+        ],
+        [
+            "score",
+            "balance",
+            "parenthesis",
+            "string"
+        ]
+    ]
+}

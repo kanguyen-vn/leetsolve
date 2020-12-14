@@ -1,0 +1,74 @@
+{
+    "id": 1441,
+    "title": "Build an Array With Stack Operations",
+    "title_slug": "build-an-array-with-stack-operations",
+    "backend_id": 1552,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer"
+        ],
+        [
+            "iteration",
+            "read",
+            "number"
+        ],
+        [
+            "build",
+            "array",
+            "use",
+            "follow",
+            "operation",
+            "push",
+            "read",
+            "new",
+            "element",
+            "begin",
+            "push",
+            "array"
+        ],
+        [
+            "pop",
+            "delete",
+            "last",
+            "element",
+            "array"
+        ],
+        [
+            "target",
+            "array",
+            "already",
+            "build",
+            "stop",
+            "reading",
+            "element"
+        ],
+        [
+            "guarantee",
+            "target",
+            "array",
+            "strictly",
+            "increase",
+            "contain",
+            "number",
+            "inclusive"
+        ],
+        [
+            "return",
+            "operation",
+            "build",
+            "target",
+            "array"
+        ],
+        [
+            "guarantee",
+            "answer",
+            "unique"
+        ],
+        [
+            "strictly",
+            "increase"
+        ]
+    ]
+}

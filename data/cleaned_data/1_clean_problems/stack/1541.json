@@ -1,0 +1,7 @@
+{
+    "id": 1541,
+    "title": "Minimum Insertions to Balance a Parentheses String",
+    "title_slug": "minimum-insertions-to-balance-a-parentheses-string",
+    "backend_id": 1648,
+    "content": "Given a parentheses string  containing only the characters  and . A parentheses string is balanced if:\n\nAny left parenthesis\u00a0\u00a0must have a corresponding two consecutive right parenthesis\u00a0.\nLeft parenthesis\u00a0\u00a0must go before the corresponding two\u00a0consecutive right parenthesis\u00a0.\n\nIn other words, we treat  as openning parenthesis and  as closing parenthesis.\nFor example, ,  and  are\u00a0balanced, ,  and  are not balanced.\nYou can insert the characters  and  at any position of the string to balance it if needed.\nReturn the minimum number of insertions needed to make  balanced.\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n consists of  and  only.\n\n"
+}

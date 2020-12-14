@@ -1,0 +1,19 @@
+{
+    "id": 513,
+    "title": "Find Bottom Left Tree Value",
+    "title_slug": "find-bottom-left-tree-value",
+    "backend_id": 513,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "find",
+            "leftmost",
+            "value",
+            "last",
+            "row",
+            "tree"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 689,
+    "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+    "title_slug": "maximum-sum-of-3-non-overlapping-subarrays",
+    "backend_id": 689,
+    "content": "In a given array  of positive integers, find three non-overlapping subarrays with maximum sum.\nEach subarray will be of size , and we want to maximize the sum of all  entries.\nReturn the result as a list of indices representing the starting position of each interval (0-indexed). If there are multiple answers, return the lexicographically smallest one.\n\n\n\u00a0\n"
+}

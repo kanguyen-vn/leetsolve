@@ -1,0 +1,7 @@
+{
+    "id": 752,
+    "title": "Open the Lock",
+    "title_slug": "open-the-lock",
+    "backend_id": 753,
+    "content": "You have a lock in front of you with 4 circular wheels. Each wheel has 10 slots: . The wheels can rotate freely and wrap around: for example we can turn  to be , or  to be . Each move consists of turning one wheel one slot.\nThe lock initially starts at , a string representing the state of the 4 wheels.\nYou are given a list of  dead ends, meaning if the lock displays any of these codes, the wheels of the lock will stop turning and you will be unable to open it.\nGiven a  representing the value of the wheels that will unlock the lock, return the minimum total number of turns required to open the lock, or -1 if it is impossible.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\ntarget will not be in the list .\n and  consist of digits only.\n\n"
+}

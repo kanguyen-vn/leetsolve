@@ -1,0 +1,50 @@
+{
+    "id": 1003,
+    "title": "Check If Word Is Valid After Substitutions",
+    "title_slug": "check-if-word-is-valid-after-substitutions",
+    "backend_id": 1045,
+    "content": [
+        [
+            "give",
+            "string",
+            "determine",
+            "valid"
+        ],
+        [
+            "string",
+            "valid",
+            "start",
+            "empty",
+            "string",
+            "transform",
+            "perform",
+            "follow",
+            "operation",
+            "number",
+            "time",
+            "insert",
+            "string",
+            "position"
+        ],
+        [
+            "formally",
+            "become"
+        ],
+        [
+            "note",
+            "may",
+            "empty"
+        ],
+        [
+            "return",
+            "valid",
+            "string",
+            "otherwise",
+            "return"
+        ],
+        [
+            "consist",
+            "letter"
+        ]
+    ]
+}

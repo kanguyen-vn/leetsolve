@@ -1,0 +1,7 @@
+{
+    "id": 1414,
+    "title": "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K",
+    "title_slug": "find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k",
+    "backend_id": 1515,
+    "content": "Given an integer\u00a0, return the minimum number of Fibonacci numbers whose sum is equal to . The same Fibonacci number can be used multiple times.\nThe Fibonacci numbers are defined as:\n\n\n\n for \n\nIt is guaranteed that for the given constraints we can always find such Fibonacci numbers that sum up to .\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n"
+}

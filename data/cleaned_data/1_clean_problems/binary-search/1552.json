@@ -1,0 +1,7 @@
+{
+    "id": 1552,
+    "title": "Magnetic Force Between Two Balls",
+    "title_slug": "magnetic-force-between-two-balls",
+    "backend_id": 1675,
+    "content": "In universe Earth\u00a0C-137, Rick discovered a special form of magnetic force between\u00a0two balls if they are put in his new invented basket. Rick has\u00a0 empty baskets, the  basket is at , Morty has  balls and needs to distribute the balls into the baskets such that the minimum\u00a0magnetic force\u00a0between any two balls is maximum.\nRick stated that\u00a0magnetic force between two different balls at positions  and  is .\nGiven the integer array \u00a0and the integer . Return the required force.\n\u00a0\n\n\n\n\n\n\u00a0\n\n\n\n\n\nAll integers in  are distinct.\n\n\n"
+}

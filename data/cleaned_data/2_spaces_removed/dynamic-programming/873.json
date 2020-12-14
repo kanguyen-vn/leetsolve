@@ -1,0 +1,7 @@
+{
+    "id": 873,
+    "title": "Length of Longest Fibonacci Subsequence",
+    "title_slug": "length-of-longest-fibonacci-subsequence",
+    "backend_id": 905,
+    "content": "A sequence is fibonacci-like if: for all Given a strictly increasing array of positive integers forming a sequence, find the length of the longest fibonacci-like subsequence of . If one does not exist, return 0. (Recall that a subsequence is derived from another sequence by deleting any number of elements (including none) from , without changing the order of the remaining elements. For example, is a subsequence of .)"
+}

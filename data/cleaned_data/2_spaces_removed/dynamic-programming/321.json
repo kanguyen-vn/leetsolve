@@ -1,0 +1,7 @@
+{
+    "id": 321,
+    "title": "Create Maximum Number",
+    "title_slug": "create-maximum-number",
+    "backend_id": 321,
+    "content": "Given two arrays of length and with digits representing two numbers. Create the maximum number of length from digits of the two. The relative order of the digits from the same array must be preserved. Return an array of the digits."
+}

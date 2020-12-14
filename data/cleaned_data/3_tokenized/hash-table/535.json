@@ -1,0 +1,45 @@
+{
+    "id": 535,
+    "title": "Encode and Decode TinyURL",
+    "title_slug": "encode-and-decode-tinyurl",
+    "backend_id": 535,
+    "content": [
+        [
+            "tinyurl",
+            "url",
+            "shorten",
+            "service",
+            "enter",
+            "url",
+            "return",
+            "short",
+            "url"
+        ],
+        [
+            "design",
+            "method",
+            "tinyurl",
+            "service"
+        ],
+        [
+            "restriction",
+            "encode",
+            "decode",
+            "algorithm",
+            "work"
+        ],
+        [
+            "need",
+            "ensure",
+            "url",
+            "encode",
+            "tiny",
+            "url",
+            "tiny",
+            "url",
+            "decode",
+            "original",
+            "url"
+        ]
+    ]
+}

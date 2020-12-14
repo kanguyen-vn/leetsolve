@@ -1,0 +1,7 @@
+{
+    "id": 524,
+    "title": "Longest Word in Dictionary through Deleting",
+    "title_slug": "longest-word-in-dictionary-through-deleting",
+    "backend_id": 524,
+    "content": "Given a string and a string dictionary, find the longest string in the dictionary that can be formed by deleting some characters of the given string. If there are more than one possible results, return the longest word with the smallest lexicographical order. If there is no possible result, return the empty string."
+}

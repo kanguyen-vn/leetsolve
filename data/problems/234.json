@@ -1,0 +1,7 @@
+{
+    "id": 234,
+    "title": "Palindrome Linked List",
+    "title_slug": "palindrome-linked-list",
+    "backend_id": 234,
+    "content": "<div><p>Given a singly linked list, determine if it is a palindrome.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong> 1-&gt;2\n<strong>Output:</strong> false</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong> 1-&gt;2-&gt;2-&gt;1\n<strong>Output:</strong> true</pre>\n\n<p><b>Follow up:</b><br>\nCould you do it in O(n) time and O(1) space?</p>\n</div>"
+}

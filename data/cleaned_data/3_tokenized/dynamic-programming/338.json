@@ -1,0 +1,29 @@
+{
+    "id": 338,
+    "title": "Counting Bits",
+    "title_slug": "counting-bits",
+    "backend_id": 338,
+    "content": [
+        [
+            "give",
+            "non",
+            "negative",
+            "integer",
+            "number",
+            "num"
+        ],
+        [
+            "every",
+            "number",
+            "range",
+            "num",
+            "calculate",
+            "number",
+            "'s",
+            "binary",
+            "representation",
+            "return",
+            "array"
+        ]
+    ]
+}

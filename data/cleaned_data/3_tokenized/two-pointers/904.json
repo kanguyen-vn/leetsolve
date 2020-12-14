@@ -1,0 +1,85 @@
+{
+    "id": 904,
+    "title": "Fruit Into Baskets",
+    "title_slug": "fruit-into-baskets",
+    "backend_id": 940,
+    "content": [
+        [
+            "row",
+            "tree",
+            "th",
+            "tree",
+            "produce",
+            "fruit",
+            "type"
+        ],
+        [
+            "start",
+            "tree",
+            "choice",
+            "repeatedly",
+            "perform",
+            "follow",
+            "step",
+            "add",
+            "one",
+            "piece",
+            "fruit",
+            "tree",
+            "basket"
+        ],
+        [
+            "stop"
+        ],
+        [
+            "move",
+            "next",
+            "tree",
+            "right",
+            "current",
+            "tree"
+        ],
+        [
+            "tree",
+            "right",
+            "stop"
+        ],
+        [
+            "note",
+            "choice",
+            "initial",
+            "choice",
+            "start",
+            "tree",
+            "must",
+            "perform",
+            "step",
+            "step",
+            "back",
+            "step",
+            "step",
+            "stop"
+        ],
+        [
+            "two",
+            "basket",
+            "basket",
+            "carry",
+            "quantity",
+            "fruit",
+            "want",
+            "basket",
+            "carry",
+            "one",
+            "type",
+            "fruit"
+        ],
+        [
+            "total",
+            "amount",
+            "fruit",
+            "collect",
+            "procedure"
+        ]
+    ]
+}

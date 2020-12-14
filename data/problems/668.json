@@ -1,0 +1,7 @@
+{
+    "id": 668,
+    "title": "Kth Smallest Number in Multiplication Table",
+    "title_slug": "kth-smallest-number-in-multiplication-table",
+    "backend_id": 668,
+    "content": "<div><p>\nNearly every one have used the <a href=\"https://en.wikipedia.org/wiki/Multiplication_table\">Multiplication Table</a>. But could you find out the <code>k-th</code> smallest number quickly from the multiplication table?\n</p>\n\n<p>\nGiven the height <code>m</code> and the length <code>n</code> of a <code>m * n</code> Multiplication Table, and a positive integer <code>k</code>, you need to return the <code>k-th</code> smallest number in this table.\n</p>\n\n<p><b>Example 1:</b><br>\n</p><pre><b>Input:</b> m = 3, n = 3, k = 5\n<b>Output:</b> \n<b>Explanation:</b> \nThe Multiplication Table:\n1\t2\t3\n2\t4\t6\n3\t6\t9\n\nThe 5-th smallest number is 3 (1, 2, 2, 3, 3).\n</pre>\n<p></p>\n\n\n<p><b>Example 2:</b><br>\n</p><pre><b>Input:</b> m = 2, n = 3, k = 6\n<b>Output:</b> \n<b>Explanation:</b> \nThe Multiplication Table:\n1\t2\t3\n2\t4\t6\n\nThe 6-th smallest number is 6 (1, 2, 2, 3, 4, 6).\n</pre>\n<p></p>\n\n\n<p><b>Note:</b><br>\n</p><ol>\n<li>The <code>m</code> and <code>n</code> will be in the range [1, 30000].</li>\n<li>The <code>k</code> will be in the range [1, m * n]</li>\n</ol>\n<p></p></div>"
+}

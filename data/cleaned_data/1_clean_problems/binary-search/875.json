@@ -1,0 +1,7 @@
+{
+    "id": 875,
+    "title": "Koko Eating Bananas",
+    "title_slug": "koko-eating-bananas",
+    "backend_id": 907,
+    "content": "Koko loves to eat bananas.\u00a0 There are \u00a0piles of bananas, the -th\u00a0pile has  bananas.\u00a0 The guards have gone and will come back in  hours.\nKoko can decide her bananas-per-hour eating speed of .\u00a0 Each hour, she chooses some pile of bananas, and eats K bananas from that pile.\u00a0 If the pile has less than  bananas, she eats all of them instead, and won't eat any more bananas during this hour.\nKoko likes to eat slowly, but still wants to finish eating all the bananas before the guards come back.\nReturn the minimum integer  such that she can eat all the bananas within  hours.\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\n\n"
+}

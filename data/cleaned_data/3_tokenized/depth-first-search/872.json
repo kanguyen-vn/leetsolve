@@ -1,0 +1,64 @@
+{
+    "id": 872,
+    "title": "Leaf-Similar Trees",
+    "title_slug": "leaf-similar-trees",
+    "backend_id": 904,
+    "content": [
+        [
+            "consider",
+            "leaf",
+            "binary",
+            "tree",
+            "leave",
+            "right",
+            "order",
+            "value",
+            "leave",
+            "form",
+            "leaf",
+            "value",
+            "sequence"
+        ],
+        [
+            "example",
+            "give",
+            "tree",
+            "leaf",
+            "value",
+            "sequence"
+        ],
+        [
+            "two",
+            "binary",
+            "tree",
+            "consider",
+            "leaf",
+            "similar",
+            "leaf",
+            "value",
+            "sequence"
+        ],
+        [
+            "return",
+            "two",
+            "give",
+            "tree",
+            "head",
+            "node",
+            "leaf",
+            "similar"
+        ],
+        [
+            "number",
+            "node",
+            "tree",
+            "range"
+        ],
+        [
+            "give",
+            "tree",
+            "value",
+            "range"
+        ]
+    ]
+}

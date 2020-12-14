@@ -1,0 +1,28 @@
+{
+    "id": 343,
+    "title": "Integer Break",
+    "title_slug": "integer-break",
+    "backend_id": 343,
+    "content": [
+        [
+            "give",
+            "positive",
+            "integer",
+            "break",
+            "sum",
+            "least",
+            "two",
+            "positive",
+            "integer",
+            "maximize",
+            "product",
+            "integer"
+        ],
+        [
+            "return",
+            "maximum",
+            "product",
+            "get"
+        ]
+    ]
+}

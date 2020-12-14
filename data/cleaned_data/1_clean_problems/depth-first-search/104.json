@@ -1,0 +1,7 @@
+{
+    "id": 104,
+    "title": "Maximum Depth of Binary Tree",
+    "title_slug": "maximum-depth-of-binary-tree",
+    "backend_id": 104,
+    "content": "Given a binary tree, find its maximum depth.\nThe maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.\n"
+}

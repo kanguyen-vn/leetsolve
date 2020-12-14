@@ -1,0 +1,64 @@
+{
+    "id": 1028,
+    "title": "Recover a Tree From Preorder Traversal",
+    "title_slug": "recover-a-tree-from-preorder-traversal",
+    "backend_id": 1093,
+    "content": [
+        [
+            "run",
+            "preorder",
+            "depth",
+            "first",
+            "search",
+            "dfs",
+            "binary",
+            "tree"
+        ],
+        [
+            "node",
+            "traversal",
+            "output",
+            "dash",
+            "depth",
+            "node",
+            "output",
+            "value",
+            "node"
+        ],
+        [
+            "depth",
+            "node",
+            "depth",
+            "immediate",
+            "child"
+        ],
+        [
+            "depth",
+            "node"
+        ],
+        [
+            "node",
+            "one",
+            "child",
+            "child",
+            "guarantee",
+            "leave",
+            "child"
+        ],
+        [
+            "give",
+            "output",
+            "traversal",
+            "recover",
+            "tree",
+            "return"
+        ],
+        [
+            "number",
+            "node",
+            "original",
+            "tree",
+            "range"
+        ]
+    ]
+}

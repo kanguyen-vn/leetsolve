@@ -1,0 +1,7 @@
+{
+    "id": 1090,
+    "title": "Largest Values From Labels",
+    "title_slug": "largest-values-from-labels",
+    "backend_id": 1169,
+    "content": "We have a set of items: the -th item has value and label . Then, we choose a subset of these items, such that: For every label , the number of items in with label is . Return the largest possible sum of the subset ."
+}

@@ -1,0 +1,47 @@
+{
+    "id": 1478,
+    "title": "Allocate Mailboxes",
+    "title_slug": "allocate-mailboxes",
+    "backend_id": 1571,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer"
+        ],
+        [
+            "location",
+            "ith",
+            "house",
+            "along",
+            "street",
+            "task",
+            "allocate",
+            "mailbox",
+            "street"
+        ],
+        [
+            "return",
+            "minimum",
+            "total",
+            "distance",
+            "house",
+            "near",
+            "mailbox"
+        ],
+        [
+            "answer",
+            "guarantee",
+            "fit",
+            "bit",
+            "sign",
+            "integer"
+        ],
+        [
+            "array",
+            "contain",
+            "unique",
+            "integer"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": 1306,
+    "title": "Jump Game III",
+    "title_slug": "jump-game-iii",
+    "backend_id": 1428,
+    "content": [
+        [
+            "give",
+            "array",
+            "non",
+            "negative",
+            "integer",
+            "initially",
+            "position",
+            "index",
+            "array"
+        ],
+        [
+            "index",
+            "jump",
+            "check",
+            "reach",
+            "index",
+            "value"
+        ],
+        [
+            "notice",
+            "jump",
+            "outside",
+            "array",
+            "time"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 17,
+    "title": "Letter Combinations of a Phone Number",
+    "title_slug": "letter-combinations-of-a-phone-number",
+    "backend_id": 17,
+    "content": "Given a string containing digits from inclusive, return all possible letter combinations that the number could represent. Return the answer in any order. A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters. is a digit in the range ."
+}

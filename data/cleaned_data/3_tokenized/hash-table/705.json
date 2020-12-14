@@ -1,0 +1,45 @@
+{
+    "id": 705,
+    "title": "Design HashSet",
+    "title_slug": "design-hashset",
+    "backend_id": 816,
+    "content": [
+        [
+            "design",
+            "hashset",
+            "without",
+            "use",
+            "build",
+            "hash",
+            "table",
+            "library"
+        ],
+        [
+            "specific",
+            "design",
+            "include",
+            "function",
+            "insert",
+            "value",
+            "hashset"
+        ],
+        [
+            "return",
+            "whether",
+            "value",
+            "exist",
+            "hashset"
+        ],
+        [
+            "remove",
+            "value",
+            "hashset"
+        ],
+        [
+            "value",
+            "exist",
+            "hashset",
+            "nothing"
+        ]
+    ]
+}

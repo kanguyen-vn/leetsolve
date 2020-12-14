@@ -1,0 +1,78 @@
+{
+    "id": 1203,
+    "title": "Sort Items by Groups Respecting Dependencies",
+    "title_slug": "sort-items-by-groups-respecting-dependencies",
+    "backend_id": 1309,
+    "content": [
+        [
+            "item",
+            "belong",
+            "zero",
+            "one",
+            "group",
+            "group",
+            "th",
+            "item",
+            "belong",
+            "'s",
+            "equal",
+            "th",
+            "item",
+            "belong",
+            "group"
+        ],
+        [
+            "item",
+            "group",
+            "zero",
+            "index"
+        ],
+        [
+            "group",
+            "item",
+            "belong"
+        ],
+        [
+            "return",
+            "sort",
+            "list",
+            "item",
+            "item",
+            "belong",
+            "group",
+            "next",
+            "sorted",
+            "list"
+        ],
+        [
+            "relation",
+            "item",
+            "list",
+            "contain",
+            "item",
+            "come",
+            "th",
+            "item",
+            "sort",
+            "array",
+            "leave",
+            "th",
+            "item"
+        ],
+        [
+            "return",
+            "solution",
+            "one",
+            "solution",
+            "return",
+            "empty",
+            "list",
+            "solution"
+        ],
+        [
+            "contain",
+            "duplicate",
+            "element"
+        ]
+    ]
+}

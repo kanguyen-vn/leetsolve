@@ -1,0 +1,7 @@
+{
+    "id": 542,
+    "title": "01 Matrix",
+    "title_slug": "01-matrix",
+    "backend_id": 542,
+    "content": "Given a matrix consists of 0 and 1, find the distance of the nearest 0 for each cell.\nThe distance between two adjacent cells is 1.\n\u00a0\n\n\n\n\n\u00a0\n"
+}

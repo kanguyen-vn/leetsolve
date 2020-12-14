@@ -1,0 +1,7 @@
+{
+    "id": 992,
+    "title": "Subarrays with K Different Integers",
+    "title_slug": "subarrays-with-k-different-integers",
+    "backend_id": 1034,
+    "content": "Given an array  of positive integers, call a (contiguous, not necessarily distinct) subarray of  good if the number of different integers in that subarray is exactly .\n(For example,  has 3 different integers: 1, 2, and 3.)\nReturn the number of good subarrays of .\n\u00a0\n\n\n\n\n\u00a0\n"
+}

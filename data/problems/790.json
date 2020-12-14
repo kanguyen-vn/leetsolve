@@ -1,0 +1,7 @@
+{
+    "id": 790,
+    "title": "Domino and Tromino Tiling",
+    "title_slug": "domino-and-tromino-tiling",
+    "backend_id": 806,
+    "content": "<div><p>We have two types of tiles: a 2x1 domino shape, and an \"L\" tromino shape. These shapes may be rotated.</p>\n\n<pre>XX  &lt;- domino\n\nXX  &lt;- \"L\" tromino\nX\n</pre>\n\n<p>Given N, how many ways are there to tile a 2 x N board? <strong>Return your answer modulo 10^9 + 7</strong>.</p>\n\n<p>(In a tiling, every square must be covered by a tile. Two tilings are different if and only if there are two 4-directionally adjacent cells on the board such that exactly one of the tilings has both squares occupied by a tile.)</p>\n\n\n<pre><strong>Example:</strong>\n<strong>Input:</strong> 3\n<strong>Output:</strong> 5\n<strong>Explanation:</strong> \nThe five different ways are listed below, different letters indicates different tiles:\nXYZ XXZ XYY XXY XYY\nXYZ YYZ XZZ XYY XXY</pre>\n\n<p><strong>Note:</strong></p>\n\n<ul>\n\t<li>N&nbsp; will be in range <code>[1, 1000]</code>.</li>\n</ul>\n\n<p>&nbsp;</p>\n</div>"
+}

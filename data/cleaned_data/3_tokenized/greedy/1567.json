@@ -1,0 +1,38 @@
+{
+    "id": 1567,
+    "title": "Maximum Length of Subarray With Positive Product",
+    "title_slug": "maximum-length-of-subarray-with-positive-product",
+    "backend_id": 1690,
+    "content": [
+        [
+            "give",
+            "array",
+            "integer",
+            "find",
+            "maximum",
+            "length",
+            "subarray",
+            "product",
+            "element",
+            "positive"
+        ],
+        [
+            "subarray",
+            "array",
+            "consecutive",
+            "sequence",
+            "zero",
+            "value",
+            "take",
+            "array"
+        ],
+        [
+            "return",
+            "maximum",
+            "length",
+            "subarray",
+            "positive",
+            "product"
+        ]
+    ]
+}

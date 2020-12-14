@@ -1,0 +1,7 @@
+{
+    "id": 7,
+    "title": "Reverse Integer",
+    "title_slug": "reverse-integer",
+    "backend_id": 7,
+    "content": "<div><p>Given a 32-bit signed integer, reverse digits of an integer.</p>\n\n<p><strong>Note:</strong><br>\nAssume we are dealing with an environment that could only store integers within the 32-bit signed integer range: [\u22122<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>\u2212 1]. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> x = 123\n<strong>Output:</strong> 321\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> x = -123\n<strong>Output:</strong> -321\n</pre><p><strong>Example 3:</strong></p>\n<pre><strong>Input:</strong> x = 120\n<strong>Output:</strong> 21\n</pre><p><strong>Example 4:</strong></p>\n<pre><strong>Input:</strong> x = 0\n<strong>Output:</strong> 0\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>-2<sup>31</sup> &lt;= x &lt;= 2<sup>31</sup> - 1</code></li>\n</ul>\n</div>"
+}

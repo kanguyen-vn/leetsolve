@@ -1,0 +1,7 @@
+{
+    "id": 436,
+    "title": "Find Right Interval",
+    "title_slug": "find-right-interval",
+    "backend_id": 436,
+    "content": "You are given an array of\u00a0, where \u00a0and each \u00a0is unique.\nThe right\u00a0interval\u00a0for an interval  is an interval\u00a0\u00a0such that \u00a0and\u00a0\u00a0is\u00a0minimized.\nReturn\u00a0an array of\u00a0right interval\u00a0indices for each interval\u00a0. If no\u00a0right interval\u00a0exists for interval\u00a0, then put\u00a0\u00a0at index .\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\nThe start point\u00a0of each interval is unique.\n\n"
+}

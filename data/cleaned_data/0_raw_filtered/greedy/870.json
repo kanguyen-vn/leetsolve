@@ -1,0 +1,7 @@
+{
+    "id": 870,
+    "title": "Advantage Shuffle",
+    "title_slug": "advantage-shuffle",
+    "backend_id": 901,
+    "content": "<div><p>Given two arrays <code>A</code> and <code>B</code> of equal size, the <em>advantage of <code>A</code> with respect to <code>B</code></em> is the number of indices <code>i</code>&nbsp;for which <code>A[i] &gt; B[i]</code>.</p>\n\n<p>Return <strong>any</strong> permutation of <code>A</code> that maximizes its advantage with respect to <code>B</code>.</p>\n\n<p>&nbsp;</p>\n\n<div>\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong>A = <span id=\"example-input-1-1\">[2,7,11,15]</span>, B = <span id=\"example-input-1-2\">[1,10,4,11]</span>\n<strong>Output: </strong><span id=\"example-output-1\">[2,11,7,15]</span>\n</pre>\n\n<div>\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong>A = <span id=\"example-input-2-1\">[12,24,8,32]</span>, B = <span id=\"example-input-2-2\">[13,25,32,11]</span>\n<strong>Output: </strong><span id=\"example-output-2\">[24,32,8,12]</span>\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Note:</strong></p>\n\n<ol>\n\t<li><code>1 &lt;= A.length = B.length &lt;= 10000</code></li>\n\t<li><code>0 &lt;= A[i] &lt;= 10^9</code></li>\n\t<li><code>0 &lt;= B[i] &lt;= 10^9</code></li>\n</ol>\n</div>\n</div>\n</div>"
+}

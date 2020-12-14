@@ -1,0 +1,53 @@
+{
+    "id": 979,
+    "title": "Distribute Coins in Binary Tree",
+    "title_slug": "distribute-coins-in-binary-tree",
+    "backend_id": 1021,
+    "content": [
+        [
+            "give",
+            "binary",
+            "tree",
+            "node",
+            "tree",
+            "coin",
+            "coin",
+            "total"
+        ],
+        [
+            "one",
+            "move",
+            "may",
+            "choose",
+            "two",
+            "adjacent",
+            "node",
+            "move",
+            "one",
+            "coin",
+            "one",
+            "node",
+            "another"
+        ],
+        [
+            "move",
+            "may",
+            "parent",
+            "child",
+            "child",
+            "parent"
+        ],
+        [
+            "return",
+            "number",
+            "move",
+            "require",
+            "make",
+            "every",
+            "node",
+            "exactly",
+            "one",
+            "coin"
+        ]
+    ]
+}

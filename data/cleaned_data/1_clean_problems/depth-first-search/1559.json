@@ -1,0 +1,7 @@
+{
+    "id": 1559,
+    "title": "Detect Cycles in 2D Grid",
+    "title_slug": "detect-cycles-in-2d-grid",
+    "backend_id": 1663,
+    "content": "Given a 2D array of characters\u00a0\u00a0of size , you need to find if there exists any cycle consisting of the same value\u00a0in\u00a0.\nA cycle is a path of length 4\u00a0or more\u00a0in the grid that starts and ends at the same cell. From a given cell, you can move to one of the cells adjacent to it - in one of the four directions (up, down, left, or right), if it has the same value of the current cell.\nAlso, you cannot move to the cell that you visited in your last move. For example, the cycle\u00a0\u00a0is invalid because from\u00a0\u00a0we visited\u00a0\u00a0which was the last visited cell.\nReturn\u00a0\u00a0if any cycle of the same value exists in\u00a0, otherwise, return\u00a0.\n\u00a0\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\u00a0consists only of lowercase\u00a0English letters.\n\n"
+}

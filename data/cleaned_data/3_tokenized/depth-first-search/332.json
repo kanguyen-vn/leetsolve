@@ -1,0 +1,34 @@
+{
+    "id": 332,
+    "title": "Reconstruct Itinerary",
+    "title_slug": "reconstruct-itinerary",
+    "backend_id": 332,
+    "content": [
+        [
+            "give",
+            "list",
+            "airline",
+            "ticket",
+            "represent",
+            "pairs",
+            "departure",
+            "arrival",
+            "airport",
+            "reconstruct",
+            "itinerary",
+            "order"
+        ],
+        [
+            "ticket",
+            "belong",
+            "man",
+            "depart"
+        ],
+        [
+            "thus",
+            "itinerary",
+            "must",
+            "begin"
+        ]
+    ]
+}

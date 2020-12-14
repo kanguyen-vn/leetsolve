@@ -1,0 +1,57 @@
+{
+    "id": 1326,
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "title_slug": "minimum-number-of-taps-to-open-to-water-a-garden",
+    "backend_id": 1451,
+    "content": [
+        [
+            "one",
+            "dimensional",
+            "garden",
+            "axis"
+        ],
+        [
+            "garden",
+            "start",
+            "point",
+            "end",
+            "point"
+        ],
+        [
+            "length",
+            "garden"
+        ],
+        [
+            "tap",
+            "locate",
+            "point",
+            "garden"
+        ],
+        [
+            "give",
+            "integer",
+            "integer",
+            "array",
+            "length",
+            "indexed",
+            "mean",
+            "tap",
+            "water",
+            "area",
+            "open"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "tap",
+            "open",
+            "water",
+            "whole",
+            "garden",
+            "garden",
+            "water",
+            "return"
+        ]
+    ]
+}

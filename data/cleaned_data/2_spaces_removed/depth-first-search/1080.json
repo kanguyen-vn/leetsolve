@@ -1,0 +1,7 @@
+{
+    "id": 1080,
+    "title": "Insufficient Nodes in Root to Leaf Paths",
+    "title_slug": "insufficient-nodes-in-root-to-leaf-paths",
+    "backend_id": 1157,
+    "content": "Given the of a binary tree, consider all root to leaf paths: paths from the root to any leaf. (A leaf is a node with no children.) A is insufficient if every such root to leaf path intersecting this has sum strictly less than . Delete all insufficient nodes simultaneously, and return the root of the resulting binary tree."
+}

@@ -1,0 +1,7 @@
+{
+    "id": 880,
+    "title": "Decoded String at Index",
+    "title_slug": "decoded-string-at-index",
+    "backend_id": 916,
+    "content": "An encoded string  is given.\u00a0 To find and write the decoded string to a tape, the encoded string is read one character at a time\u00a0and the following steps are taken:\n\nIf the character read is a letter, that letter is written onto the tape.\nIf the character read is a digit (say ), the entire current tape is repeatedly written\u00a0\u00a0more times in total.\n\nNow for some encoded string , and an index , find and return the -th letter (1 indexed) in the decoded string.\n\u00a0\n\n\u00a0\n\n\n\n\u00a0will only contain lowercase letters and digits 2 through 9.\n\u00a0starts with a letter.\n\nIt's guaranteed that \u00a0is less than or equal to the length of the decoded string.\nThe decoded string is guaranteed to have less than  letters.\n\n"
+}

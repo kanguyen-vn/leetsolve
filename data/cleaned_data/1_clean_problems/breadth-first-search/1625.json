@@ -1,0 +1,7 @@
+{
+    "id": 1625,
+    "title": "Lexicographically Smallest String After Applying Operations",
+    "title_slug": "lexicographically-smallest-string-after-applying-operations",
+    "backend_id": 1747,
+    "content": "You are given a string  of even length consisting of digits from 0 to 9, and two integers  and .\nYou can apply either of the following two operations any number of times and in any order on :\n\nAdd  to all odd indices of  (0-indexed). Digits post 9 are cycled back to 0. For example, if  and ,  becomes .\nRotate  to the right by  positions. For example, if  and ,  becomes .\n\nReturn the lexicographically smallest string you can obtain by applying the above operations any number of times on .\nA string  is lexicographically smaller than a string  (of the same length) if in the first position where  and  differ, string  has a letter that appears earlier in the alphabet than the corresponding letter in . For example,  is lexicographically smaller than  because the first position they differ is at the third letter, and  comes before .\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n is even.\n consists of digits from 0 to 9 only.\n\n\n\n"
+}

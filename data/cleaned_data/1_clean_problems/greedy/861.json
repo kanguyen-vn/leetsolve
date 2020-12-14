@@ -1,0 +1,7 @@
+{
+    "id": 861,
+    "title": "Score After Flipping Matrix",
+    "title_slug": "score-after-flipping-matrix",
+    "backend_id": 891,
+    "content": "We have a two dimensional matrix\u00a0 where each value is 0 or 1.\nA move consists of choosing any row or column, and toggling each value in that row or column: changing all 0s to 1s, and all 1s to 0s.\nAfter making any number of moves, every row of this matrix is interpreted as a binary number, and the score of the matrix is the sum of these numbers.\nReturn the highest possible\u00a0score.\n\u00a0\n\n\n\n"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1512,
+    "title": "Number of Good Pairs",
+    "title_slug": "number-of-good-pairs",
+    "backend_id": 1635,
+    "content": "Given an array of integers . A pair is called good if == and &lt; . Return the number of good pairs."
+}

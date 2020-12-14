@@ -1,0 +1,53 @@
+{
+    "id": 503,
+    "title": "Next Greater Element II",
+    "title_slug": "next-greater-element-ii",
+    "backend_id": 503,
+    "content": [
+        [
+            "give",
+            "circular",
+            "array",
+            "next",
+            "element",
+            "last",
+            "element",
+            "first",
+            "element",
+            "array",
+            "print",
+            "next",
+            "great",
+            "number",
+            "every",
+            "element"
+        ],
+        [
+            "next",
+            "great",
+            "number",
+            "number",
+            "first",
+            "great",
+            "number",
+            "traverse",
+            "order",
+            "next",
+            "array",
+            "mean",
+            "could",
+            "search",
+            "circularly",
+            "find",
+            "next",
+            "great",
+            "number"
+        ],
+        [
+            "n't",
+            "exist",
+            "output",
+            "number"
+        ]
+    ]
+}

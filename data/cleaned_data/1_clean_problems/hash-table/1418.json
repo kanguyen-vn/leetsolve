@@ -1,0 +1,7 @@
+{
+    "id": 1418,
+    "title": "Display Table of Food Orders in a Restaurant",
+    "title_slug": "display-table-of-food-orders-in-a-restaurant",
+    "backend_id": 1533,
+    "content": "Given\u00a0the array , which represents the orders that customers have done in a restaurant. More specifically\u00a0 where  is the name of the customer, \u00a0is the table customer sit at, and \u00a0is the item customer orders.\nReturn the restaurant's \u201cdisplay table\u201d. The \u201cdisplay table\u201d is a table whose row entries denote how many of each food item each table ordered. The first column is the table number and the remaining columns correspond to each food item in alphabetical order. The first row should be a header whose first column is \u201cTable\u201d, followed by the names of the food items. Note that the customer names are not part of the table. Additionally, the rows should be sorted in numerically increasing order.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n and  consist of lowercase and uppercase English letters and the space character.\nis a valid integer between 1 and 500.\n\n"
+}

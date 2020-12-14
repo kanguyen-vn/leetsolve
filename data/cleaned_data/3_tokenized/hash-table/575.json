@@ -1,0 +1,67 @@
+{
+    "id": 575,
+    "title": "Distribute Candies",
+    "title_slug": "distribute-candies",
+    "backend_id": 575,
+    "content": [
+        [
+            "alice",
+            "candy",
+            "candy",
+            "type"
+        ],
+        [
+            "alice",
+            "notice",
+            "started",
+            "gain",
+            "weight",
+            "visit",
+            "doctor"
+        ],
+        [
+            "doctor",
+            "advise",
+            "alice",
+            "eat",
+            "candy",
+            "always",
+            "even"
+        ],
+        [
+            "alice",
+            "like",
+            "candy",
+            "much"
+        ],
+        [
+            "want",
+            "eat",
+            "maximum",
+            "number",
+            "different",
+            "type",
+            "candy"
+        ],
+        [
+            "give",
+            "integer",
+            "array",
+            "length",
+            "return",
+            "maximum",
+            "number",
+            "different",
+            "type",
+            "candy",
+            "eat",
+            "achieve",
+            "doctor",
+            "'s",
+            "advice"
+        ],
+        [
+            "even"
+        ]
+    ]
+}

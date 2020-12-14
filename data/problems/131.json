@@ -1,0 +1,7 @@
+{
+    "id": 131,
+    "title": "Palindrome Partitioning",
+    "title_slug": "palindrome-partitioning",
+    "backend_id": 131,
+    "content": "<div><p>Given a string <em>s</em>, partition <em>s</em> such that every substring of the partition is a palindrome.</p>\n\n<p>Return all possible palindrome partitioning of <em>s</em>.</p>\n\n<p><strong>Example:</strong></p>\n\n<pre><strong>Input:</strong>&nbsp;\"aab\"\n<strong>Output:</strong>\n[\n  [\"aa\",\"b\"],\n  [\"a\",\"a\",\"b\"]\n]\n</pre>\n</div>"
+}

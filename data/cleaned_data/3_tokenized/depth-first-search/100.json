@@ -1,0 +1,27 @@
+{
+    "id": 100,
+    "title": "Same Tree",
+    "title_slug": "same-tree",
+    "backend_id": 100,
+    "content": [
+        [
+            "give",
+            "two",
+            "binary",
+            "tree",
+            "write",
+            "function",
+            "check"
+        ],
+        [
+            "two",
+            "binary",
+            "tree",
+            "consider",
+            "structurally",
+            "identical",
+            "node",
+            "value"
+        ]
+    ]
+}

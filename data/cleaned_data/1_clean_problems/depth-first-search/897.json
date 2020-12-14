@@ -1,0 +1,7 @@
+{
+    "id": 897,
+    "title": "Increasing Order Search Tree",
+    "title_slug": "increasing-order-search-tree",
+    "backend_id": 933,
+    "content": "Given the  of a binary search tree, rearrange the tree in in-order so that the leftmost node in the tree is now the root of the tree, and every node has no left child and only one right child.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\nThe number of nodes in the given tree will be in the range .\n\n\n"
+}

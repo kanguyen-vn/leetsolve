@@ -1,0 +1,86 @@
+{
+    "id": 457,
+    "title": "Circular Array Loop",
+    "title_slug": "circular-array-loop",
+    "backend_id": 457,
+    "content": [
+        [
+            "give",
+            "circular",
+            "array",
+            "positive",
+            "negative",
+            "integer"
+        ],
+        [
+            "number",
+            "index",
+            "positive",
+            "move",
+            "forward",
+            "step"
+        ],
+        [
+            "conversely",
+            "'s",
+            "negative",
+            "move",
+            "backward",
+            "step"
+        ],
+        [
+            "since",
+            "array",
+            "circular",
+            "may",
+            "assume",
+            "last",
+            "element",
+            "'s",
+            "next",
+            "element",
+            "first",
+            "element",
+            "first",
+            "element",
+            "'s",
+            "previous",
+            "element",
+            "last",
+            "element"
+        ],
+        [
+            "determine",
+            "loop",
+            "cycle"
+        ],
+        [
+            "cycle",
+            "must",
+            "start",
+            "end",
+            "index",
+            "cycle",
+            "'s",
+            "length"
+        ],
+        [
+            "furthermore",
+            "movement",
+            "cycle",
+            "must",
+            "follow",
+            "single",
+            "direction"
+        ],
+        [
+            "word",
+            "cycle",
+            "must",
+            "consist",
+            "forward",
+            "backward",
+            "movement"
+        ]
+    ]
+}

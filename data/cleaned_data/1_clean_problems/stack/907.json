@@ -1,0 +1,7 @@
+{
+    "id": 907,
+    "title": "Sum of Subarray Minimums",
+    "title_slug": "sum-of-subarray-minimums",
+    "backend_id": 943,
+    "content": "Given an array of integers , find the sum of , where  ranges over\u00a0every (contiguous) subarray of .\nSince the answer may be large, return the answer modulo .\n\u00a0\n\n\n\u00a0\n"
+}

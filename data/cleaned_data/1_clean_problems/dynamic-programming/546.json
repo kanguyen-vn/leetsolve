@@ -1,0 +1,7 @@
+{
+    "id": 546,
+    "title": "Remove Boxes",
+    "title_slug": "remove-boxes",
+    "backend_id": 546,
+    "content": "Given several boxes with different colors represented by different positive numbers.\nYou may experience several rounds to remove boxes until there is no box left. Each time you can choose some continuous boxes with the same color (composed of k boxes, k &gt;= 1), remove them and get  points.\nFind the maximum points you can get.\n\u00a0\n\n\n\u00a0\n\n\n\n\n\n"
+}

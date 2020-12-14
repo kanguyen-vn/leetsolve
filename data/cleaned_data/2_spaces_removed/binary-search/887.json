@@ -1,0 +1,7 @@
+{
+    "id": 887,
+    "title": "Super Egg Drop",
+    "title_slug": "super-egg-drop",
+    "backend_id": 923,
+    "content": "You are given eggs, and you have access to a building with floors from 1 to . Each egg is identical in function, and if an egg breaks, you cannot drop it again. You know that there exists a floor with such that any egg dropped at a floor higher than will break, and any egg dropped at or below floor will not break. Each move, you may take an egg (if you have an unbroken one) and drop it from any floor (with ). Your goal is to know with certainty what the value of is. What is the minimum number of moves that you need to know with certainty what is, regardless of the initial value of ?"
+}

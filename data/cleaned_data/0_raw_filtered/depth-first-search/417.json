@@ -1,0 +1,7 @@
+{
+    "id": 417,
+    "title": "Pacific Atlantic Water Flow",
+    "title_slug": "pacific-atlantic-water-flow",
+    "backend_id": 417,
+    "content": "<div><p>Given an <code>m x n</code> matrix of non-negative integers representing the height of each unit cell in a continent, the \"Pacific ocean\" touches the left and top edges of the matrix and the \"Atlantic ocean\" touches the right and bottom edges.</p>\n\n<p>Water can only flow in four directions (up, down, left, or right) from a cell to another one with height equal or lower.</p>\n\n<p>Find the list of grid coordinates where water can flow to both the Pacific and Atlantic ocean.</p>\n\n<p><b>Note:</b></p>\n\n<ol>\n\t<li>The order of returned grid coordinates does not matter.</li>\n\t<li>Both <i>m</i> and <i>n</i> are less than 150.</li>\n</ol>\n\n<p>&nbsp;</p>\n\n<p><b>Example:</b></p>\n\n<pre>Given the following 5x5 matrix:\n\n  Pacific ~   ~   ~   ~   ~ \n       ~  1   2   2   3  (5) *\n       ~  3   2   3  (4) (4) *\n       ~  2   4  (5)  3   1  *\n       ~ (6) (7)  1   4   5  *\n       ~ (5)  1   1   2   4  *\n          *   *   *   *   * Atlantic\n\nReturn:\n\n[[0, 4], [1, 3], [1, 4], [2, 2], [3, 0], [3, 1], [4, 0]] (positions with parentheses in above matrix).\n</pre>\n\n<p>&nbsp;</p>\n</div>"
+}

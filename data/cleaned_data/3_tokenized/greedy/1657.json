@@ -1,0 +1,68 @@
+{
+    "id": 1657,
+    "title": "Determine if Two Strings Are Close",
+    "title_slug": "determine-if-two-strings-are-close",
+    "backend_id": 1777,
+    "content": [
+        [
+            "two",
+            "string",
+            "consider",
+            "close",
+            "attain",
+            "one",
+            "use",
+            "follow",
+            "operation",
+            "operation",
+            "swap",
+            "two",
+            "exist",
+            "character"
+        ],
+        [
+            "example",
+            "operation",
+            "transform",
+            "every",
+            "occurrence",
+            "one",
+            "exist",
+            "character",
+            "another",
+            "exist",
+            "character",
+            "character"
+        ],
+        [
+            "example",
+            "'s",
+            "turn",
+            "'s",
+            "'s",
+            "turn",
+            "'s",
+            "use",
+            "operation",
+            "either",
+            "string",
+            "many",
+            "time",
+            "necessary"
+        ],
+        [
+            "give",
+            "two",
+            "string",
+            "return",
+            "close",
+            "otherwise"
+        ],
+        [
+            "contain",
+            "lowercase",
+            "english",
+            "letter"
+        ]
+    ]
+}

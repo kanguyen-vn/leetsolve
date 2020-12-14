@@ -1,0 +1,7 @@
+{
+    "id": 996,
+    "title": "Number of Squareful Arrays",
+    "title_slug": "number-of-squareful-arrays",
+    "backend_id": 1038,
+    "content": "Given an array of non-negative integers, the array is squareful if for every pair of adjacent elements, their sum is a perfect square. Return the number of permutations of A that are squareful. Two permutations and differ if and only if there is some index such that ."
+}

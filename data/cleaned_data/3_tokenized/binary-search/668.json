@@ -1,0 +1,39 @@
+{
+    "id": 668,
+    "title": "Kth Smallest Number in Multiplication Table",
+    "title_slug": "kth-smallest-number-in-multiplication-table",
+    "backend_id": 668,
+    "content": [
+        [
+            "nearly",
+            "every",
+            "one",
+            "use",
+            "multiplication",
+            "table"
+        ],
+        [
+            "could",
+            "find",
+            "small",
+            "number",
+            "quickly",
+            "multiplication",
+            "table"
+        ],
+        [
+            "give",
+            "height",
+            "length",
+            "multiplication",
+            "table",
+            "positive",
+            "integer",
+            "need",
+            "return",
+            "small",
+            "number",
+            "table"
+        ]
+    ]
+}

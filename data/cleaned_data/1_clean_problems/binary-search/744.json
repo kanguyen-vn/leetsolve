@@ -1,0 +1,7 @@
+{
+    "id": 744,
+    "title": "Find Smallest Letter Greater Than Target",
+    "title_slug": "find-smallest-letter-greater-than-target",
+    "backend_id": 745,
+    "content": "\nGiven a list of sorted characters  containing only lowercase letters, and given a target letter , find the smallest element in the list that is larger than the given target.\n\nLetters also wrap around.  For example, if the target is  and , the answer is .\n\nExamples:\n"
+}

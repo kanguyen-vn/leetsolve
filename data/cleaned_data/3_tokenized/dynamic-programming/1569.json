@@ -1,0 +1,84 @@
+{
+    "id": 1569,
+    "title": "Number of Ways to Reorder Array to Get Same BST",
+    "title_slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+    "backend_id": 1692,
+    "content": [
+        [
+            "give",
+            "array",
+            "represent",
+            "permutation",
+            "integer"
+        ],
+        [
+            "go",
+            "construct",
+            "binary",
+            "search",
+            "tree",
+            "bst",
+            "insert",
+            "element",
+            "order",
+            "initially",
+            "empty",
+            "bst"
+        ],
+        [
+            "find",
+            "number",
+            "different",
+            "way",
+            "reorder",
+            "construct",
+            "bst",
+            "identical",
+            "form",
+            "original",
+            "array"
+        ],
+        [
+            "example",
+            "give",
+            "root",
+            "leave",
+            "child",
+            "right",
+            "child"
+        ],
+        [
+            "array",
+            "also",
+            "yield",
+            "bst",
+            "yield",
+            "different",
+            "bst"
+        ],
+        [
+            "return",
+            "number",
+            "way",
+            "reorder",
+            "bst",
+            "form",
+            "identical",
+            "original",
+            "bst",
+            "form"
+        ],
+        [
+            "since",
+            "answer",
+            "may",
+            "large",
+            "return",
+            "modulo"
+        ],
+        [
+            "integer",
+            "distinct"
+        ]
+    ]
+}

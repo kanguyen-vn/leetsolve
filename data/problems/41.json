@@ -1,0 +1,7 @@
+{
+    "id": 41,
+    "title": "First Missing Positive",
+    "title_slug": "first-missing-positive",
+    "backend_id": 41,
+    "content": "<div><p>Given an unsorted integer array <code>nums</code>, find the smallest missing&nbsp;positive integer.</p>\n\n<p><strong>Follow up:</strong>&nbsp;Could you implement an&nbsp;algorithm that runs in <code>O(n)</code> time and uses constant extra space.?</p>\n\n<p>&nbsp;</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong> nums = [1,2,0]\n<strong>Output:</strong> 3\n</pre><p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong> nums = [3,4,-1,1]\n<strong>Output:</strong> 2\n</pre><p><strong>Example 3:</strong></p>\n<pre><strong>Input:</strong> nums = [7,8,9,11,12]\n<strong>Output:</strong> 1\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= nums.length &lt;= 300</code></li>\n\t<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>\n</ul>\n</div>"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1235,
+    "title": "Maximum Profit in Job Scheduling",
+    "title_slug": "maximum-profit-in-job-scheduling",
+    "backend_id": 1352,
+    "content": "We have jobs, where every job is scheduled to be done from to , obtaining a profit of . You're given the , and arrays, you need to output the maximum profit you can take such that there are no 2 jobs in the subset with overlapping time range. If you choose a job that ends at time you will be able to start another job that starts at time ."
+}

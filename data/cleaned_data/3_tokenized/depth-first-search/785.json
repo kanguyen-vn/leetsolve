@@ -1,0 +1,67 @@
+{
+    "id": 785,
+    "title": "Is Graph Bipartite?",
+    "title_slug": "is-graph-bipartite",
+    "backend_id": 801,
+    "content": [
+        [
+            "give",
+            "undirected",
+            "return",
+            "bipartite"
+        ],
+        [
+            "recall",
+            "graph",
+            "bipartite",
+            "split",
+            "set",
+            "node",
+            "two",
+            "independent",
+            "subset",
+            "every",
+            "edge",
+            "graph",
+            "one",
+            "node",
+            "another",
+            "node"
+        ],
+        [
+            "graph",
+            "give",
+            "follow",
+            "form",
+            "list",
+            "index",
+            "edge",
+            "node",
+            "exist"
+        ],
+        [
+            "node",
+            "integer"
+        ],
+        [
+            "self",
+            "edge",
+            "parallel",
+            "edge",
+            "contain",
+            "n't",
+            "contain",
+            "element",
+            "twice"
+        ],
+        [
+            "value",
+            "unique"
+        ],
+        [
+            "graph",
+            "guarantee",
+            "undirected"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1247,
+    "title": "Minimum Swaps to Make Strings Equal",
+    "title_slug": "minimum-swaps-to-make-strings-equal",
+    "backend_id": 1369,
+    "content": "You are given two strings\u00a0\u00a0and\u00a0\u00a0of equal length\u00a0consisting of letters  and  only. Your task is to\u00a0make these two strings equal to each other. You can swap any two characters that belong to different strings,\u00a0which means: swap  and .\nReturn\u00a0the minimum number of swaps required\u00a0to make\u00a0\u00a0and  equal, or return\u00a0\u00a0if it is\u00a0impossible to do so.\n\u00a0\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\u00a0only contain  or .\n\n"
+}

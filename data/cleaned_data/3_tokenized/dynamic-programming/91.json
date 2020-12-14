@@ -1,0 +1,44 @@
+{
+    "id": 91,
+    "title": "Decode Ways",
+    "title_slug": "decode-ways",
+    "backend_id": 91,
+    "content": [
+        [
+            "message",
+            "contain",
+            "letter",
+            "encode",
+            "number",
+            "use",
+            "follow",
+            "map",
+            "give",
+            "non",
+            "empty",
+            "string",
+            "contain",
+            "digit",
+            "determine",
+            "total",
+            "number",
+            "way",
+            "decode"
+        ],
+        [
+            "answer",
+            "guarantee",
+            "fit",
+            "bit",
+            "integer"
+        ],
+        [
+            "contain",
+            "digit",
+            "may",
+            "contain",
+            "lead",
+            "zero"
+        ]
+    ]
+}

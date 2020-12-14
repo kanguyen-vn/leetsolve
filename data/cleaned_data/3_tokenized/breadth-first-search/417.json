@@ -1,0 +1,58 @@
+{
+    "id": 417,
+    "title": "Pacific Atlantic Water Flow",
+    "title_slug": "pacific-atlantic-water-flow",
+    "backend_id": 417,
+    "content": [
+        [
+            "give",
+            "matrix",
+            "non",
+            "negative",
+            "integer",
+            "represent",
+            "height",
+            "unit",
+            "cell",
+            "continent",
+            "pacific",
+            "ocean",
+            "touch",
+            "leave",
+            "top",
+            "edge",
+            "matrix",
+            "atlantic",
+            "ocean",
+            "touch",
+            "right",
+            "bottom",
+            "edge"
+        ],
+        [
+            "water",
+            "flow",
+            "four",
+            "direction",
+            "leave",
+            "right",
+            "cell",
+            "another",
+            "one",
+            "height",
+            "equal",
+            "low"
+        ],
+        [
+            "find",
+            "list",
+            "grid",
+            "coordinate",
+            "water",
+            "flow",
+            "pacific",
+            "atlantic",
+            "ocean"
+        ]
+    ]
+}

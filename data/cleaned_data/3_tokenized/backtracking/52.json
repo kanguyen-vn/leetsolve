@@ -1,0 +1,29 @@
+{
+    "id": 52,
+    "title": "N-Queens II",
+    "title_slug": "n-queens-ii",
+    "backend_id": 52,
+    "content": [
+        [
+            "queen",
+            "puzzle",
+            "problem",
+            "placing",
+            "queen",
+            "chessboard",
+            "two",
+            "queen",
+            "attack"
+        ],
+        [
+            "give",
+            "integer",
+            "return",
+            "number",
+            "distinct",
+            "solution",
+            "queen",
+            "puzzle"
+        ]
+    ]
+}

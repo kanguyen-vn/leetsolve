@@ -1,0 +1,7 @@
+{
+    "id": 35,
+    "title": "Search Insert Position",
+    "title_slug": "search-insert-position",
+    "backend_id": 35,
+    "content": "Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n contains distinct values sorted in ascending order.\n\n\n"
+}

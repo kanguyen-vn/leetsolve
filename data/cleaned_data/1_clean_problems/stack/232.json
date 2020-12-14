@@ -1,0 +1,7 @@
+{
+    "id": 232,
+    "title": "Implement Queue using Stacks",
+    "title_slug": "implement-queue-using-stacks",
+    "backend_id": 232,
+    "content": "Implement a first in first out (FIFO) queue using only two stacks. The implemented queue should support all the functions of a normal queue (, , , and ).\nImplement the  class:\n\n Pushes element x to the back of the queue.\n Removes the element from the front of the queue and returns it.\n Returns the element at the front of the queue.\n Returns  if the queue is empty,  otherwise.\n\n"
+}

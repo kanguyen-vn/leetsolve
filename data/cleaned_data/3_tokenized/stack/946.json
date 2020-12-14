@@ -1,0 +1,32 @@
+{
+    "id": 946,
+    "title": "Validate Stack Sequences",
+    "title_slug": "validate-stack-sequences",
+    "backend_id": 983,
+    "content": [
+        [
+            "give",
+            "two",
+            "sequence",
+            "distinct",
+            "value",
+            "return",
+            "could",
+            "result",
+            "sequence",
+            "push",
+            "pop",
+            "operation",
+            "initially",
+            "empty",
+            "stack"
+        ],
+        [
+            "permutation"
+        ],
+        [
+            "distinct",
+            "value"
+        ]
+    ]
+}

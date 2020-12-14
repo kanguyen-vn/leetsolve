@@ -1,0 +1,74 @@
+{
+    "id": 278,
+    "title": "First Bad Version",
+    "title_slug": "first-bad-version",
+    "backend_id": 278,
+    "content": [
+        [
+            "product",
+            "manager",
+            "currently",
+            "lead",
+            "team",
+            "develop",
+            "new",
+            "product"
+        ],
+        [
+            "unfortunately",
+            "late",
+            "version",
+            "product",
+            "fail",
+            "quality",
+            "check"
+        ],
+        [
+            "since",
+            "version",
+            "develop",
+            "base",
+            "previous",
+            "version",
+            "version",
+            "bad",
+            "version",
+            "also",
+            "bad"
+        ],
+        [
+            "suppose",
+            "version",
+            "want",
+            "find",
+            "first",
+            "bad",
+            "one",
+            "cause",
+            "follow",
+            "one",
+            "bad"
+        ],
+        [
+            "give",
+            "api",
+            "return",
+            "whether",
+            "bad"
+        ],
+        [
+            "implement",
+            "function",
+            "find",
+            "first",
+            "bad",
+            "version"
+        ],
+        [
+            "minimize",
+            "number",
+            "call",
+            "api"
+        ]
+    ]
+}

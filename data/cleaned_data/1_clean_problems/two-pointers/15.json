@@ -1,0 +1,7 @@
+{
+    "id": 15,
+    "title": "3Sum",
+    "title_slug": "3sum",
+    "backend_id": 15,
+    "content": "Given an array  of n integers, are there elements a, b, c in  such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.\nNotice that the solution set must not contain duplicate triplets.\n\u00a0\n\n\n\n\n\u00a0\n\n\n\n\n\n"
+}

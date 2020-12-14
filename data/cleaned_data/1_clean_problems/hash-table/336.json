@@ -1,0 +1,7 @@
+{
+    "id": 336,
+    "title": "Palindrome Pairs",
+    "title_slug": "palindrome-pairs",
+    "backend_id": 336,
+    "content": "Given a list of unique words, return all the pairs of the\u00a0distinct indices  in the given list, so that the concatenation of the two words\u00a0 is a palindrome.\n\u00a0\n\n\n\n\n\n\n\u00a0\n\n\n\n\n consists of lower-case English letters.\n\n"
+}

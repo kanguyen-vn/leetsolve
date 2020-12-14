@@ -1,0 +1,7 @@
+{
+    "id": 787,
+    "title": "Cheapest Flights Within K Stops",
+    "title_slug": "cheapest-flights-within-k-stops",
+    "backend_id": 803,
+    "content": "There are cities connected by flights. Each flight starts from city and arrives at with a price . Now given all the cities and flights, together with starting city and the destination , your task is to find the cheapest price from to with up to stops. If there is no such route, output . The number of nodes will be in range , with nodes labeled from 0 to . The size of will be in range . The format of each flight will be . The price of each flight will be in the range . is in the range of . There will not be any duplicated flights or self cycles."
+}

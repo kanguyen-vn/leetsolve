@@ -1,0 +1,38 @@
+{
+    "id": 995,
+    "title": "Minimum Number of K Consecutive Bit Flips",
+    "title_slug": "minimum-number-of-k-consecutive-bit-flips",
+    "backend_id": 1037,
+    "content": [
+        [
+            "array",
+            "contain",
+            "bit",
+            "flip",
+            "consist",
+            "choose",
+            "contiguous",
+            "subarray",
+            "length",
+            "simultaneously",
+            "change",
+            "every",
+            "subarray",
+            "every",
+            "subarray"
+        ],
+        [
+            "return",
+            "minimum",
+            "number",
+            "bit",
+            "flip",
+            "require",
+            "array"
+        ],
+        [
+            "possible",
+            "return"
+        ]
+    ]
+}

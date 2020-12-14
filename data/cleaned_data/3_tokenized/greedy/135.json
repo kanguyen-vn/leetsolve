@@ -1,0 +1,46 @@
+{
+    "id": 135,
+    "title": "Candy",
+    "title_slug": "candy",
+    "backend_id": 135,
+    "content": [
+        [
+            "child",
+            "stand",
+            "line"
+        ],
+        [
+            "child",
+            "assign",
+            "rating",
+            "value"
+        ],
+        [
+            "give",
+            "candy",
+            "child",
+            "subject",
+            "follow",
+            "requirement",
+            "child",
+            "must",
+            "least",
+            "one",
+            "candy"
+        ],
+        [
+            "child",
+            "higher",
+            "rating",
+            "get",
+            "candy",
+            "neighbor"
+        ],
+        [
+            "minimum",
+            "candy",
+            "must",
+            "give"
+        ]
+    ]
+}

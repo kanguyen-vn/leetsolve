@@ -1,0 +1,7 @@
+{
+    "id": 1155,
+    "title": "Number of Dice Rolls With Target Sum",
+    "title_slug": "number-of-dice-rolls-with-target-sum",
+    "backend_id": 1263,
+    "content": "You have dice, and each die has faces numbered . Return the number of possible ways (out of total ways) modulo to roll the dice so the sum of the face up numbers equals ."
+}

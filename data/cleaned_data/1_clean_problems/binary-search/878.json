@@ -1,0 +1,7 @@
+{
+    "id": 878,
+    "title": "Nth Magical Number",
+    "title_slug": "nth-magical-number",
+    "backend_id": 910,
+    "content": "A positive integer\u00a0is magical\u00a0if it is divisible by either \u00a0or .\nReturn the -th magical number.\u00a0 Since the answer may be very large, return it modulo .\n\u00a0\n\n\n\n"
+}

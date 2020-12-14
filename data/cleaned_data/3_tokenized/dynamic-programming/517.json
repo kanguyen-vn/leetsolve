@@ -1,0 +1,69 @@
+{
+    "id": 517,
+    "title": "Super Washing Machines",
+    "title_slug": "super-washing-machines",
+    "backend_id": 517,
+    "content": [
+        [
+            "super",
+            "wash",
+            "machine",
+            "line"
+        ],
+        [
+            "initially",
+            "wash",
+            "machine",
+            "dress",
+            "empty"
+        ],
+        [
+            "move",
+            "could",
+            "choose",
+            "wash",
+            "machine",
+            "pass",
+            "one",
+            "dress",
+            "wash",
+            "machine",
+            "one",
+            "adjacent",
+            "wash",
+            "machine",
+            "time"
+        ],
+        [
+            "give",
+            "integer",
+            "array",
+            "represent",
+            "number",
+            "dress",
+            "wash",
+            "machine",
+            "leave",
+            "right",
+            "line",
+            "find",
+            "minimum",
+            "number",
+            "move",
+            "make",
+            "wash",
+            "machine",
+            "number",
+            "dress"
+        ],
+        [
+            "possible",
+            "return"
+        ],
+        [
+            "example1",
+            "example2",
+            "example3"
+        ]
+    ]
+}

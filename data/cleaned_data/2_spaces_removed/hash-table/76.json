@@ -1,0 +1,7 @@
+{
+    "id": 76,
+    "title": "Minimum Window Substring",
+    "title_slug": "minimum-window-substring",
+    "backend_id": 76,
+    "content": "Given two strings and , return the minimum window in which will contain all the characters in . If there is no such window in that covers all characters in , return the empty string . Note that If there is such a window, it is guaranteed that there will always be only one unique minimum window in . and consist of English letters."
+}
